@@ -1,6 +1,1260 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Fri Dec 16 02:03:46 +0000 2016",
+		"id": 809579741686722600,
+		"id_str": "809579741686722561",
+		"text": "RT @WhitmanFML: I sound my barbaric yawp over the roofs of the world and it is supposed to be twice as cold tomorrow.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WhitmanFML",
+					"name": "Walt FML Whitman",
+					"id": 1114575554,
+					"id_str": "1114575554",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Faithless Elector",
+			"screen_name": "samplereality",
+			"location": "Davidson, North Carolina",
+			"description": "I teach and research digital culture at Davidson College. Also, bots: https://t.co/c8HM7AiCLw…",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c8HM7AiCLw",
+							"expanded_url": "https://twitter.com/samplereality/",
+							"display_url": "twitter.com/samplereality/",
+							"indices": [
+								70,
+								93
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7050,
+			"friends_count": 956,
+			"listed_count": 499,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38033,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/803591807284244480/9G9bW1oE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/803591807284244480/9G9bW1oE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1469042356",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Dec 16 02:03:20 +0000 2016",
+			"id": 809579633003941900,
+			"id_str": "809579633003941888",
+			"text": "I sound my barbaric yawp over the roofs of the world and it is supposed to be twice as cold tomorrow.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1114575554,
+				"id_str": "1114575554",
+				"name": "Walt FML Whitman",
+				"screen_name": "WhitmanFML",
+				"location": "O America!",
+				"description": "What is grass? #FML (A bot by @samplereality)",
+				"url": "http://t.co/kcJ7U5Oe6x",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/kcJ7U5Oe6x",
+								"expanded_url": "http://www.samplereality.com",
+								"display_url": "samplereality.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 502,
+				"friends_count": 15,
+				"listed_count": 49,
+				"created_at": "Wed Jan 23 14:58:53 +0000 2013",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11324,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3302504020/81aad066b79d6c611005a2e27927e99f_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3302504020/81aad066b79d6c611005a2e27927e99f_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Dec 15 17:19:33 +0000 2016",
+		"id": 809447820356911100,
+		"id_str": "809447820356911104",
+		"text": "Turns out changing your username on Twitter to \"Faithless Elector\" is a honeypot to alt-Reich bros.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Faithless Elector",
+			"screen_name": "samplereality",
+			"location": "Davidson, North Carolina",
+			"description": "I teach and research digital culture at Davidson College. Also, bots: https://t.co/c8HM7AiCLw…",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c8HM7AiCLw",
+							"expanded_url": "https://twitter.com/samplereality/",
+							"display_url": "twitter.com/samplereality/",
+							"indices": [
+								70,
+								93
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7050,
+			"friends_count": 956,
+			"listed_count": 499,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38033,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/803591807284244480/9G9bW1oE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/803591807284244480/9G9bW1oE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1469042356",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Dec 15 13:57:30 +0000 2016",
+		"id": 809396972037738500,
+		"id_str": "809396972037738496",
+		"text": "More than anything, Trump wants to be in the room where it happens. \n\nGO TO A DIFFERENT ROOM AND DON'T TELL HIM.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Faithless Elector",
+			"screen_name": "samplereality",
+			"location": "Davidson, North Carolina",
+			"description": "I teach and research digital culture at Davidson College. Also, bots: https://t.co/c8HM7AiCLw…",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c8HM7AiCLw",
+							"expanded_url": "https://twitter.com/samplereality/",
+							"display_url": "twitter.com/samplereality/",
+							"indices": [
+								70,
+								93
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7050,
+			"friends_count": 956,
+			"listed_count": 499,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38033,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/803591807284244480/9G9bW1oE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/803591807284244480/9G9bW1oE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1469042356",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Dec 15 12:40:42 +0000 2016",
+		"id": 809377643296657400,
+		"id_str": "809377643296657408",
+		"text": "RT @equalitync: Who ya' gonna call [to oppose all =28 BILLS= introduced last night to limit the governor and shift more power to the #NCGA]…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NCGA",
+					"indices": [
+						133,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "equalitync",
+					"name": "Equality NC",
+					"id": 19649695,
+					"id_str": "19649695",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Faithless Elector",
+			"screen_name": "samplereality",
+			"location": "Davidson, North Carolina",
+			"description": "I teach and research digital culture at Davidson College. Also, bots: https://t.co/c8HM7AiCLw…",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c8HM7AiCLw",
+							"expanded_url": "https://twitter.com/samplereality/",
+							"display_url": "twitter.com/samplereality/",
+							"indices": [
+								70,
+								93
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7050,
+			"friends_count": 956,
+			"listed_count": 499,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38033,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/803591807284244480/9G9bW1oE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/803591807284244480/9G9bW1oE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1469042356",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Dec 15 12:38:54 +0000 2016",
+			"id": 809377190735441900,
+			"id_str": "809377190735441920",
+			"text": "Who ya' gonna call [to oppose all =28 BILLS= introduced last night to limit the governor and shift more power to th… https://t.co/anIHqKnwHm",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/anIHqKnwHm",
+						"expanded_url": "https://twitter.com/i/web/status/809377190735441920",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19649695,
+				"id_str": "19649695",
+				"name": "Equality NC",
+				"screen_name": "equalitync",
+				"location": "North Carolina",
+				"description": "Dedicated to securing rights and justice for gay, lesbian, bisexual and transgender North Carolinians.",
+				"url": "http://t.co/g6yPyztETh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/g6yPyztETh",
+								"expanded_url": "http://equalitync.org",
+								"display_url": "equalitync.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17868,
+				"friends_count": 2823,
+				"listed_count": 535,
+				"created_at": "Wed Jan 28 12:50:07 +0000 2009",
+				"favourites_count": 6157,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 21704,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "006487",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000153835024/2d7f4FNh.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000153835024/2d7f4FNh.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/806119139274330112/w4jTUuQ9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/806119139274330112/w4jTUuQ9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19649695/1478807383",
+				"profile_link_color": "006487",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "B1BC35",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 809223338820325400,
+			"quoted_status_id_str": "809223338820325377",
+			"quoted_status": {
+				"created_at": "Thu Dec 15 02:27:33 +0000 2016",
+				"id": 809223338820325400,
+				"id_str": "809223338820325377",
+				"text": "Senate Pro Tempore Phil Berger\n919-733-5708\n\nHouse Speaker Tim Moore\n919-733-3451\n\nCall your own lawmakers too:… https://t.co/azbupUzWy2",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/azbupUzWy2",
+							"expanded_url": "https://twitter.com/i/web/status/809223338820325377",
+							"display_url": "twitter.com/i/web/status/8…",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 246977649,
+					"id_str": "246977649",
+					"name": "Democracy NC",
+					"screen_name": "democracync",
+					"location": "",
+					"description": "We use research, organizing and advocacy to increase voter participation and reduce the influence of big money in politics. Join us.",
+					"url": "https://t.co/TgaNgblcCr",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/TgaNgblcCr",
+									"expanded_url": "http://www.democracync.org",
+									"display_url": "democracync.org",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 8872,
+					"friends_count": 1171,
+					"listed_count": 265,
+					"created_at": "Thu Feb 03 21:07:31 +0000 2011",
+					"favourites_count": 1801,
+					"utc_offset": -18000,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 9535,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/701403593/ae6cf3cc2db9f759a31d5cbff8d35cde.png",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/701403593/ae6cf3cc2db9f759a31d5cbff8d35cde.png",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/795778717771583488/dB0JkHzA_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/795778717771583488/dB0JkHzA_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/246977649/1454725658",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": true,
+				"quoted_status_id": 809218355391594500,
+				"quoted_status_id_str": "809218355391594496",
+				"retweet_count": 78,
+				"favorite_count": 40,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 25,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 809223338820325400,
+		"quoted_status_id_str": "809223338820325377",
+		"retweet_count": 25,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Dec 15 12:39:19 +0000 2016",
+		"id": 809377297929273300,
+		"id_str": "809377297929273344",
+		"text": "Why did the CEOs all show up?  Who will be the first to say \"I don't want to sit at this table.\" https://t.co/kezEmgfFMj",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kezEmgfFMj",
+					"expanded_url": "https://twitter.com/anildash/status/809157579859492877",
+					"display_url": "twitter.com/anildash/statu…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Faithless Elector",
+			"screen_name": "samplereality",
+			"location": "Davidson, North Carolina",
+			"description": "I teach and research digital culture at Davidson College. Also, bots: https://t.co/c8HM7AiCLw…",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c8HM7AiCLw",
+							"expanded_url": "https://twitter.com/samplereality/",
+							"display_url": "twitter.com/samplereality/",
+							"indices": [
+								70,
+								93
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7050,
+			"friends_count": 956,
+			"listed_count": 499,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38033,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/803591807284244480/9G9bW1oE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/803591807284244480/9G9bW1oE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1469042356",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 809157579859492900,
+		"quoted_status_id_str": "809157579859492877",
+		"quoted_status": {
+			"created_at": "Wed Dec 14 22:06:15 +0000 2016",
+			"id": 809157579859492900,
+			"id_str": "809157579859492877",
+			"text": "No words for how furious I am @satyanadella had to sit in a room with Steve Bannon, who directed his racist insults at Asian American CEOs.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "satyanadella",
+						"name": "Satya Nadella",
+						"id": 20571756,
+						"id_str": "20571756",
+						"indices": [
+							30,
+							43
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 36823,
+				"id_str": "36823",
+				"name": "Anil Dash",
+				"screen_name": "anildash",
+				"location": "NYC: 40.739069,-73.987082",
+				"description": "(New!) CEO of @fogcreek. Trying to make tech a little bit more humane & ethical. https://t.co/C5ElWxXGCk Entrepreneur, writer, citizen, geek, music fan.",
+				"url": "https://t.co/DGlCONxUGJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DGlCONxUGJ",
+								"expanded_url": "http://anildash.com",
+								"display_url": "anildash.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/C5ElWxXGCk",
+								"expanded_url": "https://medium.com/humane-tech",
+								"display_url": "medium.com/humane-tech",
+								"indices": [
+									81,
+									104
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 601625,
+				"friends_count": 4415,
+				"listed_count": 8493,
+				"created_at": "Sat Dec 02 09:15:15 +0000 2006",
+				"favourites_count": 407069,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 133829,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378252063/dark-floral-pattern.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378252063/dark-floral-pattern.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/786179830266167296/AmZpJJLv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/786179830266167296/AmZpJJLv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/36823/1463596216",
+				"profile_link_color": "800080",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 540,
+			"favorite_count": 1282,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Dec 15 12:36:36 +0000 2016",
+		"id": 809376610281517000,
+		"id_str": "809376610281517056",
+		"text": "Yes. Among other things progressives have ceded the past 30 years is language itself. https://t.co/rg5IapXzsB",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rg5IapXzsB",
+					"expanded_url": "https://twitter.com/cap_transport/status/809149602075209728",
+					"display_url": "twitter.com/cap_transport/…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Faithless Elector",
+			"screen_name": "samplereality",
+			"location": "Davidson, North Carolina",
+			"description": "I teach and research digital culture at Davidson College. Also, bots: https://t.co/c8HM7AiCLw…",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c8HM7AiCLw",
+							"expanded_url": "https://twitter.com/samplereality/",
+							"display_url": "twitter.com/samplereality/",
+							"indices": [
+								70,
+								93
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7050,
+			"friends_count": 956,
+			"listed_count": 499,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38033,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/803591807284244480/9G9bW1oE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/803591807284244480/9G9bW1oE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1469042356",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 809149602075209700,
+		"quoted_status_id_str": "809149602075209728",
+		"quoted_status": {
+			"created_at": "Wed Dec 14 21:34:33 +0000 2016",
+			"id": 809149602075209700,
+			"id_str": "809149602075209728",
+			"text": "Can we start calling \"regulations\" \"public protections\" instead? A lot harder to agree with \"time to remove those pesky public protections\"",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 260984857,
+				"id_str": "260984857",
+				"name": "Chris Pangilinan",
+				"screen_name": "cap_transport",
+				"location": "OR/CA/DC/NY",
+				"description": "Transportation planner/engineer, and Cessna 172 pilot. Director of Technology and Rider Engagement at @transitcenter. Tweets are my views only.",
+				"url": "https://t.co/PzRHiQ7p36",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PzRHiQ7p36",
+								"expanded_url": "http://www.yptransportation.org",
+								"display_url": "yptransportation.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1200,
+				"friends_count": 894,
+				"listed_count": 62,
+				"created_at": "Sat Mar 05 00:54:31 +0000 2011",
+				"favourites_count": 1012,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1461,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/621504328738697216/ApEIwpjH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/621504328738697216/ApEIwpjH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/260984857/1417583150",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 66,
+			"favorite_count": 69,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Dec 15 12:29:18 +0000 2016",
+		"id": 809374773931376600,
+		"id_str": "809374773931376640",
+		"text": "Remember, a majority of voters rejected Trump. We also reject his moral and financial gutting of America.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Faithless Elector",
+			"screen_name": "samplereality",
+			"location": "Davidson, North Carolina",
+			"description": "I teach and research digital culture at Davidson College. Also, bots: https://t.co/c8HM7AiCLw…",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c8HM7AiCLw",
+							"expanded_url": "https://twitter.com/samplereality/",
+							"display_url": "twitter.com/samplereality/",
+							"indices": [
+								70,
+								93
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7050,
+			"friends_count": 956,
+			"listed_count": 499,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38033,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/803591807284244480/9G9bW1oE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/803591807284244480/9G9bW1oE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1469042356",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Dec 15 04:28:57 +0000 2016",
 		"id": 809253890814263300,
 		"id_str": "809253890814263296",
