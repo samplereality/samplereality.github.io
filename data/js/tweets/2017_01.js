@@ -1,6 +1,535 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Tue Jan 03 01:27:44 +0000 2017",
+		"id": 816093657325600800,
+		"id_str": "816093657325600768",
+		"text": "RT @NCDemParty: 2017 is #OurShot. Want to run for local office? Visit https://t.co/zGqKF2E3uT https://t.co/BWkxWRpHR0",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OurShot",
+					"indices": [
+						24,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NCDemParty",
+					"name": "NC Democratic Party",
+					"id": 16795212,
+					"id_str": "16795212",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zGqKF2E3uT",
+					"expanded_url": "http://pipeline.ncdp.org",
+					"display_url": "pipeline.ncdp.org",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 816082990241579000,
+					"id_str": "816082990241579008",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C1NPJ-SWgAAzXTF.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C1NPJ-SWgAAzXTF.jpg",
+					"url": "https://t.co/BWkxWRpHR0",
+					"display_url": "pic.twitter.com/BWkxWRpHR0",
+					"expanded_url": "https://twitter.com/NCDemParty/status/816083002501595136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 282,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 192,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 282,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 816083002501595100,
+					"source_status_id_str": "816083002501595136",
+					"source_user_id": 16795212,
+					"source_user_id_str": "16795212"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 816082990241579000,
+					"id_str": "816082990241579008",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C1NPJ-SWgAAzXTF.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C1NPJ-SWgAAzXTF.jpg",
+					"url": "https://t.co/BWkxWRpHR0",
+					"display_url": "pic.twitter.com/BWkxWRpHR0",
+					"expanded_url": "https://twitter.com/NCDemParty/status/816083002501595136/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 282,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 192,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 282,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 816083002501595100,
+					"source_status_id_str": "816083002501595136",
+					"source_user_id": 16795212,
+					"source_user_id_str": "16795212",
+					"video_info": {
+						"aspect_ratio": [
+							250,
+							141
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/C1NPJ-SWgAAzXTF.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "S⭐M P L E",
+			"screen_name": "samplereality",
+			"location": "Davidson, North Carolina",
+			"description": "I teach and research digital culture at Davidson College. Also, bots: https://t.co/c8HM7AiCLw…",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c8HM7AiCLw",
+							"expanded_url": "https://twitter.com/samplereality/",
+							"display_url": "twitter.com/samplereality/",
+							"indices": [
+								70,
+								93
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7083,
+			"friends_count": 958,
+			"listed_count": 502,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38135,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/809780090141810688/6YDswyW7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/809780090141810688/6YDswyW7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1469042356",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 03 00:45:24 +0000 2017",
+			"id": 816083002501595100,
+			"id_str": "816083002501595136",
+			"text": "2017 is #OurShot. Want to run for local office? Visit https://t.co/zGqKF2E3uT https://t.co/BWkxWRpHR0",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OurShot",
+						"indices": [
+							8,
+							16
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/zGqKF2E3uT",
+						"expanded_url": "http://pipeline.ncdp.org",
+						"display_url": "pipeline.ncdp.org",
+						"indices": [
+							54,
+							77
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 816082990241579000,
+						"id_str": "816082990241579008",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/C1NPJ-SWgAAzXTF.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C1NPJ-SWgAAzXTF.jpg",
+						"url": "https://t.co/BWkxWRpHR0",
+						"display_url": "pic.twitter.com/BWkxWRpHR0",
+						"expanded_url": "https://twitter.com/NCDemParty/status/816083002501595136/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 282,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 192,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 282,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 816082990241579000,
+						"id_str": "816082990241579008",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/C1NPJ-SWgAAzXTF.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C1NPJ-SWgAAzXTF.jpg",
+						"url": "https://t.co/BWkxWRpHR0",
+						"display_url": "pic.twitter.com/BWkxWRpHR0",
+						"expanded_url": "https://twitter.com/NCDemParty/status/816083002501595136/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 282,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 192,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 282,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								250,
+								141
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/C1NPJ-SWgAAzXTF.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16795212,
+				"id_str": "16795212",
+				"name": "NC Democratic Party",
+				"screen_name": "NCDemParty",
+				"location": "Raleigh, NC",
+				"description": "The North Carolina Democratic Party is laying the foundation for a prosperous, successful and inclusive state, from Murphy to Manteo.",
+				"url": "http://t.co/Xn5PWC2uk3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Xn5PWC2uk3",
+								"expanded_url": "http://www.ncdp.org",
+								"display_url": "ncdp.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15795,
+				"friends_count": 1166,
+				"listed_count": 414,
+				"created_at": "Wed Oct 15 21:53:53 +0000 2008",
+				"favourites_count": 165,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 12324,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/486935213155442688/QC-ADOqD_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/486935213155442688/QC-ADOqD_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16795212/1399927236",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24,
+			"favorite_count": 41,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jan 03 01:24:28 +0000 2017",
+		"id": 816092833031524400,
+		"id_str": "816092833031524353",
+		"text": "While Trump dissembles, we must assemble.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "S⭐M P L E",
+			"screen_name": "samplereality",
+			"location": "Davidson, North Carolina",
+			"description": "I teach and research digital culture at Davidson College. Also, bots: https://t.co/c8HM7AiCLw…",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c8HM7AiCLw",
+							"expanded_url": "https://twitter.com/samplereality/",
+							"display_url": "twitter.com/samplereality/",
+							"indices": [
+								70,
+								93
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7083,
+			"friends_count": 958,
+			"listed_count": 502,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38135,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/809780090141810688/6YDswyW7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/809780090141810688/6YDswyW7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1469042356",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jan 02 03:35:14 +0000 2017",
 		"id": 815763356476903400,
 		"id_str": "815763356476903425",
