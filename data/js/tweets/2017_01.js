@@ -1,6 +1,2605 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Wed Jan 11 19:35:43 +0000 2017",
+		"id": 819266559583653900,
+		"id_str": "819266559583653888",
+		"text": "RT @margostockdale: rt if you think my cat nelson would make a better president than trump. he is also orange and destroys things https://t…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "margostockdale",
+					"name": "margogh",
+					"id": 1654141794,
+					"id_str": "1654141794",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "I Am Elliott Lusztig",
+			"screen_name": "samplereality",
+			"location": "Davidson, North Carolina",
+			"description": "I teach and research digital culture at Davidson College. Also, bots: https://t.co/c8HM7AiCLw…",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c8HM7AiCLw",
+							"expanded_url": "https://twitter.com/samplereality/",
+							"display_url": "twitter.com/samplereality/",
+							"indices": [
+								70,
+								93
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7165,
+			"friends_count": 961,
+			"listed_count": 503,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38192,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/809780090141810688/6YDswyW7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/809780090141810688/6YDswyW7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1469042356",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jan 11 16:59:17 +0000 2017",
+			"id": 819227192160817200,
+			"id_str": "819227192160817152",
+			"text": "rt if you think my cat nelson would make a better president than trump. he is also orange and destroys things https://t.co/K7UrEuWvVU",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 819227175794552800,
+						"id_str": "819227175794552833",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/C156xqOUsAECwFO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C156xqOUsAECwFO.jpg",
+						"url": "https://t.co/K7UrEuWvVU",
+						"display_url": "pic.twitter.com/K7UrEuWvVU",
+						"expanded_url": "https://twitter.com/margostockdale/status/819227192160817152/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 819227175794552800,
+						"id_str": "819227175794552833",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/C156xqOUsAECwFO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C156xqOUsAECwFO.jpg",
+						"url": "https://t.co/K7UrEuWvVU",
+						"display_url": "pic.twitter.com/K7UrEuWvVU",
+						"expanded_url": "https://twitter.com/margostockdale/status/819227192160817152/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1654141794,
+				"id_str": "1654141794",
+				"name": "margogh",
+				"screen_name": "margostockdale",
+				"location": "where I'm meant to be...",
+				"description": "10/03/16-01/03/17",
+				"url": "https://t.co/b2GrhLg6Ge",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/b2GrhLg6Ge",
+								"expanded_url": "https://www.instagram.com/mrg.o/",
+								"display_url": "instagram.com/mrg.o/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 149,
+				"friends_count": 150,
+				"listed_count": 4,
+				"created_at": "Thu Aug 08 00:16:00 +0000 2013",
+				"favourites_count": 2145,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1681,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000049306824/f5a678f54c8f55dc8b4aca8b2a5d16f4.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000049306824/f5a678f54c8f55dc8b4aca8b2a5d16f4.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/813434429448323073/VPZAk-Fx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/813434429448323073/VPZAk-Fx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1654141794/1482864603",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 33,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 11 19:34:16 +0000 2017",
+		"id": 819266192963674100,
+		"id_str": "819266192963674113",
+		"text": "RT @fascists_exe: THIS COW KILLS FASCISTS https://t.co/tOuZle3g32",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fascists_exe",
+					"name": "Kill Fascists",
+					"id": 815366238037823500,
+					"id_str": "815366238037823488",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 819262384736968700,
+					"id_str": "819262384736968704",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/C16azFwWIAA1w5O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C16azFwWIAA1w5O.jpg",
+					"url": "https://t.co/tOuZle3g32",
+					"display_url": "pic.twitter.com/tOuZle3g32",
+					"expanded_url": "https://twitter.com/fascists_exe/status/819262386939064320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 375,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 375,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 375,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 819262386939064300,
+					"source_status_id_str": "819262386939064320",
+					"source_user_id": 815366238037823500,
+					"source_user_id_str": "815366238037823488"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 819262384736968700,
+					"id_str": "819262384736968704",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/C16azFwWIAA1w5O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C16azFwWIAA1w5O.jpg",
+					"url": "https://t.co/tOuZle3g32",
+					"display_url": "pic.twitter.com/tOuZle3g32",
+					"expanded_url": "https://twitter.com/fascists_exe/status/819262386939064320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 375,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 375,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 375,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 819262386939064300,
+					"source_status_id_str": "819262386939064320",
+					"source_user_id": 815366238037823500,
+					"source_user_id_str": "815366238037823488"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "I Am Elliott Lusztig",
+			"screen_name": "samplereality",
+			"location": "Davidson, North Carolina",
+			"description": "I teach and research digital culture at Davidson College. Also, bots: https://t.co/c8HM7AiCLw…",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c8HM7AiCLw",
+							"expanded_url": "https://twitter.com/samplereality/",
+							"display_url": "twitter.com/samplereality/",
+							"indices": [
+								70,
+								93
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7165,
+			"friends_count": 961,
+			"listed_count": 503,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38192,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/809780090141810688/6YDswyW7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/809780090141810688/6YDswyW7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1469042356",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jan 11 19:19:08 +0000 2017",
+			"id": 819262386939064300,
+			"id_str": "819262386939064320",
+			"text": "THIS COW KILLS FASCISTS https://t.co/tOuZle3g32",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 819262384736968700,
+						"id_str": "819262384736968704",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/C16azFwWIAA1w5O.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C16azFwWIAA1w5O.jpg",
+						"url": "https://t.co/tOuZle3g32",
+						"display_url": "pic.twitter.com/tOuZle3g32",
+						"expanded_url": "https://twitter.com/fascists_exe/status/819262386939064320/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 500,
+								"h": 375,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 375,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 500,
+								"h": 375,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 819262384736968700,
+						"id_str": "819262384736968704",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/C16azFwWIAA1w5O.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C16azFwWIAA1w5O.jpg",
+						"url": "https://t.co/tOuZle3g32",
+						"display_url": "pic.twitter.com/tOuZle3g32",
+						"expanded_url": "https://twitter.com/fascists_exe/status/819262386939064320/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 500,
+								"h": 375,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 375,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 500,
+								"h": 375,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">This Machine</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 815366238037823500,
+				"id_str": "815366238037823488",
+				"name": "Kill Fascists",
+				"screen_name": "fascists_exe",
+				"location": "",
+				"description": "this bot kills fascists",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 86,
+				"friends_count": 1,
+				"listed_count": 5,
+				"created_at": "Sun Jan 01 01:17:14 +0000 2017",
+				"favourites_count": 0,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 43,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/815368021158088704/aDlV3uCV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/815368021158088704/aDlV3uCV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/815366238037823488/1484183176",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 11 19:12:49 +0000 2017",
+		"id": 819260794395381800,
+		"id_str": "819260794395381762",
+		"text": "Also revisiting Benjamin's \"Theses on the Philosophy of History\" for no particular reason. https://t.co/jxRKcasSX0",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 819260791580979200,
+					"id_str": "819260791580979200",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/C16ZWWyW8AAd-84.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C16ZWWyW8AAd-84.jpg",
+					"url": "https://t.co/jxRKcasSX0",
+					"display_url": "pic.twitter.com/jxRKcasSX0",
+					"expanded_url": "https://twitter.com/samplereality/status/819260794395381762/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 507,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 507,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 337,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 819260791580979200,
+					"id_str": "819260791580979200",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/C16ZWWyW8AAd-84.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C16ZWWyW8AAd-84.jpg",
+					"url": "https://t.co/jxRKcasSX0",
+					"display_url": "pic.twitter.com/jxRKcasSX0",
+					"expanded_url": "https://twitter.com/samplereality/status/819260794395381762/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 507,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 507,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 337,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "I Am Elliott Lusztig",
+			"screen_name": "samplereality",
+			"location": "Davidson, North Carolina",
+			"description": "I teach and research digital culture at Davidson College. Also, bots: https://t.co/c8HM7AiCLw…",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c8HM7AiCLw",
+							"expanded_url": "https://twitter.com/samplereality/",
+							"display_url": "twitter.com/samplereality/",
+							"indices": [
+								70,
+								93
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7165,
+			"friends_count": 961,
+			"listed_count": 503,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38192,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/809780090141810688/6YDswyW7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/809780090141810688/6YDswyW7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1469042356",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 11 18:34:01 +0000 2017",
+		"id": 819251029799796700,
+		"id_str": "819251029799796756",
+		"text": "me right now  https://t.co/RA7tbkqpyc",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RA7tbkqpyc",
+					"expanded_url": "https://twitter.com/MobyDickatSea/status/819236678510460929",
+					"display_url": "twitter.com/MobyDickatSea/…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "I Am Elliott Lusztig",
+			"screen_name": "samplereality",
+			"location": "Davidson, North Carolina",
+			"description": "I teach and research digital culture at Davidson College. Also, bots: https://t.co/c8HM7AiCLw…",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c8HM7AiCLw",
+							"expanded_url": "https://twitter.com/samplereality/",
+							"display_url": "twitter.com/samplereality/",
+							"indices": [
+								70,
+								93
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7165,
+			"friends_count": 961,
+			"listed_count": 503,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38192,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/809780090141810688/6YDswyW7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/809780090141810688/6YDswyW7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1469042356",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 819236678510460900,
+		"quoted_status_id_str": "819236678510460929",
+		"quoted_status": {
+			"created_at": "Wed Jan 11 17:36:59 +0000 2017",
+			"id": 819236678510460900,
+			"id_str": "819236678510460929",
+			"text": "Thou canst consume; but I can then be ashes.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://twitter.com/MobyDickatSea\" rel=\"nofollow\">Moby Dick at Sea</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1482779976,
+				"id_str": "1482779976",
+				"name": "Moby Dick",
+				"screen_name": "MobyDickatSea",
+				"location": "",
+				"description": "Moby-Dick, by Herman Melville. Loose fish and fast fish, tweeting on the same line.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 19381,
+				"friends_count": 1,
+				"listed_count": 319,
+				"created_at": "Tue Jun 04 17:23:46 +0000 2013",
+				"favourites_count": 1,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10204,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "3289B5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3755781902/9b47b7e223799bb523c7628e00b411c4_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3755781902/9b47b7e223799bb523c7628e00b411c4_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1482779976/1439810275",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 29,
+			"favorite_count": 39,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 11 18:29:16 +0000 2017",
+		"id": 819249837434667000,
+		"id_str": "819249837434667009",
+		"text": "@anrikard No, should I?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "anrikard",
+					"name": "Andrew Rikard",
+					"id": 493538250,
+					"id_str": "493538250",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": 819248683912986600,
+		"in_reply_to_status_id_str": "819248683912986626",
+		"in_reply_to_user_id": 493538250,
+		"in_reply_to_user_id_str": "493538250",
+		"in_reply_to_screen_name": "anrikard",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "I Am Elliott Lusztig",
+			"screen_name": "samplereality",
+			"location": "Davidson, North Carolina",
+			"description": "I teach and research digital culture at Davidson College. Also, bots: https://t.co/c8HM7AiCLw…",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c8HM7AiCLw",
+							"expanded_url": "https://twitter.com/samplereality/",
+							"display_url": "twitter.com/samplereality/",
+							"indices": [
+								70,
+								93
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7165,
+			"friends_count": 961,
+			"listed_count": 503,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38192,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/809780090141810688/6YDswyW7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/809780090141810688/6YDswyW7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1469042356",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 11 18:29:09 +0000 2017",
+		"id": 819249806229045200,
+		"id_str": "819249806229045250",
+		"text": "There are two ways to be stateless in this world: jetsetting multinational borderless Trump, or impoverished, abused noncitizen refugees.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "I Am Elliott Lusztig",
+			"screen_name": "samplereality",
+			"location": "Davidson, North Carolina",
+			"description": "I teach and research digital culture at Davidson College. Also, bots: https://t.co/c8HM7AiCLw…",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c8HM7AiCLw",
+							"expanded_url": "https://twitter.com/samplereality/",
+							"display_url": "twitter.com/samplereality/",
+							"indices": [
+								70,
+								93
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7165,
+			"friends_count": 961,
+			"listed_count": 503,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38192,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/809780090141810688/6YDswyW7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/809780090141810688/6YDswyW7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1469042356",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 11 18:22:09 +0000 2017",
+		"id": 819248043899895800,
+		"id_str": "819248043899895808",
+		"text": "@anrikard Start with Agamben's Homo Sacer and end with Black Mirror.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "anrikard",
+					"name": "Andrew Rikard",
+					"id": 493538250,
+					"id_str": "493538250",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": 819246977842085900,
+		"in_reply_to_status_id_str": "819246977842085892",
+		"in_reply_to_user_id": 493538250,
+		"in_reply_to_user_id_str": "493538250",
+		"in_reply_to_screen_name": "anrikard",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "I Am Elliott Lusztig",
+			"screen_name": "samplereality",
+			"location": "Davidson, North Carolina",
+			"description": "I teach and research digital culture at Davidson College. Also, bots: https://t.co/c8HM7AiCLw…",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c8HM7AiCLw",
+							"expanded_url": "https://twitter.com/samplereality/",
+							"display_url": "twitter.com/samplereality/",
+							"indices": [
+								70,
+								93
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7165,
+			"friends_count": 961,
+			"listed_count": 503,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38192,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/809780090141810688/6YDswyW7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/809780090141810688/6YDswyW7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1469042356",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 11 18:14:56 +0000 2017",
+		"id": 819246227648872400,
+		"id_str": "819246227648872449",
+		"text": "Just reading up on Agamben's State of Exception for no particular reason. https://t.co/ABNoWtOJFl",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 819246225132290000,
+					"id_str": "819246225132290062",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/C16MGeiXAA4USm8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C16MGeiXAA4USm8.jpg",
+					"url": "https://t.co/ABNoWtOJFl",
+					"display_url": "pic.twitter.com/ABNoWtOJFl",
+					"expanded_url": "https://twitter.com/samplereality/status/819246227648872449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 260,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 392,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 392,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 819246225132290000,
+					"id_str": "819246225132290062",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/C16MGeiXAA4USm8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C16MGeiXAA4USm8.jpg",
+					"url": "https://t.co/ABNoWtOJFl",
+					"display_url": "pic.twitter.com/ABNoWtOJFl",
+					"expanded_url": "https://twitter.com/samplereality/status/819246227648872449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 260,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 392,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 392,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "I Am Elliott Lusztig",
+			"screen_name": "samplereality",
+			"location": "Davidson, North Carolina",
+			"description": "I teach and research digital culture at Davidson College. Also, bots: https://t.co/c8HM7AiCLw…",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c8HM7AiCLw",
+							"expanded_url": "https://twitter.com/samplereality/",
+							"display_url": "twitter.com/samplereality/",
+							"indices": [
+								70,
+								93
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7165,
+			"friends_count": 961,
+			"listed_count": 503,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38192,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/809780090141810688/6YDswyW7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/809780090141810688/6YDswyW7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1469042356",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 11 16:22:53 +0000 2017",
+		"id": 819218028873351200,
+		"id_str": "819218028873351169",
+		"text": "@jsantley Cool, thanks!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jsantley",
+					"name": "Jeremy Antley",
+					"id": 20917156,
+					"id_str": "20917156",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 819216758204604400,
+		"in_reply_to_status_id_str": "819216758204604417",
+		"in_reply_to_user_id": 20917156,
+		"in_reply_to_user_id_str": "20917156",
+		"in_reply_to_screen_name": "jsantley",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "I Am Elliott Lusztig",
+			"screen_name": "samplereality",
+			"location": "Davidson, North Carolina",
+			"description": "I teach and research digital culture at Davidson College. Also, bots: https://t.co/c8HM7AiCLw…",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c8HM7AiCLw",
+							"expanded_url": "https://twitter.com/samplereality/",
+							"display_url": "twitter.com/samplereality/",
+							"indices": [
+								70,
+								93
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7165,
+			"friends_count": 961,
+			"listed_count": 503,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38192,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/809780090141810688/6YDswyW7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/809780090141810688/6YDswyW7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1469042356",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 11 16:13:48 +0000 2017",
+		"id": 819215744420511700,
+		"id_str": "819215744420511745",
+		"text": "@jsantley Are you writing this up anywhere?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jsantley",
+					"name": "Jeremy Antley",
+					"id": 20917156,
+					"id_str": "20917156",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": 819214957451481100,
+		"in_reply_to_status_id_str": "819214957451481089",
+		"in_reply_to_user_id": 20917156,
+		"in_reply_to_user_id_str": "20917156",
+		"in_reply_to_screen_name": "jsantley",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "I Am Elliott Lusztig",
+			"screen_name": "samplereality",
+			"location": "Davidson, North Carolina",
+			"description": "I teach and research digital culture at Davidson College. Also, bots: https://t.co/c8HM7AiCLw…",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c8HM7AiCLw",
+							"expanded_url": "https://twitter.com/samplereality/",
+							"display_url": "twitter.com/samplereality/",
+							"indices": [
+								70,
+								93
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7165,
+			"friends_count": 961,
+			"listed_count": 503,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38192,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/809780090141810688/6YDswyW7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/809780090141810688/6YDswyW7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1469042356",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 11 15:32:29 +0000 2017",
+		"id": 819205346283651100,
+		"id_str": "819205346283651078",
+		"text": "So cool how everyone is talking about Golden Shower's Atari 2600 chiptunes video today. https://t.co/b8l9f6x0oB",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/b8l9f6x0oB",
+					"expanded_url": "https://youtu.be/2rKkpHLl1Ew",
+					"display_url": "youtu.be/2rKkpHLl1Ew",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "I Am Elliott Lusztig",
+			"screen_name": "samplereality",
+			"location": "Davidson, North Carolina",
+			"description": "I teach and research digital culture at Davidson College. Also, bots: https://t.co/c8HM7AiCLw…",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c8HM7AiCLw",
+							"expanded_url": "https://twitter.com/samplereality/",
+							"display_url": "twitter.com/samplereality/",
+							"indices": [
+								70,
+								93
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7165,
+			"friends_count": 961,
+			"listed_count": 503,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38192,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/809780090141810688/6YDswyW7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/809780090141810688/6YDswyW7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1469042356",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 11 14:23:13 +0000 2017",
+		"id": 819187915158945800,
+		"id_str": "819187915158945793",
+		"text": "This new Trump-branded Teflon™ is more resistant than ever to sticking, but still just as toxic as the old stuff.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "I Am Elliott Lusztig",
+			"screen_name": "samplereality",
+			"location": "Davidson, North Carolina",
+			"description": "I teach and research digital culture at Davidson College. Also, bots: https://t.co/c8HM7AiCLw…",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c8HM7AiCLw",
+							"expanded_url": "https://twitter.com/samplereality/",
+							"display_url": "twitter.com/samplereality/",
+							"indices": [
+								70,
+								93
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7165,
+			"friends_count": 961,
+			"listed_count": 503,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38192,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/809780090141810688/6YDswyW7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/809780090141810688/6YDswyW7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1469042356",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 11 13:47:36 +0000 2017",
+		"id": 819178952019378200,
+		"id_str": "819178952019378176",
+		"text": "Remember, when they piss low, we piss high.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "I Am Elliott Lusztig",
+			"screen_name": "samplereality",
+			"location": "Davidson, North Carolina",
+			"description": "I teach and research digital culture at Davidson College. Also, bots: https://t.co/c8HM7AiCLw…",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c8HM7AiCLw",
+							"expanded_url": "https://twitter.com/samplereality/",
+							"display_url": "twitter.com/samplereality/",
+							"indices": [
+								70,
+								93
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7165,
+			"friends_count": 961,
+			"listed_count": 503,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38192,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/809780090141810688/6YDswyW7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/809780090141810688/6YDswyW7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1469042356",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 11 13:40:23 +0000 2017",
+		"id": 819177136040902700,
+		"id_str": "819177136040902656",
+		"text": "@electricarchaeo Or an homage to @John_Cage_Bot?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "electricarchaeo",
+					"name": "Shawn Graham",
+					"id": 104894644,
+					"id_str": "104894644",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "John_Cage_Bot",
+					"name": "4'33",
+					"id": 2873015434,
+					"id_str": "2873015434",
+					"indices": [
+						33,
+						47
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": 819176289634500600,
+		"in_reply_to_status_id_str": "819176289634500608",
+		"in_reply_to_user_id": 104894644,
+		"in_reply_to_user_id_str": "104894644",
+		"in_reply_to_screen_name": "electricarchaeo",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "I Am Elliott Lusztig",
+			"screen_name": "samplereality",
+			"location": "Davidson, North Carolina",
+			"description": "I teach and research digital culture at Davidson College. Also, bots: https://t.co/c8HM7AiCLw…",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c8HM7AiCLw",
+							"expanded_url": "https://twitter.com/samplereality/",
+							"display_url": "twitter.com/samplereality/",
+							"indices": [
+								70,
+								93
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7165,
+			"friends_count": 961,
+			"listed_count": 503,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38192,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/809780090141810688/6YDswyW7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/809780090141810688/6YDswyW7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1469042356",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 11 13:39:00 +0000 2017",
+		"id": 819176786349137900,
+		"id_str": "819176786349137920",
+		"text": "RT @knightfdn: There’s an assumption that #machinelearning is a neutral process. It’s not. A look at a new collab for #aiethics: https://t.…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "machinelearning",
+					"indices": [
+						42,
+						58
+					]
+				},
+				{
+					"text": "aiethics",
+					"indices": [
+						118,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "knightfdn",
+					"name": "Knight Foundation",
+					"id": 14073364,
+					"id_str": "14073364",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "I Am Elliott Lusztig",
+			"screen_name": "samplereality",
+			"location": "Davidson, North Carolina",
+			"description": "I teach and research digital culture at Davidson College. Also, bots: https://t.co/c8HM7AiCLw…",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c8HM7AiCLw",
+							"expanded_url": "https://twitter.com/samplereality/",
+							"display_url": "twitter.com/samplereality/",
+							"indices": [
+								70,
+								93
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7165,
+			"friends_count": 961,
+			"listed_count": 503,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38192,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/809780090141810688/6YDswyW7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/809780090141810688/6YDswyW7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1469042356",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jan 11 13:00:01 +0000 2017",
+			"id": 819166979294691300,
+			"id_str": "819166979294691328",
+			"text": "There’s an assumption that #machinelearning is a neutral process. It’s not. A look at a new collab for #aiethics: https://t.co/78s5KWCkSU",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "machinelearning",
+						"indices": [
+							27,
+							43
+						]
+					},
+					{
+						"text": "aiethics",
+						"indices": [
+							103,
+							112
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/78s5KWCkSU",
+						"expanded_url": "http://kng.ht/2j33WBv",
+						"display_url": "kng.ht/2j33WBv",
+						"indices": [
+							114,
+							137
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14073364,
+				"id_str": "14073364",
+				"name": "Knight Foundation",
+				"screen_name": "knightfdn",
+				"location": "Miami, FL",
+				"description": "Knight Foundation supports transformational ideas that promote quality journalism, advance media innovation, engage communities and foster the arts.",
+				"url": "http://t.co/XM65g7iyBY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/XM65g7iyBY",
+								"expanded_url": "http://www.knightfoundation.org",
+								"display_url": "knightfoundation.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 122831,
+				"friends_count": 3056,
+				"listed_count": 5978,
+				"created_at": "Mon Mar 03 16:56:37 +0000 2008",
+				"favourites_count": 34897,
+				"utc_offset": -18000,
+				"time_zone": "America/New_York",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 45523,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1E4A7F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/357893755/twitterbg.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/357893755/twitterbg.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/775046459007860736/ZJ17WXrl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/775046459007860736/ZJ17WXrl_normal.jpg",
+				"profile_link_color": "00B0EA",
+				"profile_sidebar_border_color": "BA0076",
+				"profile_sidebar_fill_color": "EFF3F5",
+				"profile_text_color": "221C1C",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 11 12:57:12 +0000 2017",
+		"id": 819166268620152800,
+		"id_str": "819166268620152832",
+		"text": "(Short answer is probably no, because there's no left equivalent of conservative talk radio.)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "I Am Elliott Lusztig",
+			"screen_name": "samplereality",
+			"location": "Davidson, North Carolina",
+			"description": "I teach and research digital culture at Davidson College. Also, bots: https://t.co/c8HM7AiCLw…",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c8HM7AiCLw",
+							"expanded_url": "https://twitter.com/samplereality/",
+							"display_url": "twitter.com/samplereality/",
+							"indices": [
+								70,
+								93
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7165,
+			"friends_count": 961,
+			"listed_count": 503,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38192,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/809780090141810688/6YDswyW7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/809780090141810688/6YDswyW7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1469042356",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 11 12:56:20 +0000 2017",
+		"id": 819166050487038000,
+		"id_str": "819166050487037952",
+		"text": "What would an alt-left equivalent of the tea party look like and is anger at Trump enough to cause one to rise up?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "I Am Elliott Lusztig",
+			"screen_name": "samplereality",
+			"location": "Davidson, North Carolina",
+			"description": "I teach and research digital culture at Davidson College. Also, bots: https://t.co/c8HM7AiCLw…",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c8HM7AiCLw",
+							"expanded_url": "https://twitter.com/samplereality/",
+							"display_url": "twitter.com/samplereality/",
+							"indices": [
+								70,
+								93
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7165,
+			"friends_count": 961,
+			"listed_count": 503,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38192,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/809780090141810688/6YDswyW7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/809780090141810688/6YDswyW7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1469042356",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jan 11 05:22:57 +0000 2017",
 		"id": 819051953774796800,
 		"id_str": "819051953774796801",
