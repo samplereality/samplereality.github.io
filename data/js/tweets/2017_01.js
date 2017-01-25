@@ -1,6 +1,1594 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Wed Jan 25 04:22:20 +0000 2017",
+		"id": 824110128538468400,
+		"id_str": "824110128538468353",
+		"text": "For every wall Trump builds, the Resistance (that's you and me, bub) will build a bridge. And a tunnel. Some ladders too.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Citizen Sample",
+			"screen_name": "samplereality",
+			"location": "Davidson, North Carolina",
+			"description": "I teach and research digital culture at Davidson College. Also, bots: https://t.co/c8HM7AiCLw…",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c8HM7AiCLw",
+							"expanded_url": "https://twitter.com/samplereality/",
+							"display_url": "twitter.com/samplereality/",
+							"indices": [
+								70,
+								93
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7176,
+			"friends_count": 967,
+			"listed_count": 501,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38288,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 25 03:30:34 +0000 2017",
+		"id": 824097098933141500,
+		"id_str": "824097098933141504",
+		"text": "Reports that Trump feels \"demoralized\" because no one recognizes his achievements. Buddy, that's how all of America feels.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Citizen Sample",
+			"screen_name": "samplereality",
+			"location": "Davidson, North Carolina",
+			"description": "I teach and research digital culture at Davidson College. Also, bots: https://t.co/c8HM7AiCLw…",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c8HM7AiCLw",
+							"expanded_url": "https://twitter.com/samplereality/",
+							"display_url": "twitter.com/samplereality/",
+							"indices": [
+								70,
+								93
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7176,
+			"friends_count": 967,
+			"listed_count": 501,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38288,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jan 24 23:52:36 +0000 2017",
+		"id": 824042246647464000,
+		"id_str": "824042246647463936",
+		"text": "RT @BadHombreNPS: Hey, friends. Here to support @BadlandsNPS with the science facts they can no longer share!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BadHombreNPS",
+					"name": "BadHombreLands NPS",
+					"id": 824028553067032600,
+					"id_str": "824028553067032576",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "BadlandsNPS",
+					"name": "Badlands Nat'l Park",
+					"id": 304392714,
+					"id_str": "304392714",
+					"indices": [
+						48,
+						60
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Citizen Sample",
+			"screen_name": "samplereality",
+			"location": "Davidson, North Carolina",
+			"description": "I teach and research digital culture at Davidson College. Also, bots: https://t.co/c8HM7AiCLw…",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c8HM7AiCLw",
+							"expanded_url": "https://twitter.com/samplereality/",
+							"display_url": "twitter.com/samplereality/",
+							"indices": [
+								70,
+								93
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7176,
+			"friends_count": 967,
+			"listed_count": 501,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38288,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 24 23:04:20 +0000 2017",
+			"id": 824030100404523000,
+			"id_str": "824030100404523008",
+			"text": "Hey, friends. Here to support @BadlandsNPS with the science facts they can no longer share!",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BadlandsNPS",
+						"name": "Badlands Nat'l Park",
+						"id": 304392714,
+						"id_str": "304392714",
+						"indices": [
+							30,
+							42
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 824028553067032600,
+				"id_str": "824028553067032576",
+				"name": "BadHombreLands NPS",
+				"screen_name": "BadHombreNPS",
+				"location": "Interior, SD",
+				"description": "Unofficial feed of Badlands NP. Protecting rugged scenery, fossil beds, 244,000 acres of mixed-grass prairie & wildlife from two-bit cheetoh-hued despots.",
+				"url": "https://t.co/m9hJqkJSXv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/m9hJqkJSXv",
+								"expanded_url": "http://nps.gov/badl",
+								"display_url": "nps.gov/badl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 22940,
+				"friends_count": 106,
+				"listed_count": 106,
+				"created_at": "Tue Jan 24 22:58:11 +0000 2017",
+				"favourites_count": 239,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 19,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/824029112050204672/vs9KGJJA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/824029112050204672/vs9KGJJA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/824028553067032576/1485299007",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4687,
+			"favorite_count": 8431,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4687,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jan 24 22:44:30 +0000 2017",
+		"id": 824025108008276000,
+		"id_str": "824025108008275972",
+		"text": "I'm no legal expert, but isn't deleting official agency tweets a violation of public records laws? https://t.co/OhiKeum8Xj",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OhiKeum8Xj",
+					"expanded_url": "https://twitter.com/DaveMcGlinchey/status/824021266868961284",
+					"display_url": "twitter.com/DaveMcGlinchey…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Citizen Sample",
+			"screen_name": "samplereality",
+			"location": "Davidson, North Carolina",
+			"description": "I teach and research digital culture at Davidson College. Also, bots: https://t.co/c8HM7AiCLw…",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c8HM7AiCLw",
+							"expanded_url": "https://twitter.com/samplereality/",
+							"display_url": "twitter.com/samplereality/",
+							"indices": [
+								70,
+								93
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7176,
+			"friends_count": 967,
+			"listed_count": 501,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38288,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 824021266868961300,
+		"quoted_status_id_str": "824021266868961284",
+		"quoted_status": {
+			"created_at": "Tue Jan 24 22:29:14 +0000 2017",
+			"id": 824021266868961300,
+			"id_str": "824021266868961284",
+			"text": "Climate tweets have been erased from @BadlandsNPS account. Government censorship is happening right now. https://t.co/6f7zaz7Pfb",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BadlandsNPS",
+						"name": "Badlands Nat'l Park",
+						"id": 304392714,
+						"id_str": "304392714",
+						"indices": [
+							37,
+							49
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 824021195800608800,
+						"id_str": "824021195800608769",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/C2-C6WcWgAE6nVh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C2-C6WcWgAE6nVh.jpg",
+						"url": "https://t.co/6f7zaz7Pfb",
+						"display_url": "pic.twitter.com/6f7zaz7Pfb",
+						"expanded_url": "https://twitter.com/DaveMcGlinchey/status/824021266868961284/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1125,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 638,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1334,
+								"h": 1251,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 824021195800608800,
+						"id_str": "824021195800608769",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/C2-C6WcWgAE6nVh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C2-C6WcWgAE6nVh.jpg",
+						"url": "https://t.co/6f7zaz7Pfb",
+						"display_url": "pic.twitter.com/6f7zaz7Pfb",
+						"expanded_url": "https://twitter.com/DaveMcGlinchey/status/824021266868961284/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1125,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 638,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1334,
+								"h": 1251,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 824021195729371100,
+						"id_str": "824021195729371136",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/C2-C6WLXgAAT-1b.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C2-C6WLXgAAT-1b.jpg",
+						"url": "https://t.co/6f7zaz7Pfb",
+						"display_url": "pic.twitter.com/6f7zaz7Pfb",
+						"expanded_url": "https://twitter.com/DaveMcGlinchey/status/824021266868961284/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1353,
+								"h": 1261,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1118,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 634,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 271966943,
+				"id_str": "271966943",
+				"name": "Dave McGlinchey",
+				"screen_name": "DaveMcGlinchey",
+				"location": "Falmouth, MA",
+				"description": "Communications at the @WoodsHoleResCtr. Climate change, conservation & soccer. But mostly climate. We've got a long way to go, and a short time to get there.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1522,
+				"friends_count": 1207,
+				"listed_count": 63,
+				"created_at": "Fri Mar 25 14:58:35 +0000 2011",
+				"favourites_count": 2004,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4704,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/657094171/as4wbgp69ogjwvv10mh1.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/657094171/as4wbgp69ogjwvv10mh1.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/803696067460022272/neNEZJSd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/803696067460022272/neNEZJSd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/271966943/1479223853",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3586,
+			"favorite_count": 1979,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jan 24 22:43:11 +0000 2017",
+		"id": 824024780466778100,
+		"id_str": "824024780466778113",
+		"text": "RT @DaveMcGlinchey: Climate tweets have been erased from @BadlandsNPS account. Government censorship is happening right now. https://t.co/6…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DaveMcGlinchey",
+					"name": "Dave McGlinchey",
+					"id": 271966943,
+					"id_str": "271966943",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "BadlandsNPS",
+					"name": "Badlands Nat'l Park",
+					"id": 304392714,
+					"id_str": "304392714",
+					"indices": [
+						57,
+						69
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Citizen Sample",
+			"screen_name": "samplereality",
+			"location": "Davidson, North Carolina",
+			"description": "I teach and research digital culture at Davidson College. Also, bots: https://t.co/c8HM7AiCLw…",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c8HM7AiCLw",
+							"expanded_url": "https://twitter.com/samplereality/",
+							"display_url": "twitter.com/samplereality/",
+							"indices": [
+								70,
+								93
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7176,
+			"friends_count": 967,
+			"listed_count": 501,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38288,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 24 22:29:14 +0000 2017",
+			"id": 824021266868961300,
+			"id_str": "824021266868961284",
+			"text": "Climate tweets have been erased from @BadlandsNPS account. Government censorship is happening right now. https://t.co/6f7zaz7Pfb",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BadlandsNPS",
+						"name": "Badlands Nat'l Park",
+						"id": 304392714,
+						"id_str": "304392714",
+						"indices": [
+							37,
+							49
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 824021195800608800,
+						"id_str": "824021195800608769",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/C2-C6WcWgAE6nVh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C2-C6WcWgAE6nVh.jpg",
+						"url": "https://t.co/6f7zaz7Pfb",
+						"display_url": "pic.twitter.com/6f7zaz7Pfb",
+						"expanded_url": "https://twitter.com/DaveMcGlinchey/status/824021266868961284/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1125,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 638,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1334,
+								"h": 1251,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 824021195800608800,
+						"id_str": "824021195800608769",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/C2-C6WcWgAE6nVh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C2-C6WcWgAE6nVh.jpg",
+						"url": "https://t.co/6f7zaz7Pfb",
+						"display_url": "pic.twitter.com/6f7zaz7Pfb",
+						"expanded_url": "https://twitter.com/DaveMcGlinchey/status/824021266868961284/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1125,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 638,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1334,
+								"h": 1251,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 824021195729371100,
+						"id_str": "824021195729371136",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/C2-C6WLXgAAT-1b.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C2-C6WLXgAAT-1b.jpg",
+						"url": "https://t.co/6f7zaz7Pfb",
+						"display_url": "pic.twitter.com/6f7zaz7Pfb",
+						"expanded_url": "https://twitter.com/DaveMcGlinchey/status/824021266868961284/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1353,
+								"h": 1261,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1118,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 634,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 271966943,
+				"id_str": "271966943",
+				"name": "Dave McGlinchey",
+				"screen_name": "DaveMcGlinchey",
+				"location": "Falmouth, MA",
+				"description": "Communications at the @WoodsHoleResCtr. Climate change, conservation & soccer. But mostly climate. We've got a long way to go, and a short time to get there.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1522,
+				"friends_count": 1207,
+				"listed_count": 63,
+				"created_at": "Fri Mar 25 14:58:35 +0000 2011",
+				"favourites_count": 2004,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4704,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/657094171/as4wbgp69ogjwvv10mh1.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/657094171/as4wbgp69ogjwvv10mh1.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/803696067460022272/neNEZJSd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/803696067460022272/neNEZJSd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/271966943/1479223853",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3586,
+			"favorite_count": 1979,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3586,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jan 24 22:14:52 +0000 2017",
+		"id": 824017652804972500,
+		"id_str": "824017652804972544",
+		"text": "Badlands National Park is subtweeting Trump. Again and again.  https://t.co/04x1yoNZYb",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/04x1yoNZYb",
+					"expanded_url": "https://twitter.com/BadlandsNPS/status/823360908554600448",
+					"display_url": "twitter.com/BadlandsNPS/st…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Citizen Sample",
+			"screen_name": "samplereality",
+			"location": "Davidson, North Carolina",
+			"description": "I teach and research digital culture at Davidson College. Also, bots: https://t.co/c8HM7AiCLw…",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c8HM7AiCLw",
+							"expanded_url": "https://twitter.com/samplereality/",
+							"display_url": "twitter.com/samplereality/",
+							"indices": [
+								70,
+								93
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7176,
+			"friends_count": 967,
+			"listed_count": 501,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38288,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 823360908554600400,
+		"quoted_status_id_str": "823360908554600448",
+		"quoted_status": {
+			"created_at": "Mon Jan 23 02:45:12 +0000 2017",
+			"id": 823360908554600400,
+			"id_str": "823360908554600448",
+			"text": "Life's most persistent and urgent question is, 'What are you doing for others?\" - Dr. Martin Luther King, Jr. https://t.co/iXYC8gdyW1",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 823360905756876800,
+						"id_str": "823360905756876800",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/C20qYaWVIAA9Rxl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C20qYaWVIAA9Rxl.jpg",
+						"url": "https://t.co/iXYC8gdyW1",
+						"display_url": "pic.twitter.com/iXYC8gdyW1",
+						"expanded_url": "https://twitter.com/BadlandsNPS/status/823360908554600448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 823360905756876800,
+						"id_str": "823360905756876800",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/C20qYaWVIAA9Rxl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C20qYaWVIAA9Rxl.jpg",
+						"url": "https://t.co/iXYC8gdyW1",
+						"display_url": "pic.twitter.com/iXYC8gdyW1",
+						"expanded_url": "https://twitter.com/BadlandsNPS/status/823360908554600448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 304392714,
+				"id_str": "304392714",
+				"name": "Badlands Nat'l Park",
+				"screen_name": "BadlandsNPS",
+				"location": "Interior, SD",
+				"description": "Official feed of Badlands NP.. Protecting rugged scenery, fossil beds, 244,000 acres of mixed-grass prairie & wildlife.   \nRT/follow/likes≠endorsement",
+				"url": "http://t.co/qCbzlikNvf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/qCbzlikNvf",
+								"expanded_url": "http://www.nps.gov/badl",
+								"display_url": "nps.gov/badl",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 154415,
+				"friends_count": 1698,
+				"listed_count": 779,
+				"created_at": "Tue May 24 12:48:19 +0000 2011",
+				"favourites_count": 14558,
+				"utc_offset": -25200,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3718,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/421609101/Twitter_Background_Final_2.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/421609101/Twitter_Background_Final_2.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/545718058644299776/bq5np8HG_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/545718058644299776/bq5np8HG_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/304392714/1474216471",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3070,
+			"favorite_count": 5771,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jan 24 21:52:13 +0000 2017",
+		"id": 824011954448662500,
+		"id_str": "824011954448662531",
+		"text": "RT @NaomiAKlein: \"Get Ready for the First Shocks of Trump's Disaster Capitalism\" by me in @theintercept  https://t.co/R8WfmtQOBY",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NaomiAKlein",
+					"name": "Naomi Klein",
+					"id": 189376144,
+					"id_str": "189376144",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "theintercept",
+					"name": "The Intercept",
+					"id": 2329066872,
+					"id_str": "2329066872",
+					"indices": [
+						90,
+						103
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/R8WfmtQOBY",
+					"expanded_url": "https://interc.pt/2jaGhvb",
+					"display_url": "interc.pt/2jaGhvb",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Citizen Sample",
+			"screen_name": "samplereality",
+			"location": "Davidson, North Carolina",
+			"description": "I teach and research digital culture at Davidson College. Also, bots: https://t.co/c8HM7AiCLw…",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c8HM7AiCLw",
+							"expanded_url": "https://twitter.com/samplereality/",
+							"display_url": "twitter.com/samplereality/",
+							"indices": [
+								70,
+								93
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7176,
+			"friends_count": 967,
+			"listed_count": 501,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38288,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 24 19:56:05 +0000 2017",
+			"id": 823982725430464500,
+			"id_str": "823982725430464512",
+			"text": "\"Get Ready for the First Shocks of Trump's Disaster Capitalism\" by me in @theintercept  https://t.co/R8WfmtQOBY",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "theintercept",
+						"name": "The Intercept",
+						"id": 2329066872,
+						"id_str": "2329066872",
+						"indices": [
+							73,
+							86
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/R8WfmtQOBY",
+						"expanded_url": "https://interc.pt/2jaGhvb",
+						"display_url": "interc.pt/2jaGhvb",
+						"indices": [
+							88,
+							111
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 189376144,
+				"id_str": "189376144",
+				"name": "Naomi Klein",
+				"screen_name": "NaomiAKlein",
+				"location": "",
+				"description": "they say I'm polarizing",
+				"url": "http://t.co/xy5y6gC8gG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/xy5y6gC8gG",
+								"expanded_url": "http://thischangeseverything.org",
+								"display_url": "thischangeseverything.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 375242,
+				"friends_count": 1245,
+				"listed_count": 10099,
+				"created_at": "Sat Sep 11 02:45:59 +0000 2010",
+				"favourites_count": 994,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 9791,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "3BA1D4",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/500012070679486464/lfuMzaFZ.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/500012070679486464/lfuMzaFZ.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/645958560296267776/9mBuSoyX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/645958560296267776/9mBuSoyX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/189376144/1457376025",
+				"profile_link_color": "0099D1",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "9DB3BD",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 403,
+			"favorite_count": 412,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 403,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jan 23 21:40:59 +0000 2017",
 		"id": 823646736824631300,
 		"id_str": "823646736824631296",
