@@ -1,6 +1,384 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Mon Feb 06 12:34:15 +0000 2017",
+		"id": 828582577854365700,
+		"id_str": "828582577854365697",
+		"text": "RT @TimKarr: Thanks @xeni for the meme generator: https://t.co/YT3vSpBkNB",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TimKarr",
+					"name": "TimKarr",
+					"id": 15902877,
+					"id_str": "15902877",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "xeni",
+					"name": "Xeni Jardin",
+					"id": 767,
+					"id_str": "767",
+					"indices": [
+						20,
+						25
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 828581387770875900,
+					"id_str": "828581387770875905",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/C3-2YdWVUAEm3uz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C3-2YdWVUAEm3uz.jpg",
+					"url": "https://t.co/YT3vSpBkNB",
+					"display_url": "pic.twitter.com/YT3vSpBkNB",
+					"expanded_url": "https://twitter.com/TimKarr/status/828581399355592708/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 647,
+							"h": 794,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 554,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 647,
+							"h": 794,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 828581399355592700,
+					"source_status_id_str": "828581399355592708",
+					"source_user_id": 15902877,
+					"source_user_id_str": "15902877"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 828581387770875900,
+					"id_str": "828581387770875905",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/C3-2YdWVUAEm3uz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C3-2YdWVUAEm3uz.jpg",
+					"url": "https://t.co/YT3vSpBkNB",
+					"display_url": "pic.twitter.com/YT3vSpBkNB",
+					"expanded_url": "https://twitter.com/TimKarr/status/828581399355592708/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 647,
+							"h": 794,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 554,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 647,
+							"h": 794,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 828581399355592700,
+					"source_status_id_str": "828581399355592708",
+					"source_user_id": 15902877,
+					"source_user_id_str": "15902877"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Citizen Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Resist",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7185,
+			"friends_count": 984,
+			"listed_count": 500,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38440,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Feb 06 12:29:34 +0000 2017",
+			"id": 828581399355592700,
+			"id_str": "828581399355592708",
+			"text": "Thanks @xeni for the meme generator: https://t.co/YT3vSpBkNB",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "xeni",
+						"name": "Xeni Jardin",
+						"id": 767,
+						"id_str": "767",
+						"indices": [
+							7,
+							12
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 828581387770875900,
+						"id_str": "828581387770875905",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/media/C3-2YdWVUAEm3uz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C3-2YdWVUAEm3uz.jpg",
+						"url": "https://t.co/YT3vSpBkNB",
+						"display_url": "pic.twitter.com/YT3vSpBkNB",
+						"expanded_url": "https://twitter.com/TimKarr/status/828581399355592708/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 647,
+								"h": 794,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 554,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 647,
+								"h": 794,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 828581387770875900,
+						"id_str": "828581387770875905",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/media/C3-2YdWVUAEm3uz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C3-2YdWVUAEm3uz.jpg",
+						"url": "https://t.co/YT3vSpBkNB",
+						"display_url": "pic.twitter.com/YT3vSpBkNB",
+						"expanded_url": "https://twitter.com/TimKarr/status/828581399355592708/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 647,
+								"h": 794,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 554,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 647,
+								"h": 794,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15902877,
+				"id_str": "15902877",
+				"name": "TimKarr",
+				"screen_name": "TimKarr",
+				"location": "New York",
+				"description": "All things media, Karr advocates for universal access to open networks at Free Press and Free Press Action Fund. Some tweets endorsements, others indictments.",
+				"url": "http://t.co/W7bfZYkB8t",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/W7bfZYkB8t",
+								"expanded_url": "http://mediacitizen.blogspot.com/",
+								"display_url": "mediacitizen.blogspot.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14258,
+				"friends_count": 1809,
+				"listed_count": 1281,
+				"created_at": "Tue Aug 19 11:01:08 +0000 2008",
+				"favourites_count": 460,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 22025,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "3D8530",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/194535268/Cairotweet.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/194535268/Cairotweet.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/798491480348233728/VfCYzNWA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/798491480348233728/VfCYzNWA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15902877/1404046784",
+				"profile_link_color": "C40F30",
+				"profile_sidebar_border_color": "CBC0F0",
+				"profile_sidebar_fill_color": "F4F2FF",
+				"profile_text_color": "454F45",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Feb 05 23:43:09 +0000 2017",
 		"id": 828388522314911700,
 		"id_str": "828388522314911744",
