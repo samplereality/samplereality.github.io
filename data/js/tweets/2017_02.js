@@ -1,6 +1,1688 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Wed Feb 08 03:16:16 +0000 2017",
+		"id": 829166932251271200,
+		"id_str": "829166932251271169",
+		"text": "Snuffleupagus is real.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Citizen Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Resist",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7186,
+			"friends_count": 984,
+			"listed_count": 500,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38449,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Feb 07 21:18:51 +0000 2017",
+		"id": 829076987373375500,
+		"id_str": "829076987373375488",
+		"text": "“In hindsight, it was when Google sunsetted Knol that it all started going to shit.” - the first line of my new post-apocalyptic YA thriller",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Citizen Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Resist",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7186,
+			"friends_count": 984,
+			"listed_count": 500,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38449,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Feb 07 20:44:53 +0000 2017",
+		"id": 829068438345748500,
+		"id_str": "829068438345748481",
+		"text": "Ditto. And my mom was a public school teacher. She didn't bust her ass for 30 years to have it dismantled by a hack. https://t.co/gOug27lUzv",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gOug27lUzv",
+					"expanded_url": "https://twitter.com/REAS/status/829067879177793537",
+					"display_url": "twitter.com/REAS/status/82…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Citizen Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Resist",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7186,
+			"friends_count": 984,
+			"listed_count": 500,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38449,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 829067879177793500,
+		"quoted_status_id_str": "829067879177793537",
+		"quoted_status": {
+			"created_at": "Tue Feb 07 20:42:40 +0000 2017",
+			"id": 829067879177793500,
+			"id_str": "829067879177793537",
+			"text": "I spent 18 years in public schools in Ohio. It was everything. K, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, U1, U2, U3, U4, U5.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17634892,
+				"id_str": "17634892",
+				"name": "Casey REAS",
+				"screen_name": "REAS",
+				"location": "Los Angeles",
+				"description": "https://t.co/JgPpFkdARo https://t.co/qrhKjgrAaX https://t.co/2DbzUJf7ae",
+				"url": "http://t.co/J76AUMsxAD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/J76AUMsxAD",
+								"expanded_url": "http://www.reas.com",
+								"display_url": "reas.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/JgPpFkdARo",
+								"expanded_url": "http://reas.com",
+								"display_url": "reas.com",
+								"indices": [
+									0,
+									23
+								]
+							},
+							{
+								"url": "https://t.co/qrhKjgrAaX",
+								"expanded_url": "https://processing.org",
+								"display_url": "processing.org",
+								"indices": [
+									24,
+									47
+								]
+							},
+							{
+								"url": "https://t.co/2DbzUJf7ae",
+								"expanded_url": "http://dma.ucla.edu",
+								"display_url": "dma.ucla.edu",
+								"indices": [
+									48,
+									71
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 17505,
+				"friends_count": 871,
+				"listed_count": 972,
+				"created_at": "Tue Nov 25 23:04:40 +0000 2008",
+				"favourites_count": 672,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1981,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9BCFD1",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000010423427/d432f4a6a0ed65da1ddb57d7eeb0fd75.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000010423427/d432f4a6a0ed65da1ddb57d7eeb0fd75.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/688862486347427840/xDJnkJ3R_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/688862486347427840/xDJnkJ3R_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17634892/1404246106",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 27,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Feb 07 20:42:40 +0000 2017",
+		"id": 829067878309777400,
+		"id_str": "829067878309777408",
+		"text": "And a fifth power: Californian power. One of the leading economic powerhouses of the world must lead the resistance.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": 829066984834924500,
+		"in_reply_to_status_id_str": "829066984834924545",
+		"in_reply_to_user_id": 8497292,
+		"in_reply_to_user_id_str": "8497292",
+		"in_reply_to_screen_name": "samplereality",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Citizen Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Resist",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7186,
+			"friends_count": 984,
+			"listed_count": 500,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38449,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Feb 07 20:39:07 +0000 2017",
+		"id": 829066984834924500,
+		"id_str": "829066984834924545",
+		"text": "We progressives have 4 powerful muscles we must flex: urban power, financial power, organizing power, and righteous… https://t.co/TdmKo7B0Nk",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TdmKo7B0Nk",
+					"expanded_url": "https://twitter.com/i/web/status/829066984834924545",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Citizen Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Resist",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7186,
+			"friends_count": 984,
+			"listed_count": 500,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38449,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 829034543197913100,
+		"quoted_status_id_str": "829034543197913090",
+		"quoted_status": {
+			"created_at": "Tue Feb 07 18:30:12 +0000 2017",
+			"id": 829034543197913100,
+			"id_str": "829034543197913090",
+			"text": "Let's stop spending so much time where we don't have power\n\nHere is how Democrats &amp; Progressives MAKE CHANGE HAPPEN\n\nhttps://t.co/241Az5oEvg",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/241Az5oEvg",
+						"expanded_url": "http://www.nydailynews.com/news/national/king-seattle-wells-fargo-boycott-catch-u-s-article-1.2963625",
+						"display_url": "nydailynews.com/news/national/…",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 755113,
+				"id_str": "755113",
+				"name": "Shaun King",
+				"screen_name": "ShaunKing",
+				"location": "Brooklyn via Atlanta via KY ",
+				"description": "Senior Justice Writer @NYDailyNews; Commentator @TheYoungTurks & @TJMShow; #BlackLivesMatter; @WeWillBoycott; https://t.co/TCtHkUwVdX TIPS: news@shaunking.org",
+				"url": "https://t.co/ifAFtjJOgz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ifAFtjJOgz",
+								"expanded_url": "http://Facebook.com/ShaunKing",
+								"display_url": "Facebook.com/ShaunKing",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/TCtHkUwVdX",
+								"expanded_url": "http://ShaunKing.org",
+								"display_url": "ShaunKing.org",
+								"indices": [
+									110,
+									133
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 616831,
+				"friends_count": 6585,
+				"listed_count": 7315,
+				"created_at": "Tue Feb 06 05:17:19 +0000 2007",
+				"favourites_count": 67687,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 32557,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/542860413432369152/UIhc0Gv9.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/542860413432369152/UIhc0Gv9.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/825845401425166338/wsQvuubf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/825845401425166338/wsQvuubf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/755113/1448336549",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1348,
+			"favorite_count": 2174,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Feb 07 20:35:12 +0000 2017",
+		"id": 829066001815859200,
+		"id_str": "829066001815859206",
+		"text": "RT @ShaunKing: Listen.\n\nRepublicans are playing The Hunger Games and we are playing Duck Tales.\n\nWe aren't just losing, we are playing the…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ShaunKing",
+					"name": "Shaun King",
+					"id": 755113,
+					"id_str": "755113",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Citizen Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Resist",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7186,
+			"friends_count": 984,
+			"listed_count": 500,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38449,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Feb 07 18:45:01 +0000 2017",
+			"id": 829038270449348600,
+			"id_str": "829038270449348608",
+			"text": "Listen.\n\nRepublicans are playing The Hunger Games and we are playing Duck Tales.\n\nWe aren't just losing, we are playing the wrong game.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 829036735157899300,
+			"in_reply_to_status_id_str": "829036735157899264",
+			"in_reply_to_user_id": 755113,
+			"in_reply_to_user_id_str": "755113",
+			"in_reply_to_screen_name": "ShaunKing",
+			"user": {
+				"id": 755113,
+				"id_str": "755113",
+				"name": "Shaun King",
+				"screen_name": "ShaunKing",
+				"location": "Brooklyn via Atlanta via KY ",
+				"description": "Senior Justice Writer @NYDailyNews; Commentator @TheYoungTurks & @TJMShow; #BlackLivesMatter; @WeWillBoycott; https://t.co/TCtHkUwVdX TIPS: news@shaunking.org",
+				"url": "https://t.co/ifAFtjJOgz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ifAFtjJOgz",
+								"expanded_url": "http://Facebook.com/ShaunKing",
+								"display_url": "Facebook.com/ShaunKing",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/TCtHkUwVdX",
+								"expanded_url": "http://ShaunKing.org",
+								"display_url": "ShaunKing.org",
+								"indices": [
+									110,
+									133
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 616831,
+				"friends_count": 6585,
+				"listed_count": 7315,
+				"created_at": "Tue Feb 06 05:17:19 +0000 2007",
+				"favourites_count": 67687,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 32557,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/542860413432369152/UIhc0Gv9.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/542860413432369152/UIhc0Gv9.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/825845401425166338/wsQvuubf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/825845401425166338/wsQvuubf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/755113/1448336549",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 644,
+			"favorite_count": 1657,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 644,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Feb 07 20:21:49 +0000 2017",
+		"id": 829062630505586700,
+		"id_str": "829062630505586689",
+		"text": "An undemocratically-elected white nationalist is installing a white supremacist government right before our eyes. They do not speak for me.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Citizen Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Resist",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7186,
+			"friends_count": 984,
+			"listed_count": 500,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38449,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Feb 07 18:56:08 +0000 2017",
+		"id": 829041068721201200,
+		"id_str": "829041068721201153",
+		"text": "RT @ckolderup: I've discovered the new universal New Yorker cartoon caption. https://t.co/MU1tKuqcvX",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ckolderup",
+					"name": "Casey Kolderup",
+					"id": 9368412,
+					"id_str": "9368412",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 828741448589733900,
+					"id_str": "828741448589733888",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/C4BH9OXVcAAsi2s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C4BH9OXVcAAsi2s.jpg",
+					"url": "https://t.co/MU1tKuqcvX",
+					"display_url": "pic.twitter.com/MU1tKuqcvX",
+					"expanded_url": "http://twitter.com/ckolderup/status/828741467938050048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1152,
+							"h": 909,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 537,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1152,
+							"h": 909,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 828741467938050000,
+					"source_status_id_str": "828741467938050048",
+					"source_user_id": 9368412,
+					"source_user_id_str": "9368412"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 828741448589733900,
+					"id_str": "828741448589733888",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/C4BH9OXVcAAsi2s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C4BH9OXVcAAsi2s.jpg",
+					"url": "https://t.co/MU1tKuqcvX",
+					"display_url": "pic.twitter.com/MU1tKuqcvX",
+					"expanded_url": "http://twitter.com/ckolderup/status/828741467938050048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1152,
+							"h": 909,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 537,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1152,
+							"h": 909,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 828741467938050000,
+					"source_status_id_str": "828741467938050048",
+					"source_user_id": 9368412,
+					"source_user_id_str": "9368412"
+				},
+				{
+					"id": 828741448929456100,
+					"id_str": "828741448929456128",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/C4BH9PoVMAADqmy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C4BH9PoVMAADqmy.jpg",
+					"url": "https://t.co/MU1tKuqcvX",
+					"display_url": "pic.twitter.com/MU1tKuqcvX",
+					"expanded_url": "http://twitter.com/ckolderup/status/828741467938050048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1004,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 569,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1071,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 828741467938050000,
+					"source_status_id_str": "828741467938050048",
+					"source_user_id": 9368412,
+					"source_user_id_str": "9368412"
+				},
+				{
+					"id": 828741449244028900,
+					"id_str": "828741449244028928",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/C4BH9QzVMAAM-oL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C4BH9QzVMAAM-oL.jpg",
+					"url": "https://t.co/MU1tKuqcvX",
+					"display_url": "pic.twitter.com/MU1tKuqcvX",
+					"expanded_url": "http://twitter.com/ckolderup/status/828741467938050048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 673,
+							"h": 575,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 673,
+							"h": 575,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 673,
+							"h": 575,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 828741467938050000,
+					"source_status_id_str": "828741467938050048",
+					"source_user_id": 9368412,
+					"source_user_id_str": "9368412"
+				},
+				{
+					"id": 828741449722196000,
+					"id_str": "828741449722195968",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/C4BH9SlVcAAk10N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C4BH9SlVcAAk10N.jpg",
+					"url": "https://t.co/MU1tKuqcvX",
+					"display_url": "pic.twitter.com/MU1tKuqcvX",
+					"expanded_url": "http://twitter.com/ckolderup/status/828741467938050048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 600,
+							"h": 667,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 667,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 667,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 828741467938050000,
+					"source_status_id_str": "828741467938050048",
+					"source_user_id": 9368412,
+					"source_user_id_str": "9368412"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Citizen Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Resist",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7186,
+			"friends_count": 984,
+			"listed_count": 500,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38449,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Feb 06 23:05:37 +0000 2017",
+			"id": 828741467938050000,
+			"id_str": "828741467938050048",
+			"text": "I've discovered the new universal New Yorker cartoon caption. https://t.co/MU1tKuqcvX",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 828741448589733900,
+						"id_str": "828741448589733888",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/C4BH9OXVcAAsi2s.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C4BH9OXVcAAsi2s.jpg",
+						"url": "https://t.co/MU1tKuqcvX",
+						"display_url": "pic.twitter.com/MU1tKuqcvX",
+						"expanded_url": "http://twitter.com/ckolderup/status/828741467938050048/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1152,
+								"h": 909,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 537,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1152,
+								"h": 909,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 828741448589733900,
+						"id_str": "828741448589733888",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/C4BH9OXVcAAsi2s.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C4BH9OXVcAAsi2s.jpg",
+						"url": "https://t.co/MU1tKuqcvX",
+						"display_url": "pic.twitter.com/MU1tKuqcvX",
+						"expanded_url": "http://twitter.com/ckolderup/status/828741467938050048/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1152,
+								"h": 909,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 537,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1152,
+								"h": 909,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 828741448929456100,
+						"id_str": "828741448929456128",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/C4BH9PoVMAADqmy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C4BH9PoVMAADqmy.jpg",
+						"url": "https://t.co/MU1tKuqcvX",
+						"display_url": "pic.twitter.com/MU1tKuqcvX",
+						"expanded_url": "http://twitter.com/ckolderup/status/828741467938050048/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1004,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 569,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 1071,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 828741449244028900,
+						"id_str": "828741449244028928",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/C4BH9QzVMAAM-oL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C4BH9QzVMAAM-oL.jpg",
+						"url": "https://t.co/MU1tKuqcvX",
+						"display_url": "pic.twitter.com/MU1tKuqcvX",
+						"expanded_url": "http://twitter.com/ckolderup/status/828741467938050048/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 673,
+								"h": 575,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 673,
+								"h": 575,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 673,
+								"h": 575,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 828741449722196000,
+						"id_str": "828741449722195968",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/C4BH9SlVcAAk10N.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C4BH9SlVcAAk10N.jpg",
+						"url": "https://t.co/MU1tKuqcvX",
+						"display_url": "pic.twitter.com/MU1tKuqcvX",
+						"expanded_url": "http://twitter.com/ckolderup/status/828741467938050048/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 600,
+								"h": 667,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 667,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 667,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 9368412,
+				"id_str": "9368412",
+				"name": "Casey Kolderup",
+				"screen_name": "ckolderup",
+				"location": "video prison",
+				"description": "THIS IS TIME WELL SPENT",
+				"url": "https://t.co/QzEtDgYCNY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QzEtDgYCNY",
+								"expanded_url": "http://casey.kolderup.org",
+								"display_url": "casey.kolderup.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1732,
+				"friends_count": 651,
+				"listed_count": 97,
+				"created_at": "Thu Oct 11 04:47:06 +0000 2007",
+				"favourites_count": 69498,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 43029,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "171717",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378326431/html.gif",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378326431/html.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/822711335351828480/QwDU9ozi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/822711335351828480/QwDU9ozi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/9368412/1449039477",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "8F8F8F",
+				"profile_sidebar_fill_color": "8F8F8F",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 562,
+			"favorite_count": 1256,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 562,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Feb 07 18:55:14 +0000 2017",
+		"id": 829040841163468800,
+		"id_str": "829040841163468801",
+		"text": "@cogdog The real Mark Sample's mug says \"This mug kills fascists.\"",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cogdog",
+					"name": "Alan Levine",
+					"id": 740343,
+					"id_str": "740343",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": 829040224919445500,
+		"in_reply_to_status_id_str": "829040224919445504",
+		"in_reply_to_user_id": 740343,
+		"in_reply_to_user_id_str": "740343",
+		"in_reply_to_screen_name": "cogdog",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Citizen Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Resist",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7186,
+			"friends_count": 984,
+			"listed_count": 500,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38449,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Feb 06 12:34:15 +0000 2017",
 		"id": 828582577854365700,
 		"id_str": "828582577854365697",
