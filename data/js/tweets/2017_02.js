@@ -1,6 +1,1508 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Thu Feb 16 21:10:15 +0000 2017",
+		"id": 832336310652301300,
+		"id_str": "832336310652301313",
+		"text": "evergreen tweet https://t.co/45P8PiElYu",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/45P8PiElYu",
+					"expanded_url": "https://twitter.com/samplereality/statuses/228574425702875136",
+					"display_url": "twitter.com/samplereality/…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "AltRogueSample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Resist",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7191,
+			"friends_count": 984,
+			"listed_count": 502,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38498,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 228574425702875140,
+		"quoted_status_id_str": "228574425702875136",
+		"quoted_status": {
+			"created_at": "Thu Jul 26 19:36:04 +0000 2012",
+			"id": 228574425702875140,
+			"id_str": "228574425702875136",
+			"text": "I had a dream that my cat was Zizek and the hairball it spit up was really a Yugo and then @ibogost blogged about it?",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ibogost",
+						"name": "Ian Bogost",
+						"id": 6825792,
+						"id_str": "6825792",
+						"indices": [
+							91,
+							99
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://www.metrotwit.com/\" rel=\"nofollow\">MetroTwit</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 8497292,
+				"id_str": "8497292",
+				"name": "AltRogueSample",
+				"screen_name": "samplereality",
+				"location": "This Land Is Your Land",
+				"description": "Resist",
+				"url": "https://t.co/jzW78xdOk4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jzW78xdOk4",
+								"expanded_url": "http://www.samplereality.com",
+								"display_url": "samplereality.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7191,
+				"friends_count": 984,
+				"listed_count": 502,
+				"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+				"favourites_count": 0,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 38498,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B3B3B3",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+				"profile_link_color": "236299",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Feb 16 20:20:04 +0000 2017",
+		"id": 832323681707769900,
+		"id_str": "832323681707769856",
+		"text": "Everything is interesting, until it is ruined for us. - Ted Nelson in Computer Lib/Dream Machines",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "AltRogueSample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Resist",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7191,
+			"friends_count": 984,
+			"listed_count": 502,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38498,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Feb 16 19:54:43 +0000 2017",
+		"id": 832317302683160600,
+		"id_str": "832317302683160577",
+		"text": "Every song on Cheap Trick's \"Dream Police\" LP (1979) is utterly creepified by imagining it's Stephen Bannon singing. It's uncanny.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "AltRogueSample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Resist",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7191,
+			"friends_count": 984,
+			"listed_count": 502,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38498,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Feb 16 19:52:10 +0000 2017",
+		"id": 832316662401658900,
+		"id_str": "832316662401658880",
+		"text": "I dreamed the surviving members of Mungo Jerry broke in and stole all my whiskey jugs. I woke up thinking, What? I had whiskey jugs here?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "AltRogueSample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Resist",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7191,
+			"friends_count": 984,
+			"listed_count": 502,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38498,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Feb 16 19:12:57 +0000 2017",
+		"id": 832306793623724000,
+		"id_str": "832306793623724034",
+		"text": "Recs for a good in-browser non-Flash survival horror game?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "AltRogueSample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Resist",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7191,
+			"friends_count": 984,
+			"listed_count": 502,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38498,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Feb 16 17:13:11 +0000 2017",
+		"id": 832276651526516700,
+		"id_str": "832276651526516736",
+		"text": "@rbuurma The student projects were smart and fun. Great to see student work that actually has personality!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rbuurma",
+					"name": "Rachel Sagner Buurma",
+					"id": 291852590,
+					"id_str": "291852590",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": 832276166471999500,
+		"in_reply_to_status_id_str": "832276166471999488",
+		"in_reply_to_user_id": 291852590,
+		"in_reply_to_user_id_str": "291852590",
+		"in_reply_to_screen_name": "rbuurma",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "AltRogueSample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Resist",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7191,
+			"friends_count": 984,
+			"listed_count": 502,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38498,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Feb 16 17:03:57 +0000 2017",
+		"id": 832274328565739500,
+		"id_str": "832274328565739520",
+		"text": "@rbuurma thanks! Have you seen my Snapchat assignment for students? https://t.co/HrZEK7h0ug",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rbuurma",
+					"name": "Rachel Sagner Buurma",
+					"id": 291852590,
+					"id_str": "291852590",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HrZEK7h0ug",
+					"expanded_url": "http://courses.digitaldavidson.net/dig215/postmodern-horror-snapchat-story/",
+					"display_url": "courses.digitaldavidson.net/dig215/postmod…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": 832261833025318900,
+		"in_reply_to_status_id_str": "832261833025318912",
+		"in_reply_to_user_id": 291852590,
+		"in_reply_to_user_id_str": "291852590",
+		"in_reply_to_screen_name": "rbuurma",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "AltRogueSample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Resist",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7191,
+			"friends_count": 984,
+			"listed_count": 502,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38498,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Feb 16 14:20:13 +0000 2017",
+		"id": 832233122733424600,
+		"id_str": "832233122733424641",
+		"text": "RT @JohnBrownlow: A corker of a letter to the NYT from the guy who (literally) wrote the book on narcissism. https://t.co/FvrReoJQpy",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JohnBrownlow",
+					"name": "John Brownlow",
+					"id": 16369652,
+					"id_str": "16369652",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 831873524100837400,
+					"id_str": "831873524100837377",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/C4tokA4VMAEP5KA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C4tokA4VMAEP5KA.jpg",
+					"url": "https://t.co/FvrReoJQpy",
+					"display_url": "pic.twitter.com/FvrReoJQpy",
+					"expanded_url": "https://twitter.com/JohnBrownlow/status/831873539099734019/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 710,
+							"h": 820,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 589,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 710,
+							"h": 820,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 831873539099734000,
+					"source_status_id_str": "831873539099734019",
+					"source_user_id": 16369652,
+					"source_user_id_str": "16369652"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 831873524100837400,
+					"id_str": "831873524100837377",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/C4tokA4VMAEP5KA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C4tokA4VMAEP5KA.jpg",
+					"url": "https://t.co/FvrReoJQpy",
+					"display_url": "pic.twitter.com/FvrReoJQpy",
+					"expanded_url": "https://twitter.com/JohnBrownlow/status/831873539099734019/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 710,
+							"h": 820,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 589,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 710,
+							"h": 820,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 831873539099734000,
+					"source_status_id_str": "831873539099734019",
+					"source_user_id": 16369652,
+					"source_user_id_str": "16369652"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "AltRogueSample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Resist",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7191,
+			"friends_count": 984,
+			"listed_count": 502,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38498,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Feb 15 14:31:21 +0000 2017",
+			"id": 831873539099734000,
+			"id_str": "831873539099734019",
+			"text": "A corker of a letter to the NYT from the guy who (literally) wrote the book on narcissism. https://t.co/FvrReoJQpy",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 831873524100837400,
+						"id_str": "831873524100837377",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/C4tokA4VMAEP5KA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C4tokA4VMAEP5KA.jpg",
+						"url": "https://t.co/FvrReoJQpy",
+						"display_url": "pic.twitter.com/FvrReoJQpy",
+						"expanded_url": "https://twitter.com/JohnBrownlow/status/831873539099734019/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 710,
+								"h": 820,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 589,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 710,
+								"h": 820,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 831873524100837400,
+						"id_str": "831873524100837377",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/C4tokA4VMAEP5KA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C4tokA4VMAEP5KA.jpg",
+						"url": "https://t.co/FvrReoJQpy",
+						"display_url": "pic.twitter.com/FvrReoJQpy",
+						"expanded_url": "https://twitter.com/JohnBrownlow/status/831873539099734019/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 710,
+								"h": 820,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 589,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 710,
+								"h": 820,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16369652,
+				"id_str": "16369652",
+				"name": "John Brownlow",
+				"screen_name": "JohnBrownlow",
+				"location": "Out there, somewhere",
+				"description": "Screeenwriter (SYLVIA, FLEMING). THE MINIATURIST, THIN SKINNED ANIMAL shooting '17. Photographer, musician, ex-math guy, coder, nerd, tractor-owner, knowitall",
+				"url": "https://t.co/hVNojca1hL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hVNojca1hL",
+								"expanded_url": "http://www.imdb.com/name/nm0003164/",
+								"display_url": "imdb.com/name/nm0003164/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1326,
+				"friends_count": 763,
+				"listed_count": 32,
+				"created_at": "Fri Sep 19 20:23:38 +0000 2008",
+				"favourites_count": 1662,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 835,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0F1312",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/725668362/6d651cc748efa3c7e5e047fa97836843.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/725668362/6d651cc748efa3c7e5e047fa97836843.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/803362852417454080/R5zTwOfX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/803362852417454080/R5zTwOfX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16369652/1354304285",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "BC0CC7",
+				"profile_sidebar_fill_color": "750585",
+				"profile_text_color": "3C0965",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16742,
+			"favorite_count": 20802,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 16742,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Feb 16 13:42:01 +0000 2017",
+		"id": 832223509870940200,
+		"id_str": "832223509870940160",
+		"text": "RT @davidboraks: 250+ businesses in #CLT area taking part in \"A Day Without Immigrants.\" @nickdelacanal reports @WFAE https://t.co/FU9txwc3…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CLT",
+					"indices": [
+						36,
+						40
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "davidboraks",
+					"name": "davidboraks",
+					"id": 17838571,
+					"id_str": "17838571",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "nickdelacanal",
+					"name": "Nick de la Canal",
+					"id": 319382263,
+					"id_str": "319382263",
+					"indices": [
+						89,
+						103
+					]
+				},
+				{
+					"screen_name": "WFAE",
+					"name": "WFAE",
+					"id": 21130921,
+					"id_str": "21130921",
+					"indices": [
+						112,
+						117
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "AltRogueSample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Resist",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7191,
+			"friends_count": 984,
+			"listed_count": 502,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38498,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Feb 16 13:40:10 +0000 2017",
+			"id": 832223045305655300,
+			"id_str": "832223045305655296",
+			"text": "250+ businesses in #CLT area taking part in \"A Day Without Immigrants.\" @nickdelacanal reports @WFAE https://t.co/FU9txwc3Dc",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CLT",
+						"indices": [
+							19,
+							23
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nickdelacanal",
+						"name": "Nick de la Canal",
+						"id": 319382263,
+						"id_str": "319382263",
+						"indices": [
+							72,
+							86
+						]
+					},
+					{
+						"screen_name": "WFAE",
+						"name": "WFAE",
+						"id": 21130921,
+						"id_str": "21130921",
+						"indices": [
+							95,
+							100
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/FU9txwc3Dc",
+						"expanded_url": "http://ow.ly/Sxnm3093KvU",
+						"display_url": "ow.ly/Sxnm3093KvU",
+						"indices": [
+							101,
+							124
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17838571,
+				"id_str": "17838571",
+				"name": "davidboraks",
+				"screen_name": "davidboraks",
+				"location": "Davidson, NC",
+				"description": "Public radio reporter @WFAE Charlotte. Longtime journalist and photographer, former publisher of https://t.co/7JSNdzCGFy & https://t.co/EYCZq31Diz.",
+				"url": "http://t.co/ULApHcYQSW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ULApHcYQSW",
+								"expanded_url": "http://www.davidboraks.net",
+								"display_url": "davidboraks.net",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/7JSNdzCGFy",
+								"expanded_url": "http://DavidsonNews.net",
+								"display_url": "DavidsonNews.net",
+								"indices": [
+									97,
+									120
+								]
+							},
+							{
+								"url": "https://t.co/EYCZq31Diz",
+								"expanded_url": "http://CorneliusNews.net",
+								"display_url": "CorneliusNews.net",
+								"indices": [
+									123,
+									146
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 997,
+				"friends_count": 475,
+				"listed_count": 59,
+				"created_at": "Wed Dec 03 15:23:05 +0000 2008",
+				"favourites_count": 196,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1682,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/705056705416024065/n9pe08cf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/705056705416024065/n9pe08cf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17838571/1440608349",
+				"profile_link_color": "FA743E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Feb 16 12:16:21 +0000 2017",
+		"id": 832201950091411500,
+		"id_str": "832201950091411457",
+		"text": "Nothing says desperate narcissist like “post inauguration campaign rally.”",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "AltRogueSample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Resist",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7191,
+			"friends_count": 984,
+			"listed_count": 502,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38498,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Feb 16 04:36:55 +0000 2017",
 		"id": 832086333413847000,
 		"id_str": "832086333413847040",
