@@ -1,6 +1,390 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Wed Feb 22 01:35:21 +0000 2017",
+		"id": 834214966882402300,
+		"id_str": "834214966882402304",
+		"text": "Reached the part of @joe_hill's THE FIREMAN where a bunch of angry infected tweens become an allegory for a Trump rally.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "joe_hill",
+					"name": "Joe Hill",
+					"id": 18605897,
+					"id_str": "18605897",
+					"indices": [
+						20,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "AltRogueSample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Resist",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7204,
+			"friends_count": 987,
+			"listed_count": 501,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38520,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Feb 22 01:30:50 +0000 2017",
+		"id": 834213830825799700,
+		"id_str": "834213830825799680",
+		"text": "RT @IndivisibleNC: .            MISSING PERSON\n.             @SenThomTillis\n.    @IndivisibleCLT #TownHall\n\n#TheResistance #StandIndivisibl…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TownHall",
+					"indices": [
+						97,
+						106
+					]
+				},
+				{
+					"text": "TheResistance",
+					"indices": [
+						108,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IndivisibleNC",
+					"name": "Indivisible NC",
+					"id": 1723251780,
+					"id_str": "1723251780",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "SenThomTillis",
+					"name": "Senator Thom Tillis",
+					"id": 2964174789,
+					"id_str": "2964174789",
+					"indices": [
+						61,
+						75
+					]
+				},
+				{
+					"screen_name": "IndivisibleCLT",
+					"name": "IndivisibleCLT",
+					"id": 820628655881801700,
+					"id_str": "820628655881801728",
+					"indices": [
+						81,
+						96
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "AltRogueSample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Resist",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7204,
+			"friends_count": 987,
+			"listed_count": 501,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38520,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Feb 22 00:13:34 +0000 2017",
+			"id": 834194383171895300,
+			"id_str": "834194383171895296",
+			"text": ".            MISSING PERSON\n.             @SenThomTillis\n.    @IndivisibleCLT #TownHall\n\n#TheResistance… https://t.co/l2VLMCJmzi",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TownHall",
+						"indices": [
+							78,
+							87
+						]
+					},
+					{
+						"text": "TheResistance",
+						"indices": [
+							89,
+							103
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SenThomTillis",
+						"name": "Senator Thom Tillis",
+						"id": 2964174789,
+						"id_str": "2964174789",
+						"indices": [
+							42,
+							56
+						]
+					},
+					{
+						"screen_name": "IndivisibleCLT",
+						"name": "IndivisibleCLT",
+						"id": 820628655881801700,
+						"id_str": "820628655881801728",
+						"indices": [
+							62,
+							77
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/l2VLMCJmzi",
+						"expanded_url": "https://twitter.com/i/web/status/834194383171895296",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							105,
+							128
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1723251780,
+				"id_str": "1723251780",
+				"name": "Indivisible NC",
+				"screen_name": "IndivisibleNC",
+				"location": "Charlotte, NC",
+				"description": "https://t.co/r3qMR7K0U2\n\nTaking action in NC Senate & Reps offices in Charlotte Area\n\nI'm NC09 / NC Sen 41 / NC House 103",
+				"url": "https://t.co/hK9yDSSRsp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hK9yDSSRsp",
+								"expanded_url": "https://www.indivisibleguide.com/",
+								"display_url": "indivisibleguide.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/r3qMR7K0U2",
+								"expanded_url": "https://www.facebook.com/CharlotteIndivisible/",
+								"display_url": "facebook.com/CharlotteIndiv…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1279,
+				"friends_count": 890,
+				"listed_count": 42,
+				"created_at": "Mon Sep 02 19:39:30 +0000 2013",
+				"favourites_count": 670,
+				"utc_offset": -14400,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1125,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/833038320213057536/Lz7gL49X_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/833038320213057536/Lz7gL49X_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1723251780/1486776576",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 248,
+			"favorite_count": 375,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 248,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Feb 21 05:43:38 +0000 2017",
 		"id": 833915059680247800,
 		"id_str": "833915059680247809",
