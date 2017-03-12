@@ -1,6 +1,259 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Sun Mar 12 03:23:29 +0000 2017",
+		"id": 840765159983460400,
+		"id_str": "840765159983460352",
+		"text": "RT @aparrish: working on a bot that is the \"inverse\" of @JustToSayBot (i.e., leaves words intact that @JustToSayBot randomizes and vice ver…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aparrish",
+					"name": "Allison Parrish",
+					"id": 6857962,
+					"id_str": "6857962",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "JustToSayBot",
+					"name": "This Is Just to Say",
+					"id": 1591657148,
+					"id_str": "1591657148",
+					"indices": [
+						56,
+						69
+					]
+				},
+				{
+					"screen_name": "JustToSayBot",
+					"name": "This Is Just to Say",
+					"id": 1591657148,
+					"id_str": "1591657148",
+					"indices": [
+						102,
+						115
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "AltRogueSample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Resist",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7209,
+			"friends_count": 995,
+			"listed_count": 499,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38604,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820742353459757056/sURmK35T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Mar 12 03:17:17 +0000 2017",
+			"id": 840763599471673300,
+			"id_str": "840763599471673344",
+			"text": "working on a bot that is the \"inverse\" of @JustToSayBot (i.e., leaves words intact that @JustToSayBot randomizes an… https://t.co/EBZsTDLPBJ",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "JustToSayBot",
+						"name": "This Is Just to Say",
+						"id": 1591657148,
+						"id_str": "1591657148",
+						"indices": [
+							42,
+							55
+						]
+					},
+					{
+						"screen_name": "JustToSayBot",
+						"name": "This Is Just to Say",
+						"id": 1591657148,
+						"id_str": "1591657148",
+						"indices": [
+							88,
+							101
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/EBZsTDLPBJ",
+						"expanded_url": "https://twitter.com/i/web/status/840763599471673344",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6857962,
+				"id_str": "6857962",
+				"name": "Allison Parrish",
+				"screen_name": "aparrish",
+				"location": "Brooklyn, NY",
+				"description": "Creative writing w/procedural methods. Faculty at @ITP_NYU and co-designer of @rewordable. My bots: https://t.co/ZhhCXX5tdQ",
+				"url": "https://t.co/NvexPAokK8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NvexPAokK8",
+								"expanded_url": "http://www.decontextualize.com/",
+								"display_url": "decontextualize.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ZhhCXX5tdQ",
+								"expanded_url": "https://twitter.com/aparrish/lists/my-bots",
+								"display_url": "twitter.com/aparrish/lists…",
+								"indices": [
+									100,
+									123
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4449,
+				"friends_count": 1171,
+				"listed_count": 230,
+				"created_at": "Sat Jun 16 19:54:12 +0000 2007",
+				"favourites_count": 29179,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13035,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/4483699/phelpslovecraft.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/4483699/phelpslovecraft.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/753298903072641024/J2ItyKut_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/753298903072641024/J2ItyKut_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6857962/1430626711",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 20,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Mar 11 01:55:50 +0000 2017",
 		"id": 840380714294116400,
 		"id_str": "840380714294116352",
