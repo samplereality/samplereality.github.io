@@ -1,6 +1,575 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Sat Apr 08 00:30:34 +0000 2017",
+		"id": 850506117818056700,
+		"id_str": "850506117818056705",
+		"text": "/leave channel",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Professor and Scholar of Digital Media and Culture at Davidson College. Pronouns: it, its, it's",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7264,
+			"friends_count": 1006,
+			"listed_count": 505,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38734,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Apr 08 00:25:42 +0000 2017",
+		"id": 850504892603134000,
+		"id_str": "850504892603133952",
+		"text": "RT @alienated: PSA for librarians: occasionally check how the World Book encyclopedia is arranged on your shelves https://t.co/UznSIN9qcp",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alienated",
+					"name": "Darren Wershler",
+					"id": 15125180,
+					"id_str": "15125180",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 850321564939759600,
+					"id_str": "850321564939759616",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/C8zy9UcWsAAAfia.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8zy9UcWsAAAfia.jpg",
+					"url": "https://t.co/UznSIN9qcp",
+					"display_url": "pic.twitter.com/UznSIN9qcp",
+					"expanded_url": "https://twitter.com/alienated/status/850321574662209536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 850321574662209500,
+					"source_status_id_str": "850321574662209536",
+					"source_user_id": 15125180,
+					"source_user_id_str": "15125180"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 850321564939759600,
+					"id_str": "850321564939759616",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/C8zy9UcWsAAAfia.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8zy9UcWsAAAfia.jpg",
+					"url": "https://t.co/UznSIN9qcp",
+					"display_url": "pic.twitter.com/UznSIN9qcp",
+					"expanded_url": "https://twitter.com/alienated/status/850321574662209536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 850321574662209500,
+					"source_status_id_str": "850321574662209536",
+					"source_user_id": 15125180,
+					"source_user_id_str": "15125180"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Professor and Scholar of Digital Media and Culture at Davidson College. Pronouns: it, its, it's",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7264,
+			"friends_count": 1006,
+			"listed_count": 505,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38734,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Apr 07 12:17:16 +0000 2017",
+			"id": 850321574662209500,
+			"id_str": "850321574662209536",
+			"text": "PSA for librarians: occasionally check how the World Book encyclopedia is arranged on your shelves https://t.co/UznSIN9qcp",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 850321564939759600,
+						"id_str": "850321564939759616",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/C8zy9UcWsAAAfia.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8zy9UcWsAAAfia.jpg",
+						"url": "https://t.co/UznSIN9qcp",
+						"display_url": "pic.twitter.com/UznSIN9qcp",
+						"expanded_url": "https://twitter.com/alienated/status/850321574662209536/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 850321564939759600,
+						"id_str": "850321564939759616",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/C8zy9UcWsAAAfia.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8zy9UcWsAAAfia.jpg",
+						"url": "https://t.co/UznSIN9qcp",
+						"display_url": "pic.twitter.com/UznSIN9qcp",
+						"expanded_url": "https://twitter.com/alienated/status/850321574662209536/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15125180,
+				"id_str": "15125180",
+				"name": "Darren Wershler",
+				"screen_name": "alienated",
+				"location": "Montreal",
+				"description": "professor, recovering poet, writer, warrior of the cosmic void",
+				"url": "http://t.co/BlTI3uslM6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/BlTI3uslM6",
+								"expanded_url": "http://www.alienated.net",
+								"display_url": "alienated.net",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3742,
+				"friends_count": 509,
+				"listed_count": 234,
+				"created_at": "Sun Jun 15 15:00:47 +0000 2008",
+				"favourites_count": 1961,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 16342,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/827354444/7431a099b41f3c9b819d1998cd5a01c5.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/827354444/7431a099b41f3c9b819d1998cd5a01c5.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/55481016/darranimescrn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/55481016/darranimescrn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15125180/1459861937",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19157,
+			"favorite_count": 38277,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 19157,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Apr 08 00:22:46 +0000 2017",
+		"id": 850504153457676300,
+		"id_str": "850504153457676288",
+		"text": "So @muffinista set up a bot-centric Mastodon, and I've got @fascists_exe cross-posting there now. https://t.co/YVjAOVNY4y",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "muffinista",
+					"name": "🏴 colin mitchell 🏴",
+					"id": 1160471,
+					"id_str": "1160471",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "fascists_exe",
+					"name": "Kill Fascists",
+					"id": 815366238037823500,
+					"id_str": "815366238037823488",
+					"indices": [
+						59,
+						72
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YVjAOVNY4y",
+					"expanded_url": "https://botsin.space/@fascists_exe/7017",
+					"display_url": "botsin.space/@fascists_exe/…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Professor and Scholar of Digital Media and Culture at Davidson College. Pronouns: it, its, it's",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7264,
+			"friends_count": 1006,
+			"listed_count": 505,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38734,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Apr 07 02:15:07 +0000 2017",
 		"id": 850170038128693200,
 		"id_str": "850170038128693248",
