@@ -1,6 +1,749 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Thu Apr 13 02:37:59 +0000 2017",
+		"id": 852350123246071800,
+		"id_str": "852350123246071808",
+		"text": "In civilizations without boats, dreams dry up, espionage takes the place of adventure, and the police take the place of pirates. - Foucault",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Professor and Scholar of Digital Media and Culture at Davidson College. Pronouns: it, its, it's",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7279,
+			"friends_count": 1006,
+			"listed_count": 505,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38751,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Apr 12 13:36:00 +0000 2017",
+		"id": 852153329409040400,
+		"id_str": "852153329409040384",
+		"text": "Approximate number of times I've played Aimee Mann's new album since last Tuesday: 391.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Professor and Scholar of Digital Media and Culture at Davidson College. Pronouns: it, its, it's",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7279,
+			"friends_count": 1006,
+			"listed_count": 505,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38751,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Apr 12 13:14:49 +0000 2017",
+		"id": 852147996548620300,
+		"id_str": "852147996548620288",
+		"text": "RT @Bulkles: Use the force, Harry! #OffendEveryoneIn4Words https://t.co/BpgjtZDtDD",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OffendEveryoneIn4Words",
+					"indices": [
+						35,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bulkles",
+					"name": "Scottybu",
+					"id": 2395226010,
+					"id_str": "2395226010",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 851945897726312400,
+					"id_str": "851945897726312448",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/C9K4R7nUAAAhc3q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9K4R7nUAAAhc3q.jpg",
+					"url": "https://t.co/BpgjtZDtDD",
+					"display_url": "pic.twitter.com/BpgjtZDtDD",
+					"expanded_url": "https://twitter.com/Bulkles/status/851945902730117120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 300,
+							"h": 225,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 300,
+							"h": 225,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 300,
+							"h": 225,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 851945902730117100,
+					"source_status_id_str": "851945902730117120",
+					"source_user_id": 2395226010,
+					"source_user_id_str": "2395226010"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 851945897726312400,
+					"id_str": "851945897726312448",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/C9K4R7nUAAAhc3q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9K4R7nUAAAhc3q.jpg",
+					"url": "https://t.co/BpgjtZDtDD",
+					"display_url": "pic.twitter.com/BpgjtZDtDD",
+					"expanded_url": "https://twitter.com/Bulkles/status/851945902730117120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 300,
+							"h": 225,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 300,
+							"h": 225,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 300,
+							"h": 225,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 851945902730117100,
+					"source_status_id_str": "851945902730117120",
+					"source_user_id": 2395226010,
+					"source_user_id_str": "2395226010"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Professor and Scholar of Digital Media and Culture at Davidson College. Pronouns: it, its, it's",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7279,
+			"friends_count": 1006,
+			"listed_count": 505,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38751,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 11 23:51:46 +0000 2017",
+			"id": 851945902730117100,
+			"id_str": "851945902730117120",
+			"text": "Use the force, Harry! #OffendEveryoneIn4Words https://t.co/BpgjtZDtDD",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OffendEveryoneIn4Words",
+						"indices": [
+							22,
+							45
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 851945897726312400,
+						"id_str": "851945897726312448",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/media/C9K4R7nUAAAhc3q.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9K4R7nUAAAhc3q.jpg",
+						"url": "https://t.co/BpgjtZDtDD",
+						"display_url": "pic.twitter.com/BpgjtZDtDD",
+						"expanded_url": "https://twitter.com/Bulkles/status/851945902730117120/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 300,
+								"h": 225,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 300,
+								"h": 225,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 300,
+								"h": 225,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 851945897726312400,
+						"id_str": "851945897726312448",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/media/C9K4R7nUAAAhc3q.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9K4R7nUAAAhc3q.jpg",
+						"url": "https://t.co/BpgjtZDtDD",
+						"display_url": "pic.twitter.com/BpgjtZDtDD",
+						"expanded_url": "https://twitter.com/Bulkles/status/851945902730117120/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 300,
+								"h": 225,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 300,
+								"h": 225,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 300,
+								"h": 225,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2395226010,
+				"id_str": "2395226010",
+				"name": "Scottybu",
+				"screen_name": "Bulkles",
+				"location": "",
+				"description": "movie fan, super hero fan, family fan, sports fan, TV fan, ceiling fan, comedy fan, desk fan. I like things.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 66,
+				"friends_count": 39,
+				"listed_count": 4,
+				"created_at": "Mon Mar 17 22:58:25 +0000 2014",
+				"favourites_count": 187,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1631,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/656866972466941953/DkgFCtCK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/656866972466941953/DkgFCtCK_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 234,
+			"favorite_count": 678,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 234,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Apr 12 12:57:38 +0000 2017",
+		"id": 852143671600455700,
+		"id_str": "852143671600455680",
+		"text": "Give it up, boys. You lost that battle. The NC GOP is an embarrassment. https://t.co/dOVMpaLbfc",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dOVMpaLbfc",
+					"expanded_url": "https://twitter.com/JeffJacksonNC/status/852142938679332864",
+					"display_url": "twitter.com/JeffJacksonNC/…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Professor and Scholar of Digital Media and Culture at Davidson College. Pronouns: it, its, it's",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7279,
+			"friends_count": 1006,
+			"listed_count": 505,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38751,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 852142938679332900,
+		"quoted_status_id_str": "852142938679332864",
+		"quoted_status": {
+			"created_at": "Wed Apr 12 12:54:43 +0000 2017",
+			"id": 852142938679332900,
+			"id_str": "852142938679332864",
+			"text": "House GOP have filed a bill to ban same-sex marriage in defiance of the Supreme Court. It won't come to a vote, but… https://t.co/LPoEo0TiSe",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/LPoEo0TiSe",
+						"expanded_url": "https://twitter.com/i/web/status/852142938679332864",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 124820305,
+				"id_str": "124820305",
+				"name": "Sen. Jeff Jackson",
+				"screen_name": "JeffJacksonNC",
+				"location": "Charlotte, NC",
+				"description": "Dad, husband, soldier, state Senator",
+				"url": "https://t.co/LmoMkuReS5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LmoMkuReS5",
+								"expanded_url": "http://JeffJacksonNC.com",
+								"display_url": "JeffJacksonNC.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13711,
+				"friends_count": 1497,
+				"listed_count": 249,
+				"created_at": "Sat Mar 20 17:42:39 +0000 2010",
+				"favourites_count": 3461,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 4083,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/713467404290928644/mHCj5s5E_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/713467404290928644/mHCj5s5E_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/124820305/1399237885",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 96,
+			"favorite_count": 175,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Apr 12 01:10:20 +0000 2017",
 		"id": 851965675556020200,
 		"id_str": "851965675556020224",
