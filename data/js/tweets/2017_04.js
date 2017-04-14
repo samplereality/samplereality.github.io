@@ -1,6 +1,786 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Fri Apr 14 01:14:03 +0000 2017",
+		"id": 852691388080762900,
+		"id_str": "852691388080762881",
+		"text": "RT @ironicsans: How to draw a dragon using Google AutoDraw. https://t.co/kqjehzn9H8",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ironicsans",
+					"name": "David Friedman",
+					"id": 14163141,
+					"id_str": "14163141",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 851884051799715800,
+					"id_str": "851884051799715840",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/851884051799715840/pu/img/HbKXTw5VVcfeK-G-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/851884051799715840/pu/img/HbKXTw5VVcfeK-G-.jpg",
+					"url": "https://t.co/kqjehzn9H8",
+					"display_url": "pic.twitter.com/kqjehzn9H8",
+					"expanded_url": "https://twitter.com/ironicsans/status/851884078987177984/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 249,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 751,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 851884078987178000,
+					"source_status_id_str": "851884078987177984",
+					"source_user_id": 14163141,
+					"source_user_id_str": "14163141"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 851884051799715800,
+					"id_str": "851884051799715840",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/851884051799715840/pu/img/HbKXTw5VVcfeK-G-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/851884051799715840/pu/img/HbKXTw5VVcfeK-G-.jpg",
+					"url": "https://t.co/kqjehzn9H8",
+					"display_url": "pic.twitter.com/kqjehzn9H8",
+					"expanded_url": "https://twitter.com/ironicsans/status/851884078987177984/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 249,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 751,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 851884078987178000,
+					"source_status_id_str": "851884078987177984",
+					"source_user_id": 14163141,
+					"source_user_id_str": "14163141",
+					"video_info": {
+						"aspect_ratio": [
+							184,
+							135
+						],
+						"duration_millis": 47585,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/851884051799715840/pu/vid/980x720/wwPXPtoTL7nbycrU.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/851884051799715840/pu/vid/490x360/ktPwz0fRT2q4pGIy.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/851884051799715840/pu/vid/244x180/RRo0O2LVPSrwbiZn.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/851884051799715840/pu/pl/ZBvIxJzyr2-qyJs9.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 14163141,
+							"id_str": "14163141",
+							"name": "David Friedman",
+							"screen_name": "ironicsans",
+							"location": "NY | DC",
+							"description": "Photographer. Filmmaker. Idea blogger.",
+							"url": "http://t.co/Gu2C2OAWc8",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "http://t.co/Gu2C2OAWc8",
+											"expanded_url": "http://www.davidfriedman.info",
+											"display_url": "davidfriedman.info",
+											"indices": [
+												0,
+												22
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 4658,
+							"friends_count": 1310,
+							"listed_count": 288,
+							"created_at": "Mon Mar 17 13:47:33 +0000 2008",
+							"favourites_count": 5374,
+							"utc_offset": -14400,
+							"time_zone": "Eastern Time (US & Canada)",
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 11430,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "AAB4B5",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/66248418/Untitled-1.gif",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/66248418/Untitled-1.gif",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/725767088384671744/mXTZkVbJ_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/725767088384671744/mXTZkVbJ_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/14163141/1352479545",
+							"profile_link_color": "0084B4",
+							"profile_sidebar_border_color": "BDDCAD",
+							"profile_sidebar_fill_color": "DDFFCC",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Professor and Scholar of Digital Media and Culture at Davidson College. Pronouns: it, its, it's",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7277,
+			"friends_count": 1005,
+			"listed_count": 505,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38754,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 11 19:46:06 +0000 2017",
+			"id": 851884078987178000,
+			"id_str": "851884078987177984",
+			"text": "How to draw a dragon using Google AutoDraw. https://t.co/kqjehzn9H8",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 851884051799715800,
+						"id_str": "851884051799715840",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/851884051799715840/pu/img/HbKXTw5VVcfeK-G-.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/851884051799715840/pu/img/HbKXTw5VVcfeK-G-.jpg",
+						"url": "https://t.co/kqjehzn9H8",
+						"display_url": "pic.twitter.com/kqjehzn9H8",
+						"expanded_url": "https://twitter.com/ironicsans/status/851884078987177984/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 600,
+								"h": 440,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 249,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 751,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 851884051799715800,
+						"id_str": "851884051799715840",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/851884051799715840/pu/img/HbKXTw5VVcfeK-G-.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/851884051799715840/pu/img/HbKXTw5VVcfeK-G-.jpg",
+						"url": "https://t.co/kqjehzn9H8",
+						"display_url": "pic.twitter.com/kqjehzn9H8",
+						"expanded_url": "https://twitter.com/ironicsans/status/851884078987177984/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 600,
+								"h": 440,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 249,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 751,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								184,
+								135
+							],
+							"duration_millis": 47585,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/851884051799715840/pu/vid/980x720/wwPXPtoTL7nbycrU.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/851884051799715840/pu/vid/490x360/ktPwz0fRT2q4pGIy.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/851884051799715840/pu/vid/244x180/RRo0O2LVPSrwbiZn.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/851884051799715840/pu/pl/ZBvIxJzyr2-qyJs9.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14163141,
+				"id_str": "14163141",
+				"name": "David Friedman",
+				"screen_name": "ironicsans",
+				"location": "NY | DC",
+				"description": "Photographer. Filmmaker. Idea blogger.",
+				"url": "http://t.co/Gu2C2OAWc8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Gu2C2OAWc8",
+								"expanded_url": "http://www.davidfriedman.info",
+								"display_url": "davidfriedman.info",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4658,
+				"friends_count": 1310,
+				"listed_count": 288,
+				"created_at": "Mon Mar 17 13:47:33 +0000 2008",
+				"favourites_count": 5374,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 11430,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "AAB4B5",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/66248418/Untitled-1.gif",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/66248418/Untitled-1.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/725767088384671744/mXTZkVbJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/725767088384671744/mXTZkVbJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14163141/1352479545",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 623,
+			"favorite_count": 952,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 623,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Apr 13 17:21:35 +0000 2017",
+		"id": 852572484629123100,
+		"id_str": "852572484629123074",
+		"text": "Preserving democracy is like making bread. Every day you have to knead the dough and make a fresh loaf.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Professor and Scholar of Digital Media and Culture at Davidson College. Pronouns: it, its, it's",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7277,
+			"friends_count": 1005,
+			"listed_count": 505,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38754,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Apr 13 16:44:41 +0000 2017",
+		"id": 852563201837477900,
+		"id_str": "852563201837477889",
+		"text": "RT @AMartinezPhd: @samplereality says, \"if it sounds like bullshit, it just might be.\" BE CRITICAL OF YOUR NEWS CONSUMPTION. #davidsonteach…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AMartinezPhd",
+					"name": "Amanda R. Martinez",
+					"id": 375723132,
+					"id_str": "375723132",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "samplereality",
+					"name": "Mark Sample",
+					"id": 8497292,
+					"id_str": "8497292",
+					"indices": [
+						18,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Professor and Scholar of Digital Media and Culture at Davidson College. Pronouns: it, its, it's",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7277,
+			"friends_count": 1005,
+			"listed_count": 505,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38754,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Apr 13 15:30:24 +0000 2017",
+			"id": 852544507396665300,
+			"id_str": "852544507396665345",
+			"text": "@samplereality says, \"if it sounds like bullshit, it just might be.\" BE CRITICAL OF YOUR NEWS CONSUMPTION.… https://t.co/6EwDej1ggU",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "samplereality",
+						"name": "Mark Sample",
+						"id": 8497292,
+						"id_str": "8497292",
+						"indices": [
+							0,
+							14
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/6EwDej1ggU",
+						"expanded_url": "https://twitter.com/i/web/status/852544507396665345",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							108,
+							131
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 8497292,
+			"in_reply_to_user_id_str": "8497292",
+			"in_reply_to_screen_name": "samplereality",
+			"user": {
+				"id": 375723132,
+				"id_str": "375723132",
+				"name": "Amanda R. Martinez",
+				"screen_name": "AMartinezPhd",
+				"location": "Davidson, NC",
+				"description": "Asst. Prof. of Communication Studies, Sociology, & Gender & Sexuallity Studies at Davidson College. Media effects, health comm, race/ethnicity, gender, & ID.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 472,
+				"friends_count": 1143,
+				"listed_count": 11,
+				"created_at": "Sun Sep 18 16:40:05 +0000 2011",
+				"favourites_count": 1807,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1579,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/764734949651992578/rXh_FzHc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/764734949651992578/rXh_FzHc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/375723132/1430528587",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Apr 13 02:37:59 +0000 2017",
 		"id": 852350123246071800,
 		"id_str": "852350123246071808",
