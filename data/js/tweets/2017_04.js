@@ -1,6 +1,528 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Mon Apr 17 01:40:28 +0000 2017",
+		"id": 853785197975924700,
+		"id_str": "853785197975924736",
+		"text": "RT @ATErickson: I have been angered and disheartened by this review. Still working on what to say in full, about how it matters in our fiel…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ATErickson",
+					"name": "Ansley Erickson",
+					"id": 87267162,
+					"id_str": "87267162",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "образец реальности",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Professor and Scholar of Digital Media and Culture at Davidson College. Pronouns: it, its, it's",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7282,
+			"friends_count": 1006,
+			"listed_count": 505,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38764,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 17 00:55:15 +0000 2017",
+			"id": 853773817709293600,
+			"id_str": "853773817709293570",
+			"text": "I have been angered and disheartened by this review. Still working on what to say in full, about how it matters in… https://t.co/IR81oDgTdy",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/IR81oDgTdy",
+						"expanded_url": "https://twitter.com/i/web/status/853773817709293570",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 87267162,
+				"id_str": "87267162",
+				"name": "Ansley Erickson",
+				"screen_name": "ATErickson",
+				"location": "New York, NY",
+				"description": "US cities, schools, & inequality, historically. On Nashville: Making the Unequal Metropolis (UChicago, 2016). On Harlem: In progress @EduHarlem. DH-curious.",
+				"url": "http://t.co/nIPoYpJ1iM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/nIPoYpJ1iM",
+								"expanded_url": "http://www.tc.columbia.edu/faculty/ate11",
+								"display_url": "tc.columbia.edu/faculty/ate11",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1118,
+				"friends_count": 753,
+				"listed_count": 32,
+				"created_at": "Tue Nov 03 19:49:47 +0000 2009",
+				"favourites_count": 901,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2042,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/716672832692948995/xzpjTNmv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/716672832692948995/xzpjTNmv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/87267162/1459703042",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 853647975729463300,
+			"quoted_status_id_str": "853647975729463296",
+			"quoted_status": {
+				"created_at": "Sun Apr 16 16:35:12 +0000 2017",
+				"id": 853647975729463300,
+				"id_str": "853647975729463296",
+				"text": "Shocking to read that AHR assigned a white supremacist to review my colleague Ansley Erickson’s book! https://t.co/Srnc66SemJ",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/Srnc66SemJ",
+							"expanded_url": "https://drive.google.com/file/d/0B07yGbz1WxbLWEdZREZrN0hIaHc/view",
+							"display_url": "drive.google.com/file/d/0B07yGb…",
+							"indices": [
+								102,
+								125
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 5992502,
+					"id_str": "5992502",
+					"name": "manan ahmed",
+					"screen_name": "sepoy",
+					"location": "nyc",
+					"description": "historian, medievalist, author, DH.er, walker, frumious bandersnatch.",
+					"url": "https://t.co/X1uhn3R1F8",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/X1uhn3R1F8",
+									"expanded_url": "http://history.columbia.edu/faculty/Ahmed.html",
+									"display_url": "history.columbia.edu/faculty/Ahmed.…",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 7775,
+					"friends_count": 275,
+					"listed_count": 268,
+					"created_at": "Sat May 12 17:21:19 +0000 2007",
+					"favourites_count": 512,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 22216,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": true,
+					"profile_background_color": "9AE4E8",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/231815334/twitter.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/231815334/twitter.jpg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/850101567105757184/UYscx31H_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/850101567105757184/UYscx31H_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/5992502/1484318125",
+					"profile_link_color": "FF001E",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "E0FF92",
+					"profile_text_color": "000000",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 75,
+				"favorite_count": 63,
+				"favorited": false,
+				"retweeted": true,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 113,
+			"favorite_count": 147,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 853647975729463300,
+		"quoted_status_id_str": "853647975729463296",
+		"retweet_count": 113,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Apr 17 01:33:05 +0000 2017",
+		"id": 853783338309619700,
+		"id_str": "853783338309619712",
+		"text": "@HiltonKelly1 Have you been following this? https://t.co/tWlimrZvRd",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HiltonKelly1",
+					"name": "Hilton Kelly",
+					"id": 600600278,
+					"id_str": "600600278",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tWlimrZvRd",
+					"expanded_url": "https://twitter.com/sepoy/status/853647975729463296",
+					"display_url": "twitter.com/sepoy/status/8…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 600600278,
+		"in_reply_to_user_id_str": "600600278",
+		"in_reply_to_screen_name": "HiltonKelly1",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "образец реальности",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Professor and Scholar of Digital Media and Culture at Davidson College. Pronouns: it, its, it's",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7282,
+			"friends_count": 1006,
+			"listed_count": 505,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38764,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 853647975729463300,
+		"quoted_status_id_str": "853647975729463296",
+		"quoted_status": {
+			"created_at": "Sun Apr 16 16:35:12 +0000 2017",
+			"id": 853647975729463300,
+			"id_str": "853647975729463296",
+			"text": "Shocking to read that AHR assigned a white supremacist to review my colleague Ansley Erickson’s book! https://t.co/Srnc66SemJ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Srnc66SemJ",
+						"expanded_url": "https://drive.google.com/file/d/0B07yGbz1WxbLWEdZREZrN0hIaHc/view",
+						"display_url": "drive.google.com/file/d/0B07yGb…",
+						"indices": [
+							102,
+							125
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5992502,
+				"id_str": "5992502",
+				"name": "manan ahmed",
+				"screen_name": "sepoy",
+				"location": "nyc",
+				"description": "historian, medievalist, author, DH.er, walker, frumious bandersnatch.",
+				"url": "https://t.co/X1uhn3R1F8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/X1uhn3R1F8",
+								"expanded_url": "http://history.columbia.edu/faculty/Ahmed.html",
+								"display_url": "history.columbia.edu/faculty/Ahmed.…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7775,
+				"friends_count": 275,
+				"listed_count": 268,
+				"created_at": "Sat May 12 17:21:19 +0000 2007",
+				"favourites_count": 512,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 22216,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/231815334/twitter.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/231815334/twitter.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/850101567105757184/UYscx31H_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/850101567105757184/UYscx31H_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5992502/1484318125",
+				"profile_link_color": "FF001E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 75,
+			"favorite_count": 63,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Apr 16 01:23:09 +0000 2017",
 		"id": 853418450915651600,
 		"id_str": "853418450915651584",
