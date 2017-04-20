@@ -1,6 +1,781 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Thu Apr 20 03:17:24 +0000 2017",
+		"id": 854896756663955500,
+		"id_str": "854896756663955458",
+		"text": "RT @_NickMcGuire: https://t.co/v3wfiKXdGP",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_NickMcGuire",
+					"name": "Nick McG",
+					"id": 234121500,
+					"id_str": "234121500",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 854771486120398800,
+					"id_str": "854771486120398848",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/C9zCI0pW0AApy0B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9zCI0pW0AApy0B.jpg",
+					"url": "https://t.co/v3wfiKXdGP",
+					"display_url": "pic.twitter.com/v3wfiKXdGP",
+					"expanded_url": "https://twitter.com/_NickMcGuire/status/854771492214722562/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 499,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 499,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 854771492214722600,
+					"source_status_id_str": "854771492214722562",
+					"source_user_id": 234121500,
+					"source_user_id_str": "234121500"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 854771486120398800,
+					"id_str": "854771486120398848",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/C9zCI0pW0AApy0B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9zCI0pW0AApy0B.jpg",
+					"url": "https://t.co/v3wfiKXdGP",
+					"display_url": "pic.twitter.com/v3wfiKXdGP",
+					"expanded_url": "https://twitter.com/_NickMcGuire/status/854771492214722562/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 499,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 499,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 854771492214722600,
+					"source_status_id_str": "854771492214722562",
+					"source_user_id": 234121500,
+					"source_user_id_str": "234121500"
+				},
+				{
+					"id": 854771486128840700,
+					"id_str": "854771486128840704",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/C9zCI0rXoAAdd37.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9zCI0rXoAAdd37.jpg",
+					"url": "https://t.co/v3wfiKXdGP",
+					"display_url": "pic.twitter.com/v3wfiKXdGP",
+					"expanded_url": "https://twitter.com/_NickMcGuire/status/854771492214722562/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 529,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 529,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 854771492214722600,
+					"source_status_id_str": "854771492214722562",
+					"source_user_id": 234121500,
+					"source_user_id_str": "234121500"
+				},
+				{
+					"id": 854771486141362200,
+					"id_str": "854771486141362177",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/C9zCI0uWsAEKZ0j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9zCI0uWsAEKZ0j.jpg",
+					"url": "https://t.co/v3wfiKXdGP",
+					"display_url": "pic.twitter.com/v3wfiKXdGP",
+					"expanded_url": "https://twitter.com/_NickMcGuire/status/854771492214722562/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 447,
+							"h": 390,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 447,
+							"h": 390,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 447,
+							"h": 390,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 854771492214722600,
+					"source_status_id_str": "854771492214722562",
+					"source_user_id": 234121500,
+					"source_user_id_str": "234121500"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "образец реальности",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Professor and Scholar of Digital Media and Culture at Davidson College. Pronouns: it, its, it's",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7291,
+			"friends_count": 1006,
+			"listed_count": 505,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38767,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 19 18:59:39 +0000 2017",
+			"id": 854771492214722600,
+			"id_str": "854771492214722562",
+			"text": "https://t.co/v3wfiKXdGP",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 854771486120398800,
+						"id_str": "854771486120398848",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/C9zCI0pW0AApy0B.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9zCI0pW0AApy0B.jpg",
+						"url": "https://t.co/v3wfiKXdGP",
+						"display_url": "pic.twitter.com/v3wfiKXdGP",
+						"expanded_url": "https://twitter.com/_NickMcGuire/status/854771492214722562/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 452,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 750,
+								"h": 499,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 499,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 854771486120398800,
+						"id_str": "854771486120398848",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/C9zCI0pW0AApy0B.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9zCI0pW0AApy0B.jpg",
+						"url": "https://t.co/v3wfiKXdGP",
+						"display_url": "pic.twitter.com/v3wfiKXdGP",
+						"expanded_url": "https://twitter.com/_NickMcGuire/status/854771492214722562/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 452,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 750,
+								"h": 499,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 499,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 854771486128840700,
+						"id_str": "854771486128840704",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/C9zCI0rXoAAdd37.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9zCI0rXoAAdd37.jpg",
+						"url": "https://t.co/v3wfiKXdGP",
+						"display_url": "pic.twitter.com/v3wfiKXdGP",
+						"expanded_url": "https://twitter.com/_NickMcGuire/status/854771492214722562/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 750,
+								"h": 529,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 529,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 854771486141362200,
+						"id_str": "854771486141362177",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/C9zCI0uWsAEKZ0j.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9zCI0uWsAEKZ0j.jpg",
+						"url": "https://t.co/v3wfiKXdGP",
+						"display_url": "pic.twitter.com/v3wfiKXdGP",
+						"expanded_url": "https://twitter.com/_NickMcGuire/status/854771492214722562/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 447,
+								"h": 390,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 447,
+								"h": 390,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 447,
+								"h": 390,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 234121500,
+				"id_str": "234121500",
+				"name": "Nick McG",
+				"screen_name": "_NickMcGuire",
+				"location": "Durham, NC",
+				"description": "@DavidsonCollege '14 | @DukeLaw '19 Nats. 'Cats. Democrats.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 404,
+				"friends_count": 550,
+				"listed_count": 3,
+				"created_at": "Tue Jan 04 22:14:42 +0000 2011",
+				"favourites_count": 454,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 278,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/605103156385693696/CRkaezzy.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/605103156385693696/CRkaezzy.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/854825883143729152/BVY8gM-i_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/854825883143729152/BVY8gM-i_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/234121500/1486934387",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Thu Apr 20 03:14:36 +0000 2017",
+		"id": 854896050720706600,
+		"id_str": "854896050720706560",
+		"text": "me irl https://t.co/deK0H5t47r",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/deK0H5t47r",
+					"expanded_url": "https://twitter.com/BookImages/status/854641247281184768",
+					"display_url": "twitter.com/BookImages/sta…",
+					"indices": [
+						7,
+						30
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "образец реальности",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Professor and Scholar of Digital Media and Culture at Davidson College. Pronouns: it, its, it's",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7291,
+			"friends_count": 1006,
+			"listed_count": 505,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38767,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 854641247281184800,
+		"quoted_status_id_str": "854641247281184768",
+		"quoted_status": {
+			"created_at": "Wed Apr 19 10:22:06 +0000 2017",
+			"id": 854641247281184800,
+			"id_str": "854641247281184768",
+			"text": "page 283 of \"Science and literature in the Middle Ages and the...\" (1878) https://t.co/JwWzWHQeRg https://t.co/21Rbjipf4H",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/JwWzWHQeRg",
+						"expanded_url": "https://www.flickr.com/photos/internetarchivebookimages/14578175959",
+						"display_url": "flickr.com/photos/interne…",
+						"indices": [
+							74,
+							97
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 854641245431504900,
+						"id_str": "854641245431504897",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/C9xLr0RXoAEGyk0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9xLr0RXoAEGyk0.jpg",
+						"url": "https://t.co/21Rbjipf4H",
+						"display_url": "pic.twitter.com/21Rbjipf4H",
+						"expanded_url": "https://twitter.com/BookImages/status/854641247281184768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 427,
+								"h": 500,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 427,
+								"h": 500,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 427,
+								"h": 500,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 854641245431504900,
+						"id_str": "854641245431504897",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/C9xLr0RXoAEGyk0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9xLr0RXoAEGyk0.jpg",
+						"url": "https://t.co/21Rbjipf4H",
+						"display_url": "pic.twitter.com/21Rbjipf4H",
+						"expanded_url": "https://twitter.com/BookImages/status/854641247281184768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 427,
+								"h": 500,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 427,
+								"h": 500,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 427,
+								"h": 500,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.samplereality.com\" rel=\"nofollow\">bookimages</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2781487608,
+				"id_str": "2781487608",
+				"name": "Old Book Pics",
+				"screen_name": "BookImages",
+				"location": "",
+				"description": "Random historical images from the millions of pages of books in the Internet Archive collection. Bot by @samplereality. On Tumblr at http://t.co/LfFt8RGlTX",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/LfFt8RGlTX",
+								"expanded_url": "http://historicalbookimages.tumblr.com/",
+								"display_url": "historicalbookimages.tumblr.com",
+								"indices": [
+									133,
+									155
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2212,
+				"friends_count": 52,
+				"listed_count": 148,
+				"created_at": "Sun Aug 31 03:20:04 +0000 2014",
+				"favourites_count": 1,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10249,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/505931209977761792/SuPvTzhu_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/505931209977761792/SuPvTzhu_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2781487608/1409460244",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Apr 18 21:35:31 +0000 2017",
 		"id": 854448329266167800,
 		"id_str": "854448329266167809",
