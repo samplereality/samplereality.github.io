@@ -1,6 +1,554 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Sat May 27 01:57:52 +0000 2017",
+		"id": 868285091646246900,
+		"id_str": "868285091646246913",
+		"text": "RT @fascists_exe: THIS CATALOGUE KILLS FASCISTS https://t.co/LYPEW84pdb",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fascists_exe",
+					"name": "Kill Fascists",
+					"id": 815366238037823500,
+					"id_str": "815366238037823488",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 868230041867518000,
+					"id_str": "868230041867517952",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/DAySn3zWAAApXHa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DAySn3zWAAApXHa.jpg",
+					"url": "https://t.co/LYPEW84pdb",
+					"display_url": "pic.twitter.com/LYPEW84pdb",
+					"expanded_url": "https://twitter.com/fascists_exe/status/868230044765835264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 353,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 353,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 353,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 868230044765835300,
+					"source_status_id_str": "868230044765835264",
+					"source_user_id": 815366238037823500,
+					"source_user_id_str": "815366238037823488"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 868230041867518000,
+					"id_str": "868230041867517952",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/DAySn3zWAAApXHa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DAySn3zWAAApXHa.jpg",
+					"url": "https://t.co/LYPEW84pdb",
+					"display_url": "pic.twitter.com/LYPEW84pdb",
+					"expanded_url": "https://twitter.com/fascists_exe/status/868230044765835264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 353,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 353,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 353,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 868230044765835300,
+					"source_status_id_str": "868230044765835264",
+					"source_user_id": 815366238037823500,
+					"source_user_id_str": "815366238037823488"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample, Mark",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Professor and Scholar of Digital Media and Culture at Davidson College. Notorious fake news writer. Leaker.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7380,
+			"friends_count": 1013,
+			"listed_count": 505,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38925,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri May 26 22:19:08 +0000 2017",
+			"id": 868230044765835300,
+			"id_str": "868230044765835264",
+			"text": "THIS CATALOGUE KILLS FASCISTS https://t.co/LYPEW84pdb",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 868230041867518000,
+						"id_str": "868230041867517952",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/DAySn3zWAAApXHa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DAySn3zWAAApXHa.jpg",
+						"url": "https://t.co/LYPEW84pdb",
+						"display_url": "pic.twitter.com/LYPEW84pdb",
+						"expanded_url": "https://twitter.com/fascists_exe/status/868230044765835264/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 500,
+								"h": 353,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 500,
+								"h": 353,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 353,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 868230041867518000,
+						"id_str": "868230041867517952",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/DAySn3zWAAApXHa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DAySn3zWAAApXHa.jpg",
+						"url": "https://t.co/LYPEW84pdb",
+						"display_url": "pic.twitter.com/LYPEW84pdb",
+						"expanded_url": "https://twitter.com/fascists_exe/status/868230044765835264/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 500,
+								"h": 353,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 500,
+								"h": 353,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 353,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">This Machine</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 815366238037823500,
+				"id_str": "815366238037823488",
+				"name": "Kill Fascists",
+				"screen_name": "fascists_exe",
+				"location": "",
+				"description": "this bot kills fascists. inspired by woody guthrie. made by @samplereality.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2107,
+				"friends_count": 1,
+				"listed_count": 55,
+				"created_at": "Sun Jan 01 01:17:14 +0000 2017",
+				"favourites_count": 0,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1594,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/815368021158088704/aDlV3uCV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/815368021158088704/aDlV3uCV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/815366238037823488/1484183176",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat May 27 01:55:20 +0000 2017",
+		"id": 868284453466107900,
+		"id_str": "868284453466107904",
+		"text": "To be fair, what baby-faced chip-on-his-shoulder slum lord HASN'T asked for a secret Russian spy phone? https://t.co/lqINtVnsJC",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lqINtVnsJC",
+					"expanded_url": "https://twitter.com/HeidiPrzybyla/status/868282336269533186",
+					"display_url": "twitter.com/HeidiPrzybyla/…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample, Mark",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Professor and Scholar of Digital Media and Culture at Davidson College. Notorious fake news writer. Leaker.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7380,
+			"friends_count": 1013,
+			"listed_count": 505,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38925,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 868272233160085500,
+		"quoted_status_id_str": "868272233160085504",
+		"quoted_status": {
+			"created_at": "Sat May 27 01:06:46 +0000 2017",
+			"id": 868272233160085500,
+			"id_str": "868272233160085504",
+			"text": "From no contacts to here:\nRussian ambassador told Moscow Kushner wanted secret communications channel with Kremlin \nhttps://t.co/RcMgnkp4U5",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/RcMgnkp4U5",
+						"expanded_url": "http://wapo.st/2qsJQk0?tid=ss_tw&utm_term=.4aeed5e12d3a",
+						"display_url": "wapo.st/2qsJQk0?tid=ss…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 234186830,
+				"id_str": "234186830",
+				"name": "Heidi Przybyla",
+				"screen_name": "HeidiPrzybyla",
+				"location": "Washington, DC",
+				"description": "Sr Politics Reporter @USAToday; @MSNBC political analyst (Priors: @HillaryClinton/Romney/Bush 43); \"Prezbella\"",
+				"url": "https://t.co/dBrbOK8cT0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dBrbOK8cT0",
+								"expanded_url": "https://www.facebook.com/heidiprzybylaofficial1/?ref=",
+								"display_url": "facebook.com/heidiprzybylao…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17454,
+				"friends_count": 1036,
+				"listed_count": 588,
+				"created_at": "Wed Jan 05 01:32:51 +0000 2011",
+				"favourites_count": 1016,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8257,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/620663691919278080/oTkx3zZS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/620663691919278080/oTkx3zZS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/234186830/1434503148",
+				"profile_link_color": "001A99",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 61,
+			"favorite_count": 133,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri May 26 03:54:49 +0000 2017",
 		"id": 867952134347673600,
 		"id_str": "867952134347673601",
