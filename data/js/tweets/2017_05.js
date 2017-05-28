@@ -1,6 +1,1076 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Sun May 28 03:41:07 +0000 2017",
+		"id": 868673464395325400,
+		"id_str": "868673464395325440",
+		"text": "Happy Memorial Day! https://t.co/xYjgYhQav8",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xYjgYhQav8",
+					"expanded_url": "https://twitter.com/MobyDickatSea/status/868660861245816834",
+					"display_url": "twitter.com/MobyDickatSea/…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample, Mark",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Professor and Scholar of Digital Media and Culture at Davidson College. Notorious fake news writer. Leaker.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7383,
+			"friends_count": 1013,
+			"listed_count": 505,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38930,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 868660861245816800,
+		"quoted_status_id_str": "868660861245816834",
+		"quoted_status": {
+			"created_at": "Sun May 28 02:51:02 +0000 2017",
+			"id": 868660861245816800,
+			"id_str": "868660861245816834",
+			"text": "with one half-throttled shriek you drop through that transparent air into the summer sea, no more to rise for ever",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://twitter.com/MobyDickatSea\" rel=\"nofollow\">Moby Dick at Sea</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1482779976,
+				"id_str": "1482779976",
+				"name": "Moby Dick",
+				"screen_name": "MobyDickatSea",
+				"location": "The South Seas",
+				"description": "Moby-Dick, by Herman Melville. Loose fish and fast fish, tweeting on the same line.\n\nA bot by @samplereality.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 24536,
+				"friends_count": 1,
+				"listed_count": 381,
+				"created_at": "Tue Jun 04 17:23:46 +0000 2013",
+				"favourites_count": 1,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11460,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "3289B5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3755781902/9b47b7e223799bb523c7628e00b411c4_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3755781902/9b47b7e223799bb523c7628e00b411c4_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1482779976/1439810275",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 37,
+			"favorite_count": 61,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun May 28 03:40:36 +0000 2017",
+		"id": 868673334044708900,
+		"id_str": "868673334044708864",
+		"text": "RT @coreypein: The Man Accused of MAX Double Murder Is a Portland White Supremacist\nI know because I interviewed him last month.\nhttps://t.…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coreypein",
+					"name": "Corey Pein",
+					"id": 17429832,
+					"id_str": "17429832",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample, Mark",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Professor and Scholar of Digital Media and Culture at Davidson College. Notorious fake news writer. Leaker.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7383,
+			"friends_count": 1013,
+			"listed_count": 505,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38930,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat May 27 14:20:42 +0000 2017",
+			"id": 868472033960632300,
+			"id_str": "868472033960632322",
+			"text": "The Man Accused of MAX Double Murder Is a Portland White Supremacist\nI know because I interviewed him last month.\nhttps://t.co/bpT77dFkpW",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/bpT77dFkpW",
+						"expanded_url": "http://www.wweek.com/news/2017/05/27/the-man-accused-of-max-double-murder-is-a-portland-white-supremacist-who-delivered-nazi-salutes-and-racial-slurs-at-a-free-speech-rally-last-month/",
+						"display_url": "wweek.com/news/2017/05/2…",
+						"indices": [
+							114,
+							137
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17429832,
+				"id_str": "17429832",
+				"name": "Corey Pein",
+				"screen_name": "coreypein",
+				"location": "Portland, OR",
+				"description": "Writer @thebafflermag @wweek @metropolitanbks",
+				"url": "http://t.co/g4wNJllJOV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/g4wNJllJOV",
+								"expanded_url": "http://coreypein.net",
+								"display_url": "coreypein.net",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2908,
+				"friends_count": 980,
+				"listed_count": 159,
+				"created_at": "Sun Nov 16 23:32:31 +0000 2008",
+				"favourites_count": 8322,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14302,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/812988859646476288/zE__AFm5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/812988859646476288/zE__AFm5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17429832/1485110658",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "E0E0E0",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "707070",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "ac88a4f17a51c7fc",
+				"url": "https://api.twitter.com/1.1/geo/id/ac88a4f17a51c7fc.json",
+				"place_type": "city",
+				"name": "Portland",
+				"full_name": "Portland, OR",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-122.7900653,
+								45.421863
+							],
+							[
+								-122.471751,
+								45.421863
+							],
+							[
+								-122.471751,
+								45.6509405
+							],
+							[
+								-122.7900653,
+								45.6509405
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1623,
+			"favorite_count": 1389,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1623,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat May 27 14:27:48 +0000 2017",
+		"id": 868473819073327100,
+		"id_str": "868473819073327106",
+		"text": "Come work with me and my awesome colleagues at @DavidsonCollege! https://t.co/fS1iQ2WyZG",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DavidsonCollege",
+					"name": "Davidson College",
+					"id": 353477625,
+					"id_str": "353477625",
+					"indices": [
+						47,
+						63
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fS1iQ2WyZG",
+					"expanded_url": "https://twitter.com/christianlamb/status/868101628695629824",
+					"display_url": "twitter.com/christianlamb/…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample, Mark",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Professor and Scholar of Digital Media and Culture at Davidson College. Notorious fake news writer. Leaker.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7383,
+			"friends_count": 1013,
+			"listed_count": 505,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38930,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 868101628695629800,
+		"quoted_status_id_str": "868101628695629824",
+		"quoted_status": {
+			"created_at": "Fri May 26 13:48:51 +0000 2017",
+			"id": 868101628695629800,
+			"id_str": "868101628695629824",
+			"text": ".@DavidsonCollege is hiring a 3 year Project Archivist for Justice, Equality, &amp; Community Archives:… https://t.co/zyfcyC1m5q",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DavidsonCollege",
+						"name": "Davidson College",
+						"id": 353477625,
+						"id_str": "353477625",
+						"indices": [
+							1,
+							17
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/zyfcyC1m5q",
+						"expanded_url": "https://twitter.com/i/web/status/868101628695629824",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							105,
+							128
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 38471570,
+				"id_str": "38471570",
+				"name": "Caitlin",
+				"screen_name": "christianlamb",
+				"location": "Davidson, NC",
+				"description": "archivist-type, mainly interested in DH, memory studies, digipres, & getting folks excited about the past (see: @DavidsonArchive & @dhandlib). She/her.",
+				"url": "https://t.co/9VSZgFT9Ea",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9VSZgFT9Ea",
+								"expanded_url": "http://www.caitlinchristianlamb.com",
+								"display_url": "caitlinchristianlamb.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1167,
+				"friends_count": 1276,
+				"listed_count": 81,
+				"created_at": "Thu May 07 17:13:29 +0000 2009",
+				"favourites_count": 4480,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3726,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/11957839/wallpaper.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/11957839/wallpaper.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/707572344664023040/gsM07Xgy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/707572344664023040/gsM07Xgy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/38471570/1489370769",
+				"profile_link_color": "910618",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 32,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat May 27 14:27:03 +0000 2017",
+		"id": 868473628412829700,
+		"id_str": "868473628412829702",
+		"text": "RT @christianlamb: .@DavidsonCollege is hiring a 3 year Project Archivist for Justice, Equality, &amp; Community Archives:\nhttps://t.co/Kqz5mna…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "christianlamb",
+					"name": "Caitlin",
+					"id": 38471570,
+					"id_str": "38471570",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "DavidsonCollege",
+					"name": "Davidson College",
+					"id": 353477625,
+					"id_str": "353477625",
+					"indices": [
+						20,
+						36
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample, Mark",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Professor and Scholar of Digital Media and Culture at Davidson College. Notorious fake news writer. Leaker.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7383,
+			"friends_count": 1013,
+			"listed_count": 505,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38930,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri May 26 13:48:51 +0000 2017",
+			"id": 868101628695629800,
+			"id_str": "868101628695629824",
+			"text": ".@DavidsonCollege is hiring a 3 year Project Archivist for Justice, Equality, &amp; Community Archives:… https://t.co/zyfcyC1m5q",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DavidsonCollege",
+						"name": "Davidson College",
+						"id": 353477625,
+						"id_str": "353477625",
+						"indices": [
+							1,
+							17
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/zyfcyC1m5q",
+						"expanded_url": "https://twitter.com/i/web/status/868101628695629824",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							105,
+							128
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 38471570,
+				"id_str": "38471570",
+				"name": "Caitlin",
+				"screen_name": "christianlamb",
+				"location": "Davidson, NC",
+				"description": "archivist-type, mainly interested in DH, memory studies, digipres, & getting folks excited about the past (see: @DavidsonArchive & @dhandlib). She/her.",
+				"url": "https://t.co/9VSZgFT9Ea",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9VSZgFT9Ea",
+								"expanded_url": "http://www.caitlinchristianlamb.com",
+								"display_url": "caitlinchristianlamb.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1167,
+				"friends_count": 1276,
+				"listed_count": 81,
+				"created_at": "Thu May 07 17:13:29 +0000 2009",
+				"favourites_count": 4480,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3726,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/11957839/wallpaper.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/11957839/wallpaper.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/707572344664023040/gsM07Xgy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/707572344664023040/gsM07Xgy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/38471570/1489370769",
+				"profile_link_color": "910618",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 32,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat May 27 13:54:15 +0000 2017",
+		"id": 868465375050170400,
+		"id_str": "868465375050170368",
+		"text": "And shortly after Oklahoma City came the Unabomber and Eric Rudolph. https://t.co/4HU1aootkl",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4HU1aootkl",
+					"expanded_url": "https://twitter.com/leoba/status/868456955991511040",
+					"display_url": "twitter.com/leoba/status/8…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample, Mark",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Professor and Scholar of Digital Media and Culture at Davidson College. Notorious fake news writer. Leaker.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7383,
+			"friends_count": 1013,
+			"listed_count": 505,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38930,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 868456955991511000,
+		"quoted_status_id_str": "868456955991511040",
+		"quoted_status": {
+			"created_at": "Sat May 27 13:20:48 +0000 2017",
+			"id": 868456955991511000,
+			"id_str": "868456955991511040",
+			"text": "Oh god mine too. So many angry white men. https://t.co/a2lMEi6O0A",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/a2lMEi6O0A",
+						"expanded_url": "https://twitter.com/Thrythlind/status/868342485990334465",
+						"display_url": "twitter.com/Thrythlind/sta…",
+						"indices": [
+							42,
+							65
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16287595,
+				"id_str": "16287595",
+				"name": "Doodlet Poodlertood",
+				"screen_name": "leoba",
+				"location": "Philadelphia, PA",
+				"description": "Medieval manuscripts and active resistance all the time. Guess I should say that all opinions are my own.",
+				"url": "http://t.co/8iq0HZir0P",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/8iq0HZir0P",
+								"expanded_url": "http://dotporterdigital.org",
+								"display_url": "dotporterdigital.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1444,
+				"friends_count": 524,
+				"listed_count": 98,
+				"created_at": "Sun Sep 14 21:31:23 +0000 2008",
+				"favourites_count": 7601,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15009,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/60448750/heart_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/60448750/heart_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16287595/1476906527",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 868342485990334500,
+			"quoted_status_id_str": "868342485990334465",
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat May 27 01:57:52 +0000 2017",
 		"id": 868285091646246900,
 		"id_str": "868285091646246913",
