@@ -1,6 +1,397 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Sat Jun 10 03:36:49 +0000 2017",
+		"id": 873383424312188900,
+		"id_str": "873383424312188928",
+		"text": "RT @StewartVarner: It's true! @PennPriceLab &amp; @upennlib are hosting #HILT2018! Austin has set the bar pretty high but we can't wait to see…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HILT2018",
+					"indices": [
+						72,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StewartVarner",
+					"name": "Stewart Varner",
+					"id": 22662058,
+					"id_str": "22662058",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "PennPriceLab",
+					"name": "Price Lab for DH",
+					"id": 3331240983,
+					"id_str": "3331240983",
+					"indices": [
+						30,
+						43
+					]
+				},
+				{
+					"screen_name": "upennlib",
+					"name": "The Penn Libraries",
+					"id": 26785044,
+					"id_str": "26785044",
+					"indices": [
+						50,
+						59
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample, Mark",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Professor and Scholar of Digital Media and Culture at Davidson College. Notorious fake news writer. Leaker.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7432,
+			"friends_count": 1012,
+			"listed_count": 507,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38984,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jun 09 04:21:19 +0000 2017",
+			"id": 873032235909226500,
+			"id_str": "873032235909226497",
+			"text": "It's true! @PennPriceLab &amp; @upennlib are hosting #HILT2018! Austin has set the bar pretty high but we can't wait to… https://t.co/UX9M3hjiHq",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "HILT2018",
+						"indices": [
+							53,
+							62
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PennPriceLab",
+						"name": "Price Lab for DH",
+						"id": 3331240983,
+						"id_str": "3331240983",
+						"indices": [
+							11,
+							24
+						]
+					},
+					{
+						"screen_name": "upennlib",
+						"name": "The Penn Libraries",
+						"id": 26785044,
+						"id_str": "26785044",
+						"indices": [
+							31,
+							40
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/UX9M3hjiHq",
+						"expanded_url": "https://twitter.com/i/web/status/873032235909226497",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22662058,
+				"id_str": "22662058",
+				"name": "Stewart Varner",
+				"screen_name": "StewartVarner",
+				"location": "Philadelphia, PA",
+				"description": "Managing Director, Price Lab for Digital Humanities at the University of Pennsylvania // Also bikes and vinyl",
+				"url": "http://t.co/eH7BwHcn7m",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/eH7BwHcn7m",
+								"expanded_url": "http://stewartvarner.com/",
+								"display_url": "stewartvarner.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1423,
+				"friends_count": 986,
+				"listed_count": 75,
+				"created_at": "Tue Mar 03 19:14:47 +0000 2009",
+				"favourites_count": 2513,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3611,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/516285893108187136/_ij3QpiK_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/516285893108187136/_ij3QpiK_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22662058/1398704815",
+				"profile_link_color": "18A121",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 872949405455974400,
+			"quoted_status_id_str": "872949405455974406",
+			"quoted_status": {
+				"created_at": "Thu Jun 08 22:52:11 +0000 2017",
+				"id": 872949405455974400,
+				"id_str": "872949405455974406",
+				"text": "Hilt in PA next year!!! @StewartVarner #HILT2017",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "HILT2017",
+							"indices": [
+								39,
+								48
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "StewartVarner",
+							"name": "Stewart Varner",
+							"id": 22662058,
+							"id_str": "22662058",
+							"indices": [
+								24,
+								38
+							]
+						}
+					],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 1967960618,
+					"id_str": "1967960618",
+					"name": "Anna Neatrour",
+					"screen_name": "annaneat",
+					"location": "",
+					"description": "Digital Initiatives Librarian. https://t.co/oguhy0k1Ou https://t.co/BvDwhIktwh",
+					"url": "http://t.co/JmAie87LvZ",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/JmAie87LvZ",
+									"expanded_url": "http://about.me/anna.neatrour",
+									"display_url": "about.me/anna.neatrour",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/oguhy0k1Ou",
+									"expanded_url": "https://lccn.loc.gov/no2017022340",
+									"display_url": "lccn.loc.gov/no2017022340",
+									"indices": [
+										31,
+										54
+									]
+								},
+								{
+									"url": "https://t.co/BvDwhIktwh",
+									"expanded_url": "http://www.libraryworkflowexchange.org",
+									"display_url": "libraryworkflowexchange.org",
+									"indices": [
+										55,
+										78
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 588,
+					"friends_count": 538,
+					"listed_count": 55,
+					"created_at": "Fri Oct 18 02:04:05 +0000 2013",
+					"favourites_count": 3834,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 9265,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "1D4D4D",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/462055164778524672/02xd15Ze.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/462055164778524672/02xd15Ze.jpeg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/378800000731812131/1599fb50d59347a3299a1bf8a825f7f0_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000731812131/1599fb50d59347a3299a1bf8a825f7f0_normal.jpeg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/1967960618/1472141121",
+					"profile_link_color": "083A4D",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 3,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 6,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 872949405455974400,
+		"quoted_status_id_str": "872949405455974406",
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jun 08 17:42:50 +0000 2017",
 		"id": 872871554857750500,
 		"id_str": "872871554857750528",
