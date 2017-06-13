@@ -1,6 +1,1374 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Tue Jun 13 02:30:32 +0000 2017",
+		"id": 874453905769472000,
+		"id_str": "874453905769472002",
+		"text": "RT @WeatherDavidson: Cloud-particles are formed by the same general phenomena as thunder-storms. It feels like 87° F (at 05:16 PM on Jun 12…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WeatherDavidson",
+					"name": "Davidson Weather Bot",
+					"id": 865992901007900700,
+					"id_str": "865992901007900672",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample, Mark",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Professor and Scholar of Digital Media and Culture at Davidson College. Notorious fake news writer. Leaker.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7436,
+			"friends_count": 1013,
+			"listed_count": 507,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38995,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 12 23:05:04 +0000 2017",
+			"id": 874402200675635200,
+			"id_str": "874402200675635201",
+			"text": "Cloud-particles are formed by the same general phenomena as thunder-storms. It feels like 87° F (at 05:16 PM on Jun 12).",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://www.twitter.com\" rel=\"nofollow\">Davidson College Weather Bot</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 865992901007900700,
+				"id_str": "865992901007900672",
+				"name": "Davidson Weather Bot",
+				"screen_name": "WeatherDavidson",
+				"location": "Davidson, NC",
+				"description": "Weather updates and meteorological musings from the weather station on top of Davidson College's Wall building. A bot by @samplereality.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 22,
+				"friends_count": 0,
+				"listed_count": 2,
+				"created_at": "Sat May 20 18:09:31 +0000 2017",
+				"favourites_count": 0,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 619,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/865994422886043648/mM2nmbtv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/865994422886043648/mM2nmbtv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/865992901007900672/1495316809",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jun 13 02:24:49 +0000 2017",
+		"id": 874452466888323100,
+		"id_str": "874452466888323076",
+		"text": "When you eliminate the impossible, whatever's remaining, however improbable, is Trump's world.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample, Mark",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Professor and Scholar of Digital Media and Culture at Davidson College. Notorious fake news writer. Leaker.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7436,
+			"friends_count": 1013,
+			"listed_count": 507,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38995,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jun 13 02:23:55 +0000 2017",
+		"id": 874452242274934800,
+		"id_str": "874452242274934785",
+		"text": "At 6am I was at George Bush Intercontinental Airport. By 1pm I was in MoMA looking at Starry Night. It's a sci-fi world. Trump's world.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample, Mark",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Professor and Scholar of Digital Media and Culture at Davidson College. Notorious fake news writer. Leaker.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7436,
+			"friends_count": 1013,
+			"listed_count": 507,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38995,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jun 13 02:01:48 +0000 2017",
+		"id": 874446675892424700,
+		"id_str": "874446675892424704",
+		"text": "Spotted at MoMA today: me irl https://t.co/zsRxO1JoAb",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 874446673602392000,
+					"id_str": "874446673602392065",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/DCKondsXsAEW0xK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCKondsXsAEW0xK.jpg",
+					"url": "https://t.co/zsRxO1JoAb",
+					"display_url": "pic.twitter.com/zsRxO1JoAb",
+					"expanded_url": "https://twitter.com/samplereality/status/874446675892424704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 796,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 796,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 529,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 874446673602392000,
+					"id_str": "874446673602392065",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/DCKondsXsAEW0xK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCKondsXsAEW0xK.jpg",
+					"url": "https://t.co/zsRxO1JoAb",
+					"display_url": "pic.twitter.com/zsRxO1JoAb",
+					"expanded_url": "https://twitter.com/samplereality/status/874446675892424704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 796,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 796,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 529,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample, Mark",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Professor and Scholar of Digital Media and Culture at Davidson College. Notorious fake news writer. Leaker.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7436,
+			"friends_count": 1013,
+			"listed_count": 507,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38995,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 12 17:06:50 +0000 2017",
+		"id": 874312047475003400,
+		"id_str": "874312047475003394",
+		"text": "@CBQPattyBoom @HiltonKelly1 @AneliseHShrout Good to hear!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CBQPattyBoom",
+					"name": "PattyBoom",
+					"id": 127388281,
+					"id_str": "127388281",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "HiltonKelly1",
+					"name": "Hilton Kelly",
+					"id": 600600278,
+					"id_str": "600600278",
+					"indices": [
+						14,
+						27
+					]
+				},
+				{
+					"screen_name": "AneliseHShrout",
+					"name": "Anelise H. Shrout",
+					"id": 1142871446,
+					"id_str": "1142871446",
+					"indices": [
+						28,
+						43
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": 874306240146485200,
+		"in_reply_to_status_id_str": "874306240146485249",
+		"in_reply_to_user_id": 127388281,
+		"in_reply_to_user_id_str": "127388281",
+		"in_reply_to_screen_name": "CBQPattyBoom",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample, Mark",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Professor and Scholar of Digital Media and Culture at Davidson College. Notorious fake news writer. Leaker.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7436,
+			"friends_count": 1013,
+			"listed_count": 507,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38995,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 12 16:38:58 +0000 2017",
+		"id": 874305032765796400,
+		"id_str": "874305032765796352",
+		"text": "@AneliseHShrout In NYC just until Tuesday evening.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AneliseHShrout",
+					"name": "Anelise H. Shrout",
+					"id": 1142871446,
+					"id_str": "1142871446",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": 874258950664966100,
+		"in_reply_to_status_id_str": "874258950664966144",
+		"in_reply_to_user_id": 1142871446,
+		"in_reply_to_user_id_str": "1142871446",
+		"in_reply_to_screen_name": "AneliseHShrout",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample, Mark",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Professor and Scholar of Digital Media and Culture at Davidson College. Notorious fake news writer. Leaker.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7436,
+			"friends_count": 1013,
+			"listed_count": 507,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38995,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 12 16:38:19 +0000 2017",
+		"id": 874304869137514500,
+		"id_str": "874304869137514496",
+		"text": "@HiltonKelly1 @AneliseHShrout @CBQPattyBoom I think I'm going to the opposite of a vegan place: The Spotted Pig",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HiltonKelly1",
+					"name": "Hilton Kelly",
+					"id": 600600278,
+					"id_str": "600600278",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "AneliseHShrout",
+					"name": "Anelise H. Shrout",
+					"id": 1142871446,
+					"id_str": "1142871446",
+					"indices": [
+						14,
+						29
+					]
+				},
+				{
+					"screen_name": "CBQPattyBoom",
+					"name": "PattyBoom",
+					"id": 127388281,
+					"id_str": "127388281",
+					"indices": [
+						30,
+						43
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": 874259660953595900,
+		"in_reply_to_status_id_str": "874259660953595904",
+		"in_reply_to_user_id": 600600278,
+		"in_reply_to_user_id_str": "600600278",
+		"in_reply_to_screen_name": "HiltonKelly1",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample, Mark",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Professor and Scholar of Digital Media and Culture at Davidson College. Notorious fake news writer. Leaker.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7436,
+			"friends_count": 1013,
+			"listed_count": 507,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38995,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 12 12:57:02 +0000 2017",
+		"id": 874249180344180700,
+		"id_str": "874249180344180736",
+		"text": "@AneliseHShrout Recs on getting from Newark to the city?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AneliseHShrout",
+					"name": "Anelise H. Shrout",
+					"id": 1142871446,
+					"id_str": "1142871446",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": 874245253296947200,
+		"in_reply_to_status_id_str": "874245253296947200",
+		"in_reply_to_user_id": 1142871446,
+		"in_reply_to_user_id_str": "1142871446",
+		"in_reply_to_screen_name": "AneliseHShrout",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample, Mark",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Professor and Scholar of Digital Media and Culture at Davidson College. Notorious fake news writer. Leaker.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7436,
+			"friends_count": 1013,
+			"listed_count": 507,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38995,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 12 12:26:54 +0000 2017",
+		"id": 874241600498667500,
+		"id_str": "874241600498667520",
+		"text": "RT @KevinMKruse: It is really vicious. The last president had some guy demanding to see his birth certificate! https://t.co/zBKV1eivTp",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KevinMKruse",
+					"name": "Kevin M. Kruse",
+					"id": 3060489838,
+					"id_str": "3060489838",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zBKV1eivTp",
+					"expanded_url": "https://twitter.com/danmericacnn/status/874222472228483074",
+					"display_url": "twitter.com/danmericacnn/s…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample, Mark",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Professor and Scholar of Digital Media and Culture at Davidson College. Notorious fake news writer. Leaker.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7436,
+			"friends_count": 1013,
+			"listed_count": 507,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38995,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 12 11:33:38 +0000 2017",
+			"id": 874228194907435000,
+			"id_str": "874228194907435008",
+			"text": "It is really vicious. The last president had some guy demanding to see his birth certificate! https://t.co/zBKV1eivTp",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/zBKV1eivTp",
+						"expanded_url": "https://twitter.com/danmericacnn/status/874222472228483074",
+						"display_url": "twitter.com/danmericacnn/s…",
+						"indices": [
+							94,
+							117
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3060489838,
+				"id_str": "3060489838",
+				"name": "Kevin M. Kruse",
+				"screen_name": "KevinMKruse",
+				"location": "Princeton, NJ",
+				"description": "Historian. Author of White Flight; One Nation Under God. Co-editor of The New Suburban History; Spaces of the Modern City; Fog of War.",
+				"url": "http://t.co/OJWVBf00D8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/OJWVBf00D8",
+								"expanded_url": "http://kevinmkruse.com",
+								"display_url": "kevinmkruse.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 48706,
+				"friends_count": 1222,
+				"listed_count": 976,
+				"created_at": "Wed Feb 25 01:25:19 +0000 2015",
+				"favourites_count": 60999,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 45424,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/591795187111727104/wT-tiXfR.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/591795187111727104/wT-tiXfR.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/702198093974863873/MOM1zrQx_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/702198093974863873/MOM1zrQx_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060489838/1456253555",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 874222472228483100,
+			"quoted_status_id_str": "874222472228483074",
+			"quoted_status": {
+				"created_at": "Mon Jun 12 11:10:54 +0000 2017",
+				"id": 874222472228483100,
+				"id_str": "874222472228483074",
+				"text": "Ivanka says she was \"not expecting the viciousness\" in DC. \"It is hard\" she says of \"a level of viciousness that I was not expecting.\"",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 36890646,
+					"id_str": "36890646",
+					"name": "Dan Merica",
+					"screen_name": "danmericaCNN",
+					"location": "Washington, D.C.",
+					"description": "Political Producer for @CNN. Covering the Trump White House, covered Hillary Clinton's campaign. @BentleyU & @AmericanU grad. Nats fan. dan.merica@cnn.com",
+					"url": "https://t.co/MJqdxti3Tw",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/MJqdxti3Tw",
+									"expanded_url": "http://www.cnn.com/politics",
+									"display_url": "cnn.com/politics",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 55056,
+					"friends_count": 2027,
+					"listed_count": 1670,
+					"created_at": "Fri May 01 05:21:55 +0000 2009",
+					"favourites_count": 497,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 28388,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C6E2EE",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/502476964909694976/Sx6I2YhS.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/502476964909694976/Sx6I2YhS.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/847846708730056705/yF0QVdcL_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/847846708730056705/yF0QVdcL_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/36890646/1428095985",
+					"profile_link_color": "1F98C7",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DAECF4",
+					"profile_text_color": "663B12",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 267,
+				"favorite_count": 542,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 2539,
+			"favorite_count": 6495,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 874222472228483100,
+		"quoted_status_id_str": "874222472228483074",
+		"retweet_count": 2539,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 12 12:16:23 +0000 2017",
+		"id": 874238951036530700,
+		"id_str": "874238951036530688",
+		"text": "Yesterday: CLT &gt; IAH. Today: IAH &gt; EWR. New York City bound to talk bots at Jigsaw/Google tomorrow.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample, Mark",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Professor and Scholar of Digital Media and Culture at Davidson College. Notorious fake news writer. Leaker.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7436,
+			"friends_count": 1013,
+			"listed_count": 507,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38995,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jun 11 15:11:33 +0000 2017",
 		"id": 873920647642185700,
 		"id_str": "873920647642185732",
