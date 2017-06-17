@@ -1,6 +1,592 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Fri Jun 16 23:42:48 +0000 2017",
+		"id": 875861245383123000,
+		"id_str": "875861245383122944",
+		"text": "RT @brhodes: Trump taking aim at business of his competitors - Marriott and Starwood - with new Cuba restrictions. https://t.co/jhc0pKEUUf",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brhodes",
+					"name": "Ben Rhodes",
+					"id": 820354372827758600,
+					"id_str": "820354372827758592",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jhc0pKEUUf",
+					"expanded_url": "https://twitter.com/cnbc/status/875384526884794369",
+					"display_url": "twitter.com/cnbc/status/87…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample, Mark",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Professor and Scholar of Digital Media and Culture at Davidson College. Notorious fake news writer. Leaker.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7455,
+			"friends_count": 1021,
+			"listed_count": 505,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39019,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 15 21:41:32 +0000 2017",
+			"id": 875468342018138100,
+			"id_str": "875468342018138114",
+			"text": "Trump taking aim at business of his competitors - Marriott and Starwood - with new Cuba restrictions. https://t.co/jhc0pKEUUf",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jhc0pKEUUf",
+						"expanded_url": "https://twitter.com/cnbc/status/875384526884794369",
+						"display_url": "twitter.com/cnbc/status/87…",
+						"indices": [
+							102,
+							125
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 820354372827758600,
+				"id_str": "820354372827758592",
+				"name": "Ben Rhodes",
+				"screen_name": "brhodes",
+				"location": "Washington, DC",
+				"description": "Obama foreign policy advisor and speechwriter. Mets fan, Cuba negotiator, dad to Ella and Chloe.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 115228,
+				"friends_count": 413,
+				"listed_count": 1397,
+				"created_at": "Sat Jan 14 19:38:18 +0000 2017",
+				"favourites_count": 89,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1221,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/820355797641113600/6oCTdLPl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/820355797641113600/6oCTdLPl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/820354372827758592/1484424419",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 875384526884794400,
+			"quoted_status_id_str": "875384526884794369",
+			"quoted_status": {
+				"created_at": "Thu Jun 15 16:08:29 +0000 2017",
+				"id": 875384526884794400,
+				"id_str": "875384526884794369",
+				"text": "Marriott CEO urges Trump to improve ties with Cuba https://t.co/SzGPUJTsIX",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/SzGPUJTsIX",
+							"expanded_url": "http://cnb.cx/2sDLTXq",
+							"display_url": "cnb.cx/2sDLTXq",
+							"indices": [
+								51,
+								74
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 20402945,
+					"id_str": "20402945",
+					"name": "CNBC",
+					"screen_name": "CNBC",
+					"location": "",
+					"description": "First in Business Worldwide",
+					"url": "https://t.co/xNSucapdhO",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/xNSucapdhO",
+									"expanded_url": "http://cnbc.com",
+									"display_url": "cnbc.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 2688899,
+					"friends_count": 376,
+					"listed_count": 23995,
+					"created_at": "Mon Feb 09 00:03:41 +0000 2009",
+					"favourites_count": 47,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 152200,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "0D181F",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/583652722282377216/qZPzBhcz.png",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/583652722282377216/qZPzBhcz.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/875399584477962241/CsazvyAF_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/875399584477962241/CsazvyAF_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/20402945/1483461609",
+					"profile_link_color": "2D648A",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "EAEBEA",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 81,
+				"favorite_count": 88,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1122,
+			"favorite_count": 1347,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 875384526884794400,
+		"quoted_status_id_str": "875384526884794369",
+		"retweet_count": 1122,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jun 16 20:02:17 +0000 2017",
+		"id": 875805749791871000,
+		"id_str": "875805749791870980",
+		"text": "RT @_NickMcGuire: Every day this becomes more and more real @amazon @Walmart @WholeFoods @Bonobos  https://t.co/ZunMA6NdQb",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_NickMcGuire",
+					"name": "Nick",
+					"id": 234121500,
+					"id_str": "234121500",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "amazon",
+					"name": "Amazon",
+					"id": 20793816,
+					"id_str": "20793816",
+					"indices": [
+						60,
+						67
+					]
+				},
+				{
+					"screen_name": "Walmart",
+					"name": "Walmart",
+					"id": 17137891,
+					"id_str": "17137891",
+					"indices": [
+						68,
+						76
+					]
+				},
+				{
+					"screen_name": "WholeFoods",
+					"name": "Whole Foods Market",
+					"id": 15131310,
+					"id_str": "15131310",
+					"indices": [
+						77,
+						88
+					]
+				},
+				{
+					"screen_name": "Bonobos",
+					"name": "Bonobos",
+					"id": 18224975,
+					"id_str": "18224975",
+					"indices": [
+						89,
+						97
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZunMA6NdQb",
+					"expanded_url": "https://www.youtube.com/watch?v=MHqM9b7wCQ0&feature=share",
+					"display_url": "youtube.com/watch?v=MHqM9b…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample, Mark",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Professor and Scholar of Digital Media and Culture at Davidson College. Notorious fake news writer. Leaker.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7455,
+			"friends_count": 1021,
+			"listed_count": 505,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39019,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jun 16 15:58:10 +0000 2017",
+			"id": 875744316089434100,
+			"id_str": "875744316089434114",
+			"text": "Every day this becomes more and more real @amazon @Walmart @WholeFoods @Bonobos  https://t.co/ZunMA6NdQb",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "amazon",
+						"name": "Amazon",
+						"id": 20793816,
+						"id_str": "20793816",
+						"indices": [
+							42,
+							49
+						]
+					},
+					{
+						"screen_name": "Walmart",
+						"name": "Walmart",
+						"id": 17137891,
+						"id_str": "17137891",
+						"indices": [
+							50,
+							58
+						]
+					},
+					{
+						"screen_name": "WholeFoods",
+						"name": "Whole Foods Market",
+						"id": 15131310,
+						"id_str": "15131310",
+						"indices": [
+							59,
+							70
+						]
+					},
+					{
+						"screen_name": "Bonobos",
+						"name": "Bonobos",
+						"id": 18224975,
+						"id_str": "18224975",
+						"indices": [
+							71,
+							79
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ZunMA6NdQb",
+						"expanded_url": "https://www.youtube.com/watch?v=MHqM9b7wCQ0&feature=share",
+						"display_url": "youtube.com/watch?v=MHqM9b…",
+						"indices": [
+							81,
+							104
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 234121500,
+				"id_str": "234121500",
+				"name": "Nick",
+				"screen_name": "_NickMcGuire",
+				"location": "",
+				"description": "@DavidsonCollege '14 | @DukeLaw '19",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 406,
+				"friends_count": 558,
+				"listed_count": 3,
+				"created_at": "Tue Jan 04 22:14:42 +0000 2011",
+				"favourites_count": 974,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 337,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/605103156385693696/CRkaezzy.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/605103156385693696/CRkaezzy.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/870097530754936832/J5AwTrkG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/870097530754936832/J5AwTrkG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/234121500/1496282558",
+				"profile_link_color": "0E0E0E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jun 16 02:39:41 +0000 2017",
 		"id": 875543371581972500,
 		"id_str": "875543371581972485",
