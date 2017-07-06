@@ -1,6 +1,936 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Wed Jul 05 17:18:29 +0000 2017",
+		"id": 882649899728285700,
+		"id_str": "882649899728285697",
+		"text": "RT @sam_lavigne: i found a really good survey about alex jones on mechanical turk https://t.co/NCEZXHjl7v",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sam_lavigne",
+					"name": "Sam Lavigne",
+					"id": 6428702,
+					"id_str": "6428702",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 876662588377116700,
+					"id_str": "876662588377116672",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/DCqH-rgXsAAHbfQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCqH-rgXsAAHbfQ.jpg",
+					"url": "https://t.co/NCEZXHjl7v",
+					"display_url": "pic.twitter.com/NCEZXHjl7v",
+					"expanded_url": "https://twitter.com/sam_lavigne/status/876662692815269889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 472,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1314,
+							"h": 1894,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 833,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 876662692815269900,
+					"source_status_id_str": "876662692815269889",
+					"source_user_id": 6428702,
+					"source_user_id_str": "6428702"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 876662588377116700,
+					"id_str": "876662588377116672",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/DCqH-rgXsAAHbfQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCqH-rgXsAAHbfQ.jpg",
+					"url": "https://t.co/NCEZXHjl7v",
+					"display_url": "pic.twitter.com/NCEZXHjl7v",
+					"expanded_url": "https://twitter.com/sam_lavigne/status/876662692815269889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 472,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1314,
+							"h": 1894,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 833,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 876662692815269900,
+					"source_status_id_str": "876662692815269889",
+					"source_user_id": 6428702,
+					"source_user_id_str": "6428702"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Notorious fake news writer. Leaker.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7499,
+			"friends_count": 1027,
+			"listed_count": 505,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39121,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 19 04:47:28 +0000 2017",
+			"id": 876662692815269900,
+			"id_str": "876662692815269889",
+			"text": "i found a really good survey about alex jones on mechanical turk https://t.co/NCEZXHjl7v",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 876662588377116700,
+						"id_str": "876662588377116672",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/DCqH-rgXsAAHbfQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCqH-rgXsAAHbfQ.jpg",
+						"url": "https://t.co/NCEZXHjl7v",
+						"display_url": "pic.twitter.com/NCEZXHjl7v",
+						"expanded_url": "https://twitter.com/sam_lavigne/status/876662692815269889/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 472,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1314,
+								"h": 1894,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 833,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 876662588377116700,
+						"id_str": "876662588377116672",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/DCqH-rgXsAAHbfQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCqH-rgXsAAHbfQ.jpg",
+						"url": "https://t.co/NCEZXHjl7v",
+						"display_url": "pic.twitter.com/NCEZXHjl7v",
+						"expanded_url": "https://twitter.com/sam_lavigne/status/876662692815269889/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 472,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1314,
+								"h": 1894,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 833,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6428702,
+				"id_str": "6428702",
+				"name": "Sam Lavigne",
+				"screen_name": "sam_lavigne",
+				"location": "brooklyn",
+				"description": "special projects editor @newinquiry, resident @pioneerworks_, founder of @stupidhackathon, and @theuselesspress",
+				"url": "https://t.co/JhqOwaHR0D",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JhqOwaHR0D",
+								"expanded_url": "http://lav.io",
+								"display_url": "lav.io",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2495,
+				"friends_count": 555,
+				"listed_count": 89,
+				"created_at": "Wed May 30 00:49:55 +0000 2007",
+				"favourites_count": 1235,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1036,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "141414",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/12220695/entermuni.gif",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/12220695/entermuni.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/768692577570807808/suOZM30v_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/768692577570807808/suOZM30v_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6428702/1400877391",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "D1D1D1",
+				"profile_sidebar_fill_color": "EBEBEB",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 69,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jul 05 16:31:19 +0000 2017",
+		"id": 882638027503403000,
+		"id_str": "882638027503403008",
+		"text": "A delightful piece about the relationships between closets, memories, and secrets. https://t.co/EFeR4SoymQ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EFeR4SoymQ",
+					"expanded_url": "https://twitter.com/shannonmattern/status/882633063456526337",
+					"display_url": "twitter.com/shannonmattern…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Notorious fake news writer. Leaker.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7499,
+			"friends_count": 1027,
+			"listed_count": 505,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39121,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 882633063456526300,
+		"quoted_status_id_str": "882633063456526337",
+		"quoted_status": {
+			"created_at": "Wed Jul 05 16:11:35 +0000 2017",
+			"id": 882633063456526300,
+			"id_str": "882633063456526337",
+			"text": "I wrote about the history of the closet as a site of (media) storage, paranoia, aspiration + self-definition https://t.co/VRPmUI2TDH",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/VRPmUI2TDH",
+						"expanded_url": "https://placesjournal.org/article/closet-archive/",
+						"display_url": "placesjournal.org/article/closet…",
+						"indices": [
+							109,
+							132
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 357916553,
+				"id_str": "357916553",
+				"name": "Shannon Mattern",
+				"screen_name": "shannonmattern",
+				"location": "New York, NY",
+				"description": "Faculty, The New School. Architecture, archives, cities, infrastructure, libraries, maps, sound +++. Tend to reserve party politics for other platforms.",
+				"url": "https://t.co/5ui9t5mp3E",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5ui9t5mp3E",
+								"expanded_url": "http://www.wordsinspace.net",
+								"display_url": "wordsinspace.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4056,
+				"friends_count": 2958,
+				"listed_count": 141,
+				"created_at": "Fri Aug 19 02:57:32 +0000 2011",
+				"favourites_count": 8280,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8676,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000176352006/qDGqXK-L.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000176352006/qDGqXK-L.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3343509898/81df1ca0d1adbe737b4fa71650afc190_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3343509898/81df1ca0d1adbe737b4fa71650afc190_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/357916553/1390800045",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "4d6ee9c6c915dcef",
+				"url": "https://api.twitter.com/1.1/geo/id/4d6ee9c6c915dcef.json",
+				"place_type": "city",
+				"name": "Menasha",
+				"full_name": "Menasha, WI",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-88.544163,
+								44.192468
+							],
+							[
+								-88.343067,
+								44.192468
+							],
+							[
+								-88.343067,
+								44.244636
+							],
+							[
+								-88.544163,
+								44.244636
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 60,
+			"favorite_count": 127,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jul 05 13:08:55 +0000 2017",
+		"id": 882587095809785900,
+		"id_str": "882587095809785857",
+		"text": "Scary line for me: Sean “Hannity might have more power over an impeachment process than Paul Ryan or Mitch McConnel… https://t.co/FHqrcz5w9G",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FHqrcz5w9G",
+					"expanded_url": "https://twitter.com/i/web/status/882587095809785857",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Notorious fake news writer. Leaker.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7499,
+			"friends_count": 1027,
+			"listed_count": 505,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39121,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 882565520343654400,
+		"quoted_status_id_str": "882565520343654402",
+		"quoted_status": {
+			"created_at": "Wed Jul 05 11:43:11 +0000 2017",
+			"id": 882565520343654400,
+			"id_str": "882565520343654402",
+			"text": "What jumped out at me in @RobertLeonard's @nytopinion piece. https://t.co/u0ClKlAGIo https://t.co/y1lVmUU6nu",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "RobertLeonard",
+						"name": "Robert Leonard",
+						"id": 22319115,
+						"id_str": "22319115",
+						"indices": [
+							25,
+							39
+						]
+					},
+					{
+						"screen_name": "nytopinion",
+						"name": "NYT Opinion",
+						"id": 16686144,
+						"id_str": "16686144",
+						"indices": [
+							42,
+							53
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/u0ClKlAGIo",
+						"expanded_url": "http://nyti.ms/2upuzU7",
+						"display_url": "nyti.ms/2upuzU7",
+						"indices": [
+							61,
+							84
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 882565481055400000,
+						"id_str": "882565481055399937",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/DD-AoQVUMAEgKbj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DD-AoQVUMAEgKbj.jpg",
+						"url": "https://t.co/y1lVmUU6nu",
+						"display_url": "pic.twitter.com/y1lVmUU6nu",
+						"expanded_url": "https://twitter.com/michaelkruse/status/882565520343654402/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 582,
+								"h": 228,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 582,
+								"h": 228,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 582,
+								"h": 228,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 882565481055400000,
+						"id_str": "882565481055399937",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/DD-AoQVUMAEgKbj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DD-AoQVUMAEgKbj.jpg",
+						"url": "https://t.co/y1lVmUU6nu",
+						"display_url": "pic.twitter.com/y1lVmUU6nu",
+						"expanded_url": "https://twitter.com/michaelkruse/status/882565520343654402/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 582,
+								"h": 228,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 582,
+								"h": 228,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 582,
+								"h": 228,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16291449,
+				"id_str": "16291449",
+				"name": "Michael Kruse",
+				"screen_name": "michaelkruse",
+				"location": "Davidson or D.C.",
+				"description": "Senior staff writer, @POLITICO, @POLITICOMag. @TB_Times alum. @DavidsonCollege grad. Love Lauren and the girls. I let people keep talking.",
+				"url": "https://t.co/wErwlDYcw9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wErwlDYcw9",
+								"expanded_url": "http://POLITICO.com",
+								"display_url": "POLITICO.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10441,
+				"friends_count": 2008,
+				"listed_count": 495,
+				"created_at": "Mon Sep 15 03:41:07 +0000 2008",
+				"favourites_count": 11204,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 50698,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/563261734/Disney.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/563261734/Disney.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2850291603/d5868bc5a8261dc98da8fe18341fa112_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2850291603/d5868bc5a8261dc98da8fe18341fa112_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16291449/1472068699",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "7a8769c399856636",
+				"url": "https://api.twitter.com/1.1/geo/id/7a8769c399856636.json",
+				"place_type": "city",
+				"name": "Davidson",
+				"full_name": "Davidson, NC",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-80.87267,
+								35.44073
+							],
+							[
+								-80.7574235,
+								35.44073
+							],
+							[
+								-80.7574235,
+								35.521261
+							],
+							[
+								-80.87267,
+								35.521261
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 22,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jul 03 02:40:37 +0000 2017",
 		"id": 881704199318384600,
 		"id_str": "881704199318384640",
