@@ -1,6 +1,457 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Fri Jul 07 18:04:09 +0000 2017",
+		"id": 883386169253392400,
+		"id_str": "883386169253392385",
+		"text": "I **absolutely** endorse [this].\n================== \n(https://t.co/GfdW9qtI7C)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GfdW9qtI7C",
+					"expanded_url": "https://twitter.com/Chronotope/status/817648913092120577",
+					"display_url": "twitter.com/Chronotope/sta…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Notorious fake news writer. Leaker.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7497,
+			"friends_count": 1029,
+			"listed_count": 505,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39125,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 817648913092120600,
+		"quoted_status_id_str": "817648913092120577",
+		"quoted_status": {
+			"created_at": "Sat Jan 07 08:27:46 +0000 2017",
+			"id": 817648913092120600,
+			"id_str": "817648913092120577",
+			"text": "In the end, Markdown is the same thing as every product made for engineers by engineers with the belief it is actually for everyone...",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 817648552637853700,
+			"in_reply_to_status_id_str": "817648552637853696",
+			"in_reply_to_user_id": 15099054,
+			"in_reply_to_user_id_str": "15099054",
+			"in_reply_to_screen_name": "Chronotope",
+			"user": {
+				"id": 15099054,
+				"id_str": "15099054",
+				"name": "Aram Zucker-Scharff",
+				"screen_name": "Chronotope",
+				"location": "NYC, NY",
+				"description": "AramZS. Narrative designer. Dev w/ @salon, @pressfwd. Tech solutions for journalism problems. Prev: Journo on econ, gaming. Ex-altac. Tweets not about employer.",
+				"url": "http://t.co/3X2fFcj52H",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/3X2fFcj52H",
+								"expanded_url": "http://bit.ly/aram",
+								"display_url": "bit.ly/aram",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4020,
+				"friends_count": 4843,
+				"listed_count": 581,
+				"created_at": "Thu Jun 12 17:53:05 +0000 2008",
+				"favourites_count": 22287,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 85578,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "84919A",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/15603855/3251579970_3f5609dbe0_o.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/15603855/3251579970_3f5609dbe0_o.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/539484037765533698/7l6-pKY-_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/539484037765533698/7l6-pKY-_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15099054/1398272587",
+				"profile_link_color": "FF3300",
+				"profile_sidebar_border_color": "8F8A91",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jul 07 17:43:35 +0000 2017",
+		"id": 883380992874090500,
+		"id_str": "883380992874090497",
+		"text": "Time to make the town of Davidson live up to the ideals it professes to. https://t.co/MQi54XkWQf",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MQi54XkWQf",
+					"expanded_url": "https://twitter.com/SaveDavidson/status/883169892048023553",
+					"display_url": "twitter.com/SaveDavidson/s…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Notorious fake news writer. Leaker.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7497,
+			"friends_count": 1029,
+			"listed_count": 505,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39125,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 883169892048023600,
+		"quoted_status_id_str": "883169892048023553",
+		"quoted_status": {
+			"created_at": "Fri Jul 07 03:44:45 +0000 2017",
+			"id": 883169892048023600,
+			"id_str": "883169892048023553",
+			"text": "https://t.co/M5sGz0sv8J",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 883169877154046000,
+						"id_str": "883169877154045958",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DEGmUvQXoAYYZYM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DEGmUvQXoAYYZYM.jpg",
+						"url": "https://t.co/M5sGz0sv8J",
+						"display_url": "pic.twitter.com/M5sGz0sv8J",
+						"expanded_url": "https://twitter.com/SaveDavidson/status/883169892048023553/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 569,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1004,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1238,
+								"h": 1036,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 883169877154046000,
+						"id_str": "883169877154045958",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DEGmUvQXoAYYZYM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DEGmUvQXoAYYZYM.jpg",
+						"url": "https://t.co/M5sGz0sv8J",
+						"display_url": "pic.twitter.com/M5sGz0sv8J",
+						"expanded_url": "https://twitter.com/SaveDavidson/status/883169892048023553/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 569,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1004,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1238,
+								"h": 1036,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 876769195115106300,
+				"id_str": "876769195115106305",
+				"name": "Save Davidson",
+				"screen_name": "SaveDavidson",
+				"location": "Davidson, NC",
+				"description": "Fact-checking and truth-seeking citizens of the Town of Davidson.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13,
+				"friends_count": 49,
+				"listed_count": 0,
+				"created_at": "Mon Jun 19 11:50:40 +0000 2017",
+				"favourites_count": 9,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 17,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/876772838228807680/yorfe3jk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/876772838228807680/yorfe3jk_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jul 07 03:26:15 +0000 2017",
 		"id": 883165237695926300,
 		"id_str": "883165237695926272",
