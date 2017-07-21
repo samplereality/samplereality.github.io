@@ -1,6 +1,888 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Thu Jul 20 16:13:52 +0000 2017",
+		"id": 888069454868996100,
+		"id_str": "888069454868996096",
+		"text": "RT @kreshleman: If research confirms the best edu is deeply human &amp; we continue investing in tech solutions first, we have a pathology of c…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kreshleman",
+					"name": "Kristen Eshleman",
+					"id": 22611599,
+					"id_str": "22611599",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "High Quality Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Notorious fake news writer. Leaker.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7544,
+			"friends_count": 1037,
+			"listed_count": 510,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39220,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jul 20 11:22:50 +0000 2017",
+			"id": 887996214322630700,
+			"id_str": "887996214322630657",
+			"text": "If research confirms the best edu is deeply human &amp; we continue investing in tech solutions first, we have a pathology of convenience.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22611599,
+				"id_str": "22611599",
+				"name": "Kristen Eshleman",
+				"screen_name": "kreshleman",
+				"location": "Davidson, NC",
+				"description": "Digital Innovation @DavidsonCollege. Lover of liminal spaces. And Joe. I learn in the open.",
+				"url": "https://t.co/16G7m22aPm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/16G7m22aPm",
+								"expanded_url": "http://kristeneshleman.com",
+								"display_url": "kristeneshleman.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1713,
+				"friends_count": 1182,
+				"listed_count": 160,
+				"created_at": "Tue Mar 03 11:20:57 +0000 2009",
+				"favourites_count": 6452,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12305,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/608947308827246592/P_rfdzgG.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/608947308827246592/P_rfdzgG.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/850755267411050498/VctRwZU__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/850755267411050498/VctRwZU__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22611599/1467469507",
+				"profile_link_color": "216FAB",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 33,
+			"favorite_count": 56,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jul 20 14:20:57 +0000 2017",
+		"id": 888041038597828600,
+		"id_str": "888041038597828608",
+		"text": "@lychee_fan @jilltxt @lindencat Yes! I added Harriet talking about her story to my own Snapchat story. #meta #ELO17",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "meta",
+					"indices": [
+						103,
+						108
+					]
+				},
+				{
+					"text": "ELO17",
+					"indices": [
+						109,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lychee_fan",
+					"name": "Lai-Tze Fan",
+					"id": 713957226,
+					"id_str": "713957226",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "jilltxt",
+					"name": "Jill Walker Rettberg",
+					"id": 782934,
+					"id_str": "782934",
+					"indices": [
+						12,
+						20
+					]
+				},
+				{
+					"screen_name": "lindencat",
+					"name": "caitlin fisher",
+					"id": 33945558,
+					"id_str": "33945558",
+					"indices": [
+						21,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": 888038678077067300,
+		"in_reply_to_status_id_str": "888038678077067265",
+		"in_reply_to_user_id": 713957226,
+		"in_reply_to_user_id_str": "713957226",
+		"in_reply_to_screen_name": "lychee_fan",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "High Quality Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Notorious fake news writer. Leaker.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7544,
+			"friends_count": 1037,
+			"listed_count": 510,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39220,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jul 20 12:57:00 +0000 2017",
+		"id": 888019913700503600,
+		"id_str": "888019913700503552",
+		"text": "Anyone else at #ELO17 making Snapchat stories in addition to @jilltxt?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELO17",
+					"indices": [
+						15,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jilltxt",
+					"name": "Jill Walker Rettberg",
+					"id": 782934,
+					"id_str": "782934",
+					"indices": [
+						61,
+						69
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "High Quality Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Notorious fake news writer. Leaker.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7544,
+			"friends_count": 1037,
+			"listed_count": 510,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39220,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jul 20 11:02:55 +0000 2017",
+		"id": 887991201101643800,
+		"id_str": "887991201101643777",
+		"text": "@jpiringer Ack, that was Salamanca, which my sources incorrectly informed was the oldest university in Europe. I gu… https://t.co/u4yNO0p1tZ",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jpiringer",
+					"name": "jörg piringer",
+					"id": 46073611,
+					"id_str": "46073611",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/u4yNO0p1tZ",
+					"expanded_url": "https://twitter.com/i/web/status/887991201101643777",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": 887781448417243100,
+		"in_reply_to_status_id_str": "887781448417243136",
+		"in_reply_to_user_id": 46073611,
+		"in_reply_to_user_id_str": "46073611",
+		"in_reply_to_screen_name": "jpiringer",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "High Quality Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Notorious fake news writer. Leaker.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7544,
+			"friends_count": 1037,
+			"listed_count": 510,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39220,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jul 20 10:54:18 +0000 2017",
+		"id": 887989035339309000,
+		"id_str": "887989035339309056",
+		"text": "RT @jr_carpenter: I’m co-editing a special issue of @corditepoetry dedication to digital poetry: https://t.co/Tp39n2b15q https://t.co/MSASN…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jr_carpenter",
+					"name": "J.R. Carpenter",
+					"id": 20463666,
+					"id_str": "20463666",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "corditepoetry",
+					"name": "Cordite Publishing",
+					"id": 133706196,
+					"id_str": "133706196",
+					"indices": [
+						52,
+						66
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Tp39n2b15q",
+					"expanded_url": "http://bit.ly/2jEnwU9",
+					"display_url": "bit.ly/2jEnwU9",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "High Quality Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Notorious fake news writer. Leaker.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7544,
+			"friends_count": 1037,
+			"listed_count": 510,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39220,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jul 20 10:49:38 +0000 2017",
+			"id": 887987859512315900,
+			"id_str": "887987859512315904",
+			"text": "I’m co-editing a special issue of @corditepoetry dedication to digital poetry: https://t.co/Tp39n2b15q https://t.co/MSASNXHhaH #elit #ELO17",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "elit",
+						"indices": [
+							127,
+							132
+						]
+					},
+					{
+						"text": "ELO17",
+						"indices": [
+							133,
+							139
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "corditepoetry",
+						"name": "Cordite Publishing",
+						"id": 133706196,
+						"id_str": "133706196",
+						"indices": [
+							34,
+							48
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Tp39n2b15q",
+						"expanded_url": "http://bit.ly/2jEnwU9",
+						"display_url": "bit.ly/2jEnwU9",
+						"indices": [
+							79,
+							102
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 825661302840258600,
+						"id_str": "825661302840258560",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/C3VWlJSUcAAqj9g.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C3VWlJSUcAAqj9g.jpg",
+						"url": "https://t.co/MSASNXHhaH",
+						"display_url": "pic.twitter.com/MSASNXHhaH",
+						"expanded_url": "https://twitter.com/corditepoetry/status/825661432805019649/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 519,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 294,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 887,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 825661432805019600,
+						"source_status_id_str": "825661432805019649",
+						"source_user_id": 133706196,
+						"source_user_id_str": "133706196"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 825661302840258600,
+						"id_str": "825661302840258560",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/C3VWlJSUcAAqj9g.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C3VWlJSUcAAqj9g.jpg",
+						"url": "https://t.co/MSASNXHhaH",
+						"display_url": "pic.twitter.com/MSASNXHhaH",
+						"expanded_url": "https://twitter.com/corditepoetry/status/825661432805019649/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 519,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 294,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 887,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 825661432805019600,
+						"source_status_id_str": "825661432805019649",
+						"source_user_id": 133706196,
+						"source_user_id_str": "133706196"
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20463666,
+				"id_str": "20463666",
+				"name": "J.R. Carpenter",
+				"screen_name": "jr_carpenter",
+				"location": "Plymouth, UK",
+				"description": "artist, writer, researcher, foreigner, performer & maker of zines, poetry, fiction, non-fiction, & non-linear web-based narratives",
+				"url": "https://t.co/oAepZyc7zv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oAepZyc7zv",
+								"expanded_url": "http://luckysoap.com",
+								"display_url": "luckysoap.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3218,
+				"friends_count": 295,
+				"listed_count": 230,
+				"created_at": "Mon Feb 09 20:24:22 +0000 2009",
+				"favourites_count": 1473,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 22975,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "333333",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/520504620594896896/UEPTKjZW.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/520504620594896896/UEPTKjZW.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/849377076536909828/NSz2Vn6B_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/849377076536909828/NSz2Vn6B_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20463666/1478684896",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "D3D7E3",
+				"profile_text_color": "2A1B41",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jul 19 13:44:36 +0000 2017",
 		"id": 887669504116916200,
 		"id_str": "887669504116916225",
