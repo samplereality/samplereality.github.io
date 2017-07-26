@@ -1,6 +1,554 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Tue Jul 25 21:26:29 +0000 2017",
+		"id": 889960067260350500,
+		"id_str": "889960067260350467",
+		"text": "RT @RepAdams: The fight for our healthcare is NOT OVER. Continue to call Senators Burr &amp; Tillis and demand a 'no' vote! 202-224-3121",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RepAdams",
+					"name": "Alma S. Adams",
+					"id": 2916086925,
+					"id_str": "2916086925",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Notorious fake news writer. Leaker.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7556,
+			"friends_count": 1039,
+			"listed_count": 509,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39238,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 25 21:23:53 +0000 2017",
+			"id": 889959411799740400,
+			"id_str": "889959411799740421",
+			"text": "The fight for our healthcare is NOT OVER. Continue to call Senators Burr &amp; Tillis and demand a 'no' vote! 202-224-3121",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2916086925,
+				"id_str": "2916086925",
+				"name": "Alma S. Adams",
+				"screen_name": "RepAdams",
+				"location": "",
+				"description": "Congresswoman. Educator. Artist.",
+				"url": "https://t.co/wPfZolUQ4r",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wPfZolUQ4r",
+								"expanded_url": "http://adams.house.gov/",
+								"display_url": "adams.house.gov",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7811,
+				"friends_count": 1023,
+				"listed_count": 404,
+				"created_at": "Thu Dec 11 19:54:07 +0000 2014",
+				"favourites_count": 393,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3053,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/547065330338504704/-oIdiwL_.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/547065330338504704/-oIdiwL_.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/696878967744290816/UNJ4vKXq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/696878967744290816/UNJ4vKXq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2916086925/1419347081",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18,
+			"favorite_count": 44,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jul 25 21:26:04 +0000 2017",
+		"id": 889959962616758300,
+		"id_str": "889959962616758272",
+		"text": "RT @timlampe: I think about this everyday https://t.co/HJomgFusuu",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "timlampe",
+					"name": "Tim Lampe",
+					"id": 15706882,
+					"id_str": "15706882",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 889928227208257500,
+					"id_str": "889928227208257537",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/DFmpAfJXYAEvFxb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DFmpAfJXYAEvFxb.jpg",
+					"url": "https://t.co/HJomgFusuu",
+					"display_url": "pic.twitter.com/HJomgFusuu",
+					"expanded_url": "https://twitter.com/timlampe/status/889928271953113088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 377,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 666,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 689,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 889928271953113100,
+					"source_status_id_str": "889928271953113088",
+					"source_user_id": 15706882,
+					"source_user_id_str": "15706882"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 889928227208257500,
+					"id_str": "889928227208257537",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/DFmpAfJXYAEvFxb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DFmpAfJXYAEvFxb.jpg",
+					"url": "https://t.co/HJomgFusuu",
+					"display_url": "pic.twitter.com/HJomgFusuu",
+					"expanded_url": "https://twitter.com/timlampe/status/889928271953113088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 377,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 666,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 689,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 889928271953113100,
+					"source_status_id_str": "889928271953113088",
+					"source_user_id": 15706882,
+					"source_user_id_str": "15706882"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Notorious fake news writer. Leaker.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7556,
+			"friends_count": 1039,
+			"listed_count": 509,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39238,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 25 19:20:08 +0000 2017",
+			"id": 889928271953113100,
+			"id_str": "889928271953113088",
+			"text": "I think about this everyday https://t.co/HJomgFusuu",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 889928227208257500,
+						"id_str": "889928227208257537",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/media/DFmpAfJXYAEvFxb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFmpAfJXYAEvFxb.jpg",
+						"url": "https://t.co/HJomgFusuu",
+						"display_url": "pic.twitter.com/HJomgFusuu",
+						"expanded_url": "https://twitter.com/timlampe/status/889928271953113088/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 377,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 666,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1242,
+								"h": 689,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 889928227208257500,
+						"id_str": "889928227208257537",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/media/DFmpAfJXYAEvFxb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFmpAfJXYAEvFxb.jpg",
+						"url": "https://t.co/HJomgFusuu",
+						"display_url": "pic.twitter.com/HJomgFusuu",
+						"expanded_url": "https://twitter.com/timlampe/status/889928271953113088/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 377,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 666,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1242,
+								"h": 689,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15706882,
+				"id_str": "15706882",
+				"name": "Tim Lampe",
+				"screen_name": "timlampe",
+				"location": "Atlanta, GA",
+				"description": "Art Director / Creative Partner @verycleverco / Co-founder of @FPhotomakers / Formerly MailChimp and CNN / Eats Ice Cream Sandwiches",
+				"url": "https://t.co/t5gNRL6uIZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/t5gNRL6uIZ",
+								"expanded_url": "http://www.timlampe.com",
+								"display_url": "timlampe.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2517,
+				"friends_count": 678,
+				"listed_count": 106,
+				"created_at": "Sun Aug 03 02:16:52 +0000 2008",
+				"favourites_count": 3345,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 19684,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "2A7387",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000004041030/ab5feff08905bfb409bc6593c16e1cfe.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000004041030/ab5feff08905bfb409bc6593c16e1cfe.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/865587217087045632/D8ufDwk2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/865587217087045632/D8ufDwk2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15706882/1456414425",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "9BE9ED",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11834,
+			"favorite_count": 21453,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11834,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jul 24 16:15:53 +0000 2017",
 		"id": 889519516304236500,
 		"id_str": "889519516304236545",
