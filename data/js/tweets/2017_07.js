@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Wed Jul 26 21:26:19 +0000 2017",
+		"id": 890322413925404700,
+		"id_str": "890322413925404672",
+		"text": "Parable of the Sower remains one of my favorite books—and favorite books to teach. Was important in the late 90s bu… https://t.co/3mOMnXScB3",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3mOMnXScB3",
+					"expanded_url": "https://twitter.com/i/web/status/890322413925404672",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Notorious fake news writer. Leaker.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7556,
+			"friends_count": 1039,
+			"listed_count": 509,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39239,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 890319883187232800,
+		"quoted_status_id_str": "890319883187232769",
+		"quoted_status": {
+			"created_at": "Wed Jul 26 21:16:16 +0000 2017",
+			"id": 890319883187232800,
+			"id_str": "890319883187232769",
+			"text": "Octavia Butler’s prescient vision of a zealot elected to “make America great again” https://t.co/EfnMjRKLX5 https://t.co/Rua2gQPBd6",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/EfnMjRKLX5",
+						"expanded_url": "http://www.newyorker.com/books/second-read/octavia-butlers-prescient-vision-of-a-zealot-elected-to-make-america-great-again",
+						"display_url": "newyorker.com/books/second-r…",
+						"indices": [
+							84,
+							107
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 890319801545097200,
+						"id_str": "890319801545097216",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/DFsNJHOXgAAgPt4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFsNJHOXgAAgPt4.jpg",
+						"url": "https://t.co/Rua2gQPBd6",
+						"display_url": "pic.twitter.com/Rua2gQPBd6",
+						"expanded_url": "https://twitter.com/lainnafader/status/890319883187232769/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 649,
+								"h": 432,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 649,
+								"h": 432,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 649,
+								"h": 432,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 890319801545097200,
+						"id_str": "890319801545097216",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/DFsNJHOXgAAgPt4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFsNJHOXgAAgPt4.jpg",
+						"url": "https://t.co/Rua2gQPBd6",
+						"display_url": "pic.twitter.com/Rua2gQPBd6",
+						"expanded_url": "https://twitter.com/lainnafader/status/890319883187232769/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 649,
+								"h": 432,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 649,
+								"h": 432,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 649,
+								"h": 432,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 38013977,
+				"id_str": "38013977",
+				"name": "Lainna Fader",
+				"screen_name": "lainnafader",
+				"location": "NYC/LA",
+				"description": "I lead audience development at @newyorker. @ONA #ONAWLA #digitalwomenleaders '17, @techladymafia. FAQ: Lay-nuh.",
+				"url": "https://t.co/7f1bWKhypU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7f1bWKhypU",
+								"expanded_url": "http://Instagram.com/lfader",
+								"display_url": "Instagram.com/lfader",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9067,
+				"friends_count": 1991,
+				"listed_count": 358,
+				"created_at": "Tue May 05 20:40:05 +0000 2009",
+				"favourites_count": 58356,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 43921,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/632590097/ruvfzbc21pt2szvr80t4.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/632590097/ruvfzbc21pt2szvr80t4.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/853661799681536000/S9Ugs0i6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/853661799681536000/S9Ugs0i6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/38013977/1398194668",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 45,
+			"favorite_count": 65,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jul 25 21:26:29 +0000 2017",
 		"id": 889960067260350500,
 		"id_str": "889960067260350467",
