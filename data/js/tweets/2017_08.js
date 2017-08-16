@@ -1,6 +1,3494 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Wed Aug 16 04:30:50 +0000 2017",
+		"id": 897677003901546500,
+		"id_str": "897677003901546496",
+		"text": "RT @paleofuture: Even neo-Nazis are surprised by how much support they're getting from President Trump https://t.co/zxFARudVVF",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "paleofuture",
+					"name": "Matt Novak",
+					"id": 16877374,
+					"id_str": "16877374",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zxFARudVVF",
+					"expanded_url": "http://gizmodo.com/even-neo-nazis-are-surprised-by-trumps-latest-charlotte-1797874843",
+					"display_url": "gizmodo.com/even-neo-nazis…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Alt Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi fighter.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7638,
+			"friends_count": 1048,
+			"listed_count": 510,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39382,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 16 04:18:59 +0000 2017",
+			"id": 897674020065169400,
+			"id_str": "897674020065169409",
+			"text": "Even neo-Nazis are surprised by how much support they're getting from President Trump https://t.co/zxFARudVVF",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/zxFARudVVF",
+						"expanded_url": "http://gizmodo.com/even-neo-nazis-are-surprised-by-trumps-latest-charlotte-1797874843",
+						"display_url": "gizmodo.com/even-neo-nazis…",
+						"indices": [
+							86,
+							109
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16877374,
+				"id_str": "16877374",
+				"name": "Matt Novak",
+				"screen_name": "paleofuture",
+				"location": "Man Without a Country",
+				"description": "Writes for @Gizmodo, married to the lovely @SamN0VAK",
+				"url": "https://t.co/kdMVtMkTSv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kdMVtMkTSv",
+								"expanded_url": "http://paleofuture.gizmodo.com/",
+								"display_url": "paleofuture.gizmodo.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 22283,
+				"friends_count": 1968,
+				"listed_count": 1209,
+				"created_at": "Mon Oct 20 23:44:16 +0000 2008",
+				"favourites_count": 10609,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 48491,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/848913715722412034/Pr2Q51o2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/848913715722412034/Pr2Q51o2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16877374/1348212262",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 26,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 16 01:59:22 +0000 2017",
+		"id": 897638887098548200,
+		"id_str": "897638887098548224",
+		"text": "RT @pattonoswalt: Liberal arts college professor brutalizes Nazi, who has a permit. More alt-left indoctrination. https://t.co/knrhHuPNDl",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pattonoswalt",
+					"name": "Patton Oswalt",
+					"id": 139162440,
+					"id_str": "139162440",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 897576860451692500,
+					"id_str": "897576860451692544",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/DHTVZiXVYAA1JMK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHTVZiXVYAA1JMK.jpg",
+					"url": "https://t.co/knrhHuPNDl",
+					"display_url": "pic.twitter.com/knrhHuPNDl",
+					"expanded_url": "https://twitter.com/pattonoswalt/status/897576880555130883/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 300,
+							"h": 168,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 168,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 300,
+							"h": 168,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 897576880555130900,
+					"source_status_id_str": "897576880555130883",
+					"source_user_id": 139162440,
+					"source_user_id_str": "139162440"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 897576860451692500,
+					"id_str": "897576860451692544",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/DHTVZiXVYAA1JMK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHTVZiXVYAA1JMK.jpg",
+					"url": "https://t.co/knrhHuPNDl",
+					"display_url": "pic.twitter.com/knrhHuPNDl",
+					"expanded_url": "https://twitter.com/pattonoswalt/status/897576880555130883/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 300,
+							"h": 168,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 168,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 300,
+							"h": 168,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 897576880555130900,
+					"source_status_id_str": "897576880555130883",
+					"source_user_id": 139162440,
+					"source_user_id_str": "139162440"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Alt Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi fighter.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7638,
+			"friends_count": 1048,
+			"listed_count": 510,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39382,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 15 21:52:59 +0000 2017",
+			"id": 897576880555130900,
+			"id_str": "897576880555130883",
+			"text": "Liberal arts college professor brutalizes Nazi, who has a permit. More alt-left indoctrination. https://t.co/knrhHuPNDl",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 897576860451692500,
+						"id_str": "897576860451692544",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/DHTVZiXVYAA1JMK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHTVZiXVYAA1JMK.jpg",
+						"url": "https://t.co/knrhHuPNDl",
+						"display_url": "pic.twitter.com/knrhHuPNDl",
+						"expanded_url": "https://twitter.com/pattonoswalt/status/897576880555130883/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 300,
+								"h": 168,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 300,
+								"h": 168,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 300,
+								"h": 168,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 897576860451692500,
+						"id_str": "897576860451692544",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/DHTVZiXVYAA1JMK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHTVZiXVYAA1JMK.jpg",
+						"url": "https://t.co/knrhHuPNDl",
+						"display_url": "pic.twitter.com/knrhHuPNDl",
+						"expanded_url": "https://twitter.com/pattonoswalt/status/897576880555130883/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 300,
+								"h": 168,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 300,
+								"h": 168,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 300,
+								"h": 168,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 139162440,
+				"id_str": "139162440",
+				"name": "Patton Oswalt",
+				"screen_name": "pattonoswalt",
+				"location": "Los Angeles",
+				"description": "Mr. Oswalt is a former wedding deejay from Northern Virginia.",
+				"url": "http://t.co/HKcoZHbxiG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/HKcoZHbxiG",
+								"expanded_url": "http://www.pattonoswalt.com",
+								"display_url": "pattonoswalt.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4183402,
+				"friends_count": 2710,
+				"listed_count": 26671,
+				"created_at": "Sat May 01 19:00:10 +0000 2010",
+				"favourites_count": 19521,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 32633,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "1C5741",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/97647521/glow-y.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/97647521/glow-y.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/866556637/teatime__normal.JPG",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/866556637/teatime__normal.JPG",
+				"profile_link_color": "BF1238",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 36407,
+			"favorite_count": 85630,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 36407,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 16 01:17:49 +0000 2017",
+		"id": 897628431076249600,
+		"id_str": "897628431076249600",
+		"text": "I promise, I am not queuing these tweets up. Melville was just *that* prescient.  https://t.co/4L3ih2Hlpa",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4L3ih2Hlpa",
+					"expanded_url": "https://twitter.com/MobyDickatSea/status/897621695342804992",
+					"display_url": "twitter.com/MobyDickatSea/…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Alt Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi fighter.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7638,
+			"friends_count": 1048,
+			"listed_count": 510,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39382,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 897621695342805000,
+		"quoted_status_id_str": "897621695342804992",
+		"quoted_status": {
+			"created_at": "Wed Aug 16 00:51:03 +0000 2017",
+			"id": 897621695342805000,
+			"id_str": "897621695342804992",
+			"text": "you now saw through this wreck, as plainly as you see through the peeled, half-unhinged, and bleaching skeleton of a horse",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://twitter.com/MobyDickatSea\" rel=\"nofollow\">Moby Dick at Sea</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1482779976,
+				"id_str": "1482779976",
+				"name": "Moby Dick",
+				"screen_name": "MobyDickatSea",
+				"location": "The South Seas",
+				"description": "Moby-Dick, by Herman Melville. Loose fish and fast fish, tweeting on the same line.\n\nA bot by @samplereality.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 28841,
+				"friends_count": 1,
+				"listed_count": 413,
+				"created_at": "Tue Jun 04 17:23:46 +0000 2013",
+				"favourites_count": 1,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12332,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "3289B5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3755781902/9b47b7e223799bb523c7628e00b411c4_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3755781902/9b47b7e223799bb523c7628e00b411c4_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1482779976/1439810275",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 131,
+			"favorite_count": 228,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 16 00:13:37 +0000 2017",
+		"id": 897612274709475300,
+		"id_str": "897612274709475328",
+		"text": "“Leave the Durham memorial on the ground” by @lubar https://t.co/MywXBZq7hY https://t.co/dofGSvfvKJ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lubar",
+					"name": "Steven Lubar",
+					"id": 19814678,
+					"id_str": "19814678",
+					"indices": [
+						45,
+						51
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MywXBZq7hY",
+					"expanded_url": "https://medium.com/@lubar/leave-the-durham-memorial-on-the-ground-4a3713f2bf5e?source=twitterShare-8fe2b5f75ba9-1502842409",
+					"display_url": "medium.com/@lubar/leave-t…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 897612271324721200,
+					"id_str": "897612271324721152",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/DHT1muJXcAAeIp7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHT1muJXcAAeIp7.jpg",
+					"url": "https://t.co/dofGSvfvKJ",
+					"display_url": "pic.twitter.com/dofGSvfvKJ",
+					"expanded_url": "https://twitter.com/samplereality/status/897612274709475328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 380,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 380,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 345,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 897612271324721200,
+					"id_str": "897612271324721152",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/DHT1muJXcAAeIp7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHT1muJXcAAeIp7.jpg",
+					"url": "https://t.co/dofGSvfvKJ",
+					"display_url": "pic.twitter.com/dofGSvfvKJ",
+					"expanded_url": "https://twitter.com/samplereality/status/897612274709475328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 380,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 380,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 345,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Alt Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi fighter.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7638,
+			"friends_count": 1048,
+			"listed_count": 510,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39382,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Aug 15 21:27:19 +0000 2017",
+		"id": 897570421951922200,
+		"id_str": "897570421951922177",
+		"text": "RT @dsantat: HISTORY OF US PRESIDENTS: https://t.co/6mc0JCwdf6",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dsantat",
+					"name": "Dan Santat",
+					"id": 13433612,
+					"id_str": "13433612",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 897557568788193300,
+					"id_str": "897557568788193280",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/DHTD2nUVYAA79iU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHTD2nUVYAA79iU.jpg",
+					"url": "https://t.co/6mc0JCwdf6",
+					"display_url": "pic.twitter.com/6mc0JCwdf6",
+					"expanded_url": "https://twitter.com/dsantat/status/897557576593756161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 494,
+							"h": 210,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 494,
+							"h": 210,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 494,
+							"h": 210,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 897557576593756200,
+					"source_status_id_str": "897557576593756161",
+					"source_user_id": 13433612,
+					"source_user_id_str": "13433612"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 897557568788193300,
+					"id_str": "897557568788193280",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/DHTD2nUVYAA79iU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHTD2nUVYAA79iU.jpg",
+					"url": "https://t.co/6mc0JCwdf6",
+					"display_url": "pic.twitter.com/6mc0JCwdf6",
+					"expanded_url": "https://twitter.com/dsantat/status/897557576593756161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 494,
+							"h": 210,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 494,
+							"h": 210,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 494,
+							"h": 210,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 897557576593756200,
+					"source_status_id_str": "897557576593756161",
+					"source_user_id": 13433612,
+					"source_user_id_str": "13433612"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Alt Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi fighter.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7638,
+			"friends_count": 1048,
+			"listed_count": 510,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39382,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 15 20:36:16 +0000 2017",
+			"id": 897557576593756200,
+			"id_str": "897557576593756161",
+			"text": "HISTORY OF US PRESIDENTS: https://t.co/6mc0JCwdf6",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 897557568788193300,
+						"id_str": "897557568788193280",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/media/DHTD2nUVYAA79iU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHTD2nUVYAA79iU.jpg",
+						"url": "https://t.co/6mc0JCwdf6",
+						"display_url": "pic.twitter.com/6mc0JCwdf6",
+						"expanded_url": "https://twitter.com/dsantat/status/897557576593756161/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 494,
+								"h": 210,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 494,
+								"h": 210,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 494,
+								"h": 210,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 897557568788193300,
+						"id_str": "897557568788193280",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/media/DHTD2nUVYAA79iU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHTD2nUVYAA79iU.jpg",
+						"url": "https://t.co/6mc0JCwdf6",
+						"display_url": "pic.twitter.com/6mc0JCwdf6",
+						"expanded_url": "https://twitter.com/dsantat/status/897557576593756161/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 494,
+								"h": 210,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 494,
+								"h": 210,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 494,
+								"h": 210,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 13433612,
+				"id_str": "13433612",
+				"name": "Dan Santat",
+				"screen_name": "dsantat",
+				"location": "",
+				"description": "Author/illustrator of, Beekle, Sidekicks, and other books. Creator of the Disney animated series, The Replacements.",
+				"url": "https://t.co/efp7IvRvUs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/efp7IvRvUs",
+								"expanded_url": "http://dansantat.tumblr.com",
+								"display_url": "dansantat.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14573,
+				"friends_count": 585,
+				"listed_count": 535,
+				"created_at": "Wed Feb 13 15:12:42 +0000 2008",
+				"favourites_count": 12630,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 26804,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/207789614/twit2.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/207789614/twit2.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/879879510006550528/aKyged2F_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/879879510006550528/aKyged2F_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/13433612/1492016481",
+				"profile_link_color": "7DB524",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5923,
+			"favorite_count": 9687,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5923,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Aug 15 21:08:43 +0000 2017",
+		"id": 897565741582475300,
+		"id_str": "897565741582475264",
+		"text": "A column wholly inspired by @MobyDickatSea  https://t.co/SuZe2EpvmK",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MobyDickatSea",
+					"name": "Moby Dick",
+					"id": 1482779976,
+					"id_str": "1482779976",
+					"indices": [
+						28,
+						42
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SuZe2EpvmK",
+					"expanded_url": "https://twitter.com/TheAtlantic/status/896886213746884609",
+					"display_url": "twitter.com/TheAtlantic/st…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Alt Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi fighter.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7638,
+			"friends_count": 1048,
+			"listed_count": 510,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39382,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 896883219940884500,
+		"quoted_status_id_str": "896883219940884481",
+		"quoted_status": {
+			"created_at": "Sun Aug 13 23:56:37 +0000 2017",
+			"id": 896883219940884500,
+			"id_str": "896883219940884481",
+			"text": "It's time for congressional Republicans to leap from the boat and abandon Trump, writes @DavidFrum:… https://t.co/Xuh04EsYz1",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "davidfrum",
+						"name": "David Frum",
+						"id": 18686907,
+						"id_str": "18686907",
+						"indices": [
+							88,
+							98
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Xuh04EsYz1",
+						"expanded_url": "https://twitter.com/i/web/status/896883219940884481",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							101,
+							124
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 35773039,
+				"id_str": "35773039",
+				"name": "The Atlantic",
+				"screen_name": "TheAtlantic",
+				"location": "Washington, D.C.",
+				"description": "Politics, culture, business, science, technology, health, education, global affairs, more. Tweets by @CaitlinFrazier",
+				"url": "http://t.co/pI6FUBgQdl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/pI6FUBgQdl",
+								"expanded_url": "http://www.theatlantic.com",
+								"display_url": "theatlantic.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1574946,
+				"friends_count": 1030,
+				"listed_count": 27634,
+				"created_at": "Mon Apr 27 15:41:54 +0000 2009",
+				"favourites_count": 663,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 121046,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/215776367/twitter-main.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/215776367/twitter-main.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/880086372564041728/rZ4SGWbE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/880086372564041728/rZ4SGWbE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/35773039/1497905992",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "BFBFBF",
+				"profile_sidebar_fill_color": "E6ECF2",
+				"profile_text_color": "000408",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 560,
+			"favorite_count": 1451,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Aug 15 21:04:28 +0000 2017",
+		"id": 897564672588562400,
+		"id_str": "897564672588562432",
+		"text": "RT @SiobhanGK: @MobyDickatSea (2/2) extremely relevant to our hate-filled, divisive times. @MobyDickatSea isn't trolling; it's warning us a…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SiobhanGK",
+					"name": "Siobhan GK",
+					"id": 15921894,
+					"id_str": "15921894",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "MobyDickatSea",
+					"name": "Moby Dick",
+					"id": 1482779976,
+					"id_str": "1482779976",
+					"indices": [
+						15,
+						29
+					]
+				},
+				{
+					"screen_name": "MobyDickatSea",
+					"name": "Moby Dick",
+					"id": 1482779976,
+					"id_str": "1482779976",
+					"indices": [
+						91,
+						105
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Alt Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi fighter.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7638,
+			"friends_count": 1048,
+			"listed_count": 510,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39382,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Aug 14 16:34:50 +0000 2017",
+			"id": 897134429004599300,
+			"id_str": "897134429004599296",
+			"text": "@MobyDickatSea (2/2) extremely relevant to our hate-filled, divisive times. @MobyDickatSea isn't trolling; it's war… https://t.co/SFfpb5PO7O",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MobyDickatSea",
+						"name": "Moby Dick",
+						"id": 1482779976,
+						"id_str": "1482779976",
+						"indices": [
+							0,
+							14
+						]
+					},
+					{
+						"screen_name": "MobyDickatSea",
+						"name": "Moby Dick",
+						"id": 1482779976,
+						"id_str": "1482779976",
+						"indices": [
+							76,
+							90
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/SFfpb5PO7O",
+						"expanded_url": "https://twitter.com/i/web/status/897134429004599296",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 897133987893837800,
+			"in_reply_to_status_id_str": "897133987893837824",
+			"in_reply_to_user_id": 15921894,
+			"in_reply_to_user_id_str": "15921894",
+			"in_reply_to_screen_name": "SiobhanGK",
+			"user": {
+				"id": 15921894,
+				"id_str": "15921894",
+				"name": "Siobhan GK",
+				"screen_name": "SiobhanGK",
+				"location": "Outside of my comfort zone.",
+				"description": "Like a person, only smaller. (Opinions here are my own & honestly not that important.)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 949,
+				"friends_count": 1717,
+				"listed_count": 56,
+				"created_at": "Wed Aug 20 19:27:45 +0000 2008",
+				"favourites_count": 61995,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9840,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "050300",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/448193687906832384/GUZP2Sbw.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/448193687906832384/GUZP2Sbw.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/877988725275414528/jp23CbL1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/877988725275414528/jp23CbL1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15921894/1446065238",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FDF1E1",
+				"profile_text_color": "D00018",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Aug 15 21:04:16 +0000 2017",
+		"id": 897564620256424000,
+		"id_str": "897564620256423936",
+		"text": "RT @SiobhanGK: Why is @MobyDickatSea seemingly trolling \"President\" Trmp? Because the book is a complex allegory on the the Civil War, maki…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SiobhanGK",
+					"name": "Siobhan GK",
+					"id": 15921894,
+					"id_str": "15921894",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "MobyDickatSea",
+					"name": "Moby Dick",
+					"id": 1482779976,
+					"id_str": "1482779976",
+					"indices": [
+						22,
+						36
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Alt Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi fighter.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7638,
+			"friends_count": 1048,
+			"listed_count": 510,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39382,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Aug 14 16:33:05 +0000 2017",
+			"id": 897133987893837800,
+			"id_str": "897133987893837824",
+			"text": "Why is @MobyDickatSea seemingly trolling \"President\" Trmp? Because the book is a complex allegory on the the Civil… https://t.co/xtx33Z6qP0",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MobyDickatSea",
+						"name": "Moby Dick",
+						"id": 1482779976,
+						"id_str": "1482779976",
+						"indices": [
+							7,
+							21
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/xtx33Z6qP0",
+						"expanded_url": "https://twitter.com/i/web/status/897133987893837824",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15921894,
+				"id_str": "15921894",
+				"name": "Siobhan GK",
+				"screen_name": "SiobhanGK",
+				"location": "Outside of my comfort zone.",
+				"description": "Like a person, only smaller. (Opinions here are my own & honestly not that important.)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 949,
+				"friends_count": 1717,
+				"listed_count": 56,
+				"created_at": "Wed Aug 20 19:27:45 +0000 2008",
+				"favourites_count": 61995,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9840,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "050300",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/448193687906832384/GUZP2Sbw.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/448193687906832384/GUZP2Sbw.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/877988725275414528/jp23CbL1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/877988725275414528/jp23CbL1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15921894/1446065238",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FDF1E1",
+				"profile_text_color": "D00018",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 870895585146134500,
+			"quoted_status_id_str": "870895585146134528",
+			"quoted_status": {
+				"created_at": "Sat Jun 03 06:51:02 +0000 2017",
+				"id": 870895585146134500,
+				"id_str": "870895585146134528",
+				"text": "But shall this crazed old man be tamely suffered to drag a whole ship's company down to doom with him?",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"source": "<a href=\"https://twitter.com/MobyDickatSea\" rel=\"nofollow\">Moby Dick at Sea</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 1482779976,
+					"id_str": "1482779976",
+					"name": "Moby Dick",
+					"screen_name": "MobyDickatSea",
+					"location": "The South Seas",
+					"description": "Moby-Dick, by Herman Melville. Loose fish and fast fish, tweeting on the same line.\n\nA bot by @samplereality.",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 28841,
+					"friends_count": 1,
+					"listed_count": 413,
+					"created_at": "Tue Jun 04 17:23:46 +0000 2013",
+					"favourites_count": 1,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 12332,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "3289B5",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/3755781902/9b47b7e223799bb523c7628e00b411c4_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/3755781902/9b47b7e223799bb523c7628e00b411c4_normal.jpeg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/1482779976/1439810275",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 3481,
+				"favorite_count": 5136,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 5,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 870895585146134500,
+		"quoted_status_id_str": "870895585146134528",
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Aug 15 21:01:29 +0000 2017",
+		"id": 897563920260640800,
+		"id_str": "897563920260640768",
+		"text": "Sadly, it won't be. There's still a long way down. And The GOP will allow Trump to take us there. https://t.co/iMSeiEZczS",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iMSeiEZczS",
+					"expanded_url": "https://twitter.com/JeffJacksonNC/status/897563610628730882",
+					"display_url": "twitter.com/JeffJacksonNC/…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Alt Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi fighter.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7638,
+			"friends_count": 1048,
+			"listed_count": 510,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39382,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 897563610628730900,
+		"quoted_status_id_str": "897563610628730882",
+		"quoted_status": {
+			"created_at": "Tue Aug 15 21:00:15 +0000 2017",
+			"id": 897563610628730900,
+			"id_str": "897563610628730882",
+			"text": "Unbelievably, Trump just hit a new low. This presidency is like rappelling into an endless cave. Please, let this b… https://t.co/DFbIkb96HK",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/DFbIkb96HK",
+						"expanded_url": "https://twitter.com/i/web/status/897563610628730882",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 124820305,
+				"id_str": "124820305",
+				"name": "Sen. Jeff Jackson",
+				"screen_name": "JeffJacksonNC",
+				"location": "Charlotte, NC",
+				"description": "Dad, husband, soldier, state Senator",
+				"url": "https://t.co/LmoMkuReS5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LmoMkuReS5",
+								"expanded_url": "http://JeffJacksonNC.com",
+								"display_url": "JeffJacksonNC.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 21498,
+				"friends_count": 1583,
+				"listed_count": 262,
+				"created_at": "Sat Mar 20 17:42:39 +0000 2010",
+				"favourites_count": 3947,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 4450,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/861603384024903680/Y8NYy5Ft_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/861603384024903680/Y8NYy5Ft_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/124820305/1399237885",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 897556101293420500,
+			"quoted_status_id_str": "897556101293420544",
+			"retweet_count": 71,
+			"favorite_count": 257,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Aug 15 20:54:31 +0000 2017",
+		"id": 897562168505360400,
+		"id_str": "897562168505360384",
+		"text": "Kinda sad that DH Trump account is gone. Pretty sure it'd be ranting about alt-markdown right about now.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Alt Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi fighter.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7638,
+			"friends_count": 1048,
+			"listed_count": 510,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39382,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Aug 15 20:25:13 +0000 2017",
+		"id": 897554796676362200,
+		"id_str": "897554796676362241",
+		"text": "There's no such thing as the alt-left, because to be left in America already means you're alt.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Alt Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi fighter.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7638,
+			"friends_count": 1048,
+			"listed_count": 510,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39382,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Aug 15 17:14:31 +0000 2017",
+		"id": 897506803424141300,
+		"id_str": "897506803424141313",
+		"text": "RT @WildcatTech: If you haven't seen Davidson's video about the eclipse in 6 days, check it out! https://t.co/mhMMJRsxdP",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WildcatTech",
+					"name": "Davidson College ITS",
+					"id": 23788030,
+					"id_str": "23788030",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mhMMJRsxdP",
+					"expanded_url": "http://ow.ly/uDlH30ejDGw",
+					"display_url": "ow.ly/uDlH30ejDGw",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Alt Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi fighter.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7638,
+			"friends_count": 1048,
+			"listed_count": 510,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39382,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 15 17:01:19 +0000 2017",
+			"id": 897503480549527600,
+			"id_str": "897503480549527552",
+			"text": "If you haven't seen Davidson's video about the eclipse in 6 days, check it out! https://t.co/mhMMJRsxdP",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/mhMMJRsxdP",
+						"expanded_url": "http://ow.ly/uDlH30ejDGw",
+						"display_url": "ow.ly/uDlH30ejDGw",
+						"indices": [
+							80,
+							103
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23788030,
+				"id_str": "23788030",
+				"name": "Davidson College ITS",
+				"screen_name": "WildcatTech",
+				"location": "Davidson, NC",
+				"description": "Davidson College Information Technology. Email - its@davidson.edu | Phone & Text - 704-894-2900",
+				"url": "https://t.co/0ju5NLJh5l",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0ju5NLJh5l",
+								"expanded_url": "http://wildcat-tech.org",
+								"display_url": "wildcat-tech.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 601,
+				"friends_count": 85,
+				"listed_count": 48,
+				"created_at": "Wed Mar 11 16:41:12 +0000 2009",
+				"favourites_count": 88,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2013,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/20906727/2560313202_391a5346a7_b.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/20906727/2560313202_391a5346a7_b.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/827611358908788736/GXsS7pmX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/827611358908788736/GXsS7pmX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23788030/1487608483",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Aug 15 16:17:14 +0000 2017",
+		"id": 897492389698383900,
+		"id_str": "897492389698383875",
+		"text": "Derek Birkin, CEO in 80s &amp; 90s of Rio Tinto, one of the world's largest mining companies. Copper, uranium, diamonds. https://t.co/QY4gc2cr5t",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QY4gc2cr5t",
+					"expanded_url": "https://twitter.com/Clipart1994bot/status/897430441262821376",
+					"display_url": "twitter.com/Clipart1994bot…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Alt Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi fighter.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7638,
+			"friends_count": 1048,
+			"listed_count": 510,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39382,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 897430441262821400,
+		"quoted_status_id_str": "897430441262821376",
+		"quoted_status": {
+			"created_at": "Tue Aug 15 12:11:05 +0000 2017",
+			"id": 897430441262821400,
+			"id_str": "897430441262821376",
+			"text": "BIRKN_D1.BMF https://t.co/dgff93Ifoc",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 897430438440050700,
+						"id_str": "897430438440050688",
+						"indices": [
+							13,
+							36
+						],
+						"media_url": "http://pbs.twimg.com/media/DHRQOp3XoAAoxx3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHRQOp3XoAAoxx3.jpg",
+						"url": "https://t.co/dgff93Ifoc",
+						"display_url": "pic.twitter.com/dgff93Ifoc",
+						"expanded_url": "https://twitter.com/Clipart1994bot/status/897430441262821376/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 471,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 645,
+								"h": 931,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 645,
+								"h": 931,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 897430438440050700,
+						"id_str": "897430438440050688",
+						"indices": [
+							13,
+							36
+						],
+						"media_url": "http://pbs.twimg.com/media/DHRQOp3XoAAoxx3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHRQOp3XoAAoxx3.jpg",
+						"url": "https://t.co/dgff93Ifoc",
+						"display_url": "pic.twitter.com/dgff93Ifoc",
+						"expanded_url": "https://twitter.com/Clipart1994bot/status/897430441262821376/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 471,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 645,
+								"h": 931,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 645,
+								"h": 931,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.samplereality.com\" rel=\"nofollow\">1994 Clipart Bot</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 895426242345873400,
+				"id_str": "895426242345873408",
+				"name": "Corel Gallery 1994",
+				"screen_name": "Clipart1994bot",
+				"location": "On a CD-ROM",
+				"description": "Power up your Windows 95 and enjoy these 10,000 clipart images from 1994! Content warning: may contain offensive stereotypes. A bot by @samplereality.",
+				"url": "https://t.co/jzW78xvpbC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jzW78xvpbC",
+								"expanded_url": "http://www.samplereality.com",
+								"display_url": "samplereality.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 502,
+				"friends_count": 0,
+				"listed_count": 33,
+				"created_at": "Wed Aug 09 23:27:07 +0000 2017",
+				"favourites_count": 0,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 155,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/895428157284786177/_GyD72-__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/895428157284786177/_GyD72-__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/895426242345873408/1502333534",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Aug 15 13:12:54 +0000 2017",
+		"id": 897446000129953800,
+		"id_str": "897446000129953792",
+		"text": "RT @sivavaid: Universities are so scared of seeming to block \"speech\" they can fail to protect students from violence. https://t.co/WALX0re…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sivavaid",
+					"name": "SivaVaidhyanathan🗽",
+					"id": 20406724,
+					"id_str": "20406724",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Alt Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi fighter.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7638,
+			"friends_count": 1048,
+			"listed_count": 510,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39382,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 15 13:11:36 +0000 2017",
+			"id": 897445671988539400,
+			"id_str": "897445671988539392",
+			"text": "Universities are so scared of seeming to block \"speech\" they can fail to protect students from violence. https://t.co/WALX0rePWj",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WALX0rePWj",
+						"expanded_url": "http://www.chronicle.com/article/Did-UVa-Miss-Signs-of-Looming/240928?cid=at&utm_source=at&utm_medium=en&elqTrackId=8b482d8c2a4c4d2ebb12457ad34762c4&elq=31265671b8e24c22949924ff0d199cde&elqaid=15149&elqat=1&elqCampaignId=6455#undefined.uxfs",
+						"display_url": "chronicle.com/article/Did-UV…",
+						"indices": [
+							105,
+							128
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20406724,
+				"id_str": "20406724",
+				"name": "SivaVaidhyanathan🗽",
+				"screen_name": "sivavaid",
+				"location": "Virginia, USA",
+				"description": "Writing a book about Facebook. Wrote The Googlization of Everything. Director of Center for Media and Citizenship (@mediaandcitizen) which publishes @VQR.",
+				"url": "https://t.co/pGExYzU3js",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pGExYzU3js",
+								"expanded_url": "https://en.wikipedia.org/wiki/Siva_Vaidhyanathan",
+								"display_url": "en.wikipedia.org/wiki/Siva_Vaid…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15853,
+				"friends_count": 4298,
+				"listed_count": 1031,
+				"created_at": "Mon Feb 09 01:29:24 +0000 2009",
+				"favourites_count": 50609,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 103728,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ABB8C2",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/807522515/043301b9fc302cc787a56403f907e2a9.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/807522515/043301b9fc302cc787a56403f907e2a9.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/897241838591123457/IVXErIZg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/897241838591123457/IVXErIZg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20406724/1496263309",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Aug 15 13:11:45 +0000 2017",
+		"id": 897445707300425700,
+		"id_str": "897445707300425728",
+		"text": "@icpetrie This clipart was really popular on the Gambino family Christmas cards printed with Printshop Pro.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "icpetrie",
+					"name": "Ian Petrie",
+					"id": 703202143,
+					"id_str": "703202143",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": 897415599088947200,
+		"in_reply_to_status_id_str": "897415599088947200",
+		"in_reply_to_user_id": 703202143,
+		"in_reply_to_user_id_str": "703202143",
+		"in_reply_to_screen_name": "icpetrie",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Alt Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi fighter.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7638,
+			"friends_count": 1048,
+			"listed_count": 510,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39382,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Aug 15 11:25:17 +0000 2017",
+		"id": 897418915747377200,
+		"id_str": "897418915747377152",
+		"text": "This is not the clip art you want, it's the clip art you need. https://t.co/Zj6AMQySHY",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Zj6AMQySHY",
+					"expanded_url": "https://twitter.com/Clipart1994bot/status/897354941920149504",
+					"display_url": "twitter.com/Clipart1994bot…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Alt Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi fighter.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7638,
+			"friends_count": 1048,
+			"listed_count": 510,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39382,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847191258393137152/T9gHOw5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 897354941920149500,
+		"quoted_status_id_str": "897354941920149504",
+		"quoted_status": {
+			"created_at": "Tue Aug 15 07:11:04 +0000 2017",
+			"id": 897354941920149500,
+			"id_str": "897354941920149504",
+			"text": "1UNICORN.BMF https://t.co/9uCUh5S0UW",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 897354939189645300,
+						"id_str": "897354939189645312",
+						"indices": [
+							13,
+							36
+						],
+						"media_url": "http://pbs.twimg.com/media/DHQLkBPXUAAB3Dt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHQLkBPXUAAB3Dt.jpg",
+						"url": "https://t.co/9uCUh5S0UW",
+						"display_url": "pic.twitter.com/9uCUh5S0UW",
+						"expanded_url": "https://twitter.com/Clipart1994bot/status/897354941920149504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 602,
+								"h": 814,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 503,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 602,
+								"h": 814,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 897354939189645300,
+						"id_str": "897354939189645312",
+						"indices": [
+							13,
+							36
+						],
+						"media_url": "http://pbs.twimg.com/media/DHQLkBPXUAAB3Dt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHQLkBPXUAAB3Dt.jpg",
+						"url": "https://t.co/9uCUh5S0UW",
+						"display_url": "pic.twitter.com/9uCUh5S0UW",
+						"expanded_url": "https://twitter.com/Clipart1994bot/status/897354941920149504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 602,
+								"h": 814,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 503,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 602,
+								"h": 814,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.samplereality.com\" rel=\"nofollow\">1994 Clipart Bot</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 895426242345873400,
+				"id_str": "895426242345873408",
+				"name": "Corel Gallery 1994",
+				"screen_name": "Clipart1994bot",
+				"location": "On a CD-ROM",
+				"description": "Power up your Windows 95 and enjoy these 10,000 clipart images from 1994! Content warning: may contain offensive stereotypes. A bot by @samplereality.",
+				"url": "https://t.co/jzW78xvpbC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jzW78xvpbC",
+								"expanded_url": "http://www.samplereality.com",
+								"display_url": "samplereality.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 502,
+				"friends_count": 0,
+				"listed_count": 33,
+				"created_at": "Wed Aug 09 23:27:07 +0000 2017",
+				"favourites_count": 0,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 155,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/895428157284786177/_GyD72-__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/895428157284786177/_GyD72-__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/895426242345873408/1502333534",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Aug 15 01:55:34 +0000 2017",
 		"id": 897275543611101200,
 		"id_str": "897275543611101186",
