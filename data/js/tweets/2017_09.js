@@ -1,6 +1,494 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Sun Sep 03 01:39:11 +0000 2017",
+		"id": 904156788618080300,
+		"id_str": "904156788618080256",
+		"text": "RT @DPLAbot: Rhythmic Transition (1983) https://t.co/ORj0pfMsBm https://t.co/XprskwhHGY",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DPLAbot",
+					"name": "DPLA Bot",
+					"id": 1562113064,
+					"id_str": "1562113064",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ORj0pfMsBm",
+					"expanded_url": "http://collections.si.edu/search/results.htm?q=record_ID%3Achndm_1988-22-105&repo=DPLA",
+					"display_url": "collections.si.edu/search/results…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 904022922095931400,
+					"id_str": "904022922095931392",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/DIu8DtRWsAAUEq3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DIu8DtRWsAAUEq3.jpg",
+					"url": "https://t.co/XprskwhHGY",
+					"display_url": "pic.twitter.com/XprskwhHGY",
+					"expanded_url": "https://twitter.com/DPLAbot/status/904022927913484288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 831,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 471,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1385,
+							"h": 1999,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 904022927913484300,
+					"source_status_id_str": "904022927913484288",
+					"source_user_id": 1562113064,
+					"source_user_id_str": "1562113064"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 904022922095931400,
+					"id_str": "904022922095931392",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/DIu8DtRWsAAUEq3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DIu8DtRWsAAUEq3.jpg",
+					"url": "https://t.co/XprskwhHGY",
+					"display_url": "pic.twitter.com/XprskwhHGY",
+					"expanded_url": "https://twitter.com/DPLAbot/status/904022927913484288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 831,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 471,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1385,
+							"h": 1999,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 904022927913484300,
+					"source_status_id_str": "904022927913484288",
+					"source_user_id": 1562113064,
+					"source_user_id_str": "1562113064"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Alt Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 0 articles left this month.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7689,
+			"friends_count": 1056,
+			"listed_count": 511,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39531,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Sep 02 16:47:16 +0000 2017",
+			"id": 904022927913484300,
+			"id_str": "904022927913484288",
+			"text": "Rhythmic Transition (1983) https://t.co/ORj0pfMsBm https://t.co/XprskwhHGY",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ORj0pfMsBm",
+						"expanded_url": "http://collections.si.edu/search/results.htm?q=record_ID%3Achndm_1988-22-105&repo=DPLA",
+						"display_url": "collections.si.edu/search/results…",
+						"indices": [
+							27,
+							50
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 904022922095931400,
+						"id_str": "904022922095931392",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/DIu8DtRWsAAUEq3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DIu8DtRWsAAUEq3.jpg",
+						"url": "https://t.co/XprskwhHGY",
+						"display_url": "pic.twitter.com/XprskwhHGY",
+						"expanded_url": "https://twitter.com/DPLAbot/status/904022927913484288/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 831,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 471,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1385,
+								"h": 1999,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 904022922095931400,
+						"id_str": "904022922095931392",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/DIu8DtRWsAAUEq3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DIu8DtRWsAAUEq3.jpg",
+						"url": "https://t.co/XprskwhHGY",
+						"display_url": "pic.twitter.com/XprskwhHGY",
+						"expanded_url": "https://twitter.com/DPLAbot/status/904022927913484288/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 831,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 471,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1385,
+								"h": 1999,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://dp.la\" rel=\"nofollow\">DPLA bot</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1562113064,
+				"id_str": "1562113064",
+				"name": "DPLA Bot",
+				"screen_name": "DPLAbot",
+				"location": "Libraries Everywhere",
+				"description": "Random finds from the 8.9 million items in the collections of the Digital Public Library of America (Bot not affiliated with the DPLA)",
+				"url": "http://t.co/ev3lUTCzAJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ev3lUTCzAJ",
+								"expanded_url": "http://dp.la",
+								"display_url": "dp.la",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 694,
+				"friends_count": 60,
+				"listed_count": 61,
+				"created_at": "Tue Jul 02 03:30:48 +0000 2013",
+				"favourites_count": 1,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5635,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000085021182/00d9a5dd43091e036de84ce8a94e8ad2_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000085021182/00d9a5dd43091e036de84ce8a94e8ad2_normal.png",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Sep 02 17:14:32 +0000 2017",
+		"id": 904029791329845200,
+		"id_str": "904029791329845250",
+		"text": "I've spooled @sethabramson's epic 200 tweet thread about Trump and Russia https://t.co/caa2kmSQdJ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SethAbramson",
+					"name": "Seth Abramson",
+					"id": 3223426134,
+					"id_str": "3223426134",
+					"indices": [
+						13,
+						26
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/caa2kmSQdJ",
+					"expanded_url": "https://tinysubversions.com/spooler/?url=https://twitter.com/SethAbramson/status/903762368580214785",
+					"display_url": "tinysubversions.com/spooler/?url=h…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Alt Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 0 articles left this month.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7689,
+			"friends_count": 1056,
+			"listed_count": 511,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39531,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Sep 02 03:56:35 +0000 2017",
 		"id": 903828978288525300,
 		"id_str": "903828978288525317",
