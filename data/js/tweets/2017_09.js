@@ -1,6 +1,389 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Fri Sep 22 15:59:55 +0000 2017",
+		"id": 911258769425883100,
+		"id_str": "911258769425883139",
+		"text": "Teaching idea for next semester: giving students a small budget to run an ad campaign so they see how Facebook's advertising regime works.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "The Real Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 5 free New York Times articles left this month.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7735,
+			"friends_count": 1060,
+			"listed_count": 512,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39660,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Sep 22 15:25:53 +0000 2017",
+		"id": 911250203897995300,
+		"id_str": "911250203897995264",
+		"text": "\"I alone can make you safe!\" - the refrain of authoritarians throughout history (and contemporary times) https://t.co/0tnoCR0Ij4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0tnoCR0Ij4",
+					"expanded_url": "https://twitter.com/praxishabitus/status/911249138498588673",
+					"display_url": "twitter.com/praxishabitus/…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "The Real Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 5 free New York Times articles left this month.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7735,
+			"friends_count": 1060,
+			"listed_count": 512,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39660,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 911249138498588700,
+		"quoted_status_id_str": "911249138498588673",
+		"quoted_status": {
+			"created_at": "Fri Sep 22 15:21:39 +0000 2017",
+			"id": 911249138498588700,
+			"id_str": "911249138498588673",
+			"text": "Dr Doom addresses United Nations,  Spider-Man newspaper strip. 1977, or 2017?  (thx @Jon_Ore) https://t.co/oIaeyt12fR",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Jon_Ore",
+						"name": "Jonathan Ore",
+						"id": 77145027,
+						"id_str": "77145027",
+						"indices": [
+							84,
+							92
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 911249121872306200,
+						"id_str": "911249121872306176",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/DKVoP5MV4AA4ibn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DKVoP5MV4AA4ibn.jpg",
+						"url": "https://t.co/oIaeyt12fR",
+						"display_url": "pic.twitter.com/oIaeyt12fR",
+						"expanded_url": "https://twitter.com/praxishabitus/status/911249138498588673/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 345,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1446,
+								"h": 733,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 608,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 911249121872306200,
+						"id_str": "911249121872306176",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/DKVoP5MV4AA4ibn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DKVoP5MV4AA4ibn.jpg",
+						"url": "https://t.co/oIaeyt12fR",
+						"display_url": "pic.twitter.com/oIaeyt12fR",
+						"expanded_url": "https://twitter.com/praxishabitus/status/911249138498588673/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 345,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1446,
+								"h": 733,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 608,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18455252,
+				"id_str": "18455252",
+				"name": "Gerardo Martí",
+				"screen_name": "praxishabitus",
+				"location": "Davidson, NC",
+				"description": "Professor of Sociology @DavidsonCollege. Editor @SORJournal. Book stack changes daily. See my published scholarship here https://t.co/NxGbsVBByu. More soon.",
+				"url": "https://t.co/4zUzEQ14HL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4zUzEQ14HL",
+								"expanded_url": "https://www.davidson.edu/academics/sociology/faculty-and-staff/gerardo-marti",
+								"display_url": "davidson.edu/academics/soci…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/NxGbsVBByu",
+								"expanded_url": "http://bit.ly/2ejEmnd",
+								"display_url": "bit.ly/2ejEmnd",
+								"indices": [
+									121,
+									144
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3438,
+				"friends_count": 1365,
+				"listed_count": 336,
+				"created_at": "Mon Dec 29 18:16:43 +0000 2008",
+				"favourites_count": 3623,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15361,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "040404",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675819133/e741286be4c6402a5201d7ce62d32b6d.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675819133/e741286be4c6402a5201d7ce62d32b6d.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000543791017/623694e25756707c7f2abd19cc59539a_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000543791017/623694e25756707c7f2abd19cc59539a_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18455252/1485706797",
+				"profile_link_color": "335588",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "343333",
+				"profile_text_color": "65001D",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Sep 22 00:48:50 +0000 2017",
 		"id": 911029485809619000,
 		"id_str": "911029485809618946",
