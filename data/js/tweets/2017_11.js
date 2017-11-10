@@ -1,6 +1,360 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Thu Nov 09 14:21:56 +0000 2017",
+		"id": 928628726170112000,
+		"id_str": "928628726170112000",
+		"text": "RT @ChelseaClinton: Mr. President, @BraxtonWinston is a superb example of an actual “very fine” person. And, yes I️ know he won an election…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChelseaClinton",
+					"name": "Chelsea Clinton",
+					"id": 757303975,
+					"id_str": "757303975",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "BraxtonWinston",
+					"name": "Braxton Winston",
+					"id": 294282221,
+					"id_str": "294282221",
+					"indices": [
+						35,
+						50
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 5 free New York Times articles left this month.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7879,
+			"friends_count": 1072,
+			"listed_count": 509,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39906,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 09 04:48:50 +0000 2017",
+			"id": 928484502279778300,
+			"id_str": "928484502279778305",
+			"text": "Mr. President, @BraxtonWinston is a superb example of an actual “very fine” person. And, yes I️ know he won an elec… https://t.co/31YJmV2PAJ",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BraxtonWinston",
+						"name": "Braxton Winston",
+						"id": 294282221,
+						"id_str": "294282221",
+						"indices": [
+							15,
+							30
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/31YJmV2PAJ",
+						"expanded_url": "https://twitter.com/i/web/status/928484502279778305",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 757303975,
+				"id_str": "757303975",
+				"name": "Chelsea Clinton",
+				"screen_name": "ChelseaClinton",
+				"location": "New York, NY",
+				"description": "Mom of Charlotte & Aidan, Married to Marc, Advocate, Author, Teacher, @ClintonFdn & @ClintonHealth & @HealthierGen, New Yorker",
+				"url": "https://t.co/zhz54dT8kv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zhz54dT8kv",
+								"expanded_url": "https://www.facebook.com/chelseaclinton",
+								"display_url": "facebook.com/chelseaclinton",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2062017,
+				"friends_count": 529,
+				"listed_count": 9123,
+				"created_at": "Tue Aug 14 14:55:27 +0000 2012",
+				"favourites_count": 3593,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 9576,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F4F1E5",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/542758760976904193/7glCpdSX.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/542758760976904193/7glCpdSX.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/614488068905652224/2tUcF22u_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/614488068905652224/2tUcF22u_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/757303975/1484178400",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2436,
+			"favorite_count": 16748,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2436,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 09 14:20:34 +0000 2017",
+		"id": 928628385626157000,
+		"id_str": "928628385626157057",
+		"text": "@hugovk @NRA_Tally @mass_shoot_bot Somehow I missed @mass_shoot_bot. Just added to my growing list of protest bots.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hugovk",
+					"name": "Hugo",
+					"id": 39558690,
+					"id_str": "39558690",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "NRA_Tally",
+					"name": "NRA Tally",
+					"id": 2527156417,
+					"id_str": "2527156417",
+					"indices": [
+						8,
+						18
+					]
+				},
+				{
+					"screen_name": "mass_shoot_bot",
+					"name": "Mass Shootings Bot",
+					"id": 4418748136,
+					"id_str": "4418748136",
+					"indices": [
+						19,
+						34
+					]
+				},
+				{
+					"screen_name": "mass_shoot_bot",
+					"name": "Mass Shootings Bot",
+					"id": 4418748136,
+					"id_str": "4418748136",
+					"indices": [
+						52,
+						67
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": 928605312235528200,
+		"in_reply_to_status_id_str": "928605312235528194",
+		"in_reply_to_user_id": 39558690,
+		"in_reply_to_user_id_str": "39558690",
+		"in_reply_to_screen_name": "hugovk",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 5 free New York Times articles left this month.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7879,
+			"friends_count": 1072,
+			"listed_count": 509,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39906,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Nov 07 18:45:53 +0000 2017",
 		"id": 927970378915504100,
 		"id_str": "927970378915504129",
