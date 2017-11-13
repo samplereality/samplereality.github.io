@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Sun Nov 12 14:28:58 +0000 2017",
+		"id": 929717659872178200,
+		"id_str": "929717659872178176",
+		"text": "RT @harikondabolu: My documentary \"The Problem with Apu\" premieres on @truTV on Sunday November 19th at 10pm ET! Here's the trailer: https:…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "harikondabolu",
+					"name": "Hari Kondabolu",
+					"id": 30488144,
+					"id_str": "30488144",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "truTV",
+					"name": "truTV",
+					"id": 21884158,
+					"id_str": "21884158",
+					"indices": [
+						70,
+						76
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 5 free New York Times articles left this month.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7897,
+			"friends_count": 1073,
+			"listed_count": 509,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39914,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Sep 27 20:57:30 +0000 2017",
+			"id": 913145595619106800,
+			"id_str": "913145595619106818",
+			"text": "My documentary \"The Problem with Apu\" premieres on @truTV on Sunday November 19th at 10pm ET! Here's the trailer:… https://t.co/T4AiVAC6Rv",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "truTV",
+						"name": "truTV",
+						"id": 21884158,
+						"id_str": "21884158",
+						"indices": [
+							51,
+							57
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/T4AiVAC6Rv",
+						"expanded_url": "https://twitter.com/i/web/status/913145595619106818",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							115,
+							138
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 30488144,
+				"id_str": "30488144",
+				"name": "Hari Kondabolu",
+				"screen_name": "harikondabolu",
+				"location": "Brooklyn, NY",
+				"description": "Comic from Queens currently living in Brooklyn. Co-host of #PoliticallyReactive. 2nd album Mainstream American Comic is here: https://t.co/j6a1b5qbRs",
+				"url": "https://t.co/yukY40tSn2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yukY40tSn2",
+								"expanded_url": "http://www.harikondabolu.com",
+								"display_url": "harikondabolu.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/j6a1b5qbRs",
+								"expanded_url": "http://www.killrockstars.com/hari/",
+								"display_url": "killrockstars.com/hari/",
+								"indices": [
+									126,
+									149
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 99670,
+				"friends_count": 483,
+				"listed_count": 1632,
+				"created_at": "Sat Apr 11 17:44:44 +0000 2009",
+				"favourites_count": 79840,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 17298,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "8B542B",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/283738307/Image016.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/283738307/Image016.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/680930468284481536/jZ6oHy0Y_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/680930468284481536/jZ6oHy0Y_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/30488144/1392352515",
+				"profile_link_color": "9D582E",
+				"profile_sidebar_border_color": "D9B17E",
+				"profile_sidebar_fill_color": "EADEAA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 652,
+			"favorite_count": 2315,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 652,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Nov 12 03:27:04 +0000 2017",
 		"id": 929551087987765200,
 		"id_str": "929551087987765249",
