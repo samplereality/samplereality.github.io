@@ -1,6 +1,355 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Wed Nov 22 14:17:49 +0000 2017",
+		"id": 933338734849769500,
+		"id_str": "933338734849769477",
+		"text": "RT @b_hawk: Icymi, my post yesterday, beginning with a video game &amp; ending with larger implications for medieval #storytelling:\n\"We need be…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "storytelling",
+					"indices": [
+						117,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "b_hawk",
+					"name": "Brandon W. Hawk",
+					"id": 19166136,
+					"id_str": "19166136",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 5 free New York Times articles left this month.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7921,
+			"friends_count": 1075,
+			"listed_count": 509,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39956,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 22 14:00:06 +0000 2017",
+			"id": 933334274811539500,
+			"id_str": "933334274811539457",
+			"text": "Icymi, my post yesterday, beginning with a video game &amp; ending with larger implications for medieval #storytelling:… https://t.co/eGcIMMFHk2",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "storytelling",
+						"indices": [
+							105,
+							118
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/eGcIMMFHk2",
+						"expanded_url": "https://twitter.com/i/web/status/933334274811539457",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19166136,
+				"id_str": "19166136",
+				"name": "Brandon W. Hawk",
+				"screen_name": "b_hawk",
+				"location": "PVD",
+				"description": "Medievalist, #StarWars nerd, #apocrypha addict, feminist, parent--not always in that order. Asst Prof of English @ Rhode Island College. Views my own. He/him.",
+				"url": "https://t.co/eGE0TjkZnv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eGE0TjkZnv",
+								"expanded_url": "http://www.brandonwhawk.net",
+								"display_url": "brandonwhawk.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1961,
+				"friends_count": 1753,
+				"listed_count": 87,
+				"created_at": "Mon Jan 19 01:42:12 +0000 2009",
+				"favourites_count": 22490,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 28757,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/888381174984445952/b8mrbG3Q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/888381174984445952/b8mrbG3Q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19166136/1471694583",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 933073969812516900,
+			"quoted_status_id_str": "933073969812516864",
+			"quoted_status": {
+				"created_at": "Tue Nov 21 20:45:44 +0000 2017",
+				"id": 933073969812516900,
+				"id_str": "933073969812516864",
+				"text": "From @b_hawk: Telling medieval stories (videogame edition). #medievaltwitter #SwerveThis!\n\nhttps://t.co/p3ABci0a0u",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "medievaltwitter",
+							"indices": [
+								60,
+								76
+							]
+						},
+						{
+							"text": "SwerveThis",
+							"indices": [
+								77,
+								88
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "b_hawk",
+							"name": "Brandon W. Hawk",
+							"id": 19166136,
+							"id_str": "19166136",
+							"indices": [
+								5,
+								12
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/p3ABci0a0u",
+							"expanded_url": "https://brandonwhawk.net/2017/11/21/telling-medieval-stories-prolegomenon/",
+							"display_url": "brandonwhawk.net/2017/11/21/tel…",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 108094234,
+					"id_str": "108094234",
+					"name": "David M. Perry",
+					"screen_name": "Lollardfish",
+					"location": "Twin Cities",
+					"description": "Journalist. Historian. Critic. Irish rock musician. Fighting the #CultOfCompliance. I also do dishes.",
+					"url": "http://t.co/WdhmWA8YP1",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/WdhmWA8YP1",
+									"expanded_url": "http://www.thismess.net/",
+									"display_url": "thismess.net",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 20353,
+					"friends_count": 1603,
+					"listed_count": 699,
+					"created_at": "Sun Jan 24 20:47:02 +0000 2010",
+					"favourites_count": 92888,
+					"utc_offset": -18000,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 161750,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/3342950681/782b24838dc7f5c22e405997772590e2_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/3342950681/782b24838dc7f5c22e405997772590e2_normal.png",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/108094234/1401039504",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 3,
+				"favorite_count": 7,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 3,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 933073969812516900,
+		"quoted_status_id_str": "933073969812516864",
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Nov 22 05:41:33 +0000 2017",
 		"id": 933208812403564500,
 		"id_str": "933208812403564544",
