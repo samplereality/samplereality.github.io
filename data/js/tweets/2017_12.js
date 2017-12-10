@@ -1,6 +1,746 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Sat Dec 09 15:28:29 +0000 2017",
+		"id": 939517111554248700,
+		"id_str": "939517111554248704",
+		"text": "RT @ryancordell: \"Humorless Man Yells at English Major Jokes\"\n\nThe post I shared from @ScottJaschik  yesterday clearly resonated with folks…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ryancordell",
+					"name": "ℜ𝔶𝔞𝔫 ℭ𝔬𝔯𝔡𝔢𝔩𝔩",
+					"id": 20112111,
+					"id_str": "20112111",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "ScottJaschik",
+					"name": "Scott Jaschik",
+					"id": 235712182,
+					"id_str": "235712182",
+					"indices": [
+						86,
+						99
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7977,
+			"friends_count": 1074,
+			"listed_count": 509,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40044,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Dec 05 19:07:38 +0000 2017",
+			"id": 938122710051442700,
+			"id_str": "938122710051442689",
+			"text": "\"Humorless Man Yells at English Major Jokes\"\n\nThe post I shared from @ScottJaschik  yesterday clearly resonated wit… https://t.co/thoHbiNNDD",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ScottJaschik",
+						"name": "Scott Jaschik",
+						"id": 235712182,
+						"id_str": "235712182",
+						"indices": [
+							69,
+							82
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/thoHbiNNDD",
+						"expanded_url": "https://twitter.com/i/web/status/938122710051442689",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20112111,
+				"id_str": "20112111",
+				"name": "ℜ𝔶𝔞𝔫 ℭ𝔬𝔯𝔡𝔢𝔩𝔩",
+				"screen_name": "ryancordell",
+				"location": "Boston",
+				"description": "Assistant Professor @Northeastern English & @NUlabTMN. Photostatic Humanist. Fellow @RareBookSchool. Researching @ViralTexts in C19 mass media.",
+				"url": "https://t.co/NCpJL4yDUS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NCpJL4yDUS",
+								"expanded_url": "http://ryancordell.org",
+								"display_url": "ryancordell.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5881,
+				"friends_count": 1303,
+				"listed_count": 416,
+				"created_at": "Thu Feb 05 01:19:14 +0000 2009",
+				"favourites_count": 890,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 24497,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CCCCCC",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/96597635/x738b9f701aea51025bd5891249e4393.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/96597635/x738b9f701aea51025bd5891249e4393.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/904433485376405504/pfXLM8gv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/904433485376405504/pfXLM8gv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20112111/1505999772",
+				"profile_link_color": "666666",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "333333",
+				"profile_text_color": "999999",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 937537468118773800,
+			"quoted_status_id_str": "937537468118773761",
+			"quoted_status": {
+				"created_at": "Mon Dec 04 04:22:05 +0000 2017",
+				"id": 937537468118773800,
+				"id_str": "937537468118773761",
+				"text": "\"English majors achieve successful careers, as the data show. That we consign them, in the myth of the English majo… https://t.co/XNpF73cXvR",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/XNpF73cXvR",
+							"expanded_url": "https://twitter.com/i/web/status/937537468118773761",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 20112111,
+					"id_str": "20112111",
+					"name": "ℜ𝔶𝔞𝔫 ℭ𝔬𝔯𝔡𝔢𝔩𝔩",
+					"screen_name": "ryancordell",
+					"location": "Boston",
+					"description": "Assistant Professor @Northeastern English & @NUlabTMN. Photostatic Humanist. Fellow @RareBookSchool. Researching @ViralTexts in C19 mass media.",
+					"url": "https://t.co/NCpJL4yDUS",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/NCpJL4yDUS",
+									"expanded_url": "http://ryancordell.org",
+									"display_url": "ryancordell.org",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 5881,
+					"friends_count": 1303,
+					"listed_count": 416,
+					"created_at": "Thu Feb 05 01:19:14 +0000 2009",
+					"favourites_count": 890,
+					"utc_offset": -21600,
+					"time_zone": "Central Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 24497,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "CCCCCC",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/96597635/x738b9f701aea51025bd5891249e4393.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/96597635/x738b9f701aea51025bd5891249e4393.jpg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/904433485376405504/pfXLM8gv_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/904433485376405504/pfXLM8gv_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/20112111/1505999772",
+					"profile_link_color": "666666",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "333333",
+					"profile_text_color": "999999",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": true,
+				"quoted_status_id": 937354407318114300,
+				"quoted_status_id_str": "937354407318114306",
+				"retweet_count": 165,
+				"favorite_count": 211,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 8,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 937537468118773800,
+		"quoted_status_id_str": "937537468118773761",
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Dec 09 14:08:27 +0000 2017",
+		"id": 939496971685032000,
+		"id_str": "939496971685031937",
+		"text": "Also, do not trust Gatehouse Media. https://t.co/e8Qhhym9kZ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/e8Qhhym9kZ",
+					"expanded_url": "https://twitter.com/SachaPfeiffer/status/939312463786283014",
+					"display_url": "twitter.com/SachaPfeiffer/…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7977,
+			"friends_count": 1074,
+			"listed_count": 509,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40044,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 939312463786283000,
+		"quoted_status_id_str": "939312463786283014",
+		"quoted_status": {
+			"created_at": "Sat Dec 09 01:55:17 +0000 2017",
+			"id": 939312463786283000,
+			"id_str": "939312463786283014",
+			"text": "No, not celebrating. A ​2​-newspaper city is a stronger city. Rival media outlets make each other work harder. A we… https://t.co/zDCuVeglod",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/zDCuVeglod",
+						"expanded_url": "https://twitter.com/i/web/status/939312463786283014",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1370570863,
+				"id_str": "1370570863",
+				"name": "Sacha Pfeiffer",
+				"screen_name": "SachaPfeiffer",
+				"location": "Boston, MA",
+				"description": "@BostonGlobe reporter. @GlobeSpotlight. Ex-host of @WBUR's All Things Considered, Boston's @NPR station. @JSKStanford fellow 2004-5. @SpotlightMovie fan.",
+				"url": "http://t.co/NO7iCFL61N",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/NO7iCFL61N",
+								"expanded_url": "http://www.bostonglobe.com/staff/pfeiffer",
+								"display_url": "bostonglobe.com/staff/pfeiffer",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14524,
+				"friends_count": 489,
+				"listed_count": 361,
+				"created_at": "Sun Apr 21 20:54:15 +0000 2013",
+				"favourites_count": 7705,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1989,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "10171A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3556429288/82ae993bbca95210b9c5445041c66af9_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3556429288/82ae993bbca95210b9c5445041c66af9_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1370570863/1399513448",
+				"profile_link_color": "0A0A0A",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 939251805883641900,
+			"quoted_status_id_str": "939251805883641856",
+			"retweet_count": 280,
+			"favorite_count": 999,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Dec 09 13:07:25 +0000 2017",
+		"id": 939481611476918300,
+		"id_str": "939481611476918273",
+		"text": "On Milo’s “dagginess” https://t.co/DR9mQpXLAn",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DR9mQpXLAn",
+					"expanded_url": "https://twitter.com/mckinnon_a/status/939274259234406400",
+					"display_url": "twitter.com/mckinnon_a/sta…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7977,
+			"friends_count": 1074,
+			"listed_count": 509,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40044,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 939274259234406400,
+		"quoted_status_id_str": "939274259234406400",
+		"quoted_status": {
+			"created_at": "Fri Dec 08 23:23:28 +0000 2017",
+			"id": 939274259234406400,
+			"id_str": "939274259234406400",
+			"text": "One for the five American readers I've convinced myself I have: Milo's fled to Australia, and it's exactly as sad a… https://t.co/UEisyGvaGY",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/UEisyGvaGY",
+						"expanded_url": "https://twitter.com/i/web/status/939274259234406400",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 379147953,
+				"id_str": "379147953",
+				"name": "Alex McKinnon",
+				"screen_name": "mckinnon_a",
+				"location": "Sydney",
+				"description": "Morning editor at @satpaper, former editor of @junkeedotcom and the @star_observer.",
+				"url": "https://t.co/fSpi9g4NN7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fSpi9g4NN7",
+								"expanded_url": "http://alex-mckinnon.com",
+								"display_url": "alex-mckinnon.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8278,
+				"friends_count": 3238,
+				"listed_count": 144,
+				"created_at": "Sat Sep 24 13:09:38 +0000 2011",
+				"favourites_count": 10139,
+				"utc_offset": 39600,
+				"time_zone": "Sydney",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 13166,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/797595966782074881/GmuAkpqL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/797595966782074881/GmuAkpqL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/379147953/1511380549",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 132,
+			"favorite_count": 288,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Dec 08 20:08:12 +0000 2017",
 		"id": 939225115233017900,
 		"id_str": "939225115233017856",
