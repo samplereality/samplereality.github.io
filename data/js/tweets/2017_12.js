@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Sat Dec 23 03:19:15 +0000 2017",
+		"id": 944407022358941700,
+		"id_str": "944407022358941696",
+		"text": "@ariannamc18 Fodder for part 2 of “How to Rob the American Electorate”? https://t.co/WVSOC5cJdj",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ariannamc18",
+					"name": "Arianna",
+					"id": 779777819039502300,
+					"id_str": "779777819039502336",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WVSOC5cJdj",
+					"expanded_url": "https://twitter.com/evanmcmurry/status/944314422490693633",
+					"display_url": "twitter.com/evanmcmurry/st…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 779777819039502300,
+		"in_reply_to_user_id_str": "779777819039502336",
+		"in_reply_to_screen_name": "ariannamc18",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8024,
+			"friends_count": 1077,
+			"listed_count": 508,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40093,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 944314422490693600,
+		"quoted_status_id_str": "944314422490693633",
+		"quoted_status": {
+			"created_at": "Fri Dec 22 21:11:17 +0000 2017",
+			"id": 944314422490693600,
+			"id_str": "944314422490693633",
+			"text": "The Trump Make America Great Again Committee just sent out an \"Inaugural Year Approval Poll.\" \n\n\"Poor\" is an option… https://t.co/QGYJak0kJm",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/QGYJak0kJm",
+						"expanded_url": "https://twitter.com/i/web/status/944314422490693633",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20017835,
+				"id_str": "20017835",
+				"name": "Evan McMurry",
+				"screen_name": "evanmcmurry",
+				"location": "Brooklyn, NY",
+				"description": "Social Media Editor @ABC. Short fiction in @NewMillWritings, @ArcturusMag, @EuphonyJournal, @Palaver_Journal.",
+				"url": "https://t.co/zfuyRP1F8r",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zfuyRP1F8r",
+								"expanded_url": "http://evanmcmurry.com",
+								"display_url": "evanmcmurry.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9702,
+				"friends_count": 2743,
+				"listed_count": 375,
+				"created_at": "Wed Feb 04 00:50:15 +0000 2009",
+				"favourites_count": 19938,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 49968,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/876914856024317953/zu_gdBPL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/876914856024317953/zu_gdBPL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20017835/1441388870",
+				"profile_link_color": "2F3FED",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1679,
+			"favorite_count": 2700,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Dec 21 04:17:33 +0000 2017",
 		"id": 943696920488357900,
 		"id_str": "943696920488357889",
