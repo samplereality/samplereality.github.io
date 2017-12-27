@@ -1,6 +1,846 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Tue Dec 26 23:05:17 +0000 2017",
+		"id": 945792660941533200,
+		"id_str": "945792660941533184",
+		"text": "Every 5th grader learns about the “deep state.” It’s called checks and balances.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8039,
+			"friends_count": 1077,
+			"listed_count": 508,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40106,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Dec 26 22:32:12 +0000 2017",
+		"id": 945784337299066900,
+		"id_str": "945784337299066886",
+		"text": "A modern day version of Antonioni’s Blow-Up https://t.co/VVlJidl80J",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VVlJidl80J",
+					"expanded_url": "https://twitter.com/Bakari_Sellers/status/945685646001221634",
+					"display_url": "twitter.com/Bakari_Sellers…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8039,
+			"friends_count": 1077,
+			"listed_count": 508,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40106,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 945685646001221600,
+		"quoted_status_id_str": "945685646001221634",
+		"quoted_status": {
+			"created_at": "Tue Dec 26 16:00:02 +0000 2017",
+			"id": 945685646001221600,
+			"id_str": "945685646001221634",
+			"text": "Zoom in. Picture top right. Over his left shoulder. https://t.co/t0WCuYsmiK",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/t0WCuYsmiK",
+						"expanded_url": "https://twitter.com/ivankatrump/status/945682617042636805",
+						"display_url": "twitter.com/ivankatrump/st…",
+						"indices": [
+							52,
+							75
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 241201438,
+				"id_str": "241201438",
+				"name": "Bakari Sellers",
+				"screen_name": "Bakari_Sellers",
+				"location": "Denmark, SC",
+				"description": "Former SC House of Rep '06 - '14. Democratic nominee for Lt. Gov. '14. @CNN @StromLaw. Blocked by the most powerful man in the 🌎. https://t.co/uxL2xu6HuF",
+				"url": "https://t.co/Rj59nBWMMI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Rj59nBWMMI",
+								"expanded_url": "https://omny.fm/shows/viewpoint-with-bakari-sellers/promo-hillary-clinton",
+								"display_url": "omny.fm/shows/viewpoin…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/uxL2xu6HuF",
+								"expanded_url": "http://bit.ly/1NfC9D5",
+								"display_url": "bit.ly/1NfC9D5",
+								"indices": [
+									130,
+									153
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 150796,
+				"friends_count": 3381,
+				"listed_count": 1193,
+				"created_at": "Fri Jan 21 18:10:56 +0000 2011",
+				"favourites_count": 10987,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 40595,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/836740854043791362/U6Hu8xI2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/836740854043791362/U6Hu8xI2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/241201438/1505751583",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 945682617042636800,
+			"quoted_status_id_str": "945682617042636805",
+			"retweet_count": 1200,
+			"favorite_count": 2759,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Dec 26 14:37:16 +0000 2017",
+		"id": 945664814453542900,
+		"id_str": "945664814453542912",
+		"text": "@jonbecker You should definitely switch to Second Life.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jonbecker",
+					"name": "Jon Becker",
+					"id": 12363792,
+					"id_str": "12363792",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": 945659086347161600,
+		"in_reply_to_status_id_str": "945659086347161600",
+		"in_reply_to_user_id": 12363792,
+		"in_reply_to_user_id_str": "12363792",
+		"in_reply_to_screen_name": "jonbecker",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8039,
+			"friends_count": 1077,
+			"listed_count": 508,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40106,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Dec 26 14:36:28 +0000 2017",
+		"id": 945664615089889300,
+		"id_str": "945664615089889280",
+		"text": "RT @gavinmuellerphd: lmao he got this pic off Google Image Search https://t.co/cZbECyBxxK",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gavinmuellerphd",
+					"name": "Gavin Mueller",
+					"id": 860852841728143400,
+					"id_str": "860852841728143361",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 945661194949484500,
+					"id_str": "945661194949484544",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/DR-p2LLV4AAYwoC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DR-p2LLV4AAYwoC.jpg",
+					"url": "https://t.co/cZbECyBxxK",
+					"display_url": "pic.twitter.com/cZbECyBxxK",
+					"expanded_url": "https://twitter.com/gavinmuellerphd/status/945661337841160193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1324,
+							"h": 685,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 621,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 945661337841160200,
+					"source_status_id_str": "945661337841160193",
+					"source_user_id": 860852841728143400,
+					"source_user_id_str": "860852841728143361"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 945661194949484500,
+					"id_str": "945661194949484544",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/DR-p2LLV4AAYwoC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DR-p2LLV4AAYwoC.jpg",
+					"url": "https://t.co/cZbECyBxxK",
+					"display_url": "pic.twitter.com/cZbECyBxxK",
+					"expanded_url": "https://twitter.com/gavinmuellerphd/status/945661337841160193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1324,
+							"h": 685,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 621,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 945661337841160200,
+					"source_status_id_str": "945661337841160193",
+					"source_user_id": 860852841728143400,
+					"source_user_id_str": "860852841728143361"
+				},
+				{
+					"id": 945661212062228500,
+					"id_str": "945661212062228480",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/DR-p3K7VoAADiOk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DR-p3K7VoAADiOk.jpg",
+					"url": "https://t.co/cZbECyBxxK",
+					"display_url": "pic.twitter.com/cZbECyBxxK",
+					"expanded_url": "https://twitter.com/gavinmuellerphd/status/945661337841160193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 591,
+							"h": 496,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 591,
+							"h": 496,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 591,
+							"h": 496,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 945661337841160200,
+					"source_status_id_str": "945661337841160193",
+					"source_user_id": 860852841728143400,
+					"source_user_id_str": "860852841728143361"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8039,
+			"friends_count": 1077,
+			"listed_count": 508,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40106,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Dec 26 14:23:27 +0000 2017",
+			"id": 945661337841160200,
+			"id_str": "945661337841160193",
+			"text": "lmao he got this pic off Google Image Search https://t.co/cZbECyBxxK",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 945661194949484500,
+						"id_str": "945661194949484544",
+						"indices": [
+							45,
+							68
+						],
+						"media_url": "http://pbs.twimg.com/media/DR-p2LLV4AAYwoC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DR-p2LLV4AAYwoC.jpg",
+						"url": "https://t.co/cZbECyBxxK",
+						"display_url": "pic.twitter.com/cZbECyBxxK",
+						"expanded_url": "https://twitter.com/gavinmuellerphd/status/945661337841160193/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 352,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1324,
+								"h": 685,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 621,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 945661194949484500,
+						"id_str": "945661194949484544",
+						"indices": [
+							45,
+							68
+						],
+						"media_url": "http://pbs.twimg.com/media/DR-p2LLV4AAYwoC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DR-p2LLV4AAYwoC.jpg",
+						"url": "https://t.co/cZbECyBxxK",
+						"display_url": "pic.twitter.com/cZbECyBxxK",
+						"expanded_url": "https://twitter.com/gavinmuellerphd/status/945661337841160193/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 352,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1324,
+								"h": 685,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 621,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 945661212062228500,
+						"id_str": "945661212062228480",
+						"indices": [
+							45,
+							68
+						],
+						"media_url": "http://pbs.twimg.com/media/DR-p3K7VoAADiOk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DR-p3K7VoAADiOk.jpg",
+						"url": "https://t.co/cZbECyBxxK",
+						"display_url": "pic.twitter.com/cZbECyBxxK",
+						"expanded_url": "https://twitter.com/gavinmuellerphd/status/945661337841160193/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 591,
+								"h": 496,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 591,
+								"h": 496,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 591,
+								"h": 496,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 860852841728143400,
+				"id_str": "860852841728143361",
+				"name": "Gavin Mueller",
+				"screen_name": "gavinmuellerphd",
+				"location": "DC",
+				"description": "Critical theory, media, STS, politics, popular culture, those kind of things",
+				"url": "https://t.co/amRpRyTUSG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/amRpRyTUSG",
+								"expanded_url": "http://gavinmueller.com",
+								"display_url": "gavinmueller.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": true,
+				"followers_count": 1024,
+				"friends_count": 518,
+				"listed_count": 16,
+				"created_at": "Sat May 06 13:44:46 +0000 2017",
+				"favourites_count": 37,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4360,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/860854248707203072/sqW6y-iJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/860854248707203072/sqW6y-iJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/860852841728143361/1494079005",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Dec 26 01:42:16 +0000 2017",
 		"id": 945469780072517600,
 		"id_str": "945469780072517632",
