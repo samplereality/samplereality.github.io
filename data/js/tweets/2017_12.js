@@ -1,6 +1,419 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Sat Dec 30 05:23:03 +0000 2017",
+		"id": 946974893563961300,
+		"id_str": "946974893563961344",
+		"text": "The IV bag shortage is absolutely true. https://t.co/tdkpsbsnhK https://t.co/gU5HjN3y6k",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tdkpsbsnhK",
+					"expanded_url": "https://www.cbsnews.com/news/iv-bags-in-short-supply-after-hurricane-maria-disrupted-production/",
+					"display_url": "cbsnews.com/news/iv-bags-i…",
+					"indices": [
+						40,
+						63
+					]
+				},
+				{
+					"url": "https://t.co/gU5HjN3y6k",
+					"expanded_url": "https://twitter.com/sleezsisters/status/946443100712460288",
+					"display_url": "twitter.com/sleezsisters/s…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8056,
+			"friends_count": 1077,
+			"listed_count": 508,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40113,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 946443100712460300,
+		"quoted_status_id_str": "946443100712460288",
+		"quoted_status": {
+			"created_at": "Thu Dec 28 18:09:53 +0000 2017",
+			"id": 946443100712460300,
+			"id_str": "946443100712460288",
+			"text": "My wife's nurse had to stand for 30 mins &amp; administer a drug slowly through a syringe because there are almost no I… https://t.co/saWyhUMsIK",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/saWyhUMsIK",
+						"expanded_url": "https://twitter.com/i/web/status/946443100712460288",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19291783,
+				"id_str": "19291783",
+				"name": "Ben Boyer",
+				"screen_name": "sleezsisters",
+				"location": "San Diego, CA",
+				"description": "🇺🇸Nachos, Medicare for All 🇺🇸",
+				"url": "https://t.co/FXyHXtqhnV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FXyHXtqhnV",
+								"expanded_url": "http://Instagram.com/sleezsisters",
+								"display_url": "Instagram.com/sleezsisters",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4336,
+				"friends_count": 26,
+				"listed_count": 58,
+				"created_at": "Wed Jan 21 15:35:35 +0000 2009",
+				"favourites_count": 31731,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 21507,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/489350739664187392/TPr_7tUT.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/489350739664187392/TPr_7tUT.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/906962491967643648/dZPyKGR7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/906962491967643648/dZPyKGR7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19291783/1401354302",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 55875,
+			"favorite_count": 124219,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Dec 30 02:22:10 +0000 2017",
+		"id": 946929374242197500,
+		"id_str": "946929374242197511",
+		"text": "RT @paulwaldman1: So yeah, the postal service loses money. But it also provides an invaluable service to every American. Nobody asks why th…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "paulwaldman1",
+					"name": "Paul Waldman",
+					"id": 48797538,
+					"id_str": "48797538",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8056,
+			"friends_count": 1077,
+			"listed_count": 508,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40113,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Dec 29 17:20:03 +0000 2017",
+			"id": 946792947152023600,
+			"id_str": "946792947152023553",
+			"text": "So yeah, the postal service loses money. But it also provides an invaluable service to every American. Nobody asks… https://t.co/wqA6aOkmS3",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/wqA6aOkmS3",
+						"expanded_url": "https://twitter.com/i/web/status/946792947152023553",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 946792945994387500,
+			"in_reply_to_status_id_str": "946792945994387461",
+			"in_reply_to_user_id": 48797538,
+			"in_reply_to_user_id_str": "48797538",
+			"in_reply_to_screen_name": "paulwaldman1",
+			"user": {
+				"id": 48797538,
+				"id_str": "48797538",
+				"name": "Paul Waldman",
+				"screen_name": "paulwaldman1",
+				"location": "Washington, DC",
+				"description": "Washington Post blogger, columnist for The Week, senior writer at the American Prospect.",
+				"url": "https://t.co/NfDNHCtNzp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NfDNHCtNzp",
+								"expanded_url": "http://www.washingtonpost.com/people/paul-waldman",
+								"display_url": "washingtonpost.com/people/paul-wa…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 20994,
+				"friends_count": 324,
+				"listed_count": 718,
+				"created_at": "Fri Jun 19 19:12:42 +0000 2009",
+				"favourites_count": 22,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8814,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "855B40",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/556927725949038594/mgTkJSNJ_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/556927725949038594/mgTkJSNJ_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/48797538/1485058291",
+				"profile_link_color": "686877",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 285,
+			"favorite_count": 1187,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 285,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Dec 28 20:54:49 +0000 2017",
 		"id": 946484604512464900,
 		"id_str": "946484604512464896",
