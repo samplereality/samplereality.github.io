@@ -1,6 +1,333 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Tue Jan 30 16:39:27 +0000 2018",
+		"id": 958379139798626300,
+		"id_str": "958379139798626305",
+		"text": "RT @kcimc: i made a twitter bot. every day it tweets one happy moment from a crowdsourced collection of 100k happy moments. no ML or genera…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kcimc",
+					"name": "Kyle McDonald",
+					"id": 162441059,
+					"id_str": "162441059",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8176,
+			"friends_count": 1093,
+			"listed_count": 512,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40264,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 30 15:59:15 +0000 2018",
+			"id": 958369023653064700,
+			"id_str": "958369023653064704",
+			"text": "i made a twitter bot. every day it tweets one happy moment from a crowdsourced collection of 100k happy moments. no… https://t.co/pV5jYHz39W",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/pV5jYHz39W",
+						"expanded_url": "https://twitter.com/i/web/status/958369023653064704",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 162441059,
+				"id_str": "162441059",
+				"name": "Kyle McDonald",
+				"screen_name": "kcimc",
+				"location": "Los Angeles, CA",
+				"description": "Artist working with code.",
+				"url": "https://t.co/fknp0jZOkW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fknp0jZOkW",
+								"expanded_url": "http://kylemcdonald.net/",
+								"display_url": "kylemcdonald.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 22098,
+				"friends_count": 490,
+				"listed_count": 779,
+				"created_at": "Sat Jul 03 17:42:34 +0000 2010",
+				"favourites_count": 15366,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12833,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/867692722215419905/H5xcvKgp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/867692722215419905/H5xcvKgp_normal.jpg",
+				"profile_link_color": "0F161B",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "D9D9D9",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "3b77caf94bfc81fe",
+				"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+				"place_type": "city",
+				"name": "Los Angeles",
+				"full_name": "Los Angeles, CA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-118.668404,
+								33.704538
+							],
+							[
+								-118.155409,
+								33.704538
+							],
+							[
+								-118.155409,
+								34.337041
+							],
+							[
+								-118.668404,
+								34.337041
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 958099723776331800,
+			"quoted_status_id_str": "958099723776331776",
+			"quoted_status": {
+				"created_at": "Mon Jan 29 22:09:09 +0000 2018",
+				"id": 958099723776331800,
+				"id_str": "958099723776331776",
+				"text": "My older daughter keeps patting my younger daughter's head.",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"source": "<a href=\"https://twitter.com/happyhappydb\" rel=\"nofollow\">happyhappydb</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 958090218921279500,
+					"id_str": "958090218921279488",
+					"name": "happydb",
+					"screen_name": "happyhappydb",
+					"location": "",
+					"description": "Random selections from a collection of 100,000 crowdsourced happy moments, posted daily.",
+					"url": "https://t.co/aZxi9USkFA",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/aZxi9USkFA",
+									"expanded_url": "https://rit-public.github.io/HappyDB/",
+									"display_url": "rit-public.github.io/HappyDB/",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 248,
+					"friends_count": 1,
+					"listed_count": 8,
+					"created_at": "Mon Jan 29 21:31:23 +0000 2018",
+					"favourites_count": 0,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 5,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F5F8FA",
+					"profile_background_image_url": null,
+					"profile_background_image_url_https": null,
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/958095840198852608/5R2upomJ_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/958095840198852608/5R2upomJ_normal.jpg",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1,
+				"favorite_count": 9,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 57,
+			"favorite_count": 138,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 958099723776331800,
+		"quoted_status_id_str": "958099723776331776",
+		"retweet_count": 57,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jan 28 17:09:04 +0000 2018",
 		"id": 957661819014918100,
 		"id_str": "957661819014918144",
