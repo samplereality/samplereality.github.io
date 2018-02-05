@@ -1,6 +1,297 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Mon Feb 05 02:44:09 +0000 2018",
+		"id": 960343258542067700,
+		"id_str": "960343258542067714",
+		"text": "RT @electricarchaeo: writing tomorrow's lecture, and have made possibly my most favourite slide ever / quoting @samplereality https://t.co/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "electricarchaeo",
+					"name": "Shawn Graham",
+					"id": 104894644,
+					"id_str": "104894644",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "samplereality",
+					"name": "Mark Sample",
+					"id": 8497292,
+					"id_str": "8497292",
+					"indices": [
+						111,
+						125
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8199,
+			"friends_count": 1095,
+			"listed_count": 513,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40280,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Feb 05 02:16:44 +0000 2018",
+			"id": 960336357259468800,
+			"id_str": "960336357259468802",
+			"text": "writing tomorrow's lecture, and have made possibly my most favourite slide ever / quoting @samplereality https://t.co/dP4fG2yFaS",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "samplereality",
+						"name": "Mark Sample",
+						"id": 8497292,
+						"id_str": "8497292",
+						"indices": [
+							90,
+							104
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 960336260199080000,
+						"id_str": "960336260199079937",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/DVPMvZYX4AELd3u.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DVPMvZYX4AELd3u.jpg",
+						"url": "https://t.co/dP4fG2yFaS",
+						"display_url": "pic.twitter.com/dP4fG2yFaS",
+						"expanded_url": "https://twitter.com/electricarchaeo/status/960336357259468802/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1153,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 960336260199080000,
+						"id_str": "960336260199079937",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/DVPMvZYX4AELd3u.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DVPMvZYX4AELd3u.jpg",
+						"url": "https://t.co/dP4fG2yFaS",
+						"display_url": "pic.twitter.com/dP4fG2yFaS",
+						"expanded_url": "https://twitter.com/electricarchaeo/status/960336357259468802/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1153,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 104894644,
+				"id_str": "104894644",
+				"name": "Shawn Graham",
+				"screen_name": "electricarchaeo",
+				"location": "SERA, PA406, Carleton U",
+				"description": "Digital Archaeologist. Fail Gloriously!",
+				"url": "https://t.co/pR9iBQRpb6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pR9iBQRpb6",
+								"expanded_url": "http://electricarchaeology.ca",
+								"display_url": "electricarchaeology.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4442,
+				"friends_count": 1154,
+				"listed_count": 445,
+				"created_at": "Thu Jan 14 18:45:15 +0000 2010",
+				"favourites_count": 25629,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1828,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/445188437012799488/CLLmOY8A.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/445188437012799488/CLLmOY8A.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/411694091538165760/WO9XkQZa_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/411694091538165760/WO9XkQZa_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/104894644/1479844303",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 10,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Feb 03 23:59:23 +0000 2018",
 		"id": 959939404142964700,
 		"id_str": "959939404142964736",
