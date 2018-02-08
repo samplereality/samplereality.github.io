@@ -1,6 +1,722 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Wed Feb 07 12:33:10 +0000 2018",
+		"id": 961216263312814100,
+		"id_str": "961216263312814081",
+		"text": "yeah i guess id have 2 throw a parade 4 myself too https://t.co/L8ikWrpvcC",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/L8ikWrpvcC",
+					"expanded_url": "https://twitter.com/goldengateblond/status/961086739543502848",
+					"display_url": "twitter.com/goldengateblon…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8209,
+			"friends_count": 1097,
+			"listed_count": 514,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40288,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 961086739543502800,
+		"quoted_status_id_str": "961086739543502848",
+		"quoted_status": {
+			"created_at": "Wed Feb 07 03:58:29 +0000 2018",
+			"id": 961086739543502800,
+			"id_str": "961086739543502848",
+			"text": "My eyes passed away on Tuesday, Feb. 6, 2018. Visitation will be Sunday with burial shortly thereafter. https://t.co/Q8LgUrrJ1r",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 961086256619839500,
+						"id_str": "961086256619839488",
+						"indices": [
+							104,
+							127
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/961086256619839488/pu/img/9_sb_GTUWQMDjcz-.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/961086256619839488/pu/img/9_sb_GTUWQMDjcz-.jpg",
+						"url": "https://t.co/Q8LgUrrJ1r",
+						"display_url": "pic.twitter.com/Q8LgUrrJ1r",
+						"expanded_url": "https://twitter.com/goldengateblond/status/961086739543502848/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 961086256619839500,
+						"id_str": "961086256619839488",
+						"indices": [
+							104,
+							127
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/961086256619839488/pu/img/9_sb_GTUWQMDjcz-.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/961086256619839488/pu/img/9_sb_GTUWQMDjcz-.jpg",
+						"url": "https://t.co/Q8LgUrrJ1r",
+						"display_url": "pic.twitter.com/Q8LgUrrJ1r",
+						"expanded_url": "https://twitter.com/goldengateblond/status/961086739543502848/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 21421,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/961086256619839488/pu/vid/320x180/LckNck2lJwvdl0wk.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/961086256619839488/pu/vid/640x360/JDECyq6fMsck4y6q.mp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/961086256619839488/pu/vid/1280x720/YWR35f6Oxm_8lHPX.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/961086256619839488/pu/pl/zjYf5ur5Osb_fNBQ.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15576928,
+				"id_str": "15576928",
+				"name": "shauna",
+				"screen_name": "goldengateblond",
+				"location": "San Francisco, CA",
+				"description": "rabblerouser / liker of sports, politics & every animal ever / the Washington Post once called me a \"Twitter personality\" so I'm under a lot of pressure here",
+				"url": "https://t.co/1WrT9f1zXb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1WrT9f1zXb",
+								"expanded_url": "http://5calls.org",
+								"display_url": "5calls.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 217673,
+				"friends_count": 1409,
+				"listed_count": 3493,
+				"created_at": "Thu Jul 24 03:44:09 +0000 2008",
+				"favourites_count": 223970,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 37150,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623337495036456960/bRQlpyPm.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623337495036456960/bRQlpyPm.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/548586934319071232/JkfxEiRT_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/548586934319071232/JkfxEiRT_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15576928/1487898459",
+				"profile_link_color": "960014",
+				"profile_sidebar_border_color": "1F2616",
+				"profile_sidebar_fill_color": "D5DE6D",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7511,
+			"favorite_count": 23076,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Feb 07 12:29:58 +0000 2018",
+		"id": 961215460648865800,
+		"id_str": "961215460648865793",
+		"text": "RT @JohnMoynes: The private sector is so dynamic it put an unmanned car into space only 47 years after the public sector did it with a mann…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JohnMoynes",
+					"name": "John Moynes",
+					"id": 108013258,
+					"id_str": "108013258",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8209,
+			"friends_count": 1097,
+			"listed_count": 514,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40288,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Feb 06 21:35:28 +0000 2018",
+			"id": 960990348494426100,
+			"id_str": "960990348494426113",
+			"text": "The private sector is so dynamic it put an unmanned car into space only 47 years after the public sector did it wit… https://t.co/t442QDJN9Y",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/t442QDJN9Y",
+						"expanded_url": "https://twitter.com/i/web/status/960990348494426113",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 108013258,
+				"id_str": "108013258",
+				"name": "John Moynes",
+				"screen_name": "JohnMoynes",
+				"location": "",
+				"description": "My new collection of poetry, Scenes of Moderate Violence, is up for preorder on Unbound. https://t.co/t6S7ddheil",
+				"url": "https://t.co/ktWeMtpFXz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ktWeMtpFXz",
+								"expanded_url": "http://www.broadsheet.ie",
+								"display_url": "broadsheet.ie",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/t6S7ddheil",
+								"expanded_url": "https://unbound.com/books/scenes-of-moderate-violence",
+								"display_url": "unbound.com/books/scenes-o…",
+								"indices": [
+									89,
+									112
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3614,
+				"friends_count": 713,
+				"listed_count": 100,
+				"created_at": "Sun Jan 24 14:28:46 +0000 2010",
+				"favourites_count": 38,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 88254,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/760191434859438080/5DiKj_eb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/760191434859438080/5DiKj_eb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/108013258/1409928861",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 339,
+			"favorite_count": 828,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 339,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Feb 07 12:23:16 +0000 2018",
+		"id": 961213772600836100,
+		"id_str": "961213772600836096",
+		"text": "RT @OhNoSheTwitnt: Our 71-year-old President with an approval rating well below 50% is throwing a parade for himself, but please tell me mo…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OhNoSheTwitnt",
+					"name": "OhNoSheTwitnt",
+					"id": 149249831,
+					"id_str": "149249831",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8209,
+			"friends_count": 1097,
+			"listed_count": 514,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40288,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Feb 07 11:02:34 +0000 2018",
+			"id": 961193464045162500,
+			"id_str": "961193464045162496",
+			"text": "Our 71-year-old President with an approval rating well below 50% is throwing a parade for himself, but please tell… https://t.co/MJLhTeRaDC",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/MJLhTeRaDC",
+						"expanded_url": "https://twitter.com/i/web/status/961193464045162496",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 149249831,
+				"id_str": "149249831",
+				"name": "OhNoSheTwitnt",
+				"screen_name": "OhNoSheTwitnt",
+				"location": "",
+				"description": "Jewish American Disney Princess 🧜🏻‍♀️ I’ll grow up when I’m dead.",
+				"url": "https://t.co/f01fkCsKLm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/f01fkCsKLm",
+								"expanded_url": "https://theberry.com/2016/08/23/times-ohnoshetwitnt-was-funny-on-twitter-lr-2/amp/",
+								"display_url": "theberry.com/2016/08/23/tim…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 206019,
+				"friends_count": 1098,
+				"listed_count": 2997,
+				"created_at": "Fri May 28 20:24:09 +0000 2010",
+				"favourites_count": 307253,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 75820,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "A4DBAA",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/447970706/dead_shoes.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/447970706/dead_shoes.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/927004674036813824/u5fyU3HS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/927004674036813824/u5fyU3HS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/149249831/1468627577",
+				"profile_link_color": "038543",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "A89B9B",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11524,
+			"favorite_count": 38486,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11524,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Feb 07 01:10:35 +0000 2018",
 		"id": 961044484464267300,
 		"id_str": "961044484464267265",
