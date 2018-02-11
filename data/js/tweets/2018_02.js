@@ -1,6 +1,626 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Sun Feb 11 04:29:06 +0000 2018",
+		"id": 962543993925128200,
+		"id_str": "962543993925128192",
+		"text": "RT @Khanoisseur: Intuit, maker of TurboTax, spent $11.5 million - more than Apple, Amazon - lobbying the government, including to kill bill…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Khanoisseur",
+					"name": "Adam Khan",
+					"id": 373564351,
+					"id_str": "373564351",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8213,
+			"friends_count": 1099,
+			"listed_count": 513,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40298,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Feb 09 03:34:37 +0000 2018",
+			"id": 961805509513814000,
+			"id_str": "961805509513814016",
+			"text": "Intuit, maker of TurboTax, spent $11.5 million - more than Apple, Amazon - lobbying the government, including to ki… https://t.co/6Ao66Pwqkq",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/6Ao66Pwqkq",
+						"expanded_url": "https://twitter.com/i/web/status/961805509513814016",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 373564351,
+				"id_str": "373564351",
+				"name": "Adam Khan",
+				"screen_name": "Khanoisseur",
+				"location": "California, USA",
+				"description": "Majordomo https://t.co/XCAMic8lnc *Turn notifications on for breaking Trump news and analysis* Stuff @Google @Twitter @Tesla",
+				"url": "https://t.co/6UFINkY5JB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6UFINkY5JB",
+								"expanded_url": "https://www.amazon.com/Hack-Bird-Counterintuitive-Strategies-Entrepreneurs/dp/1549804219",
+								"display_url": "amazon.com/Hack-Bird-Coun…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/XCAMic8lnc",
+								"expanded_url": "https://www.gofundme.com/VolunteerJournalism",
+								"display_url": "gofundme.com/VolunteerJourn…",
+								"indices": [
+									10,
+									33
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 184067,
+				"friends_count": 9442,
+				"listed_count": 3149,
+				"created_at": "Wed Sep 14 20:14:50 +0000 2011",
+				"favourites_count": 904273,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 29646,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBE9ED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/682849199/38bbb6faebf3f845471f2d1c153d474f.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/682849199/38bbb6faebf3f845471f2d1c153d474f.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/911274378855276545/zWe7IZl0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/911274378855276545/zWe7IZl0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/373564351/1445384407",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 960316177804353500,
+			"quoted_status_id_str": "960316177804353536",
+			"quoted_status": {
+				"created_at": "Mon Feb 05 00:56:33 +0000 2018",
+				"id": 960316177804353500,
+				"id_str": "960316177804353536",
+				"text": "Periodic reminder that TurboTax lobbies Congress to keep taxes complicated and to stop the government from providin… https://t.co/Z9D3W0CeTP",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/Z9D3W0CeTP",
+							"expanded_url": "https://twitter.com/i/web/status/960316177804353536",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 37281592,
+					"id_str": "37281592",
+					"name": "Annie Lowrey",
+					"screen_name": "AnnieLowrey",
+					"location": "Washington",
+					"description": "I write about economic policy for @TheAtlantic. Say hi on annie@theatlantic.com.",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 64784,
+					"friends_count": 1382,
+					"listed_count": 2498,
+					"created_at": "Sat May 02 21:00:07 +0000 2009",
+					"favourites_count": 3868,
+					"utc_offset": -18000,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 374,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "709397",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/518476557275258880/RIP49M99.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/518476557275258880/RIP49M99.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/546022287531454464/jTRRNz_Q_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/546022287531454464/jTRRNz_Q_normal.jpeg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/37281592/1412449329",
+					"profile_link_color": "1B95E0",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "A0C5C7",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 3515,
+				"favorite_count": 6732,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 6787,
+			"favorite_count": 8441,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 960316177804353500,
+		"quoted_status_id_str": "960316177804353536",
+		"retweet_count": 6787,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Feb 10 19:14:07 +0000 2018",
+		"id": 962404330312814600,
+		"id_str": "962404330312814592",
+		"text": "RT @_NickMcGuire: Mom: did you really eat the entire box of thin mints?\n\nme: https://t.co/7ad94MqcfW",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_NickMcGuire",
+					"name": "ʞɔıu",
+					"id": 234121500,
+					"id_str": "234121500",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7ad94MqcfW",
+					"expanded_url": "https://twitter.com/realDonaldTrump/status/962348831789797381",
+					"display_url": "twitter.com/realDonaldTrum…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8213,
+			"friends_count": 1099,
+			"listed_count": 513,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40298,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Feb 10 15:39:43 +0000 2018",
+			"id": 962350372802134000,
+			"id_str": "962350372802134016",
+			"text": "Mom: did you really eat the entire box of thin mints?\n\nme: https://t.co/7ad94MqcfW",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7ad94MqcfW",
+						"expanded_url": "https://twitter.com/realDonaldTrump/status/962348831789797381",
+						"display_url": "twitter.com/realDonaldTrum…",
+						"indices": [
+							59,
+							82
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 234121500,
+				"id_str": "234121500",
+				"name": "ʞɔıu",
+				"screen_name": "_NickMcGuire",
+				"location": "North Carolina",
+				"description": "Opinions are likely not my own",
+				"url": "https://t.co/LHeHqUPSHe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LHeHqUPSHe",
+								"expanded_url": "http://www.ilovesabi.com",
+								"display_url": "ilovesabi.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 411,
+				"friends_count": 284,
+				"listed_count": 3,
+				"created_at": "Tue Jan 04 22:14:42 +0000 2011",
+				"favourites_count": 4164,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 462,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/605103156385693696/CRkaezzy.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/605103156385693696/CRkaezzy.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/937125941243011073/oyMkynq1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/937125941243011073/oyMkynq1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/234121500/1512263211",
+				"profile_link_color": "0E0E0E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 962348831789797400,
+			"quoted_status_id_str": "962348831789797381",
+			"quoted_status": {
+				"created_at": "Sat Feb 10 15:33:35 +0000 2018",
+				"id": 962348831789797400,
+				"id_str": "962348831789797381",
+				"text": "Peoples lives are being shattered and destroyed by a mere allegation. Some are true and some are false. Some are ol… https://t.co/6Zz5RAeoQe",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/6Zz5RAeoQe",
+							"expanded_url": "https://twitter.com/i/web/status/962348831789797381",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 25073877,
+					"id_str": "25073877",
+					"name": "Donald J. Trump",
+					"screen_name": "realDonaldTrump",
+					"location": "Washington, DC",
+					"description": "45th President of the United States of America🇺🇸",
+					"url": "https://t.co/OMxB0x7xC5",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/OMxB0x7xC5",
+									"expanded_url": "http://www.Instagram.com/realDonaldTrump",
+									"display_url": "Instagram.com/realDonaldTrump",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 47717656,
+					"friends_count": 45,
+					"listed_count": 84236,
+					"created_at": "Wed Mar 18 13:46:38 +0000 2009",
+					"favourites_count": 24,
+					"utc_offset": -18000,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 36925,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": true,
+					"profile_background_color": "6D5C18",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/530021613/trump_scotland__43_of_70_cc.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/530021613/trump_scotland__43_of_70_cc.jpg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1517463920",
+					"profile_link_color": "1B95E0",
+					"profile_sidebar_border_color": "BDDCAD",
+					"profile_sidebar_fill_color": "C5CEC0",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "regular"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 30603,
+				"favorite_count": 108519,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 10,
+			"favorite_count": 26,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 962348831789797400,
+		"quoted_status_id_str": "962348831789797381",
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Feb 10 03:36:11 +0000 2018",
 		"id": 962168290507452400,
 		"id_str": "962168290507452416",
