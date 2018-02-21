@@ -1,6 +1,600 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Wed Feb 21 04:39:17 +0000 2018",
+		"id": 966170438941495300,
+		"id_str": "966170438941495296",
+		"text": "RT @lpolgreen: The Real Threat To Campuses Isn’t ‘PC Culture.’ It’s Racism. by @tressiemcphd. https://t.co/q2DriSY3nX",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lpolgreen",
+					"name": "Lydia Polgreen",
+					"id": 17152685,
+					"id_str": "17152685",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "tressiemcphd",
+					"name": "Tressie Mc",
+					"id": 148593548,
+					"id_str": "148593548",
+					"indices": [
+						79,
+						92
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/q2DriSY3nX",
+					"expanded_url": "https://www.huffingtonpost.com/entry/opinion-cottom-campus-racism_us_5a8afb80e4b00bc49f471b41?ncid=engmodushpmg00000004",
+					"display_url": "huffingtonpost.com/entry/opinion-…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8238,
+			"friends_count": 1101,
+			"listed_count": 515,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40339,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Feb 20 19:45:02 +0000 2018",
+			"id": 966035989989875700,
+			"id_str": "966035989989875713",
+			"text": "The Real Threat To Campuses Isn’t ‘PC Culture.’ It’s Racism. by @tressiemcphd. https://t.co/q2DriSY3nX",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "tressiemcphd",
+						"name": "Tressie Mc",
+						"id": 148593548,
+						"id_str": "148593548",
+						"indices": [
+							64,
+							77
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/q2DriSY3nX",
+						"expanded_url": "https://www.huffingtonpost.com/entry/opinion-cottom-campus-racism_us_5a8afb80e4b00bc49f471b41?ncid=engmodushpmg00000004",
+						"display_url": "huffingtonpost.com/entry/opinion-…",
+						"indices": [
+							79,
+							102
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17152685,
+				"id_str": "17152685",
+				"name": "Lydia Polgreen",
+				"screen_name": "lpolgreen",
+				"location": "New York, NY ",
+				"description": "Now: Editor in Chief of HuffPost. Always: proud NYTimes alum. Wife of @candyfight. Human of three dogs. lydia@huffpost.com",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 100342,
+				"friends_count": 1120,
+				"listed_count": 2615,
+				"created_at": "Tue Nov 04 10:18:01 +0000 2008",
+				"favourites_count": 24428,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 47218,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/887347321800990720/9e1mNt04_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/887347321800990720/9e1mNt04_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17152685/1487734458",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 107,
+			"favorite_count": 277,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 107,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Feb 20 15:34:53 +0000 2018",
+		"id": 965973036955586600,
+		"id_str": "965973036955586560",
+		"text": "RT @KevinFroleiks: Social media yesterday. #BlackPanther https://t.co/yRkg6nPqgn",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BlackPanther",
+					"indices": [
+						43,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KevinFroleiks",
+					"name": "Kevin Froleiks",
+					"id": 159969384,
+					"id_str": "159969384",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 965219384095633400,
+					"id_str": "965219384095633409",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/DWUl6ndXcAEZmnQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWUl6ndXcAEZmnQ.jpg",
+					"url": "https://t.co/yRkg6nPqgn",
+					"display_url": "pic.twitter.com/yRkg6nPqgn",
+					"expanded_url": "https://twitter.com/KevinFroleiks/status/965219575032942595/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 555,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 315,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1753,
+							"h": 811,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 965219575032942600,
+					"source_status_id_str": "965219575032942595",
+					"source_user_id": 159969384,
+					"source_user_id_str": "159969384"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 965219384095633400,
+					"id_str": "965219384095633409",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/DWUl6ndXcAEZmnQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWUl6ndXcAEZmnQ.jpg",
+					"url": "https://t.co/yRkg6nPqgn",
+					"display_url": "pic.twitter.com/yRkg6nPqgn",
+					"expanded_url": "https://twitter.com/KevinFroleiks/status/965219575032942595/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 555,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 315,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1753,
+							"h": 811,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 965219575032942600,
+					"source_status_id_str": "965219575032942595",
+					"source_user_id": 159969384,
+					"source_user_id_str": "159969384"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8238,
+			"friends_count": 1101,
+			"listed_count": 515,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40339,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Feb 18 13:40:54 +0000 2018",
+			"id": 965219575032942600,
+			"id_str": "965219575032942595",
+			"text": "Social media yesterday. #BlackPanther https://t.co/yRkg6nPqgn",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BlackPanther",
+						"indices": [
+							24,
+							37
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 965219384095633400,
+						"id_str": "965219384095633409",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/DWUl6ndXcAEZmnQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWUl6ndXcAEZmnQ.jpg",
+						"url": "https://t.co/yRkg6nPqgn",
+						"display_url": "pic.twitter.com/yRkg6nPqgn",
+						"expanded_url": "https://twitter.com/KevinFroleiks/status/965219575032942595/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 555,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 315,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1753,
+								"h": 811,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 965219384095633400,
+						"id_str": "965219384095633409",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/DWUl6ndXcAEZmnQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWUl6ndXcAEZmnQ.jpg",
+						"url": "https://t.co/yRkg6nPqgn",
+						"display_url": "pic.twitter.com/yRkg6nPqgn",
+						"expanded_url": "https://twitter.com/KevinFroleiks/status/965219575032942595/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 555,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 315,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1753,
+								"h": 811,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 159969384,
+				"id_str": "159969384",
+				"name": "Kevin Froleiks",
+				"screen_name": "KevinFroleiks",
+				"location": "New York City",
+				"description": "Stand Up and Sketch Comedian. @ClipShowComedy writer. Co-writer and composer of Great Frontier, the #LewisAndClarkMusical. Cohost of @wewroteamusical podcast.",
+				"url": "https://t.co/G0huv0Skwk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/G0huv0Skwk",
+								"expanded_url": "http://kfcomedy.com",
+								"display_url": "kfcomedy.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1949,
+				"friends_count": 1178,
+				"listed_count": 50,
+				"created_at": "Sat Jun 26 20:39:47 +0000 2010",
+				"favourites_count": 2405,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7474,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/455203130972459008/t_m7MSen.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/455203130972459008/t_m7MSen.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/893194458027614210/ZevWncWz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/893194458027614210/ZevWncWz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/159969384/1414671499",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3901,
+			"favorite_count": 16063,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3901,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Feb 20 01:16:26 +0000 2018",
 		"id": 965757000868036600,
 		"id_str": "965757000868036608",
