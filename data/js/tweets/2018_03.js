@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Sat Mar 17 16:40:28 +0000 2018",
+		"id": 975049237871366100,
+		"id_str": "975049237871366145",
+		"text": "RT @AMartinezPhd: Comm. Studies @DavidsonCollege is hiring an Intercultural Comm. person! Apply &amp; share widely! @NatComm https://t.co/rkLDX…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AMartinezPhd",
+					"name": "Amanda R. Martinez",
+					"id": 375723132,
+					"id_str": "375723132",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "DavidsonCollege",
+					"name": "Davidson College",
+					"id": 353477625,
+					"id_str": "353477625",
+					"indices": [
+						32,
+						48
+					]
+				},
+				{
+					"screen_name": "NatComm",
+					"name": "NCA",
+					"id": 17880989,
+					"id_str": "17880989",
+					"indices": [
+						116,
+						124
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8297,
+			"friends_count": 1105,
+			"listed_count": 512,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40435,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 16 23:35:11 +0000 2018",
+			"id": 974791217111289900,
+			"id_str": "974791217111289857",
+			"text": "Comm. Studies @DavidsonCollege is hiring an Intercultural Comm. person! Apply &amp; share widely! @NatComm https://t.co/rkLDXiWaq3",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DavidsonCollege",
+						"name": "Davidson College",
+						"id": 353477625,
+						"id_str": "353477625",
+						"indices": [
+							14,
+							30
+						]
+					},
+					{
+						"screen_name": "NatComm",
+						"name": "NCA",
+						"id": 17880989,
+						"id_str": "17880989",
+						"indices": [
+							98,
+							106
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/rkLDXiWaq3",
+						"expanded_url": "http://employment.davidson.edu/cw/en-us/job/492741/visiting-assistant-professor-of-communication-studies",
+						"display_url": "employment.davidson.edu/cw/en-us/job/4…",
+						"indices": [
+							107,
+							130
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 375723132,
+				"id_str": "375723132",
+				"name": "Amanda R. Martinez",
+				"screen_name": "AMartinezPhd",
+				"location": "Davidson, NC",
+				"description": "Asst. Prof. Communication Studies, Sociology, Gender & Sexuallity Studies @DavidsonCollege. Media effects, health, Latinx comm, & intersectionality.",
+				"url": "https://t.co/1DUWbHT4yv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1DUWbHT4yv",
+								"expanded_url": "http://amandarmartinez.com",
+								"display_url": "amandarmartinez.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 576,
+				"friends_count": 1283,
+				"listed_count": 15,
+				"created_at": "Sun Sep 18 16:40:05 +0000 2011",
+				"favourites_count": 3120,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2120,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/917248799285891072/kNBz9a8T_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/917248799285891072/kNBz9a8T_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/375723132/1430528587",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Mar 16 17:34:34 +0000 2018",
 		"id": 974700464796205000,
 		"id_str": "974700464796205056",
