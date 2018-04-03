@@ -1,6 +1,345 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Mon Apr 02 18:08:13 +0000 2018",
+		"id": 980869526471487500,
+		"id_str": "980869526471487489",
+		"text": "RT @ByKateDwyer: For @parisreview, I wrote about how literary tribute accounts are lovely and bizarre and one of the best parts of this pla…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ByKateDwyer",
+					"name": "Kate Dwyer",
+					"id": 2705679621,
+					"id_str": "2705679621",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "parisreview",
+					"name": "The Paris Review",
+					"id": 71256932,
+					"id_str": "71256932",
+					"indices": [
+						21,
+						33
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8344,
+			"friends_count": 1110,
+			"listed_count": 512,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40517,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 02 16:00:13 +0000 2018",
+			"id": 980837313176535000,
+			"id_str": "980837313176535040",
+			"text": "For @parisreview, I wrote about how literary tribute accounts are lovely and bizarre and one of the best parts of t… https://t.co/ELQ4u2DGz8",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "parisreview",
+						"name": "The Paris Review",
+						"id": 71256932,
+						"id_str": "71256932",
+						"indices": [
+							4,
+							16
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ELQ4u2DGz8",
+						"expanded_url": "https://twitter.com/i/web/status/980837313176535040",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2705679621,
+				"id_str": "2705679621",
+				"name": "Kate Dwyer",
+				"screen_name": "ByKateDwyer",
+				"location": "New York, NY",
+				"description": "Words in the Paris Review, Hyperallergic, Teen Vogue, TIME, Bon Appetit, and other corners of the web. Currently writing about art thieves.",
+				"url": "https://t.co/zzQQ5k5jk9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zzQQ5k5jk9",
+								"expanded_url": "http://www.kate-dwyer.com",
+								"display_url": "kate-dwyer.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1097,
+				"friends_count": 876,
+				"listed_count": 18,
+				"created_at": "Sun Jul 13 03:15:56 +0000 2014",
+				"favourites_count": 2862,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1401,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/956390740275466240/ANAJxMwE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/956390740275466240/ANAJxMwE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2705679621/1506901560",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 980835192976834600,
+			"quoted_status_id_str": "980835192976834560",
+			"quoted_status": {
+				"created_at": "Mon Apr 02 15:51:47 +0000 2018",
+				"id": 980835192976834600,
+				"id_str": "980835192976834560",
+				"text": "The man behind @Wwm_Shakespeare describes his tribute account as “a play in miniature.” He uses Shakespeare’s words… https://t.co/zZ7XOZEGIc",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "Wwm_Shakespeare",
+							"name": "William Shakespeare",
+							"id": 15126599,
+							"id_str": "15126599",
+							"indices": [
+								15,
+								31
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/zZ7XOZEGIc",
+							"expanded_url": "https://twitter.com/i/web/status/980835192976834560",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 71256932,
+					"id_str": "71256932",
+					"name": "The Paris Review",
+					"screen_name": "parisreview",
+					"location": "New York, NY",
+					"description": "Quarterly literary magazine founded in 1953.",
+					"url": "http://t.co/oXirIX6rPZ",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/oXirIX6rPZ",
+									"expanded_url": "http://theparisreview.org",
+									"display_url": "theparisreview.org",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 948471,
+					"friends_count": 4016,
+					"listed_count": 11497,
+					"created_at": "Thu Sep 03 13:48:31 +0000 2009",
+					"favourites_count": 10622,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 52579,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "9AE4E8",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/34404793/twitter_background.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/34404793/twitter_background.jpg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/773206272632057857/3Or-FkJz_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/773206272632057857/3Or-FkJz_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/71256932/1519911312",
+					"profile_link_color": "75BA65",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "FFFFFF",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 34,
+				"favorite_count": 108,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 13,
+			"favorite_count": 66,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 980835192976834600,
+		"quoted_status_id_str": "980835192976834560",
+		"retweet_count": 13,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Apr 02 00:51:14 +0000 2018",
 		"id": 980608559821066200,
 		"id_str": "980608559821066242",
