@@ -1,6 +1,324 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Wed Apr 25 00:17:26 +0000 2018",
+		"id": 988934976380031000,
+		"id_str": "988934976380030978",
+		"text": "RT @SummitCoffee: Running it back! https://t.co/y0UQgHHdgQ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SummitCoffee",
+					"name": "Summit Coffee Co.",
+					"id": 78464518,
+					"id_str": "78464518",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/y0UQgHHdgQ",
+					"expanded_url": "https://twitter.com/the_davidsonian/status/988931657234305024",
+					"display_url": "twitter.com/the_davidsonia…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8387,
+			"friends_count": 1113,
+			"listed_count": 514,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40602,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 25 00:07:39 +0000 2018",
+			"id": 988932514411614200,
+			"id_str": "988932514411614208",
+			"text": "Running it back! https://t.co/y0UQgHHdgQ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/y0UQgHHdgQ",
+						"expanded_url": "https://twitter.com/the_davidsonian/status/988931657234305024",
+						"display_url": "twitter.com/the_davidsonia…",
+						"indices": [
+							17,
+							40
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 78464518,
+				"id_str": "78464518",
+				"name": "Summit Coffee Co.",
+				"screen_name": "SummitCoffee",
+				"location": "Davidson, NC",
+				"description": "Good Coffee, Good People, Good Community. That's what we're about. Come join us.",
+				"url": "https://t.co/y9wkSj6Nfz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/y9wkSj6Nfz",
+								"expanded_url": "http://www.summitcoffee.com",
+								"display_url": "summitcoffee.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2146,
+				"friends_count": 84,
+				"listed_count": 51,
+				"created_at": "Wed Sep 30 00:38:24 +0000 2009",
+				"favourites_count": 183,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2552,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/735119525675307008/_BgGyW6K_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/735119525675307008/_BgGyW6K_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/78464518/1462154284",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 988931657234305000,
+			"quoted_status_id_str": "988931657234305024",
+			"quoted_status": {
+				"created_at": "Wed Apr 25 00:04:15 +0000 2018",
+				"id": 988931657234305000,
+				"id_str": "988931657234305024",
+				"text": "ONLINE EXCLUSIVE: Summit CEO Discusses Outpost Future\n\nOur Editors-in-Chief sat down with Brian Helfrich, Summit Co… https://t.co/Ex1GiOs2CM",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/Ex1GiOs2CM",
+							"expanded_url": "https://twitter.com/i/web/status/988931657234305024",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 577450856,
+					"id_str": "577450856",
+					"name": "The Davidsonian",
+					"screen_name": "The_Davidsonian",
+					"location": "Davidson, North Carolina",
+					"description": "The independent student newspaper of @DavidsonCollege since 1914",
+					"url": "http://t.co/HkJb9OIxud",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/HkJb9OIxud",
+									"expanded_url": "http://www.davidsonian.com/",
+									"display_url": "davidsonian.com",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1918,
+					"friends_count": 508,
+					"listed_count": 40,
+					"created_at": "Fri May 11 20:52:50 +0000 2012",
+					"favourites_count": 313,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 5448,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/550052411/Slide1.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/550052411/Slide1.jpg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/983570268273586176/bGzfkUpV_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/983570268273586176/bGzfkUpV_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/577450856/1523336105",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 2,
+				"favorite_count": 14,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 4,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 988931657234305000,
+		"quoted_status_id_str": "988931657234305024",
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Apr 24 02:12:38 +0000 2018",
 		"id": 988601577983356900,
 		"id_str": "988601577983356928",
