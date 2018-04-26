@@ -1,6 +1,584 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Thu Apr 26 01:38:10 +0000 2018",
+		"id": 989317682574000100,
+		"id_str": "989317682574000130",
+		"text": "#10PRINT https://t.co/9KANlE80jo",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "10PRINT",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9KANlE80jo",
+					"expanded_url": "https://twitter.com/patrickweave_r/status/989266507686469632",
+					"display_url": "twitter.com/patrickweave_r…",
+					"indices": [
+						9,
+						32
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8390,
+			"friends_count": 1113,
+			"listed_count": 514,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40604,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 989266507686469600,
+		"quoted_status_id_str": "989266507686469632",
+		"quoted_status": {
+			"created_at": "Wed Apr 25 22:14:49 +0000 2018",
+			"id": 989266507686469600,
+			"id_str": "989266507686469632",
+			"text": "@walkerdanny @shiffman @noopkat Added speed and size dials to this! I think it's a video game now. https://t.co/9hImLkGuB3",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "walkerdanny",
+						"name": "𝐝𝐚𝐧𝐧𝐲",
+						"id": 22379605,
+						"id_str": "22379605",
+						"indices": [
+							0,
+							12
+						]
+					},
+					{
+						"screen_name": "shiffman",
+						"name": "Daniel Shiffman",
+						"id": 14587429,
+						"id_str": "14587429",
+						"indices": [
+							13,
+							22
+						]
+					},
+					{
+						"screen_name": "noopkat",
+						"name": "Suz Hinton",
+						"id": 8942382,
+						"id_str": "8942382",
+						"indices": [
+							23,
+							31
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 989266415319318500,
+						"id_str": "989266415319318529",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/989266415319318529/pu/img/m7KGnfe71L8XTvIl.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/989266415319318529/pu/img/m7KGnfe71L8XTvIl.jpg",
+						"url": "https://t.co/9hImLkGuB3",
+						"display_url": "pic.twitter.com/9hImLkGuB3",
+						"expanded_url": "https://twitter.com/patrickweave_r/status/989266507686469632/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 720,
+								"h": 406,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 406,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 989266415319318500,
+						"id_str": "989266415319318529",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/989266415319318529/pu/img/m7KGnfe71L8XTvIl.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/989266415319318529/pu/img/m7KGnfe71L8XTvIl.jpg",
+						"url": "https://t.co/9hImLkGuB3",
+						"display_url": "pic.twitter.com/9hImLkGuB3",
+						"expanded_url": "https://twitter.com/patrickweave_r/status/989266507686469632/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 720,
+								"h": 406,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 406,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								360,
+								203
+							],
+							"duration_millis": 36027,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/989266415319318529/pu/pl/j1U_glAcIVwJINe1.m3u8?tag=3"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/989266415319318529/pu/vid/638x360/8A53LlRXAFfl8t3V.mp4?tag=3"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/989266415319318529/pu/vid/318x180/NvY8kxhOy7snQTDI.mp4?tag=3"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 983708272048922600,
+			"in_reply_to_status_id_str": "983708272048922625",
+			"in_reply_to_user_id": 3031278626,
+			"in_reply_to_user_id_str": "3031278626",
+			"in_reply_to_screen_name": "patrickweave_r",
+			"user": {
+				"id": 3031278626,
+				"id_str": "3031278626",
+				"name": "Patrick Weaver",
+				"screen_name": "patrickweave_r",
+				"location": "NYC, Earth, Milky Way",
+				"description": "Learning Design Manager for @Mouse_org, friend of @mousefridge and @patweaver",
+				"url": "https://t.co/n9D6zyLlVB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/n9D6zyLlVB",
+								"expanded_url": "http://patrickweaver.net",
+								"display_url": "patrickweaver.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 179,
+				"friends_count": 606,
+				"listed_count": 11,
+				"created_at": "Thu Feb 19 19:34:50 +0000 2015",
+				"favourites_count": 222,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 248,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902226123550998528/lKQEbagD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902226123550998528/lKQEbagD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3031278626/1496283472",
+				"profile_link_color": "53EDAF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 20,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Wed Apr 25 23:42:06 +0000 2018",
+		"id": 989288471889104900,
+		"id_str": "989288471889104897",
+		"text": "RT @Popehat: So.  @TheFIREorg is my go-to place for campus free speech stuff, of course.  \nBut in the last couple of years other sites cove…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Popehat",
+					"name": "FiteMeHat",
+					"id": 18839937,
+					"id_str": "18839937",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "TheFIREorg",
+					"name": "FIRE",
+					"id": 17839988,
+					"id_str": "17839988",
+					"indices": [
+						18,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8390,
+			"friends_count": 1113,
+			"listed_count": 514,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40604,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 25 20:53:27 +0000 2018",
+			"id": 989246030959935500,
+			"id_str": "989246030959935488",
+			"text": "So.  @TheFIREorg is my go-to place for campus free speech stuff, of course.  \nBut in the last couple of years other… https://t.co/tyjZqdDCD8",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TheFIREorg",
+						"name": "FIRE",
+						"id": 17839988,
+						"id_str": "17839988",
+						"indices": [
+							5,
+							16
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/tyjZqdDCD8",
+						"expanded_url": "https://twitter.com/i/web/status/989246030959935488",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18839937,
+				"id_str": "18839937",
+				"name": "FiteMeHat",
+				"screen_name": "Popehat",
+				"location": "Los Angeles",
+				"description": "Twitter feed of https://t.co/ytMLDIXgGy. Most tweets by Ken White.  Host of Make No Law podcast https://t.co/ax06jy4VSX",
+				"url": "https://t.co/y1EN0rnI1n",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/y1EN0rnI1n",
+								"expanded_url": "http://www.popehat.com",
+								"display_url": "popehat.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ytMLDIXgGy",
+								"expanded_url": "http://Popehat.com",
+								"display_url": "Popehat.com",
+								"indices": [
+									16,
+									39
+								]
+							},
+							{
+								"url": "https://t.co/ax06jy4VSX",
+								"expanded_url": "https://legaltalknetwork.com/podcasts/make-no-law/",
+								"display_url": "legaltalknetwork.com/podcasts/make-…",
+								"indices": [
+									96,
+									119
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 114313,
+				"friends_count": 934,
+				"listed_count": 2086,
+				"created_at": "Sat Jan 10 17:24:58 +0000 2009",
+				"favourites_count": 18870,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 143781,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "642D8B",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/3955682/Popehat.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/3955682/Popehat.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/884879301190967296/oTCsTck5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/884879301190967296/oTCsTck5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18839937/1497500535",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "65B0DA",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 238,
+			"favorite_count": 460,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 238,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Apr 25 00:17:26 +0000 2018",
 		"id": 988934976380031000,
 		"id_str": "988934976380030978",
