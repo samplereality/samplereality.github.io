@@ -1,6 +1,515 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Thu May 10 18:49:52 +0000 2018",
+		"id": 994650745495539700,
+		"id_str": "994650745495539712",
+		"text": "RT @mattthomas: Klout: a story in three acts. https://t.co/6G2coSKmDo",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mattthomas",
+					"name": "Mαtt Thomαs",
+					"id": 9439432,
+					"id_str": "9439432",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 994650182808617000,
+					"id_str": "994650182808616961",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/Dc21EkYVwAENu6j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dc21EkYVwAENu6j.jpg",
+					"url": "https://t.co/6G2coSKmDo",
+					"display_url": "pic.twitter.com/6G2coSKmDo",
+					"expanded_url": "https://twitter.com/mattthomas/status/994650270171885569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 627,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 627,
+							"h": 338,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 627,
+							"h": 338,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 994650270171885600,
+					"source_status_id_str": "994650270171885569",
+					"source_user_id": 9439432,
+					"source_user_id_str": "9439432"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 994650182808617000,
+					"id_str": "994650182808616961",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/Dc21EkYVwAENu6j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dc21EkYVwAENu6j.jpg",
+					"url": "https://t.co/6G2coSKmDo",
+					"display_url": "pic.twitter.com/6G2coSKmDo",
+					"expanded_url": "https://twitter.com/mattthomas/status/994650270171885569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 627,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 627,
+							"h": 338,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 627,
+							"h": 338,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 994650270171885600,
+					"source_status_id_str": "994650270171885569",
+					"source_user_id": 9439432,
+					"source_user_id_str": "9439432"
+				},
+				{
+					"id": 994650216337850400,
+					"id_str": "994650216337850369",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/Dc21GhSVQAE0yxS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dc21GhSVQAE0yxS.jpg",
+					"url": "https://t.co/6G2coSKmDo",
+					"display_url": "pic.twitter.com/6G2coSKmDo",
+					"expanded_url": "https://twitter.com/mattthomas/status/994650270171885569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 624,
+							"h": 416,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 624,
+							"h": 416,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 624,
+							"h": 416,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 994650270171885600,
+					"source_status_id_str": "994650270171885569",
+					"source_user_id": 9439432,
+					"source_user_id_str": "9439432"
+				},
+				{
+					"id": 994650241948270600,
+					"id_str": "994650241948270597",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/Dc21IAsVQAU9FSn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dc21IAsVQAU9FSn.jpg",
+					"url": "https://t.co/6G2coSKmDo",
+					"display_url": "pic.twitter.com/6G2coSKmDo",
+					"expanded_url": "https://twitter.com/mattthomas/status/994650270171885569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 622,
+							"h": 633,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 622,
+							"h": 633,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 622,
+							"h": 633,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 994650270171885600,
+					"source_status_id_str": "994650270171885569",
+					"source_user_id": 9439432,
+					"source_user_id_str": "9439432"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Essential Consultants LLC",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8409,
+			"friends_count": 1114,
+			"listed_count": 513,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40655,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu May 10 18:47:58 +0000 2018",
+			"id": 994650270171885600,
+			"id_str": "994650270171885569",
+			"text": "Klout: a story in three acts. https://t.co/6G2coSKmDo",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 994650182808617000,
+						"id_str": "994650182808616961",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/Dc21EkYVwAENu6j.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dc21EkYVwAENu6j.jpg",
+						"url": "https://t.co/6G2coSKmDo",
+						"display_url": "pic.twitter.com/6G2coSKmDo",
+						"expanded_url": "https://twitter.com/mattthomas/status/994650270171885569/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 627,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 627,
+								"h": 338,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 627,
+								"h": 338,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 994650182808617000,
+						"id_str": "994650182808616961",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/Dc21EkYVwAENu6j.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dc21EkYVwAENu6j.jpg",
+						"url": "https://t.co/6G2coSKmDo",
+						"display_url": "pic.twitter.com/6G2coSKmDo",
+						"expanded_url": "https://twitter.com/mattthomas/status/994650270171885569/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 627,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 627,
+								"h": 338,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 627,
+								"h": 338,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 994650216337850400,
+						"id_str": "994650216337850369",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/Dc21GhSVQAE0yxS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dc21GhSVQAE0yxS.jpg",
+						"url": "https://t.co/6G2coSKmDo",
+						"display_url": "pic.twitter.com/6G2coSKmDo",
+						"expanded_url": "https://twitter.com/mattthomas/status/994650270171885569/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 624,
+								"h": 416,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 624,
+								"h": 416,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 624,
+								"h": 416,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 994650241948270600,
+						"id_str": "994650241948270597",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/Dc21IAsVQAU9FSn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dc21IAsVQAU9FSn.jpg",
+						"url": "https://t.co/6G2coSKmDo",
+						"display_url": "pic.twitter.com/6G2coSKmDo",
+						"expanded_url": "https://twitter.com/mattthomas/status/994650270171885569/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 622,
+								"h": 633,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 622,
+								"h": 633,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 622,
+								"h": 633,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 9439432,
+				"id_str": "9439432",
+				"name": "Mαtt Thomαs",
+				"screen_name": "mattthomas",
+				"location": "Iowa City, IA",
+				"description": "Be cool at the equator; keep thy blood fluid at the Pole.",
+				"url": "https://t.co/ZJiT5Wxs2k",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZJiT5Wxs2k",
+								"expanded_url": "http://mattthomas.info",
+								"display_url": "mattthomas.info",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5017,
+				"friends_count": 1366,
+				"listed_count": 291,
+				"created_at": "Sun Oct 14 16:21:01 +0000 2007",
+				"favourites_count": 25532,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 137789,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F7F7F7",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/478890681/backgroundPattern.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/478890681/backgroundPattern.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/423514996941651969/SYL4thlm_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/423514996941651969/SYL4thlm_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/9439432/1524778476",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "073642",
+				"profile_text_color": "839496",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed May 09 21:33:41 +0000 2018",
 		"id": 994329586136703000,
 		"id_str": "994329586136702982",
