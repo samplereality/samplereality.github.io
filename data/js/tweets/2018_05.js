@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Sat May 19 21:26:15 +0000 2018",
+		"id": 997951591327158300,
+		"id_str": "997951591327158277",
+		"text": "I already saw this on Black Mirror, didn’t I? https://t.co/O8tdoc1B9l",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/O8tdoc1B9l",
+					"expanded_url": "https://twitter.com/zeynep/status/997837796013428736",
+					"display_url": "twitter.com/zeynep/status/…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark \"Stool\" Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8432,
+			"friends_count": 1115,
+			"listed_count": 515,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40697,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 997837796013428700,
+		"quoted_status_id_str": "997837796013428736",
+		"quoted_status": {
+			"created_at": "Sat May 19 13:54:04 +0000 2018",
+			"id": 997837796013428700,
+			"id_str": "997837796013428736",
+			"text": "Probably not too long before we have the first drone assassination by a civilian through this technology. https://t.co/7kd1C1d30e",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7kd1C1d30e",
+						"expanded_url": "https://twitter.com/jjvincent/status/997772007075995648",
+						"display_url": "twitter.com/jjvincent/stat…",
+						"indices": [
+							106,
+							129
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 65375759,
+				"id_str": "65375759",
+				"name": "zeynep tufekci",
+				"screen_name": "zeynep",
+				"location": "floating in a most peculiar way",
+				"description": "Thinking about our tools, ourselves. @UNCSILS prof + @NYTimes writer. Newsletter: https://t.co/klJwJ6vkB5 Book: https://t.co/RmMouki39B",
+				"url": "https://t.co/32zLRNuGBE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/32zLRNuGBE",
+								"expanded_url": "http://www.technosociology.org",
+								"display_url": "technosociology.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/klJwJ6vkB5",
+								"expanded_url": "https://tinyletter.com/zeynepnotes",
+								"display_url": "tinyletter.com/zeynepnotes",
+								"indices": [
+									82,
+									105
+								]
+							},
+							{
+								"url": "https://t.co/RmMouki39B",
+								"expanded_url": "https://www.twitterandteargas.org/",
+								"display_url": "twitterandteargas.org",
+								"indices": [
+									112,
+									135
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 299809,
+				"friends_count": 883,
+				"listed_count": 4810,
+				"created_at": "Thu Aug 13 14:32:22 +0000 2009",
+				"favourites_count": 24346,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 81976,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/472471958014021632/dUj8haPh.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/472471958014021632/dUj8haPh.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/852492056798916608/bydhBkye_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/852492056798916608/bydhBkye_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/65375759/1491228723",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 997772007075995600,
+			"quoted_status_id_str": "997772007075995648",
+			"retweet_count": 262,
+			"favorite_count": 441,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri May 18 23:01:27 +0000 2018",
 		"id": 997613165067292700,
 		"id_str": "997613165067292679",
