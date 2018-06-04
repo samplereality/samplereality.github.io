@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Mon Jun 04 03:46:49 +0000 2018",
+		"id": 1003483185676783600,
+		"id_str": "1003483185676783618",
+		"text": "RT @ProfJeffJarviss: Fantastic to see Microsoft is already innovating the GitHub UX: https://t.co/CkxZi5ez1H",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ProfJeffJarviss",
+					"name": "#JeSuisProjectMaven",
+					"id": 514613499,
+					"id_str": "514613499",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1003459716863971300,
+					"id_str": "1003459716863971329",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/De0BS8IXUAEL2Qv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/De0BS8IXUAEL2Qv.jpg",
+					"url": "https://t.co/CkxZi5ez1H",
+					"display_url": "pic.twitter.com/CkxZi5ez1H",
+					"expanded_url": "https://twitter.com/ProfJeffJarviss/status/1003459755267035138/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 312,
+							"h": 276,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 312,
+							"h": 276,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 312,
+							"h": 276,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1003459755267035100,
+					"source_status_id_str": "1003459755267035138",
+					"source_user_id": 514613499,
+					"source_user_id_str": "514613499"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1003459716863971300,
+					"id_str": "1003459716863971329",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/De0BS8IXUAEL2Qv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/De0BS8IXUAEL2Qv.jpg",
+					"url": "https://t.co/CkxZi5ez1H",
+					"display_url": "pic.twitter.com/CkxZi5ez1H",
+					"expanded_url": "https://twitter.com/ProfJeffJarviss/status/1003459755267035138/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 312,
+							"h": 276,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 312,
+							"h": 276,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 312,
+							"h": 276,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1003459755267035100,
+					"source_status_id_str": "1003459755267035138",
+					"source_user_id": 514613499,
+					"source_user_id_str": "514613499"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8451,
+			"friends_count": 1120,
+			"listed_count": 516,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40747,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 04 02:13:43 +0000 2018",
+			"id": 1003459755267035100,
+			"id_str": "1003459755267035138",
+			"text": "Fantastic to see Microsoft is already innovating the GitHub UX: https://t.co/CkxZi5ez1H",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1003459716863971300,
+						"id_str": "1003459716863971329",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/De0BS8IXUAEL2Qv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/De0BS8IXUAEL2Qv.jpg",
+						"url": "https://t.co/CkxZi5ez1H",
+						"display_url": "pic.twitter.com/CkxZi5ez1H",
+						"expanded_url": "https://twitter.com/ProfJeffJarviss/status/1003459755267035138/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 312,
+								"h": 276,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 312,
+								"h": 276,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 312,
+								"h": 276,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1003459716863971300,
+						"id_str": "1003459716863971329",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/De0BS8IXUAEL2Qv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/De0BS8IXUAEL2Qv.jpg",
+						"url": "https://t.co/CkxZi5ez1H",
+						"display_url": "pic.twitter.com/CkxZi5ez1H",
+						"expanded_url": "https://twitter.com/ProfJeffJarviss/status/1003459755267035138/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 312,
+								"h": 276,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 312,
+								"h": 276,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 312,
+								"h": 276,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 514613499,
+				"id_str": "514613499",
+				"name": "#JeSuisProjectMaven",
+				"screen_name": "ProfJeffJarviss",
+				"location": "NYC-MGQ-WWW",
+				"description": "Hyperglocal thinkfluencer and unthinker. Cofounder @ Mogadishu//ReinvENT unconference. CEO Mogadishu Capital Partners LLC. Not @DrJeffJarvis or @JeffJarvis",
+				"url": "https://t.co/dFGkJA8hqg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dFGkJA8hqg",
+								"expanded_url": "http://www.app.net",
+								"display_url": "app.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 22940,
+				"friends_count": 1084,
+				"listed_count": 930,
+				"created_at": "Sun Mar 04 18:25:13 +0000 2012",
+				"favourites_count": 35049,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 55604,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/883037883455680512/SNA5PtKb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/883037883455680512/SNA5PtKb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/514613499/1453922231",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 54,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jun 02 23:17:33 +0000 2018",
 		"id": 1003053034145009700,
 		"id_str": "1003053034145009669",
