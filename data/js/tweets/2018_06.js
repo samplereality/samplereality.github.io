@@ -1,6 +1,331 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Wed Jun 20 18:49:14 +0000 2018",
+		"id": 1009508491374071800,
+		"id_str": "1009508491374071808",
+		"text": "RT @ijbailey: Can someone explain how rational discussion and debate will ever move someone who believes things such as these? https://t.co…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ijbailey",
+					"name": "@ijbailey",
+					"id": 17905026,
+					"id_str": "17905026",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8484,
+			"friends_count": 1124,
+			"listed_count": 514,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40825,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jun 20 18:36:40 +0000 2018",
+			"id": 1009505327669219300,
+			"id_str": "1009505327669219328",
+			"text": "Can someone explain how rational discussion and debate will ever move someone who believes things such as these? https://t.co/6zjpFtl2Ri",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/6zjpFtl2Ri",
+						"expanded_url": "https://twitter.com/katierogers/status/1009489413188079616",
+						"display_url": "twitter.com/katierogers/st…",
+						"indices": [
+							113,
+							136
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17905026,
+				"id_str": "17905026",
+				"name": "@ijbailey",
+				"screen_name": "ijbailey",
+				"location": "Myrtle Beach, S.C.",
+				"description": "Harvard Nieman, interim member of Charlotte Observer ed board, former Davidson College Batten prof, https://t.co/7MKO8MrDhL, https://t.co/6G9ZLvWBWK contributor",
+				"url": "https://t.co/a2u1JE5kdY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/a2u1JE5kdY",
+								"expanded_url": "https://www.facebook.com/issac.bailey.3",
+								"display_url": "facebook.com/issac.bailey.3",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/7MKO8MrDhL",
+								"expanded_url": "http://CNN.com",
+								"display_url": "CNN.com",
+								"indices": [
+									100,
+									123
+								]
+							},
+							{
+								"url": "https://t.co/6G9ZLvWBWK",
+								"expanded_url": "http://Vice.com",
+								"display_url": "Vice.com",
+								"indices": [
+									125,
+									148
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3255,
+				"friends_count": 1512,
+				"listed_count": 99,
+				"created_at": "Fri Dec 05 19:13:28 +0000 2008",
+				"favourites_count": 14857,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 46712,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1864788423/Twitter_Issac_Bailey2008_sj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1864788423/Twitter_Issac_Bailey2008_sj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17905026/1470066703",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1009489413188079600,
+			"quoted_status_id_str": "1009489413188079616",
+			"quoted_status": {
+				"created_at": "Wed Jun 20 17:33:26 +0000 2018",
+				"id": 1009489413188079600,
+				"id_str": "1009489413188079616",
+				"text": "Common theme: A Trump supporter in Duluth, one of many waiting in a long line outside tonight’s rally location, jus… https://t.co/4ZfCIHGqnM",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/4ZfCIHGqnM",
+							"expanded_url": "https://twitter.com/i/web/status/1009489413188079616",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 14116915,
+					"id_str": "14116915",
+					"name": "Katie Rogers",
+					"screen_name": "katierogers",
+					"location": "Washington, DC // Hoosier born",
+					"description": "White House correspondent/features/magpie @nytimes. katie.rogers@nytimes.com",
+					"url": "https://t.co/yd3Azzvfsb",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/yd3Azzvfsb",
+									"expanded_url": "https://www.nytimes.com/by/katie-rogers",
+									"display_url": "nytimes.com/by/katie-rogers",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 27277,
+					"friends_count": 3998,
+					"listed_count": 1114,
+					"created_at": "Mon Mar 10 19:58:53 +0000 2008",
+					"favourites_count": 10202,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 138,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "ACDED6",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/1008403874842054659/n5Qg0uMA_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/1008403874842054659/n5Qg0uMA_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/14116915/1526846463",
+					"profile_link_color": "3B94D9",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "F6F6F6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 4194,
+				"favorite_count": 6590,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 4,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": true,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1009489413188079600,
+		"quoted_status_id_str": "1009489413188079616",
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jun 19 23:50:28 +0000 2018",
 		"id": 1009221911958650900,
 		"id_str": "1009221911958650880",
