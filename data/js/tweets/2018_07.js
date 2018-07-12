@@ -1,6 +1,961 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Wed Jul 11 19:25:57 +0000 2018",
+		"id": 1017127874388734000,
+		"id_str": "1017127874388733952",
+		"text": "@ReclaimHosting Wow, awesome! I was doing a manual installation but running into permissions problems.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ReclaimHosting",
+					"name": "Reclaim Hosting",
+					"id": 1602053274,
+					"id_str": "1602053274",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://twitter.com/fenicewindows\" rel=\"nofollow\">Fenice for Twitter - Windows 10</a>",
+		"in_reply_to_status_id": 1017091108743143400,
+		"in_reply_to_status_id_str": "1017091108743143424",
+		"in_reply_to_user_id": 1602053274,
+		"in_reply_to_user_id_str": "1602053274",
+		"in_reply_to_screen_name": "ReclaimHosting",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8520,
+			"friends_count": 1130,
+			"listed_count": 515,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40882,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jul 11 17:46:38 +0000 2018",
+		"id": 1017102881399427100,
+		"id_str": "1017102881399427072",
+		"text": "Watch @josephdelappe's GTA-driven self-playing data visualization of USA gun homicides: https://t.co/SALRbus0wt",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "josephdelappe",
+					"name": "Joseph DeLappe",
+					"id": 48511881,
+					"id_str": "48511881",
+					"indices": [
+						6,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SALRbus0wt",
+					"expanded_url": "https://www.twitch.tv/josephdelappe",
+					"display_url": "twitch.tv/josephdelappe",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8520,
+			"friends_count": 1130,
+			"listed_count": 515,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40882,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jul 11 12:43:38 +0000 2018",
+		"id": 1017026628428484600,
+		"id_str": "1017026628428484608",
+		"text": "@ReclaimHosting I'll give it a shot and let you know how it goes!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ReclaimHosting",
+					"name": "Reclaim Hosting",
+					"id": 1602053274,
+					"id_str": "1602053274",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": 1017023806085500900,
+		"in_reply_to_status_id_str": "1017023806085500928",
+		"in_reply_to_user_id": 1602053274,
+		"in_reply_to_user_id_str": "1602053274",
+		"in_reply_to_screen_name": "ReclaimHosting",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8520,
+			"friends_count": 1130,
+			"listed_count": 515,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40882,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jul 11 12:30:11 +0000 2018",
+		"id": 1017023242685513700,
+		"id_str": "1017023242685513728",
+		"text": "@ReclaimHosting Oooh, FreshRSS looks promising. I like the clean interface. Could FreshRSS be added to the cPanel I… https://t.co/Ajb3Rb6Eru",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ReclaimHosting",
+					"name": "Reclaim Hosting",
+					"id": 1602053274,
+					"id_str": "1602053274",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ajb3Rb6Eru",
+					"expanded_url": "https://twitter.com/i/web/status/1017023242685513728",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": 1017021167931199500,
+		"in_reply_to_status_id_str": "1017021167931199493",
+		"in_reply_to_user_id": 1602053274,
+		"in_reply_to_user_id_str": "1602053274",
+		"in_reply_to_screen_name": "ReclaimHosting",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8520,
+			"friends_count": 1130,
+			"listed_count": 515,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40882,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jul 11 12:18:18 +0000 2018",
+		"id": 1017020254906708000,
+		"id_str": "1017020254906707968",
+		"text": "@ReclaimHosting Is NewsBlur something that would install on a Reclaim server? Looks like perhaps too many moving pa… https://t.co/Fi15nya8pn",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ReclaimHosting",
+					"name": "Reclaim Hosting",
+					"id": 1602053274,
+					"id_str": "1602053274",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Fi15nya8pn",
+					"expanded_url": "https://twitter.com/i/web/status/1017020254906707968",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1602053274,
+		"in_reply_to_user_id_str": "1602053274",
+		"in_reply_to_screen_name": "ReclaimHosting",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8520,
+			"friends_count": 1130,
+			"listed_count": 515,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40882,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jul 11 12:01:29 +0000 2018",
+		"id": 1017016022849683500,
+		"id_str": "1017016022849683456",
+		"text": "I've decided I need to get back to an RSS reader. What's the best one to install on my own domain? I've got TinyRSS… https://t.co/etdnrCX54h",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/etdnrCX54h",
+					"expanded_url": "https://twitter.com/i/web/status/1017016022849683456",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8520,
+			"friends_count": 1130,
+			"listed_count": 515,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40882,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jul 11 11:43:12 +0000 2018",
+		"id": 1017011419659800600,
+		"id_str": "1017011419659800577",
+		"text": "RT @pronounced_ing: Once again: one way to think of privilege is who’s allowed to make mistakes. https://t.co/0BseJrOmRk",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pronounced_ing",
+					"name": "Celeste Ng",
+					"id": 956163518,
+					"id_str": "956163518",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0BseJrOmRk",
+					"expanded_url": "https://twitter.com/denverpost/status/1016716059074793472",
+					"display_url": "twitter.com/denverpost/sta…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8520,
+			"friends_count": 1130,
+			"listed_count": 515,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40882,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 10 16:19:41 +0000 2018",
+			"id": 1016718610654548000,
+			"id_str": "1016718610654547970",
+			"text": "Once again: one way to think of privilege is who’s allowed to make mistakes. https://t.co/0BseJrOmRk",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/0BseJrOmRk",
+						"expanded_url": "https://twitter.com/denverpost/status/1016716059074793472",
+						"display_url": "twitter.com/denverpost/sta…",
+						"indices": [
+							77,
+							100
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 956163518,
+				"id_str": "956163518",
+				"name": "Celeste Ng",
+				"screen_name": "pronounced_ing",
+				"location": "Cambridge, MA",
+				"description": "Fiction writer, science nerd; ex-Clevelander. Embarrassingly sincere. Novels: EVERYTHING I NEVER TOLD YOU; LITTLE FIRES EVERYWHERE.",
+				"url": "https://t.co/QuNa225TPq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QuNa225TPq",
+								"expanded_url": "http://celesteng.com",
+								"display_url": "celesteng.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 75778,
+				"friends_count": 1462,
+				"listed_count": 959,
+				"created_at": "Sun Nov 18 20:20:07 +0000 2012",
+				"favourites_count": 153959,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 82602,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/923235960346771456/PTfOYqpy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/923235960346771456/PTfOYqpy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/956163518/1493680052",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1016716059074793500,
+			"quoted_status_id_str": "1016716059074793472",
+			"quoted_status": {
+				"created_at": "Tue Jul 10 16:09:32 +0000 2018",
+				"id": 1016716059074793500,
+				"id_str": "1016716059074793472",
+				"text": "Dancing FBI agent who accidentally shot man in Denver bar allowed to carry his gun again, judge rules https://t.co/ErVVddOv76",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/ErVVddOv76",
+							"expanded_url": "https://dpo.st/2KO7hTG",
+							"display_url": "dpo.st/2KO7hTG",
+							"indices": [
+								102,
+								125
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 8216772,
+					"id_str": "8216772",
+					"name": "The Denver Post",
+					"screen_name": "denverpost",
+					"location": "Denver, CO",
+					"description": "Colorado's source for breaking news and information. Tweets by @Crawf33",
+					"url": "http://t.co/HvDYiwfHFX",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/HvDYiwfHFX",
+									"expanded_url": "http://www.denverpost.com/",
+									"display_url": "denverpost.com",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 430401,
+					"friends_count": 747,
+					"listed_count": 5871,
+					"created_at": "Thu Aug 16 04:20:09 +0000 2007",
+					"favourites_count": 3533,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 176032,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/1011025399201927168/K8RRaEBZ_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/1011025399201927168/K8RRaEBZ_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/8216772/1506881357",
+					"profile_link_color": "257DDB",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "003459",
+					"profile_text_color": "626262",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "regular"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 223,
+				"favorite_count": 189,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 7195,
+			"favorite_count": 23903,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1016716059074793500,
+		"quoted_status_id_str": "1016716059074793472",
+		"retweet_count": 7195,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jul 10 20:11:50 +0000 2018",
 		"id": 1016777034658394100,
 		"id_str": "1016777034658394114",
