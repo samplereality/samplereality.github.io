@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Sun Jul 15 16:38:02 +0000 2018",
+		"id": 1018535169937084400,
+		"id_str": "1018535169937084418",
+		"text": "RT @boring_as_heck: https://t.co/fcGgiAOfYh",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "boring_as_heck",
+					"name": "Stefan Heck",
+					"id": 119000092,
+					"id_str": "119000092",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1018534091514212400,
+					"id_str": "1018534091514212353",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/DiKPXBxUcAE6x7d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DiKPXBxUcAE6x7d.jpg",
+					"url": "https://t.co/fcGgiAOfYh",
+					"display_url": "pic.twitter.com/fcGgiAOfYh",
+					"expanded_url": "https://twitter.com/boring_as_heck/status/1018534489251704834/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 412,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1241,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 727,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1018534489251704800,
+					"source_status_id_str": "1018534489251704834",
+					"source_user_id": 119000092,
+					"source_user_id_str": "119000092"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1018534091514212400,
+					"id_str": "1018534091514212353",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/DiKPXBxUcAE6x7d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DiKPXBxUcAE6x7d.jpg",
+					"url": "https://t.co/fcGgiAOfYh",
+					"display_url": "pic.twitter.com/fcGgiAOfYh",
+					"expanded_url": "https://twitter.com/boring_as_heck/status/1018534489251704834/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 412,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1241,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 727,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1018534489251704800,
+					"source_status_id_str": "1018534489251704834",
+					"source_user_id": 119000092,
+					"source_user_id_str": "119000092"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
+			"url": "https://t.co/jzW78xdOk4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzW78xdOk4",
+							"expanded_url": "http://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8527,
+			"friends_count": 1129,
+			"listed_count": 514,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40893,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jul 15 16:35:20 +0000 2018",
+			"id": 1018534489251704800,
+			"id_str": "1018534489251704834",
+			"text": "https://t.co/fcGgiAOfYh",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1018534091514212400,
+						"id_str": "1018534091514212353",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DiKPXBxUcAE6x7d.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DiKPXBxUcAE6x7d.jpg",
+						"url": "https://t.co/fcGgiAOfYh",
+						"display_url": "pic.twitter.com/fcGgiAOfYh",
+						"expanded_url": "https://twitter.com/boring_as_heck/status/1018534489251704834/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 412,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1241,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 727,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1018534091514212400,
+						"id_str": "1018534091514212353",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DiKPXBxUcAE6x7d.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DiKPXBxUcAE6x7d.jpg",
+						"url": "https://t.co/fcGgiAOfYh",
+						"display_url": "pic.twitter.com/fcGgiAOfYh",
+						"expanded_url": "https://twitter.com/boring_as_heck/status/1018534489251704834/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 412,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1241,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 727,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 119000092,
+				"id_str": "119000092",
+				"name": "Stefan Heck",
+				"screen_name": "boring_as_heck",
+				"location": "",
+				"description": "1/3 of @GoOffKings and @RealGoodShow. McDonald's Grilled Chicken McWrap at 250 calories is both a dollar and pound bargain. Call me at (802) 359-7477.",
+				"url": "https://t.co/zSIFcJ68ig",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zSIFcJ68ig",
+								"expanded_url": "http://twitch.tv/gooffkings",
+								"display_url": "twitch.tv/gooffkings",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 102215,
+				"friends_count": 1588,
+				"listed_count": 1700,
+				"created_at": "Tue Mar 02 10:44:52 +0000 2010",
+				"favourites_count": 78807,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 13480,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/947954708366295040/J_iAUu5N_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/947954708366295040/J_iAUu5N_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/119000092/1516213387",
+				"profile_link_color": "0E8700",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "8D8E8F",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9646,
+			"favorite_count": 51523,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9646,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Sat Jul 14 21:06:04 +0000 2018",
 		"id": 1018240232586666000,
 		"id_str": "1018240232586665985",
