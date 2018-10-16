@@ -1,6 +1,696 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Tue Oct 16 01:46:02 +0000 2018",
+		"id": 1052012761918701600,
+		"id_str": "1052012761918701568",
+		"full_text": "@dkreisel My solution is pretty much to stop presenting at conferences!",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dkreisel",
+					"name": "Deanna Kreisel",
+					"id": 150309375,
+					"id_str": "150309375",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": 1052007337223905300,
+		"in_reply_to_status_id_str": "1052007337223905280",
+		"in_reply_to_user_id": 150309375,
+		"in_reply_to_user_id_str": "150309375",
+		"in_reply_to_screen_name": "dkreisel",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Foul Rag and Bone Shop of the Heart",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8701,
+			"friends_count": 1150,
+			"listed_count": 520,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1175,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41239,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@dkreisel My solution is pretty much to stop presenting at conferences!"
+	},
+	{
+		"created_at": "Mon Oct 15 17:27:17 +0000 2018",
+		"id": 1051887247505670100,
+		"id_str": "1051887247505670144",
+		"full_text": "October 26 at #davidsoncollege. All are welcome! https://t.co/tmYwc1IEiS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "davidsoncollege",
+					"indices": [
+						14,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1051887228870426600,
+					"id_str": "1051887228870426627",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/DpkN3IyXgAMZK2J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpkN3IyXgAMZK2J.jpg",
+					"url": "https://t.co/tmYwc1IEiS",
+					"display_url": "pic.twitter.com/tmYwc1IEiS",
+					"expanded_url": "https://twitter.com/RoseStremlau/status/1051887247505670144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1051887228870426600,
+					"id_str": "1051887228870426627",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/DpkN3IyXgAMZK2J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpkN3IyXgAMZK2J.jpg",
+					"url": "https://t.co/tmYwc1IEiS",
+					"display_url": "pic.twitter.com/tmYwc1IEiS",
+					"expanded_url": "https://twitter.com/RoseStremlau/status/1051887247505670144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1051887241663053800,
+					"id_str": "1051887241663053825",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/DpkN34cXgAELKsn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpkN34cXgAELKsn.jpg",
+					"url": "https://t.co/tmYwc1IEiS",
+					"display_url": "pic.twitter.com/tmYwc1IEiS",
+					"expanded_url": "https://twitter.com/RoseStremlau/status/1051887247505670144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2533969802,
+			"id_str": "2533969802",
+			"name": "Dr. Rose Stremlau",
+			"screen_name": "RoseStremlau",
+			"location": "Charlotte, NC",
+			"description": "Historian. Author. Professor. Great Pyr rescuer.",
+			"url": "https://t.co/aiFyz3XoqJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aiFyz3XoqJ",
+							"expanded_url": "http://www.historyandacookie.com",
+							"display_url": "historyandacookie.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 201,
+			"friends_count": 159,
+			"listed_count": 6,
+			"created_at": "Fri May 30 02:56:16 +0000 2014",
+			"favourites_count": 1418,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 242,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/874632839962046464/_l8CJHrK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/874632839962046464/_l8CJHrK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2533969802/1497633040",
+			"profile_link_color": "800000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "5b0b1baf24cf0a6a",
+			"url": "https://api.twitter.com/1.1/geo/id/5b0b1baf24cf0a6a.json",
+			"place_type": "city",
+			"name": "Tinley Park",
+			"full_name": "Tinley Park, IL",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-87.853527,
+							41.5278885
+						],
+						[
+							-87.742767,
+							41.5278885
+						],
+						[
+							-87.742767,
+							41.604053
+						],
+						[
+							-87.853527,
+							41.604053
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "October 26 at #davidsoncollege. All are welcome! https://t.co/tmYwc1IEiS"
+	},
+	{
+		"created_at": "Tue Oct 16 01:23:06 +0000 2018",
+		"id": 1052006988484399100,
+		"id_str": "1052006988484399104",
+		"full_text": "@dkreisel @Devo3000 @Ted_Underwood Hmmm, I don't recall this specific conversation. I remember being part of one a few years back about giving credit on syllabuses to other faculty who influenced you.",
+		"truncated": false,
+		"display_text_range": [
+			35,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dkreisel",
+					"name": "Deanna Kreisel",
+					"id": 150309375,
+					"id_str": "150309375",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "Devo3000",
+					"name": "Devin Griffiths",
+					"id": 76689980,
+					"id_str": "76689980",
+					"indices": [
+						10,
+						19
+					]
+				},
+				{
+					"screen_name": "Ted_Underwood",
+					"name": "Ted Underwood",
+					"id": 112610515,
+					"id_str": "112610515",
+					"indices": [
+						20,
+						34
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": 1051964409382199300,
+		"in_reply_to_status_id_str": "1051964409382199297",
+		"in_reply_to_user_id": 150309375,
+		"in_reply_to_user_id_str": "150309375",
+		"in_reply_to_screen_name": "dkreisel",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Foul Rag and Bone Shop of the Heart",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8701,
+			"friends_count": 1150,
+			"listed_count": 520,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1175,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41239,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@dkreisel @Devo3000 @Ted_Underwood Hmmm, I don't recall this specific conversation. I remember being part of one a few years back about giving credit on syllabuses to other faculty who influenced you."
+	},
+	{
+		"created_at": "Mon Oct 15 12:09:20 +0000 2018",
+		"id": 1051807233783332900,
+		"id_str": "1051807233783332864",
+		"full_text": "*From Memes to Infowars: How 75 Fascist Activists Were “Red-Pilled”* Note: White supremacists credit YouTube with being the single-most important media source in their radicalization. https://t.co/c2IpUDTasN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/c2IpUDTasN",
+					"expanded_url": "https://www.bellingcat.com/news/americas/2018/10/11/memes-infowars-75-fascist-activists-red-pill",
+					"display_url": "bellingcat.com/news/americas/…",
+					"indices": [
+						184,
+						207
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Foul Rag and Bone Shop of the Heart",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8701,
+			"friends_count": 1150,
+			"listed_count": 520,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1175,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41239,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "*From Memes to Infowars: How 75 Fascist Activists Were “Red-Pilled”* Note: White supremacists credit YouTube with being the single-most important media source in their radicalization. https://t.co/c2IpUDTasN"
+	},
+	{
+		"created_at": "Sat Oct 13 10:33:13 +0000 2018",
+		"id": 1051058268691411000,
+		"id_str": "1051058268691410944",
+		"full_text": "If strict photo voter ID is passed as a constitutional amendment this Nov, this will likely happen in NC too: Barriers For #Transgender Voters Ahead Of The 2018 Midterm Elections https://t.co/GR2f5L8EJw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Transgender",
+					"indices": [
+						123,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GR2f5L8EJw",
+					"expanded_url": "https://www.hivplusmag.com/news/2018/10/12/barriers-transgender-voters-ahead-2018-midterm-elections",
+					"display_url": "hivplusmag.com/news/2018/10/1…",
+					"indices": [
+						179,
+						202
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 711555216097681400,
+			"id_str": "711555216097681409",
+			"name": "Ames Simmons",
+			"screen_name": "ames_simmons",
+			"location": "Raleigh, NC",
+			"description": "Queer trans guy; Policy Director for Equality NC. Views expressed are my own; RTs are not an endorsement.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1030,
+			"friends_count": 902,
+			"listed_count": 26,
+			"created_at": "Sun Mar 20 14:09:18 +0000 2016",
+			"favourites_count": 5225,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10070,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/947471854775627783/wcnEK7OI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/947471854775627783/wcnEK7OI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/711555216097681409/1462017759",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If strict photo voter ID is passed as a constitutional amendment this Nov, this will likely happen in NC too: Barriers For #Transgender Voters Ahead Of The 2018 Midterm Elections https://t.co/GR2f5L8EJw"
+	},
+	{
 		"created_at": "Fri Oct 12 20:20:48 +0000 2018",
 		"id": 1050843750564532200,
 		"id_str": "1050843750564532227",
@@ -389,7 +1079,7 @@ Grailbird.data.tweets_2018_10 =
 			"created_at": "Fri Oct 12 13:15:18 +0000 2018",
 			"id": 1050736670654562300,
 			"id_str": "1050736670654562304",
-			"full_text": "I am there, I help, I came stretched atop of the load but forgot the charger in the office 🤦‍♂️both laptops dead. guess i'll go for a drive in a bit. #fml",
+			"full_text": "I am there, I help, I came stretched atop of the load but forgot the charger in the office 🤦♂️both laptops dead. guess i'll go for a drive in a bit. #fml",
 			"truncated": false,
 			"display_text_range": [
 				0,
