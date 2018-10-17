@@ -1,6 +1,349 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Tue Oct 16 20:12:47 +0000 2018",
+		"id": 1052291284713570300,
+		"id_str": "1052291284713570309",
+		"full_text": "@sanzarimafia @PDLComics 😂",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sanzarimafia",
+					"name": "sanzari ✨💫",
+					"id": 1925238068,
+					"id_str": "1925238068",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "PDLComics",
+					"name": "poorly drawn lines",
+					"id": 193570988,
+					"id_str": "193570988",
+					"indices": [
+						14,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+		"in_reply_to_status_id": 1052282534258724900,
+		"in_reply_to_status_id_str": "1052282534258724865",
+		"in_reply_to_user_id": 1925238068,
+		"in_reply_to_user_id_str": "1925238068",
+		"in_reply_to_screen_name": "sanzarimafia",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Foul Rag and Bone Shop of the Heart",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8701,
+			"friends_count": 1150,
+			"listed_count": 520,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1175,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41241,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@sanzarimafia @PDLComics 😂"
+	},
+	{
+		"created_at": "Tue Oct 16 16:50:42 +0000 2018",
+		"id": 1052240426701348900,
+		"id_str": "1052240426701348865",
+		"full_text": "Truly, @subQmag is one of the greatest things to happen to interactive digital fiction this decade. https://t.co/sTecLv7d9d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "subQmag",
+					"name": "sub-Q Magazine",
+					"id": 2825601972,
+					"id_str": "2825601972",
+					"indices": [
+						7,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sTecLv7d9d",
+					"expanded_url": "https://twitter.com/proseninja/status/1051544850162753536",
+					"display_url": "twitter.com/proseninja/sta…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Foul Rag and Bone Shop of the Heart",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8701,
+			"friends_count": 1150,
+			"listed_count": 520,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1175,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41241,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1051544850162753500,
+		"quoted_status_id_str": "1051544850162753536",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sTecLv7d9d",
+			"expanded": "https://twitter.com/proseninja/status/1051544850162753536",
+			"display": "twitter.com/proseninja/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Oct 14 18:46:43 +0000 2018",
+			"id": 1051544850162753500,
+			"id_str": "1051544850162753536",
+			"full_text": "Attention Authors and Story devs! @subQmag is open for submissions for 2019!\n\nWe are an interactive fiction market that pays PRO rates.\n\nWe love receiving work from creators from traditionally underrepresented communities. \n\nhttps://t.co/AZ54WJgFye\n\nRTs appreciated.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				266
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "subQmag",
+						"name": "sub-Q Magazine",
+						"id": 2825601972,
+						"id_str": "2825601972",
+						"indices": [
+							34,
+							42
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/AZ54WJgFye",
+						"expanded_url": "https://sub-q.com/about/submissions/",
+						"display_url": "sub-q.com/about/submissi…",
+						"indices": [
+							225,
+							248
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3087252455,
+				"id_str": "3087252455",
+				"name": "PJ Anthony",
+				"screen_name": "proseninja",
+				"location": "Limbo. Pandemonium. The Abyss.",
+				"description": "Minion at @subQmag #amwriting #amediting",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 594,
+				"friends_count": 510,
+				"listed_count": 34,
+				"created_at": "Wed Mar 11 16:59:57 +0000 2015",
+				"favourites_count": 448,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1101,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/947901477619564544/TVQW2EjN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/947901477619564544/TVQW2EjN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3087252455/1513475826",
+				"profile_link_color": "800000",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 49,
+			"favorite_count": 38,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Truly, @subQmag is one of the greatest things to happen to interactive digital fiction this decade. https://t.co/sTecLv7d9d"
+	},
+	{
 		"created_at": "Tue Oct 16 01:46:02 +0000 2018",
 		"id": 1052012761918701600,
 		"id_str": "1052012761918701568",
