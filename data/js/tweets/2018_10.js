@@ -1,6 +1,306 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Sat Oct 20 11:43:29 +0000 2018",
+		"id": 1053612667989057500,
+		"id_str": "1053612667989057536",
+		"full_text": "Fact-checked and true: https://t.co/UZoNi6M5xZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UZoNi6M5xZ",
+					"expanded_url": "https://twitter.com/KBAndersen/status/1053393365369348097",
+					"display_url": "twitter.com/KBAndersen/sta…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Foul Rag and Bone Shop of the Heart",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8709,
+			"friends_count": 1151,
+			"listed_count": 521,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1176,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41252,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1053393365369348100,
+		"quoted_status_id_str": "1053393365369348097",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UZoNi6M5xZ",
+			"expanded": "https://twitter.com/KBAndersen/status/1053393365369348097",
+			"display": "twitter.com/KBAndersen/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 19 21:12:04 +0000 2018",
+			"id": 1053393365369348100,
+			"id_str": "1053393365369348097",
+			"full_text": "30 years ago, Spy magazine sent “refund” checks for $1.11 to 58 rich people. The 26 who cashed those got a another check, for $.64. The 13 who cashed those each got a check for $.13. Two people cashed the $.13 checks—Donald Trump and Jamal Khashoggi’s arms-dealer uncle Annan.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16855888,
+				"id_str": "16855888",
+				"name": "Kurt Andersen",
+				"screen_name": "KBAndersen",
+				"location": "New York City",
+				"description": "Fantasyland: How America Went Haywire. Novels: You Can’t Spell America Without Me, True Believers, Heyday, Turn of the Century. Co-created @Studio360show & Spy.",
+				"url": "https://t.co/6sZSOA3iO9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6sZSOA3iO9",
+								"expanded_url": "http://www.kurtandersen.com",
+								"display_url": "kurtandersen.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 61261,
+				"friends_count": 849,
+				"listed_count": 1665,
+				"created_at": "Sun Oct 19 20:57:50 +0000 2008",
+				"favourites_count": 16239,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 18249,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/972874044080054274/ss2LkiDI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/972874044080054274/ss2LkiDI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16855888/1478356576",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3666,
+			"favorite_count": 8473,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fact-checked and true: https://t.co/UZoNi6M5xZ"
+	},
+	{
+		"created_at": "Fri Oct 19 00:02:32 +0000 2018",
+		"id": 1053073879823016000,
+		"id_str": "1053073879823015936",
+		"full_text": "In honor of National Bullying Prevention Month, please help drive web traffic to this piece I wrote advocating for stronger cyberbullying laws for the benefit of kids and society. https://t.co/TkeSpmkc48",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TkeSpmkc48",
+					"expanded_url": "https://scholarship.law.duke.edu/cgi/viewcontent.cgi?article=1163&context=djclpp_sidebar",
+					"display_url": "scholarship.law.duke.edu/cgi/viewconten…",
+					"indices": [
+						180,
+						203
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 234121500,
+			"id_str": "234121500",
+			"name": "Nick 🎃👻🧛🏻‍♂️🧟‍♀️🧙🏽‍♂️🕸🍂🍫🏈🏀⚰️",
+			"screen_name": "_NickMcGuire",
+			"location": "North Carolina",
+			"description": "Opinions are likely not my own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 398,
+			"friends_count": 340,
+			"listed_count": 3,
+			"created_at": "Tue Jan 04 22:14:42 +0000 2011",
+			"favourites_count": 8184,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 697,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937125941243011073/oyMkynq1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937125941243011073/oyMkynq1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/234121500/1512263211",
+			"profile_link_color": "0E0E0E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In honor of National Bullying Prevention Month, please help drive web traffic to this piece I wrote advocating for stronger cyberbullying laws for the benefit of kids and society. https://t.co/TkeSpmkc48"
+	},
+	{
 		"created_at": "Sat Oct 20 03:17:42 +0000 2018",
 		"id": 1053485380257939500,
 		"id_str": "1053485380257939456",
