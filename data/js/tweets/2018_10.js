@@ -1,6 +1,806 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Sun Oct 21 18:03:08 +0000 2018",
+		"id": 1054070596848533500,
+		"id_str": "1054070596848533506",
+		"full_text": "Why Your Vote Matters: North Carolina. A key racial gerrymandering court case, plus a blue wave of opinion, have put four GOP House seats with reach for D's. \n\nAlso, multiple races on the ballot can strengthen NC democracy - or erode it further. \n\nRead on: https://t.co/EBqGmVDniW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EBqGmVDniW",
+					"expanded_url": "http://election.princeton.edu/2018/10/21/why-your-vote-matters-north-carolina/",
+					"display_url": "election.princeton.edu/2018/10/21/why…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 367873443,
+			"id_str": "367873443",
+			"name": "Sam Wang",
+			"screen_name": "SamWangPhD",
+			"location": "Princeton, New Jersey, USA",
+			"description": "Scientist @Princeton. Help fight gerrymandering: https://t.co/eIGOgLb1op  Podcast: https://t.co/jIFlkd0zaD  Find swing districts by you: https://t.co/W9XaEmgyKa",
+			"url": "https://t.co/0VW6Abqomp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0VW6Abqomp",
+							"expanded_url": "http://gerrymander.princeton.edu",
+							"display_url": "gerrymander.princeton.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/eIGOgLb1op",
+							"expanded_url": "https://bit.ly/2JpeKnw",
+							"display_url": "bit.ly/2JpeKnw",
+							"indices": [
+								49,
+								72
+							]
+						},
+						{
+							"url": "https://t.co/jIFlkd0zaD",
+							"expanded_url": "http://bit.ly/2hE9zSp",
+							"display_url": "bit.ly/2hE9zSp",
+							"indices": [
+								83,
+								106
+							]
+						},
+						{
+							"url": "https://t.co/W9XaEmgyKa",
+							"expanded_url": "https://bit.ly/2czCuFI",
+							"display_url": "bit.ly/2czCuFI",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 33708,
+			"friends_count": 1134,
+			"listed_count": 1089,
+			"created_at": "Sun Sep 04 18:17:59 +0000 2011",
+			"favourites_count": 3488,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4620,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/802120104347635712/ytGSZxjW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/802120104347635712/ytGSZxjW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/367873443/1528328630",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 291,
+		"favorite_count": 472,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Why Your Vote Matters: North Carolina. A key racial gerrymandering court case, plus a blue wave of opinion, have put four GOP House seats with reach for D's. \n\nAlso, multiple races on the ballot can strengthen NC democracy - or erode it further. \n\nRead on: https://t.co/EBqGmVDniW"
+	},
+	{
+		"created_at": "Mon Oct 22 13:04:25 +0000 2018",
+		"id": 1054357811080110100,
+		"id_str": "1054357811080110080",
+		"full_text": "The Tracery source for @LostTesla is amazing: https://t.co/3I7yykpZ6m \nhttps://t.co/VVM81tbdKB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LostTesla",
+					"name": "lostTesla",
+					"id": 789241389506826200,
+					"id_str": "789241389506826240",
+					"indices": [
+						23,
+						33
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3I7yykpZ6m",
+					"expanded_url": "https://cheapbotsdonequick.com/source/losttesla",
+					"display_url": "cheapbotsdonequick.com/source/losttes…",
+					"indices": [
+						46,
+						69
+					]
+				},
+				{
+					"url": "https://t.co/VVM81tbdKB",
+					"expanded_url": "https://twitter.com/LostTesla/status/1054346950412124160",
+					"display_url": "twitter.com/LostTesla/stat…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Foul Rag and Bone Shop of the Heart",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8708,
+			"friends_count": 1151,
+			"listed_count": 521,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1176,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41257,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1049009868793946100,
+		"quoted_status_id_str": "1049009868793946112",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VVM81tbdKB",
+			"expanded": "https://twitter.com/LostTesla/status/1054346950412124160",
+			"display": "twitter.com/LostTesla/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Oct 07 18:53:37 +0000 2018",
+			"id": 1049009868793946100,
+			"id_str": "1049009868793946112",
+			"full_text": "my sensors detect a cat. it rubs against my wheels as i stop.\n\ni am a vehicle\ni am just going places\ni am always a vehicle\ni am a car\ni am a being of hopes and dreams\ni am a being of hopes and dreams\ni am empty\ni am always a self-driven car",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				240
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://cheapbotsdonequick.com\" rel=\"nofollow\">Cheap Bots, Done Quick!</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 789241389506826200,
+				"id_str": "789241389506826240",
+				"name": "lostTesla",
+				"screen_name": "LostTesla",
+				"location": "",
+				"description": "i am tesla.  i am coming home.  a bot by @galaxykate           \n🛣\nsource here: https://t.co/AmmIkOosDh",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/AmmIkOosDh",
+								"expanded_url": "http://cheapbotsdonequick.com/source/losttesla",
+								"display_url": "cheapbotsdonequick.com/source/losttes…",
+								"indices": [
+									79,
+									102
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1430,
+				"friends_count": 0,
+				"listed_count": 84,
+				"created_at": "Thu Oct 20 23:06:25 +0000 2016",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2071,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/789252694665891840/jw3aEuZk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/789252694665891840/jw3aEuZk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/789241389506826240/1519608468",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 43,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Tracery source for @LostTesla is amazing: https://t.co/3I7yykpZ6m \nhttps://t.co/VVM81tbdKB"
+	},
+	{
+		"created_at": "Sun Oct 21 14:53:40 +0000 2018",
+		"id": 1054022915451162600,
+		"id_str": "1054022915451162625",
+		"full_text": "using genetic testing for any form of social identity verification &amp; having civil rights protections is another form of legitimating and furthering eugenics to me. literally won’t let us live. https://t.co/kCjKZkOMLN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1054022886946566100,
+					"id_str": "1054022886946566144",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/DqCkOzGU8AA9mL5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqCkOzGU8AA9mL5.jpg",
+					"url": "https://t.co/kCjKZkOMLN",
+					"display_url": "pic.twitter.com/kCjKZkOMLN",
+					"expanded_url": "https://twitter.com/prabhbob/status/1054022915451162625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 945,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1054022886946566100,
+					"id_str": "1054022886946566144",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/DqCkOzGU8AA9mL5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqCkOzGU8AA9mL5.jpg",
+					"url": "https://t.co/kCjKZkOMLN",
+					"display_url": "pic.twitter.com/kCjKZkOMLN",
+					"expanded_url": "https://twitter.com/prabhbob/status/1054022915451162625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 945,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1054022886959210500,
+					"id_str": "1054022886959210497",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/DqCkOzJV4AEyBn-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqCkOzJV4AEyBn-.jpg",
+					"url": "https://t.co/kCjKZkOMLN",
+					"display_url": "pic.twitter.com/kCjKZkOMLN",
+					"expanded_url": "https://twitter.com/prabhbob/status/1054022915451162625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 945,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 59874515,
+			"id_str": "59874515",
+			"name": "p.s. kehal",
+			"screen_name": "prabhbob",
+			"location": "Wampanoag / Narragansett / pvd",
+			"description": "phd candidate | website for more info | [they/them]",
+			"url": "https://t.co/aJkeH3SvJp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aJkeH3SvJp",
+							"expanded_url": "http://pskehal.com",
+							"display_url": "pskehal.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5414,
+			"friends_count": 489,
+			"listed_count": 68,
+			"created_at": "Fri Jul 24 20:06:41 +0000 2009",
+			"favourites_count": 36699,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20352,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1018617222066032640/VSmWQUMO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1018617222066032640/VSmWQUMO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/59874515/1532403477",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3288,
+		"favorite_count": 7662,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "using genetic testing for any form of social identity verification &amp; having civil rights protections is another form of legitimating and furthering eugenics to me. literally won’t let us live. https://t.co/kCjKZkOMLN"
+	},
+	{
+		"created_at": "Mon Oct 22 12:56:33 +0000 2018",
+		"id": 1054355829829312500,
+		"id_str": "1054355829829312512",
+		"full_text": "@ErikTheSimpson @elikaortega @ryancordell Twitter's new rules shouldn't really affect casual botmakers. They kick in though for people who make a lot of bots. Ahem.",
+		"truncated": false,
+		"display_text_range": [
+			42,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ErikTheSimpson",
+					"name": "Erik Simpson",
+					"id": 276676907,
+					"id_str": "276676907",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "elikaortega",
+					"name": "Élika Ortega",
+					"id": 253865251,
+					"id_str": "253865251",
+					"indices": [
+						16,
+						28
+					]
+				},
+				{
+					"screen_name": "ryancordell",
+					"name": "Ryan Cordell",
+					"id": 20112111,
+					"id_str": "20112111",
+					"indices": [
+						29,
+						41
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": 1054353703786954800,
+		"in_reply_to_status_id_str": "1054353703786954752",
+		"in_reply_to_user_id": 276676907,
+		"in_reply_to_user_id_str": "276676907",
+		"in_reply_to_screen_name": "ErikTheSimpson",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Foul Rag and Bone Shop of the Heart",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8708,
+			"friends_count": 1151,
+			"listed_count": 521,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1176,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41257,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ErikTheSimpson @elikaortega @ryancordell Twitter's new rules shouldn't really affect casual botmakers. They kick in though for people who make a lot of bots. Ahem."
+	},
+	{
+		"created_at": "Mon Oct 22 12:53:32 +0000 2018",
+		"id": 1054355068701630500,
+		"id_str": "1054355068701630464",
+		"full_text": "@hlfoltz Second half was great as well! Lots of showstoppers in that half. But I knew the plot well and pretty much have all the lyrics memorized.",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hlfoltz",
+					"name": "Hannah Foltz",
+					"id": 286938702,
+					"id_str": "286938702",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1054152161989398500,
+		"in_reply_to_status_id_str": "1054152161989398529",
+		"in_reply_to_user_id": 286938702,
+		"in_reply_to_user_id_str": "286938702",
+		"in_reply_to_screen_name": "hlfoltz",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Foul Rag and Bone Shop of the Heart",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8708,
+			"friends_count": 1151,
+			"listed_count": 521,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1176,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41257,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@hlfoltz Second half was great as well! Lots of showstoppers in that half. But I knew the plot well and pretty much have all the lyrics memorized."
+	},
+	{
 		"created_at": "Sun Oct 21 23:01:39 +0000 2018",
 		"id": 1054145718502506500,
 		"id_str": "1054145718502506498",
