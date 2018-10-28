@@ -4,8 +4,12 @@ Grailbird.data.tweets_2018_04 =
 		"created_at": "Mon Apr 30 21:09:09 +0000 2018",
 		"id": 991061921754382300,
 		"id_str": "991061921754382338",
-		"text": "@Clipart1994bot RED STAPLER MOFOS",
+		"full_text": "@Clipart1994bot RED STAPLER MOFOS",
 		"truncated": false,
+		"display_text_range": [
+			16,
+			33
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -23,7 +27,7 @@ Grailbird.data.tweets_2018_04 =
 			],
 			"urls": []
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
 		"in_reply_to_status_id": 991032208193355800,
 		"in_reply_to_status_id_str": "991032208193355776",
 		"in_reply_to_user_id": 895426242345873400,
@@ -32,17 +36,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -56,23 +60,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8399,
-			"friends_count": 1112,
-			"listed_count": 514,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40636,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -99,14 +103,19 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "sv"
+		"lang": "sv",
+		"text": "@Clipart1994bot RED STAPLER MOFOS"
 	},
 	{
 		"created_at": "Sun Apr 29 23:51:21 +0000 2018",
 		"id": 990740350263353300,
 		"id_str": "990740350263353344",
-		"text": "Riding home on a #BlueWave? https://t.co/gkLnoV8K5M",
+		"full_text": "Riding home on a #BlueWave? https://t.co/gkLnoV8K5M",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -131,7 +140,7 @@ Grailbird.data.tweets_2018_04 =
 				}
 			]
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
@@ -140,17 +149,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -164,23 +173,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8403,
-			"friends_count": 1112,
-			"listed_count": 514,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40633,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -205,12 +214,21 @@ Grailbird.data.tweets_2018_04 =
 		"is_quote_status": true,
 		"quoted_status_id": 990725173530775600,
 		"quoted_status_id_str": "990725173530775552",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gkLnoV8K5M",
+			"expanded": "https://twitter.com/MobyDickatSea/status/990725173530775552",
+			"display": "twitter.com/MobyDickatSea/…"
+		},
 		"quoted_status": {
 			"created_at": "Sun Apr 29 22:51:02 +0000 2018",
 			"id": 990725173530775600,
 			"id_str": "990725173530775552",
-			"text": "The gale that now hammers at us to stave us, we can turn it into a fair wind that will drive us towards home.",
+			"full_text": "The gale that now hammers at us to stave us, we can turn it into a fair wind that will drive us towards home.",
 			"truncated": false,
+			"display_text_range": [
+				0,
+				109
+			],
 			"entities": {
 				"hashtags": [],
 				"symbols": [],
@@ -237,16 +255,16 @@ Grailbird.data.tweets_2018_04 =
 					}
 				},
 				"protected": false,
-				"followers_count": 36627,
+				"followers_count": 42568,
 				"friends_count": 1,
-				"listed_count": 480,
+				"listed_count": 554,
 				"created_at": "Tue Jun 04 17:23:46 +0000 2013",
 				"favourites_count": 1,
-				"utc_offset": -25200,
-				"time_zone": "Pacific Time (US & Canada)",
+				"utc_offset": null,
+				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 15083,
+				"statuses_count": 16937,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -276,8 +294,8 @@ Grailbird.data.tweets_2018_04 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 63,
-			"favorite_count": 113,
+			"retweet_count": 74,
+			"favorite_count": 128,
 			"favorited": false,
 			"retweeted": false,
 			"lang": "en"
@@ -287,202 +305,19 @@ Grailbird.data.tweets_2018_04 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
-	},
-	{
-		"created_at": "Sat Apr 28 02:48:17 +0000 2018",
-		"id": 990060101762535400,
-		"id_str": "990060101762535424",
-		"text": "RT @CalMorgan: 📚📚📚📚📚📚📚📚📚📚📚📚📚HEY 📚Y’ALL📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚 📚📚📚📚📚📚TOMORROW📚📚IS📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚INDEPENDENT📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚BOOKSTORE📚📚DAY📚 📚📚📚📚…",
-		"truncated": false,
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "CalMorgan",
-					"name": "Calvert Morgan",
-					"id": 19939261,
-					"id_str": "19939261",
-					"indices": [
-						3,
-						13
-					]
-				}
-			],
-			"urls": []
-		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 8497292,
-			"id_str": "8497292",
-			"name": "Mark Sample",
-			"screen_name": "samplereality",
-			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
-							"display_url": "samplereality.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 8399,
-			"friends_count": 1113,
-			"listed_count": 514,
-			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 40632,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
-			"profile_link_color": "236299",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "A0C5C7",
-			"profile_text_color": "333333",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Sat Apr 28 00:26:59 +0000 2018",
-			"id": 990024543950557200,
-			"id_str": "990024543950557186",
-			"text": "📚📚📚📚📚📚📚📚📚📚📚📚📚HEY 📚Y’ALL📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚 📚📚📚📚📚📚TOMORROW📚📚IS📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚INDEPENDENT📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚BOOKSTORE📚📚… https://t.co/pGwjWhrjC1",
-			"truncated": true,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [
-					{
-						"url": "https://t.co/pGwjWhrjC1",
-						"expanded_url": "https://twitter.com/i/web/status/990024543950557186",
-						"display_url": "twitter.com/i/web/status/9…",
-						"indices": [
-							117,
-							140
-						]
-					}
-				]
-			},
-			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 19939261,
-				"id_str": "19939261",
-				"name": "Calvert Morgan",
-				"screen_name": "CalMorgan",
-				"location": "New York",
-				"description": "Executive Editor, Riverhead Books🔸Publishing literary fiction and quality nonfiction on cultural subjects",
-				"url": null,
-				"entities": {
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 13371,
-				"friends_count": 8690,
-				"listed_count": 391,
-				"created_at": "Mon Feb 02 22:48:59 +0000 2009",
-				"favourites_count": 78819,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": true,
-				"verified": false,
-				"statuses_count": 48071,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "C0DEED",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/885481361779412992/168abINM_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/885481361779412992/168abINM_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19939261/1523011890",
-				"profile_link_color": "1DA1F2",
-				"profile_sidebar_border_color": "C0DEED",
-				"profile_sidebar_fill_color": "DDEEF6",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": true,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 347,
-			"favorite_count": 904,
-			"favorited": false,
-			"retweeted": true,
-			"lang": "en"
-		},
-		"is_quote_status": false,
-		"retweet_count": 347,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": true,
-		"lang": "en"
+		"lang": "en",
+		"text": "Riding home on a #BlueWave? https://t.co/gkLnoV8K5M"
 	},
 	{
 		"created_at": "Fri Apr 27 15:36:15 +0000 2018",
 		"id": 989890980550672400,
 		"id_str": "989890980550672384",
-		"text": "@whitneytrettien He’s part of the Koch-funded Mercator Center at GMU. And also the guy who suggested a “market” whe… https://t.co/YjeFGFoLxp",
-		"truncated": true,
+		"full_text": "@whitneytrettien He’s part of the Koch-funded Mercator Center at GMU. And also the guy who suggested a “market” where people bet on where the next terrorist attack would take place.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			181
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -498,19 +333,9 @@ Grailbird.data.tweets_2018_04 =
 					]
 				}
 			],
-			"urls": [
-				{
-					"url": "https://t.co/YjeFGFoLxp",
-					"expanded_url": "https://twitter.com/i/web/status/989890980550672384",
-					"display_url": "twitter.com/i/web/status/9…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
 		"in_reply_to_status_id": 989889582408777700,
 		"in_reply_to_status_id_str": "989889582408777728",
 		"in_reply_to_user_id": 91844423,
@@ -519,17 +344,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -543,23 +368,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8399,
-			"friends_count": 1113,
-			"listed_count": 514,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40632,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -586,52 +411,56 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 4,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@whitneytrettien He’s part of the Koch-funded Mercator Center at GMU. And also the guy who suggested a “market” where people bet on where the next terrorist attack would take place."
 	},
 	{
-		"created_at": "Fri Apr 27 14:09:31 +0000 2018",
-		"id": 989869154067984400,
-		"id_str": "989869154067984384",
-		"text": "RT @BigHPrivateEye: a lot of people don't know this but while Obama was in office he started the \"my brothers keeper\" program which was a m…",
+		"created_at": "Wed Apr 25 22:48:18 +0000 2018",
+		"id": 989274934361886700,
+		"id_str": "989274934361886721",
+		"full_text": "a lot of people don't know this but while Obama was in office he started the \"my brothers keeper\" program which was a mentorship program for at risk youth in urban areas like Chicago. my sister worked for it and it was the presidents pet project. Donald ended it his first day https://t.co/AdyIyT92zn",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
+			"user_mentions": [],
+			"urls": [
 				{
-					"screen_name": "BigHPrivateEye",
-					"name": "FIONA",
-					"id": 18639516,
-					"id_str": "18639516",
+					"url": "https://t.co/AdyIyT92zn",
+					"expanded_url": "https://twitter.com/kanyewest/status/989272340432240641",
+					"display_url": "twitter.com/kanyewest/stat…",
 					"indices": [
-						3,
-						18
+						277,
+						300
 					]
 				}
-			],
-			"urls": []
+			]
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 8497292,
-			"id_str": "8497292",
-			"name": "Mark Sample",
-			"screen_name": "samplereality",
-			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"id": 18639516,
+			"id_str": "18639516",
+			"name": "Harry! Harri! Harré!",
+			"screen_name": "BigHPrivateEye",
+			"location": "Orlando, FL",
+			"description": "TYS Co-Founder/selekta/#YNWA  politesocietyproductions@gmail.com",
+			"url": "https://t.co/Jjy8bqpKiY",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
-							"display_url": "samplereality.com",
+							"url": "https://t.co/Jjy8bqpKiY",
+							"expanded_url": "http://www.soundcloud.com/blacklizlemon",
+							"display_url": "soundcloud.com/blacklizlemon",
 							"indices": [
 								0,
 								23
@@ -644,32 +473,32 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8399,
-			"friends_count": 1113,
-			"listed_count": 514,
-			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"followers_count": 12216,
+			"friends_count": 2911,
+			"listed_count": 191,
+			"created_at": "Mon Jan 05 18:20:17 +0000 2009",
+			"favourites_count": 2085,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40632,
+			"statuses_count": 108201,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
-			"profile_link_color": "236299",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "A0C5C7",
-			"profile_text_color": "333333",
-			"profile_use_background_image": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/990272611149012993/jRHWgEwW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/990272611149012993/jRHWgEwW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18639516/1471727721",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "8A081C",
+			"profile_use_background_image": true,
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
@@ -682,75 +511,90 @@ Grailbird.data.tweets_2018_04 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Wed Apr 25 22:48:18 +0000 2018",
-			"id": 989274934361886700,
-			"id_str": "989274934361886721",
-			"text": "a lot of people don't know this but while Obama was in office he started the \"my brothers keeper\" program which was… https://t.co/DkOSZGQbK4",
-			"truncated": true,
+		"is_quote_status": true,
+		"quoted_status_id": 989272340432240600,
+		"quoted_status_id_str": "989272340432240641",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AdyIyT92zn",
+			"expanded": "https://twitter.com/kanyewest/status/989272340432240641",
+			"display": "twitter.com/kanyewest/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 25 22:38:00 +0000 2018",
+			"id": 989272340432240600,
+			"id_str": "989272340432240641",
+			"full_text": "Obama was in office for eight years and nothing in Chicago changed.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				67
+			],
 			"entities": {
 				"hashtags": [],
 				"symbols": [],
 				"user_mentions": [],
-				"urls": [
-					{
-						"url": "https://t.co/DkOSZGQbK4",
-						"expanded_url": "https://twitter.com/i/web/status/989274934361886721",
-						"display_url": "twitter.com/i/web/status/9…",
-						"indices": [
-							117,
-							140
-						]
-					}
-				]
+				"urls": []
 			},
-			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
 			"in_reply_to_status_id": null,
 			"in_reply_to_status_id_str": null,
 			"in_reply_to_user_id": null,
 			"in_reply_to_user_id_str": null,
 			"in_reply_to_screen_name": null,
 			"user": {
-				"id": 18639516,
-				"id_str": "18639516",
-				"name": "FIONA",
-				"screen_name": "BigHPrivateEye",
-				"location": "Orlando, FL",
-				"description": "this nigga eatin beans\n\npolitesocietyproductions@gmail.com",
-				"url": null,
+				"id": 169686021,
+				"id_str": "169686021",
+				"name": "ye",
+				"screen_name": "kanyewest",
+				"location": "",
+				"description": "",
+				"url": "https://t.co/R6cANtszQ0",
 				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/R6cANtszQ0",
+								"expanded_url": "http://KANYEWEST.COM",
+								"display_url": "KANYEWEST.COM",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
 					"description": {
 						"urls": []
 					}
 				},
 				"protected": false,
-				"followers_count": 20578,
-				"friends_count": 2830,
-				"listed_count": 201,
-				"created_at": "Mon Jan 05 18:20:17 +0000 2009",
-				"favourites_count": 990,
-				"utc_offset": -14400,
-				"time_zone": "Eastern Time (US & Canada)",
-				"geo_enabled": true,
-				"verified": false,
-				"statuses_count": 94238,
+				"followers_count": 28680241,
+				"friends_count": 36,
+				"listed_count": 49699,
+				"created_at": "Thu Jul 22 23:00:05 +0000 2010",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 667,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
 				"is_translation_enabled": false,
-				"profile_background_color": "000000",
-				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/458390200419250176/sbwrkHP0.jpeg",
-				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/458390200419250176/sbwrkHP0.jpeg",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/989998954321465345/qXsQspd6_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/989998954321465345/qXsQspd6_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18639516/1471727721",
-				"profile_link_color": "ABB8C2",
-				"profile_sidebar_border_color": "000000",
-				"profile_sidebar_fill_color": "000000",
-				"profile_text_color": "8A081C",
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1048222727838945281/FBdbacyQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
 				"profile_use_background_image": true,
-				"has_extended_profile": true,
+				"has_extended_profile": false,
 				"default_profile": false,
 				"default_profile_image": false,
 				"following": false,
@@ -762,121 +606,31 @@ Grailbird.data.tweets_2018_04 =
 			"coordinates": null,
 			"place": null,
 			"contributors": null,
-			"is_quote_status": true,
-			"quoted_status_id": 989272340432240600,
-			"quoted_status_id_str": "989272340432240641",
-			"quoted_status": {
-				"created_at": "Wed Apr 25 22:38:00 +0000 2018",
-				"id": 989272340432240600,
-				"id_str": "989272340432240641",
-				"text": "Obama was in office for eight years and nothing in Chicago changed.",
-				"truncated": false,
-				"entities": {
-					"hashtags": [],
-					"symbols": [],
-					"user_mentions": [],
-					"urls": []
-				},
-				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-				"in_reply_to_status_id": null,
-				"in_reply_to_status_id_str": null,
-				"in_reply_to_user_id": null,
-				"in_reply_to_user_id_str": null,
-				"in_reply_to_screen_name": null,
-				"user": {
-					"id": 169686021,
-					"id_str": "169686021",
-					"name": "KANYE WEST",
-					"screen_name": "kanyewest",
-					"location": "",
-					"description": "",
-					"url": "http://t.co/ZdywsugSWD",
-					"entities": {
-						"url": {
-							"urls": [
-								{
-									"url": "http://t.co/ZdywsugSWD",
-									"expanded_url": "http://KANYEWEST.COM",
-									"display_url": "KANYEWEST.COM",
-									"indices": [
-										0,
-										22
-									]
-								}
-							]
-						},
-						"description": {
-							"urls": []
-						}
-					},
-					"protected": false,
-					"followers_count": 27868705,
-					"friends_count": 1,
-					"listed_count": 49265,
-					"created_at": "Thu Jul 22 23:00:05 +0000 2010",
-					"favourites_count": 1,
-					"utc_offset": -36000,
-					"time_zone": "Hawaii",
-					"geo_enabled": false,
-					"verified": true,
-					"statuses_count": 270,
-					"lang": "en",
-					"contributors_enabled": false,
-					"is_translator": false,
-					"is_translation_enabled": false,
-					"profile_background_color": "C0DEED",
-					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/390200267/Screen_Shot_2011-12-27_at_11.53.35_PM.png",
-					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/390200267/Screen_Shot_2011-12-27_at_11.53.35_PM.png",
-					"profile_background_tile": true,
-					"profile_image_url": "http://pbs.twimg.com/profile_images/585565077207678977/N_eNSBXi_normal.jpg",
-					"profile_image_url_https": "https://pbs.twimg.com/profile_images/585565077207678977/N_eNSBXi_normal.jpg",
-					"profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
-					"profile_link_color": "0084B4",
-					"profile_sidebar_border_color": "C0DEED",
-					"profile_sidebar_fill_color": "DDEEF6",
-					"profile_text_color": "333333",
-					"profile_use_background_image": true,
-					"has_extended_profile": false,
-					"default_profile": false,
-					"default_profile_image": false,
-					"following": false,
-					"follow_request_sent": false,
-					"notifications": false,
-					"translator_type": "none"
-				},
-				"geo": null,
-				"coordinates": null,
-				"place": null,
-				"contributors": null,
-				"is_quote_status": false,
-				"retweet_count": 86819,
-				"favorite_count": 292822,
-				"favorited": false,
-				"retweeted": false,
-				"lang": "en"
-			},
-			"retweet_count": 153737,
-			"favorite_count": 437734,
+			"is_quote_status": false,
+			"retweet_count": 83358,
+			"favorite_count": 291225,
 			"favorited": false,
-			"retweeted": true,
-			"possibly_sensitive": false,
+			"retweeted": false,
 			"lang": "en"
 		},
-		"is_quote_status": true,
-		"quoted_status_id": 989272340432240600,
-		"quoted_status_id_str": "989272340432240641",
-		"retweet_count": 153737,
-		"favorite_count": 0,
+		"retweet_count": 152617,
+		"favorite_count": 439231,
 		"favorited": false,
 		"retweeted": true,
-		"lang": "en"
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "a lot of people don't know this but while Obama was in office he started the \"my brothers keeper\" program which was a mentorship program for at risk youth in urban areas like Chicago. my sister worked for it and it was the presidents pet project. Donald ended it his first day https://t.co/AdyIyT92zn"
 	},
 	{
 		"created_at": "Fri Apr 27 10:38:55 +0000 2018",
 		"id": 989816153265573900,
 		"id_str": "989816153265573888",
-		"text": "Fake news! This is in fact Pink Floyd’s new album cover. https://t.co/P9CFod1E6w",
+		"full_text": "Fake news! This is in fact Pink Floyd’s new album cover. https://t.co/P9CFod1E6w",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -893,7 +647,7 @@ Grailbird.data.tweets_2018_04 =
 				}
 			]
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
@@ -902,17 +656,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -926,23 +680,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8399,
-			"friends_count": 1113,
-			"listed_count": 514,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40632,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -967,12 +721,21 @@ Grailbird.data.tweets_2018_04 =
 		"is_quote_status": true,
 		"quoted_status_id": 989798975623565300,
 		"quoted_status_id_str": "989798975623565312",
+		"quoted_status_permalink": {
+			"url": "https://t.co/P9CFod1E6w",
+			"expanded": "https://twitter.com/Reuters/status/989798975623565312",
+			"display": "twitter.com/Reuters/status…"
+		},
 		"quoted_status": {
 			"created_at": "Fri Apr 27 09:30:40 +0000 2018",
 			"id": 989798975623565300,
 			"id_str": "989798975623565312",
-			"text": "North Korea's Kim, South Korea's Moon plant tree for peace at border https://t.co/rtMrSKqTqT https://t.co/aBTaM8pOgF",
+			"full_text": "North Korea's Kim, South Korea's Moon plant tree for peace at border https://t.co/rtMrSKqTqT https://t.co/aBTaM8pOgF",
 			"truncated": false,
+			"display_text_range": [
+				0,
+				92
+			],
 			"entities": {
 				"hashtags": [],
 				"symbols": [],
@@ -1100,27 +863,27 @@ Grailbird.data.tweets_2018_04 =
 					}
 				},
 				"protected": false,
-				"followers_count": 19706102,
-				"friends_count": 1072,
-				"listed_count": 114470,
+				"followers_count": 20008496,
+				"friends_count": 1077,
+				"listed_count": 116219,
 				"created_at": "Tue Mar 20 17:46:05 +0000 2007",
-				"favourites_count": 807,
-				"utc_offset": -14400,
-				"time_zone": "Eastern Time (US & Canada)",
+				"favourites_count": 788,
+				"utc_offset": null,
+				"time_zone": null,
 				"geo_enabled": false,
 				"verified": true,
-				"statuses_count": 270184,
+				"statuses_count": 323588,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
 				"is_translation_enabled": true,
 				"profile_background_color": "444444",
-				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/735542174/340f8869cdcabbcc436096587143cc38.png",
-				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/735542174/340f8869cdcabbcc436096587143cc38.png",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 				"profile_background_tile": false,
 				"profile_image_url": "http://pbs.twimg.com/profile_images/877554927932891136/ZBEs235N_normal.jpg",
 				"profile_image_url_https": "https://pbs.twimg.com/profile_images/877554927932891136/ZBEs235N_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1652541/1473859324",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1652541/1525365834",
 				"profile_link_color": "006F97",
 				"profile_sidebar_border_color": "000000",
 				"profile_sidebar_fill_color": "F5F5F5",
@@ -1139,8 +902,8 @@ Grailbird.data.tweets_2018_04 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 382,
-			"favorite_count": 629,
+			"retweet_count": 375,
+			"favorite_count": 625,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -1151,37 +914,31 @@ Grailbird.data.tweets_2018_04 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Fake news! This is in fact Pink Floyd’s new album cover. https://t.co/P9CFod1E6w"
 	},
 	{
-		"created_at": "Fri Apr 27 03:16:24 +0000 2018",
-		"id": 989704788651708400,
-		"id_str": "989704788651708416",
-		"text": "RT @bauhausbothaus: Pigment Tone Control (1942-1949) by Walter E. Entrekin, Jr. https://t.co/eeqx0vEZan https://t.co/mvX4MYttFo",
+		"created_at": "Fri Apr 27 02:31:05 +0000 2018",
+		"id": 989693385186345000,
+		"id_str": "989693385186344961",
+		"full_text": "Pigment Tone Control (1942-1949) by Walter E. Entrekin, Jr. https://t.co/eeqx0vEZan https://t.co/mvX4MYttFo",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "bauhausbothaus",
-					"name": "Bauhaus Bot",
-					"id": 979177515729211400,
-					"id_str": "979177515729211392",
-					"indices": [
-						3,
-						18
-					]
-				}
-			],
+			"user_mentions": [],
 			"urls": [
 				{
 					"url": "https://t.co/eeqx0vEZan",
 					"expanded_url": "https://www.harvardartmuseums.org/collections/object/225477",
 					"display_url": "harvardartmuseums.org/collections/ob…",
 					"indices": [
-						80,
-						103
+						60,
+						83
 					]
 				}
 			],
@@ -1190,8 +947,8 @@ Grailbird.data.tweets_2018_04 =
 					"id": 989693383349276700,
 					"id_str": "989693383349276672",
 					"indices": [
-						104,
-						127
+						84,
+						107
 					],
 					"media_url": "http://pbs.twimg.com/media/DbwY43cWkAApaa8.jpg",
 					"media_url_https": "https://pbs.twimg.com/media/DbwY43cWkAApaa8.jpg",
@@ -1220,11 +977,7 @@ Grailbird.data.tweets_2018_04 =
 							"h": 534,
 							"resize": "fit"
 						}
-					},
-					"source_status_id": 989693385186345000,
-					"source_status_id_str": "989693385186344961",
-					"source_user_id": 979177515729211400,
-					"source_user_id_str": "979177515729211392"
+					}
 				}
 			]
 		},
@@ -1234,8 +987,8 @@ Grailbird.data.tweets_2018_04 =
 					"id": 989693383349276700,
 					"id_str": "989693383349276672",
 					"indices": [
-						104,
-						127
+						84,
+						107
 					],
 					"media_url": "http://pbs.twimg.com/media/DbwY43cWkAApaa8.jpg",
 					"media_url_https": "https://pbs.twimg.com/media/DbwY43cWkAApaa8.jpg",
@@ -1264,77 +1017,60 @@ Grailbird.data.tweets_2018_04 =
 							"h": 534,
 							"resize": "fit"
 						}
-					},
-					"source_status_id": 989693385186345000,
-					"source_status_id_str": "989693385186344961",
-					"source_user_id": 979177515729211400,
-					"source_user_id_str": "979177515729211392"
+					}
 				}
 			]
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"https://www.twitter.com\" rel=\"nofollow\">Bauhaus Bot</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 8497292,
-			"id_str": "8497292",
-			"name": "Mark Sample",
-			"screen_name": "samplereality",
-			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"id": 979177515729211400,
+			"id_str": "979177515729211392",
+			"name": "Bauhaus Bot",
+			"screen_name": "bauhausbothaus",
+			"location": "Cambridge",
+			"description": "Finding random items in the Harvard University Art Museums' extensive Bauhaus Collection. A bot by @samplereality.",
+			"url": null,
 			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
-							"display_url": "samplereality.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
 				"description": {
 					"urls": []
 				}
 			},
 			"protected": false,
-			"followers_count": 8396,
-			"friends_count": 1113,
-			"listed_count": 514,
-			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"followers_count": 136,
+			"friends_count": 2,
+			"listed_count": 10,
+			"created_at": "Thu Mar 29 02:04:46 +0000 2018",
 			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
-			"geo_enabled": true,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 40628,
+			"statuses_count": 2028,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
-			"profile_link_color": "236299",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/979191001771315200/gMLnMT_v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/979191001771315200/gMLnMT_v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/979177515729211392/1522371998",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
 			"profile_text_color": "333333",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
 			"default_profile_image": false,
-			"following": false,
+			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
 			"translator_type": "none"
@@ -1343,193 +1079,32 @@ Grailbird.data.tweets_2018_04 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Fri Apr 27 02:31:05 +0000 2018",
-			"id": 989693385186345000,
-			"id_str": "989693385186344961",
-			"text": "Pigment Tone Control (1942-1949) by Walter E. Entrekin, Jr. https://t.co/eeqx0vEZan https://t.co/mvX4MYttFo",
-			"truncated": false,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [
-					{
-						"url": "https://t.co/eeqx0vEZan",
-						"expanded_url": "https://www.harvardartmuseums.org/collections/object/225477",
-						"display_url": "harvardartmuseums.org/collections/ob…",
-						"indices": [
-							60,
-							83
-						]
-					}
-				],
-				"media": [
-					{
-						"id": 989693383349276700,
-						"id_str": "989693383349276672",
-						"indices": [
-							84,
-							107
-						],
-						"media_url": "http://pbs.twimg.com/media/DbwY43cWkAApaa8.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/DbwY43cWkAApaa8.jpg",
-						"url": "https://t.co/mvX4MYttFo",
-						"display_url": "pic.twitter.com/mvX4MYttFo",
-						"expanded_url": "https://twitter.com/bauhausbothaus/status/989693385186344961/photo/1",
-						"type": "photo",
-						"sizes": {
-							"large": {
-								"w": 978,
-								"h": 768,
-								"resize": "fit"
-							},
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"medium": {
-								"w": 978,
-								"h": 768,
-								"resize": "fit"
-							},
-							"small": {
-								"w": 680,
-								"h": 534,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"extended_entities": {
-				"media": [
-					{
-						"id": 989693383349276700,
-						"id_str": "989693383349276672",
-						"indices": [
-							84,
-							107
-						],
-						"media_url": "http://pbs.twimg.com/media/DbwY43cWkAApaa8.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/DbwY43cWkAApaa8.jpg",
-						"url": "https://t.co/mvX4MYttFo",
-						"display_url": "pic.twitter.com/mvX4MYttFo",
-						"expanded_url": "https://twitter.com/bauhausbothaus/status/989693385186344961/photo/1",
-						"type": "photo",
-						"sizes": {
-							"large": {
-								"w": 978,
-								"h": 768,
-								"resize": "fit"
-							},
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"medium": {
-								"w": 978,
-								"h": 768,
-								"resize": "fit"
-							},
-							"small": {
-								"w": 680,
-								"h": 534,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"source": "<a href=\"https://www.twitter.com\" rel=\"nofollow\">Bauhaus Bot</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 979177515729211400,
-				"id_str": "979177515729211392",
-				"name": "Bauhaus Bot",
-				"screen_name": "bauhausbothaus",
-				"location": "Cambridge",
-				"description": "Finding random items in the Harvard University Art Museums' extensive Bauhaus Collection. A bot by @samplereality.",
-				"url": null,
-				"entities": {
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 54,
-				"friends_count": 2,
-				"listed_count": 5,
-				"created_at": "Thu Mar 29 02:04:46 +0000 2018",
-				"favourites_count": 0,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": false,
-				"verified": false,
-				"statuses_count": 333,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "F5F8FA",
-				"profile_background_image_url": null,
-				"profile_background_image_url_https": null,
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/979191001771315200/gMLnMT_v_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/979191001771315200/gMLnMT_v_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/979177515729211392/1522371998",
-				"profile_link_color": "1DA1F2",
-				"profile_sidebar_border_color": "C0DEED",
-				"profile_sidebar_fill_color": "DDEEF6",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": true,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 1,
-			"favorite_count": 2,
-			"favorited": false,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "en"
-		},
 		"is_quote_status": false,
 		"retweet_count": 1,
-		"favorite_count": 0,
+		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Pigment Tone Control (1942-1949) by Walter E. Entrekin, Jr. https://t.co/eeqx0vEZan https://t.co/mvX4MYttFo"
 	},
 	{
 		"created_at": "Fri Apr 27 01:56:52 +0000 2018",
 		"id": 989684773974093800,
 		"id_str": "989684773974093826",
-		"text": "holy shit lefty sold out pancho,,,how did it take me 20 years to realize this",
+		"full_text": "holy shit lefty sold out pancho,,,how did it take me 20 years to realize this",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
 			"urls": []
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
@@ -1538,17 +1113,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -1562,23 +1137,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8396,
-			"friends_count": 1113,
-			"listed_count": 514,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40628,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -1605,14 +1180,19 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "holy shit lefty sold out pancho,,,how did it take me 20 years to realize this"
 	},
 	{
 		"created_at": "Fri Apr 27 00:52:08 +0000 2018",
 		"id": 989668484379488300,
 		"id_str": "989668484379488256",
-		"text": "ICYMI, a thread from this morning about the privilege of white privilege at college and beyond... https://t.co/3AKuQtcUqC",
+		"full_text": "ICYMI, a thread from this morning about the privilege of white privilege at college and beyond... https://t.co/3AKuQtcUqC",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -1629,7 +1209,7 @@ Grailbird.data.tweets_2018_04 =
 				}
 			]
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
@@ -1638,17 +1218,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -1662,23 +1242,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8396,
-			"friends_count": 1113,
-			"listed_count": 514,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40628,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -1703,12 +1283,21 @@ Grailbird.data.tweets_2018_04 =
 		"is_quote_status": true,
 		"quoted_status_id": 989539733595402200,
 		"quoted_status_id_str": "989539733595402242",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3AKuQtcUqC",
+			"expanded": "https://twitter.com/samplereality/status/989539733595402242",
+			"display": "twitter.com/samplereality/…"
+		},
 		"quoted_status": {
 			"created_at": "Thu Apr 26 16:20:31 +0000 2018",
 			"id": 989539733595402200,
 			"id_str": "989539733595402242",
-			"text": "I have spent far too much emotional energy this week on the FOX News accusations that @DavidsonCollege “denied” a c… https://t.co/xu4guNBOPT",
-			"truncated": true,
+			"full_text": "I have spent far too much emotional energy this week on the FOX News accusations that @DavidsonCollege “denied” a conservative speaker. We did not. 1/",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				150
+			],
 			"entities": {
 				"hashtags": [],
 				"symbols": [],
@@ -1724,17 +1313,7 @@ Grailbird.data.tweets_2018_04 =
 						]
 					}
 				],
-				"urls": [
-					{
-						"url": "https://t.co/xu4guNBOPT",
-						"expanded_url": "https://twitter.com/i/web/status/989539733595402242",
-						"display_url": "twitter.com/i/web/status/9…",
-						"indices": [
-							117,
-							140
-						]
-					}
-				]
+				"urls": []
 			},
 			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
 			"in_reply_to_status_id": null,
@@ -1745,17 +1324,17 @@ Grailbird.data.tweets_2018_04 =
 			"user": {
 				"id": 8497292,
 				"id_str": "8497292",
-				"name": "Mark Sample",
+				"name": "Mark \"Funny Halloween Name\" Sample",
 				"screen_name": "samplereality",
 				"location": "This Land Is Your Land",
-				"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-				"url": "https://t.co/jzW78xdOk4",
+				"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+				"url": "https://t.co/oRy4nnx6c1",
 				"entities": {
 					"url": {
 						"urls": [
 							{
-								"url": "https://t.co/jzW78xdOk4",
-								"expanded_url": "http://www.samplereality.com",
+								"url": "https://t.co/oRy4nnx6c1",
+								"expanded_url": "https://www.samplereality.com",
 								"display_url": "samplereality.com",
 								"indices": [
 									0,
@@ -1769,23 +1348,23 @@ Grailbird.data.tweets_2018_04 =
 					}
 				},
 				"protected": false,
-				"followers_count": 8396,
-				"friends_count": 1113,
-				"listed_count": 514,
+				"followers_count": 8730,
+				"friends_count": 1151,
+				"listed_count": 521,
 				"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-				"favourites_count": 0,
-				"utc_offset": -14400,
-				"time_zone": "Eastern Time (US & Canada)",
+				"favourites_count": 1178,
+				"utc_offset": null,
+				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 40628,
+				"statuses_count": 41284,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
 				"is_translation_enabled": false,
 				"profile_background_color": "B3B3B3",
-				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 				"profile_background_tile": false,
 				"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 				"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -1808,8 +1387,8 @@ Grailbird.data.tweets_2018_04 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 13,
-			"favorite_count": 23,
+			"retweet_count": 14,
+			"favorite_count": 29,
 			"favorited": false,
 			"retweeted": false,
 			"lang": "en"
@@ -1819,36 +1398,31 @@ Grailbird.data.tweets_2018_04 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "ICYMI, a thread from this morning about the privilege of white privilege at college and beyond... https://t.co/3AKuQtcUqC"
 	},
 	{
-		"created_at": "Fri Apr 27 00:47:57 +0000 2018",
-		"id": 989667430283857900,
-		"id_str": "989667430283857923",
-		"text": "RT @RoseStremlau: Mark your calendars for Sept. 25! The 2018 Reynolds Lecturer @DavidsonCollege is...@janetmock!",
+		"created_at": "Thu Apr 26 22:52:25 +0000 2018",
+		"id": 989638355876024300,
+		"id_str": "989638355876024321",
+		"full_text": "Mark your calendars for Sept. 25! The 2018 Reynolds Lecturer @DavidsonCollege is...@janetmock!",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [
-				{
-					"screen_name": "RoseStremlau",
-					"name": "Rose Stremlau",
-					"id": 2533969802,
-					"id_str": "2533969802",
-					"indices": [
-						3,
-						16
-					]
-				},
 				{
 					"screen_name": "DavidsonCollege",
 					"name": "Davidson College",
 					"id": 353477625,
 					"id_str": "353477625",
 					"indices": [
-						79,
-						95
+						61,
+						77
 					]
 				},
 				{
@@ -1857,34 +1431,34 @@ Grailbird.data.tweets_2018_04 =
 					"id": 18924291,
 					"id_str": "18924291",
 					"indices": [
-						101,
-						111
+						83,
+						93
 					]
 				}
 			],
 			"urls": []
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 8497292,
-			"id_str": "8497292",
-			"name": "Mark Sample",
-			"screen_name": "samplereality",
-			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"id": 2533969802,
+			"id_str": "2533969802",
+			"name": "Dr. Rose Stremlau",
+			"screen_name": "RoseStremlau",
+			"location": "Charlotte, NC",
+			"description": "Historian. Author. Professor. Great Pyr rescuer.",
+			"url": "https://t.co/aiFyz3XoqJ",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
-							"display_url": "samplereality.com",
+							"url": "https://t.co/aiFyz3XoqJ",
+							"expanded_url": "http://www.historyandacookie.com",
+							"display_url": "historyandacookie.com",
 							"indices": [
 								0,
 								23
@@ -1897,33 +1471,33 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8396,
-			"friends_count": 1113,
-			"listed_count": 514,
-			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"followers_count": 205,
+			"friends_count": 159,
+			"listed_count": 7,
+			"created_at": "Fri May 30 02:56:16 +0000 2014",
+			"favourites_count": 1472,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40628,
+			"statuses_count": 246,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
-			"profile_link_color": "236299",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "A0C5C7",
-			"profile_text_color": "333333",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/874632839962046464/_l8CJHrK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/874632839962046464/_l8CJHrK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2533969802/1497633040",
+			"profile_link_color": "800000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
 			"profile_use_background_image": false,
-			"has_extended_profile": true,
+			"has_extended_profile": false,
 			"default_profile": false,
 			"default_profile_image": false,
 			"following": false,
@@ -1935,130 +1509,24 @@ Grailbird.data.tweets_2018_04 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Thu Apr 26 22:52:25 +0000 2018",
-			"id": 989638355876024300,
-			"id_str": "989638355876024321",
-			"text": "Mark your calendars for Sept. 25! The 2018 Reynolds Lecturer @DavidsonCollege is...@janetmock!",
-			"truncated": false,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [
-					{
-						"screen_name": "DavidsonCollege",
-						"name": "Davidson College",
-						"id": 353477625,
-						"id_str": "353477625",
-						"indices": [
-							61,
-							77
-						]
-					},
-					{
-						"screen_name": "janetmock",
-						"name": "Janet Mock",
-						"id": 18924291,
-						"id_str": "18924291",
-						"indices": [
-							83,
-							93
-						]
-					}
-				],
-				"urls": []
-			},
-			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 2533969802,
-				"id_str": "2533969802",
-				"name": "Rose Stremlau",
-				"screen_name": "RoseStremlau",
-				"location": "Charlotte, NC",
-				"description": "Historian. Author. Professor. Great Pyr rescuer.",
-				"url": "https://t.co/aiFyz3XoqJ",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/aiFyz3XoqJ",
-								"expanded_url": "http://www.historyandacookie.com",
-								"display_url": "historyandacookie.com",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 135,
-				"friends_count": 134,
-				"listed_count": 3,
-				"created_at": "Fri May 30 02:56:16 +0000 2014",
-				"favourites_count": 542,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": false,
-				"verified": false,
-				"statuses_count": 121,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "000000",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/874632839962046464/_l8CJHrK_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/874632839962046464/_l8CJHrK_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2533969802/1497633040",
-				"profile_link_color": "800000",
-				"profile_sidebar_border_color": "000000",
-				"profile_sidebar_fill_color": "000000",
-				"profile_text_color": "000000",
-				"profile_use_background_image": false,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 7,
-			"favorite_count": 15,
-			"favorited": false,
-			"retweeted": true,
-			"lang": "en"
-		},
 		"is_quote_status": false,
-		"retweet_count": 7,
-		"favorite_count": 0,
+		"retweet_count": 8,
+		"favorite_count": 20,
 		"favorited": false,
 		"retweeted": true,
-		"lang": "en"
+		"lang": "en",
+		"text": "Mark your calendars for Sept. 25! The 2018 Reynolds Lecturer @DavidsonCollege is...@janetmock!"
 	},
 	{
 		"created_at": "Thu Apr 26 16:29:15 +0000 2018",
 		"id": 989541929267400700,
 		"id_str": "989541929267400704",
-		"text": "Times up. 20/20",
+		"full_text": "Times up. 20/20",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -2074,17 +1542,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -2098,23 +1566,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8396,
-			"friends_count": 1113,
-			"listed_count": 514,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40628,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -2141,14 +1609,19 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Times up. 20/20"
 	},
 	{
 		"created_at": "Thu Apr 26 16:28:58 +0000 2018",
 		"id": 989541858626949100,
 		"id_str": "989541858626949120",
-		"text": "The changing demographics of America, though, are not a threat, they’re the future. 19/",
+		"full_text": "The changing demographics of America, though, are not a threat, they’re the future. 19/",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -2164,17 +1637,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -2188,23 +1661,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8396,
-			"friends_count": 1113,
-			"listed_count": 514,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40628,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -2231,14 +1704,19 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "The changing demographics of America, though, are not a threat, they’re the future. 19/"
 	},
 	{
 		"created_at": "Thu Apr 26 16:28:41 +0000 2018",
 		"id": 989541787604848600,
 		"id_str": "989541787604848641",
-		"text": "And yet they feel threatened. 18/",
+		"full_text": "And yet they feel threatened. 18/",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -2254,17 +1732,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -2278,23 +1756,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8396,
-			"friends_count": 1113,
-			"listed_count": 514,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40628,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -2321,29 +1799,24 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "And yet they feel threatened. 18/"
 	},
 	{
 		"created_at": "Thu Apr 26 16:28:24 +0000 2018",
 		"id": 989541717358600200,
 		"id_str": "989541717358600192",
-		"text": "It’s a great rhetorical trick. In Trump’s America no one is more imperiled, more vulnerable, more likely—seriously—… https://t.co/i4qHXfrqKe",
-		"truncated": true,
+		"full_text": "It’s a great rhetorical trick. In Trump’s America no one is more imperiled, more vulnerable, more likely—seriously—to die at the hands of the state than people who are not white Christian males. 17/",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/i4qHXfrqKe",
-					"expanded_url": "https://twitter.com/i/web/status/989541717358600192",
-					"display_url": "twitter.com/i/web/status/9…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
 		"in_reply_to_status_id": 989541614346522600,
@@ -2354,17 +1827,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -2378,23 +1851,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8396,
-			"friends_count": 1113,
-			"listed_count": 514,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40628,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -2418,32 +1891,27 @@ Grailbird.data.tweets_2018_04 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 5,
+		"favorite_count": 7,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "It’s a great rhetorical trick. In Trump’s America no one is more imperiled, more vulnerable, more likely—seriously—to die at the hands of the state than people who are not white Christian males. 17/"
 	},
 	{
 		"created_at": "Thu Apr 26 16:28:00 +0000 2018",
 		"id": 989541614346522600,
 		"id_str": "989541614346522625",
-		"text": "And here we come full circle: the accusation of denying a conservative speaker at Davidson College—or anywhere else… https://t.co/4wfGeJHPbc",
-		"truncated": true,
+		"full_text": "And here we come full circle: the accusation of denying a conservative speaker at Davidson College—or anywhere else—fits the imperiled status narrative. Colleges are oppressing conservatives! 16/",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/4wfGeJHPbc",
-					"expanded_url": "https://twitter.com/i/web/status/989541614346522625",
-					"display_url": "twitter.com/i/web/status/9…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
 		"in_reply_to_status_id": 989541490295746600,
@@ -2454,17 +1922,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -2478,23 +1946,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8396,
-			"friends_count": 1113,
-			"listed_count": 514,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40628,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -2521,29 +1989,24 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "And here we come full circle: the accusation of denying a conservative speaker at Davidson College—or anywhere else—fits the imperiled status narrative. Colleges are oppressing conservatives! 16/"
 	},
 	{
 		"created_at": "Thu Apr 26 16:27:30 +0000 2018",
 		"id": 989541490295746600,
 		"id_str": "989541490295746561",
-		"text": "The outraged right, funded by the Kochs, the Devoses, the Mercers, are capitalizing on this imperiled sense of stat… https://t.co/eWVyAOyb5G",
-		"truncated": true,
+		"full_text": "The outraged right, funded by the Kochs, the Devoses, the Mercers, are capitalizing on this imperiled sense of status in order to wage a proxy war on college campuses. 15/",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/eWVyAOyb5G",
-					"expanded_url": "https://twitter.com/i/web/status/989541490295746561",
-					"display_url": "twitter.com/i/web/status/9…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
 		"in_reply_to_status_id": 989541391645773800,
@@ -2554,17 +2017,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -2578,23 +2041,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8396,
-			"friends_count": 1113,
-			"listed_count": 514,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40628,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -2617,18 +2080,23 @@ Grailbird.data.tweets_2018_04 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
+		"retweet_count": 1,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "The outraged right, funded by the Kochs, the Devoses, the Mercers, are capitalizing on this imperiled sense of status in order to wage a proxy war on college campuses. 15/"
 	},
 	{
 		"created_at": "Thu Apr 26 16:27:07 +0000 2018",
 		"id": 989541391645773800,
 		"id_str": "989541391645773824",
-		"text": "Who feels threatened? Primarily white, Christian males. Equality scares them because they see their social dominance as a zero-sum game. 14/",
+		"full_text": "Who feels threatened? Primarily white, Christian males. Equality scares them because they see their social dominance as a zero-sum game. 14/",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -2644,17 +2112,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -2668,23 +2136,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8396,
-			"friends_count": 1113,
-			"listed_count": 514,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40628,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -2707,30 +2175,35 @@ Grailbird.data.tweets_2018_04 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 4,
+		"retweet_count": 1,
+		"favorite_count": 5,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Who feels threatened? Primarily white, Christian males. Equality scares them because they see their social dominance as a zero-sum game. 14/"
 	},
 	{
 		"created_at": "Thu Apr 26 16:26:38 +0000 2018",
 		"id": 989541273160896500,
 		"id_str": "989541273160896513",
-		"text": "Here is where the local meets the national. A new report suggests Trump supporters feel their white majority status… https://t.co/Pc4nepc4Tj",
-		"truncated": true,
+		"full_text": "Here is where the local meets the national. A new report suggests Trump supporters feel their white majority status is threatened. And that’s why they voted for him. https://t.co/YZ4x53gDZv  13/",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
 			"urls": [
 				{
-					"url": "https://t.co/Pc4nepc4Tj",
-					"expanded_url": "https://twitter.com/i/web/status/989541273160896513",
-					"display_url": "twitter.com/i/web/status/9…",
+					"url": "https://t.co/YZ4x53gDZv",
+					"expanded_url": "http://www.pnas.org/content/early/2018/04/18/1718155115",
+					"display_url": "pnas.org/content/early/…",
 					"indices": [
-						117,
-						140
+						166,
+						189
 					]
 				}
 			]
@@ -2744,17 +2217,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -2768,23 +2241,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8396,
-			"friends_count": 1113,
-			"listed_count": 514,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40628,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -2812,14 +2285,19 @@ Grailbird.data.tweets_2018_04 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Here is where the local meets the national. A new report suggests Trump supporters feel their white majority status is threatened. And that’s why they voted for him. https://t.co/YZ4x53gDZv  13/"
 	},
 	{
 		"created_at": "Thu Apr 26 16:26:08 +0000 2018",
 		"id": 989541146853630000,
 		"id_str": "989541146853629952",
-		"text": "When you’ve benefitted from privilege all your life, calls for equality can feel like oppression. 12/",
+		"full_text": "When you’ve benefitted from privilege all your life, calls for equality can feel like oppression. 12/",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -2835,17 +2313,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -2859,23 +2337,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8396,
-			"friends_count": 1113,
-			"listed_count": 514,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40628,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -2902,14 +2380,19 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "When you’ve benefitted from privilege all your life, calls for equality can feel like oppression. 12/"
 	},
 	{
 		"created_at": "Thu Apr 26 16:25:49 +0000 2018",
 		"id": 989541063772778500,
 		"id_str": "989541063772778496",
-		"text": "Take a look at the Davidson Microaggression Project, launched by @AMartinezPhd and her students: https://t.co/PbyWmKkQPU 11/",
+		"full_text": "Take a look at the Davidson Microaggression Project, launched by @AMartinezPhd and her students: https://t.co/PbyWmKkQPU 11/",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -2946,17 +2429,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -2970,23 +2453,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8396,
-			"friends_count": 1113,
-			"listed_count": 514,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40628,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -3010,18 +2493,23 @@ Grailbird.data.tweets_2018_04 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 3,
-		"favorite_count": 9,
+		"favorite_count": 10,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Take a look at the Davidson Microaggression Project, launched by @AMartinezPhd and her students: https://t.co/PbyWmKkQPU 11/"
 	},
 	{
 		"created_at": "Thu Apr 26 16:25:19 +0000 2018",
 		"id": 989540940326035500,
 		"id_str": "989540940326035459",
-		"text": "White students who feel attacked when we talk about racism, you don’t know what microaggression is. 10/",
+		"full_text": "White students who feel attacked when we talk about racism, you don’t know what microaggression is. 10/",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -3037,17 +2525,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -3061,23 +2549,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8396,
-			"friends_count": 1113,
-			"listed_count": 514,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40628,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -3104,14 +2592,19 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "White students who feel attacked when we talk about racism, you don’t know what microaggression is. 10/"
 	},
 	{
 		"created_at": "Thu Apr 26 16:24:57 +0000 2018",
 		"id": 989540846365302800,
 		"id_str": "989540846365302784",
-		"text": "And it happens. 9/",
+		"full_text": "And it happens. 9/",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -3127,17 +2620,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -3151,23 +2644,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8396,
-			"friends_count": 1113,
-			"listed_count": 514,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40628,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -3194,14 +2687,19 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "And it happens. 9/"
 	},
 	{
 		"created_at": "Thu Apr 26 16:24:44 +0000 2018",
 		"id": 989540792187441200,
 		"id_str": "989540792187441155",
-		"text": "And it continues apace today. Take something as simple—and as horrifying—as hanging a Confederate flag in a dorm room. 8/",
+		"full_text": "And it continues apace today. Take something as simple—and as horrifying—as hanging a Confederate flag in a dorm room. 8/",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -3217,17 +2715,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -3241,123 +2739,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8396,
-			"friends_count": 1113,
-			"listed_count": 514,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40628,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
-			"profile_link_color": "236299",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "A0C5C7",
-			"profile_text_color": "333333",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 1,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en"
-	},
-	{
-		"created_at": "Thu Apr 26 16:24:24 +0000 2018",
-		"id": 989540709765140500,
-		"id_str": "989540709765140481",
-		"text": "And also, even if your speakers were denied (and they weren’t), that’s nothing compared to the years, decades, cent… https://t.co/Dggz8Aloj5",
-		"truncated": true,
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/Dggz8Aloj5",
-					"expanded_url": "https://twitter.com/i/web/status/989540709765140481",
-					"display_url": "twitter.com/i/web/status/9…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
-		"in_reply_to_status_id": 989540627917561900,
-		"in_reply_to_status_id_str": "989540627917561856",
-		"in_reply_to_user_id": 8497292,
-		"in_reply_to_user_id_str": "8497292",
-		"in_reply_to_screen_name": "samplereality",
-		"user": {
-			"id": 8497292,
-			"id_str": "8497292",
-			"name": "Mark Sample",
-			"screen_name": "samplereality",
-			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
-							"display_url": "samplereality.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 8396,
-			"friends_count": 1113,
-			"listed_count": 514,
-			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 40628,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -3384,14 +2782,19 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "And it continues apace today. Take something as simple—and as horrifying—as hanging a Confederate flag in a dorm room. 8/"
 	},
 	{
-		"created_at": "Thu Apr 26 16:24:05 +0000 2018",
-		"id": 989540627917561900,
-		"id_str": "989540627917561856",
-		"text": "To the outraged w̶h̶i̶t̶e̶ right, all I can say is, Bless your heart. 6/",
+		"created_at": "Thu Apr 26 16:24:24 +0000 2018",
+		"id": 989540709765140500,
+		"id_str": "989540709765140481",
+		"full_text": "And also, even if your speakers were denied (and they weren’t), that’s nothing compared to the years, decades, centuries of shutting down voices of color. 7/",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -3399,25 +2802,25 @@ Grailbird.data.tweets_2018_04 =
 			"urls": []
 		},
 		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
-		"in_reply_to_status_id": 989540164383977500,
-		"in_reply_to_status_id_str": "989540164383977472",
+		"in_reply_to_status_id": 989540627917561900,
+		"in_reply_to_status_id_str": "989540627917561856",
 		"in_reply_to_user_id": 8497292,
 		"in_reply_to_user_id_str": "8497292",
 		"in_reply_to_screen_name": "samplereality",
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -3431,123 +2834,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8396,
-			"friends_count": 1113,
-			"listed_count": 514,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40628,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
-			"profile_link_color": "236299",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "A0C5C7",
-			"profile_text_color": "333333",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 6,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en"
-	},
-	{
-		"created_at": "Thu Apr 26 16:22:14 +0000 2018",
-		"id": 989540164383977500,
-		"id_str": "989540164383977472",
-		"text": "Even Milo’s visit in 2016 was supported by the college. It was Milo himself who canceled when he realized nobody wa… https://t.co/FeOYKYs2dv",
-		"truncated": true,
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/FeOYKYs2dv",
-					"expanded_url": "https://twitter.com/i/web/status/989540164383977472",
-					"display_url": "twitter.com/i/web/status/9…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
-		"in_reply_to_status_id": 989540065712984000,
-		"in_reply_to_status_id_str": "989540065712984064",
-		"in_reply_to_user_id": 8497292,
-		"in_reply_to_user_id_str": "8497292",
-		"in_reply_to_screen_name": "samplereality",
-		"user": {
-			"id": 8497292,
-			"id_str": "8497292",
-			"name": "Mark Sample",
-			"screen_name": "samplereality",
-			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
-							"display_url": "samplereality.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 8396,
-			"friends_count": 1113,
-			"listed_count": 514,
-			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 40628,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -3574,14 +2877,209 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 4,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "And also, even if your speakers were denied (and they weren’t), that’s nothing compared to the years, decades, centuries of shutting down voices of color. 7/"
+	},
+	{
+		"created_at": "Thu Apr 26 16:24:05 +0000 2018",
+		"id": 989540627917561900,
+		"id_str": "989540627917561856",
+		"full_text": "To the outraged w̶h̶i̶t̶e̶ right, all I can say is, Bless your heart. 6/",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 989540164383977500,
+		"in_reply_to_status_id_str": "989540164383977472",
+		"in_reply_to_user_id": 8497292,
+		"in_reply_to_user_id_str": "8497292",
+		"in_reply_to_screen_name": "samplereality",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark \"Funny Halloween Name\" Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41284,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "To the outraged w̶h̶i̶t̶e̶ right, all I can say is, Bless your heart. 6/"
+	},
+	{
+		"created_at": "Thu Apr 26 16:22:14 +0000 2018",
+		"id": 989540164383977500,
+		"id_str": "989540164383977472",
+		"full_text": "Even Milo’s visit in 2016 was supported by the college. It was Milo himself who canceled when he realized nobody was going to show up to protest. After all, manufactured outrage requires an audience. 5/",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 989540065712984000,
+		"in_reply_to_status_id_str": "989540065712984064",
+		"in_reply_to_user_id": 8497292,
+		"in_reply_to_user_id_str": "8497292",
+		"in_reply_to_screen_name": "samplereality",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark \"Funny Halloween Name\" Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41284,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Even Milo’s visit in 2016 was supported by the college. It was Milo himself who canceled when he realized nobody was going to show up to protest. After all, manufactured outrage requires an audience. 5/"
 	},
 	{
 		"created_at": "Thu Apr 26 16:21:51 +0000 2018",
 		"id": 989540065712984000,
 		"id_str": "989540065712984064",
-		"text": "(Okay, so not so diverse.) 4/",
+		"full_text": "(Okay, so not so diverse.) 4/",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -3597,17 +3095,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -3621,23 +3119,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8396,
-			"friends_count": 1113,
-			"listed_count": 514,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40628,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -3664,29 +3162,24 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "(Okay, so not so diverse.) 4/"
 	},
 	{
 		"created_at": "Thu Apr 26 16:21:34 +0000 2018",
 		"id": 989539997974978600,
 		"id_str": "989539997974978560",
-		"text": "Despite what FOX says about liberal professors (or what comments on the FOX video say about libtards) Davidson has… https://t.co/nhoJe2hm11",
-		"truncated": true,
+		"full_text": "Despite what FOX says about liberal professors (or what comments on the FOX video say about libtards) Davidson has always welcomed diverse speakers. David Brooks, Christina Hoff Sommers. Karl freaking Rove met with students a few years ago. 3/",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/nhoJe2hm11",
-					"expanded_url": "https://twitter.com/i/web/status/989539997974978560",
-					"display_url": "twitter.com/i/web/status/9…",
-					"indices": [
-						116,
-						139
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
 		"in_reply_to_status_id": 989539837043707900,
@@ -3697,17 +3190,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -3721,23 +3214,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8396,
-			"friends_count": 1113,
-			"listed_count": 514,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40628,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -3761,17 +3254,22 @@ Grailbird.data.tweets_2018_04 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 2,
+		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Despite what FOX says about liberal professors (or what comments on the FOX video say about libtards) Davidson has always welcomed diverse speakers. David Brooks, Christina Hoff Sommers. Karl freaking Rove met with students a few years ago. 3/"
 	},
 	{
 		"created_at": "Thu Apr 26 16:20:56 +0000 2018",
 		"id": 989539837043707900,
 		"id_str": "989539837043707904",
-		"text": "In today’s Charlotte Observer, @ijbailey has a good write-up about the supposed scandal: https://t.co/0Evku6XnhW 2/",
+		"full_text": "In today’s Charlotte Observer, @ijbailey has a good write-up about the supposed scandal: https://t.co/0Evku6XnhW 2/",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -3808,17 +3306,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -3832,23 +3330,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8396,
-			"friends_count": 1113,
-			"listed_count": 514,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40628,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -3871,19 +3369,24 @@ Grailbird.data.tweets_2018_04 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 3,
-		"favorite_count": 8,
+		"retweet_count": 2,
+		"favorite_count": 9,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "In today’s Charlotte Observer, @ijbailey has a good write-up about the supposed scandal: https://t.co/0Evku6XnhW 2/"
 	},
 	{
 		"created_at": "Thu Apr 26 16:20:31 +0000 2018",
 		"id": 989539733595402200,
 		"id_str": "989539733595402242",
-		"text": "I have spent far too much emotional energy this week on the FOX News accusations that @DavidsonCollege “denied” a c… https://t.co/xu4guNBOPT",
-		"truncated": true,
+		"full_text": "I have spent far too much emotional energy this week on the FOX News accusations that @DavidsonCollege “denied” a conservative speaker. We did not. 1/",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -3899,17 +3402,7 @@ Grailbird.data.tweets_2018_04 =
 					]
 				}
 			],
-			"urls": [
-				{
-					"url": "https://t.co/xu4guNBOPT",
-					"expanded_url": "https://twitter.com/i/web/status/989539733595402242",
-					"display_url": "twitter.com/i/web/status/9…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
 		"in_reply_to_status_id": null,
@@ -3920,17 +3413,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -3944,23 +3437,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8396,
-			"friends_count": 1113,
-			"listed_count": 514,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40628,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -3983,18 +3476,23 @@ Grailbird.data.tweets_2018_04 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 13,
-		"favorite_count": 23,
+		"retweet_count": 14,
+		"favorite_count": 29,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "I have spent far too much emotional energy this week on the FOX News accusations that @DavidsonCollege “denied” a conservative speaker. We did not. 1/"
 	},
 	{
 		"created_at": "Thu Apr 26 15:05:44 +0000 2018",
 		"id": 989520912860045300,
 		"id_str": "989520912860045312",
-		"text": "@rompenni Yeah, stupid mistake!",
+		"full_text": "@rompenni Yeah, stupid mistake!",
 		"truncated": false,
+		"display_text_range": [
+			10,
+			31
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -4012,7 +3510,7 @@ Grailbird.data.tweets_2018_04 =
 			],
 			"urls": []
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
 		"in_reply_to_status_id": 989483446748766200,
 		"in_reply_to_status_id_str": "989483446748766209",
 		"in_reply_to_user_id": 35771969,
@@ -4021,17 +3519,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -4045,23 +3543,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8396,
-			"friends_count": 1113,
-			"listed_count": 514,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40628,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -4088,14 +3586,19 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@rompenni Yeah, stupid mistake!"
 	},
 	{
 		"created_at": "Thu Apr 26 15:05:08 +0000 2018",
 		"id": 989520762628460500,
 		"id_str": "989520762628460546",
-		"text": "@jarredt Whoops, stupid mistake. I knew that!",
+		"full_text": "@jarredt Whoops, stupid mistake. I knew that!",
 		"truncated": false,
+		"display_text_range": [
+			9,
+			45
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -4113,7 +3616,7 @@ Grailbird.data.tweets_2018_04 =
 			],
 			"urls": []
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
 		"in_reply_to_status_id": 989510856642777100,
 		"in_reply_to_status_id_str": "989510856642777089",
 		"in_reply_to_user_id": 11730942,
@@ -4122,17 +3625,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -4146,23 +3649,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8396,
-			"friends_count": 1113,
-			"listed_count": 514,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40628,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -4189,31 +3692,26 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@jarredt Whoops, stupid mistake. I knew that!"
 	},
 	{
 		"created_at": "Thu Apr 26 12:16:22 +0000 2018",
 		"id": 989478290560897000,
 		"id_str": "989478290560897025",
-		"text": "My advice to all students, regardless of political stripes, is never talk to *any* of the cable news networks. They… https://t.co/ZqJHZyReKp",
-		"truncated": true,
+		"full_text": "My advice to all students, regardless of political stripes, is never talk to *any* of the cable news networks. They will use you and spit you out.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/ZqJHZyReKp",
-					"expanded_url": "https://twitter.com/i/web/status/989478290560897025",
-					"display_url": "twitter.com/i/web/status/9…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
@@ -4222,17 +3720,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -4246,23 +3744,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8396,
-			"friends_count": 1113,
-			"listed_count": 514,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40628,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -4289,26 +3787,31 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "My advice to all students, regardless of political stripes, is never talk to *any* of the cable news networks. They will use you and spit you out."
 	},
 	{
 		"created_at": "Thu Apr 26 11:47:52 +0000 2018",
 		"id": 989471118695239700,
 		"id_str": "989471118695239680",
-		"text": "One lesson here is that FOX News will use—and I mean exploit—both the right and the left in its outrage ratings gam… https://t.co/H5QaW4lvm8",
-		"truncated": true,
+		"full_text": "One lesson here is that FOX News will use—and I mean exploit—both the right and the left in its outrage ratings game.  https://t.co/0Evku6XnhW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
 			"urls": [
 				{
-					"url": "https://t.co/H5QaW4lvm8",
-					"expanded_url": "https://twitter.com/i/web/status/989471118695239680",
-					"display_url": "twitter.com/i/web/status/9…",
+					"url": "https://t.co/0Evku6XnhW",
+					"expanded_url": "http://www.charlotteobserver.com/opinion/article209798914.html",
+					"display_url": "charlotteobserver.com/opinion/articl…",
 					"indices": [
-						117,
-						140
+						119,
+						142
 					]
 				}
 			]
@@ -4322,17 +3825,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -4346,23 +3849,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8396,
-			"friends_count": 1113,
-			"listed_count": 514,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40628,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -4390,14 +3893,19 @@ Grailbird.data.tweets_2018_04 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "One lesson here is that FOX News will use—and I mean exploit—both the right and the left in its outrage ratings game.  https://t.co/0Evku6XnhW"
 	},
 	{
 		"created_at": "Thu Apr 26 01:38:10 +0000 2018",
 		"id": 989317682574000100,
 		"id_str": "989317682574000130",
-		"text": "#10PRINT https://t.co/9KANlE80jo",
+		"full_text": "#10PRINT https://t.co/9KANlE80jo",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -4422,7 +3930,7 @@ Grailbird.data.tweets_2018_04 =
 				}
 			]
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
@@ -4431,17 +3939,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -4455,23 +3963,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8390,
-			"friends_count": 1113,
-			"listed_count": 514,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40604,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -4496,12 +4004,21 @@ Grailbird.data.tweets_2018_04 =
 		"is_quote_status": true,
 		"quoted_status_id": 989266507686469600,
 		"quoted_status_id_str": "989266507686469632",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9KANlE80jo",
+			"expanded": "https://twitter.com/patrickweave_r/status/989266507686469632",
+			"display": "twitter.com/patrickweave_r…"
+		},
 		"quoted_status": {
 			"created_at": "Wed Apr 25 22:14:49 +0000 2018",
 			"id": 989266507686469600,
 			"id_str": "989266507686469632",
-			"text": "@walkerdanny @shiffman @noopkat Added speed and size dials to this! I think it's a video game now. https://t.co/9hImLkGuB3",
+			"full_text": "@walkerdanny @shiffman @noopkat Added speed and size dials to this! I think it's a video game now. https://t.co/9hImLkGuB3",
 			"truncated": false,
+			"display_text_range": [
+				32,
+				98
+			],
 			"entities": {
 				"hashtags": [],
 				"symbols": [],
@@ -4655,7 +4172,7 @@ Grailbird.data.tweets_2018_04 =
 				"name": "Patrick Weaver",
 				"screen_name": "patrickweave_r",
 				"location": "NYC, Earth, Milky Way",
-				"description": "Learning Design Manager for @Mouse_org, friend of @mousefridge and @patweaver",
+				"description": "Experimenting with Human Human Interaction using computers at @Mouse_org and the world. Friend of @mousefridge.",
 				"url": "https://t.co/n9D6zyLlVB",
 				"entities": {
 					"url": {
@@ -4676,16 +4193,16 @@ Grailbird.data.tweets_2018_04 =
 					}
 				},
 				"protected": false,
-				"followers_count": 179,
-				"friends_count": 606,
-				"listed_count": 11,
+				"followers_count": 260,
+				"friends_count": 772,
+				"listed_count": 16,
 				"created_at": "Thu Feb 19 19:34:50 +0000 2015",
-				"favourites_count": 222,
-				"utc_offset": -25200,
-				"time_zone": "Pacific Time (US & Canada)",
+				"favourites_count": 564,
+				"utc_offset": null,
+				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 248,
+				"statuses_count": 320,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -4716,73 +4233,68 @@ Grailbird.data.tweets_2018_04 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 6,
-			"favorite_count": 20,
+			"favorite_count": 35,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
 		"retweet_count": 0,
-		"favorite_count": 2,
+		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "und"
+		"lang": "und",
+		"text": "#10PRINT https://t.co/9KANlE80jo"
 	},
 	{
-		"created_at": "Wed Apr 25 23:42:06 +0000 2018",
-		"id": 989288471889104900,
-		"id_str": "989288471889104897",
-		"text": "RT @Popehat: So.  @TheFIREorg is my go-to place for campus free speech stuff, of course.  \nBut in the last couple of years other sites cove…",
+		"created_at": "Wed Apr 25 20:53:27 +0000 2018",
+		"id": 989246030959935500,
+		"id_str": "989246030959935488",
+		"full_text": "So.  @TheFIREorg is my go-to place for campus free speech stuff, of course.  \nBut in the last couple of years other sites covering campus free speech issues have sprung up.\n\nSome people say those new sites are partisan right-wing, but nah, I'm sure they're principled.\n/1",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [
-				{
-					"screen_name": "Popehat",
-					"name": "FiteMeHat",
-					"id": 18839937,
-					"id_str": "18839937",
-					"indices": [
-						3,
-						11
-					]
-				},
 				{
 					"screen_name": "TheFIREorg",
 					"name": "FIRE",
 					"id": 17839988,
 					"id_str": "17839988",
 					"indices": [
-						18,
-						29
+						5,
+						16
 					]
 				}
 			],
 			"urls": []
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 8497292,
-			"id_str": "8497292",
-			"name": "Mark Sample",
-			"screen_name": "samplereality",
-			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"id": 18839937,
+			"id_str": "18839937",
+			"name": "EmergyHat!",
+			"screen_name": "Popehat",
+			"location": "Los Angeles",
+			"description": "Twitter feed of https://t.co/ytMLDIXgGy. Most tweets by Ken White. Host of Make No Law podcast https://t.co/ax06jy4VSX",
+			"url": "https://t.co/y1EN0rnI1n",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
-							"display_url": "samplereality.com",
+							"url": "https://t.co/y1EN0rnI1n",
+							"expanded_url": "http://www.popehat.com",
+							"display_url": "popehat.com",
 							"indices": [
 								0,
 								23
@@ -4791,36 +4303,55 @@ Grailbird.data.tweets_2018_04 =
 					]
 				},
 				"description": {
-					"urls": []
+					"urls": [
+						{
+							"url": "https://t.co/ytMLDIXgGy",
+							"expanded_url": "http://Popehat.com",
+							"display_url": "Popehat.com",
+							"indices": [
+								16,
+								39
+							]
+						},
+						{
+							"url": "https://t.co/ax06jy4VSX",
+							"expanded_url": "https://legaltalknetwork.com/podcasts/make-no-law/",
+							"display_url": "legaltalknetwork.com/podcasts/make-…",
+							"indices": [
+								95,
+								118
+							]
+						}
+					]
 				}
 			},
 			"protected": false,
-			"followers_count": 8390,
-			"friends_count": 1113,
-			"listed_count": 514,
-			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"followers_count": 143009,
+			"friends_count": 976,
+			"listed_count": 2614,
+			"created_at": "Sat Jan 10 17:24:58 +0000 2009",
+			"favourites_count": 26322,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40604,
+			"statuses_count": 155168,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
-			"profile_link_color": "236299",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "A0C5C7",
-			"profile_text_color": "333333",
-			"profile_use_background_image": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/884879301190967296/oTCsTck5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/884879301190967296/oTCsTck5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18839937/1497500535",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "65B0DA",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
@@ -4833,197 +4364,61 @@ Grailbird.data.tweets_2018_04 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Wed Apr 25 20:53:27 +0000 2018",
-			"id": 989246030959935500,
-			"id_str": "989246030959935488",
-			"text": "So.  @TheFIREorg is my go-to place for campus free speech stuff, of course.  \nBut in the last couple of years other… https://t.co/tyjZqdDCD8",
-			"truncated": true,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [
-					{
-						"screen_name": "TheFIREorg",
-						"name": "FIRE",
-						"id": 17839988,
-						"id_str": "17839988",
-						"indices": [
-							5,
-							16
-						]
-					}
-				],
-				"urls": [
-					{
-						"url": "https://t.co/tyjZqdDCD8",
-						"expanded_url": "https://twitter.com/i/web/status/989246030959935488",
-						"display_url": "twitter.com/i/web/status/9…",
-						"indices": [
-							117,
-							140
-						]
-					}
-				]
-			},
-			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 18839937,
-				"id_str": "18839937",
-				"name": "FiteMeHat",
-				"screen_name": "Popehat",
-				"location": "Los Angeles",
-				"description": "Twitter feed of https://t.co/ytMLDIXgGy. Most tweets by Ken White.  Host of Make No Law podcast https://t.co/ax06jy4VSX",
-				"url": "https://t.co/y1EN0rnI1n",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/y1EN0rnI1n",
-								"expanded_url": "http://www.popehat.com",
-								"display_url": "popehat.com",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": [
-							{
-								"url": "https://t.co/ytMLDIXgGy",
-								"expanded_url": "http://Popehat.com",
-								"display_url": "Popehat.com",
-								"indices": [
-									16,
-									39
-								]
-							},
-							{
-								"url": "https://t.co/ax06jy4VSX",
-								"expanded_url": "https://legaltalknetwork.com/podcasts/make-no-law/",
-								"display_url": "legaltalknetwork.com/podcasts/make-…",
-								"indices": [
-									96,
-									119
-								]
-							}
-						]
-					}
-				},
-				"protected": false,
-				"followers_count": 114313,
-				"friends_count": 934,
-				"listed_count": 2086,
-				"created_at": "Sat Jan 10 17:24:58 +0000 2009",
-				"favourites_count": 18870,
-				"utc_offset": -14400,
-				"time_zone": "Eastern Time (US & Canada)",
-				"geo_enabled": true,
-				"verified": false,
-				"statuses_count": 143781,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "642D8B",
-				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/3955682/Popehat.jpg",
-				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/3955682/Popehat.jpg",
-				"profile_background_tile": true,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/884879301190967296/oTCsTck5_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/884879301190967296/oTCsTck5_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18839937/1497500535",
-				"profile_link_color": "FF0000",
-				"profile_sidebar_border_color": "65B0DA",
-				"profile_sidebar_fill_color": "7AC3EE",
-				"profile_text_color": "3D1957",
-				"profile_use_background_image": true,
-				"has_extended_profile": true,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 238,
-			"favorite_count": 460,
-			"favorited": false,
-			"retweeted": true,
-			"lang": "en"
-		},
 		"is_quote_status": false,
-		"retweet_count": 238,
-		"favorite_count": 0,
+		"retweet_count": 264,
+		"favorite_count": 560,
 		"favorited": false,
 		"retweeted": true,
-		"lang": "en"
+		"lang": "en",
+		"text": "So.  @TheFIREorg is my go-to place for campus free speech stuff, of course.  \nBut in the last couple of years other sites covering campus free speech issues have sprung up.\n\nSome people say those new sites are partisan right-wing, but nah, I'm sure they're principled.\n/1"
 	},
 	{
-		"created_at": "Wed Apr 25 00:17:26 +0000 2018",
-		"id": 988934976380031000,
-		"id_str": "988934976380030978",
-		"text": "RT @SummitCoffee: Running it back! https://t.co/y0UQgHHdgQ",
+		"created_at": "Wed Apr 25 00:07:39 +0000 2018",
+		"id": 988932514411614200,
+		"id_str": "988932514411614208",
+		"full_text": "Running it back! https://t.co/y0UQgHHdgQ",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "SummitCoffee",
-					"name": "Summit Coffee Co.",
-					"id": 78464518,
-					"id_str": "78464518",
-					"indices": [
-						3,
-						16
-					]
-				}
-			],
+			"user_mentions": [],
 			"urls": [
 				{
 					"url": "https://t.co/y0UQgHHdgQ",
 					"expanded_url": "https://twitter.com/the_davidsonian/status/988931657234305024",
 					"display_url": "twitter.com/the_davidsonia…",
 					"indices": [
-						35,
-						58
+						17,
+						40
 					]
 				}
 			]
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 8497292,
-			"id_str": "8497292",
-			"name": "Mark Sample",
-			"screen_name": "samplereality",
-			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"id": 78464518,
+			"id_str": "78464518",
+			"name": "Summit Coffee Co.",
+			"screen_name": "SummitCoffee",
+			"location": "Davidson, NC",
+			"description": "Good Coffee, Good People, Good Community. That's what we're about. Check out our podcast! https://t.co/x1YJE4KIHI",
+			"url": "https://t.co/zgGQ22Lfxz",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
-							"display_url": "samplereality.com",
+							"url": "https://t.co/zgGQ22Lfxz",
+							"expanded_url": "https://www.summitcoffee.com/",
+							"display_url": "summitcoffee.com",
 							"indices": [
 								0,
 								23
@@ -5032,40 +4427,50 @@ Grailbird.data.tweets_2018_04 =
 					]
 				},
 				"description": {
-					"urls": []
+					"urls": [
+						{
+							"url": "https://t.co/x1YJE4KIHI",
+							"expanded_url": "https://soundcloud.com/brian-helfrich-364419513",
+							"display_url": "soundcloud.com/brian-helfrich…",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
 				}
 			},
 			"protected": false,
-			"followers_count": 8387,
-			"friends_count": 1113,
-			"listed_count": 514,
-			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
-			"geo_enabled": true,
+			"followers_count": 2155,
+			"friends_count": 89,
+			"listed_count": 53,
+			"created_at": "Wed Sep 30 00:38:24 +0000 2009",
+			"favourites_count": 227,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 40602,
+			"statuses_count": 2588,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
-			"profile_link_color": "236299",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "A0C5C7",
-			"profile_text_color": "333333",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/735119525675307008/_BgGyW6K_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/735119525675307008/_BgGyW6K_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78464518/1540410098",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
 			"profile_use_background_image": false,
-			"has_extended_profile": true,
+			"has_extended_profile": false,
 			"default_profile": false,
 			"default_profile_image": false,
-			"following": false,
+			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
 			"translator_type": "none"
@@ -5074,25 +4479,115 @@ Grailbird.data.tweets_2018_04 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Wed Apr 25 00:07:39 +0000 2018",
-			"id": 988932514411614200,
-			"id_str": "988932514411614208",
-			"text": "Running it back! https://t.co/y0UQgHHdgQ",
+		"is_quote_status": true,
+		"quoted_status_id": 988931657234305000,
+		"quoted_status_id_str": "988931657234305024",
+		"quoted_status_permalink": {
+			"url": "https://t.co/y0UQgHHdgQ",
+			"expanded": "https://twitter.com/the_davidsonian/status/988931657234305024",
+			"display": "twitter.com/the_davidsonia…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 25 00:04:15 +0000 2018",
+			"id": 988931657234305000,
+			"id_str": "988931657234305024",
+			"full_text": "ONLINE EXCLUSIVE: Summit CEO Discusses Outpost Future\n\nOur Editors-in-Chief sat down with Brian Helfrich, Summit Coffee Owner and CEO, to discuss the company's decision to renew their contract and remain on campus for another five years.\n\nhttps://t.co/tjdbIq8aRj https://t.co/NjnH7qhR9A",
 			"truncated": false,
+			"display_text_range": [
+				0,
+				262
+			],
 			"entities": {
 				"hashtags": [],
 				"symbols": [],
 				"user_mentions": [],
 				"urls": [
 					{
-						"url": "https://t.co/y0UQgHHdgQ",
-						"expanded_url": "https://twitter.com/the_davidsonian/status/988931657234305024",
-						"display_url": "twitter.com/the_davidsonia…",
+						"url": "https://t.co/tjdbIq8aRj",
+						"expanded_url": "http://www.davidsonian.com/exclusive-summit-ceo-discusses-outpost-future/",
+						"display_url": "davidsonian.com/exclusive-summ…",
 						"indices": [
-							17,
-							40
+							239,
+							262
 						]
+					}
+				],
+				"media": [
+					{
+						"id": 988931653191061500,
+						"id_str": "988931653191061504",
+						"indices": [
+							263,
+							286
+						],
+						"media_url": "http://pbs.twimg.com/media/DblkGVeX0AAwkNF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DblkGVeX0AAwkNF.jpg",
+						"url": "https://t.co/NjnH7qhR9A",
+						"display_url": "pic.twitter.com/NjnH7qhR9A",
+						"expanded_url": "https://twitter.com/The_Davidsonian/status/988931657234305024/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 578,
+								"h": 380,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 578,
+								"h": 380,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 578,
+								"h": 380,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 988931653191061500,
+						"id_str": "988931653191061504",
+						"indices": [
+							263,
+							286
+						],
+						"media_url": "http://pbs.twimg.com/media/DblkGVeX0AAwkNF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DblkGVeX0AAwkNF.jpg",
+						"url": "https://t.co/NjnH7qhR9A",
+						"display_url": "pic.twitter.com/NjnH7qhR9A",
+						"expanded_url": "https://twitter.com/The_Davidsonian/status/988931657234305024/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 578,
+								"h": 380,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 578,
+								"h": 380,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 578,
+								"h": 380,
+								"resize": "fit"
+							}
+						}
 					}
 				]
 			},
@@ -5103,23 +4598,23 @@ Grailbird.data.tweets_2018_04 =
 			"in_reply_to_user_id_str": null,
 			"in_reply_to_screen_name": null,
 			"user": {
-				"id": 78464518,
-				"id_str": "78464518",
-				"name": "Summit Coffee Co.",
-				"screen_name": "SummitCoffee",
-				"location": "Davidson, NC",
-				"description": "Good Coffee, Good People, Good Community. That's what we're about. Come join us.",
-				"url": "https://t.co/y9wkSj6Nfz",
+				"id": 577450856,
+				"id_str": "577450856",
+				"name": "The Davidsonian",
+				"screen_name": "The_Davidsonian",
+				"location": "Davidson, North Carolina",
+				"description": "The independent student newspaper of @DavidsonCollege since 1914",
+				"url": "http://t.co/HkJb9OIxud",
 				"entities": {
 					"url": {
 						"urls": [
 							{
-								"url": "https://t.co/y9wkSj6Nfz",
-								"expanded_url": "http://www.summitcoffee.com",
-								"display_url": "summitcoffee.com",
+								"url": "http://t.co/HkJb9OIxud",
+								"expanded_url": "http://www.davidsonian.com/",
+								"display_url": "davidsonian.com",
 								"indices": [
 									0,
-									23
+									22
 								]
 							}
 						]
@@ -5129,16 +4624,16 @@ Grailbird.data.tweets_2018_04 =
 					}
 				},
 				"protected": false,
-				"followers_count": 2146,
-				"friends_count": 84,
-				"listed_count": 51,
-				"created_at": "Wed Sep 30 00:38:24 +0000 2009",
-				"favourites_count": 183,
-				"utc_offset": -18000,
-				"time_zone": "Quito",
-				"geo_enabled": false,
+				"followers_count": 1996,
+				"friends_count": 515,
+				"listed_count": 41,
+				"created_at": "Fri May 11 20:52:50 +0000 2012",
+				"favourites_count": 409,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 2552,
+				"statuses_count": 5564,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -5146,17 +4641,17 @@ Grailbird.data.tweets_2018_04 =
 				"profile_background_color": "C0DEED",
 				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/735119525675307008/_BgGyW6K_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/735119525675307008/_BgGyW6K_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/78464518/1462154284",
-				"profile_link_color": "1DA1F2",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/983570268273586176/bGzfkUpV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/983570268273586176/bGzfkUpV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/577450856/1536191081",
+				"profile_link_color": "0084B4",
 				"profile_sidebar_border_color": "C0DEED",
 				"profile_sidebar_fill_color": "DDEEF6",
 				"profile_text_color": "333333",
 				"profile_use_background_image": true,
 				"has_extended_profile": false,
-				"default_profile": true,
+				"default_profile": false,
 				"default_profile_image": false,
 				"following": true,
 				"follow_request_sent": false,
@@ -5167,133 +4662,32 @@ Grailbird.data.tweets_2018_04 =
 			"coordinates": null,
 			"place": null,
 			"contributors": null,
-			"is_quote_status": true,
-			"quoted_status_id": 988931657234305000,
-			"quoted_status_id_str": "988931657234305024",
-			"quoted_status": {
-				"created_at": "Wed Apr 25 00:04:15 +0000 2018",
-				"id": 988931657234305000,
-				"id_str": "988931657234305024",
-				"text": "ONLINE EXCLUSIVE: Summit CEO Discusses Outpost Future\n\nOur Editors-in-Chief sat down with Brian Helfrich, Summit Co… https://t.co/Ex1GiOs2CM",
-				"truncated": true,
-				"entities": {
-					"hashtags": [],
-					"symbols": [],
-					"user_mentions": [],
-					"urls": [
-						{
-							"url": "https://t.co/Ex1GiOs2CM",
-							"expanded_url": "https://twitter.com/i/web/status/988931657234305024",
-							"display_url": "twitter.com/i/web/status/9…",
-							"indices": [
-								117,
-								140
-							]
-						}
-					]
-				},
-				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-				"in_reply_to_status_id": null,
-				"in_reply_to_status_id_str": null,
-				"in_reply_to_user_id": null,
-				"in_reply_to_user_id_str": null,
-				"in_reply_to_screen_name": null,
-				"user": {
-					"id": 577450856,
-					"id_str": "577450856",
-					"name": "The Davidsonian",
-					"screen_name": "The_Davidsonian",
-					"location": "Davidson, North Carolina",
-					"description": "The independent student newspaper of @DavidsonCollege since 1914",
-					"url": "http://t.co/HkJb9OIxud",
-					"entities": {
-						"url": {
-							"urls": [
-								{
-									"url": "http://t.co/HkJb9OIxud",
-									"expanded_url": "http://www.davidsonian.com/",
-									"display_url": "davidsonian.com",
-									"indices": [
-										0,
-										22
-									]
-								}
-							]
-						},
-						"description": {
-							"urls": []
-						}
-					},
-					"protected": false,
-					"followers_count": 1918,
-					"friends_count": 508,
-					"listed_count": 40,
-					"created_at": "Fri May 11 20:52:50 +0000 2012",
-					"favourites_count": 313,
-					"utc_offset": -14400,
-					"time_zone": "Eastern Time (US & Canada)",
-					"geo_enabled": true,
-					"verified": false,
-					"statuses_count": 5448,
-					"lang": "en",
-					"contributors_enabled": false,
-					"is_translator": false,
-					"is_translation_enabled": false,
-					"profile_background_color": "C0DEED",
-					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/550052411/Slide1.jpg",
-					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/550052411/Slide1.jpg",
-					"profile_background_tile": true,
-					"profile_image_url": "http://pbs.twimg.com/profile_images/983570268273586176/bGzfkUpV_normal.jpg",
-					"profile_image_url_https": "https://pbs.twimg.com/profile_images/983570268273586176/bGzfkUpV_normal.jpg",
-					"profile_banner_url": "https://pbs.twimg.com/profile_banners/577450856/1523336105",
-					"profile_link_color": "0084B4",
-					"profile_sidebar_border_color": "C0DEED",
-					"profile_sidebar_fill_color": "DDEEF6",
-					"profile_text_color": "333333",
-					"profile_use_background_image": true,
-					"has_extended_profile": false,
-					"default_profile": false,
-					"default_profile_image": false,
-					"following": true,
-					"follow_request_sent": false,
-					"notifications": false,
-					"translator_type": "none"
-				},
-				"geo": null,
-				"coordinates": null,
-				"place": null,
-				"contributors": null,
-				"is_quote_status": false,
-				"retweet_count": 2,
-				"favorite_count": 14,
-				"favorited": false,
-				"retweeted": false,
-				"possibly_sensitive": false,
-				"lang": "en"
-			},
-			"retweet_count": 4,
-			"favorite_count": 8,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 15,
 			"favorited": false,
-			"retweeted": true,
+			"retweeted": false,
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
-		"is_quote_status": true,
-		"quoted_status_id": 988931657234305000,
-		"quoted_status_id_str": "988931657234305024",
 		"retweet_count": 4,
-		"favorite_count": 0,
+		"favorite_count": 9,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Running it back! https://t.co/y0UQgHHdgQ"
 	},
 	{
 		"created_at": "Tue Apr 24 02:12:38 +0000 2018",
 		"id": 988601577983356900,
 		"id_str": "988601577983356928",
-		"text": "I just discovered you can embed variables in the grammars of @aparrish's Python port of Tracery, and this changes e… https://t.co/pV5yYKzquQ",
-		"truncated": true,
+		"full_text": "I just discovered you can embed variables in the grammars of @aparrish's Python port of Tracery, and this changes everything. (And was probably obvious to everyone else already.)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -5309,17 +4703,7 @@ Grailbird.data.tweets_2018_04 =
 					]
 				}
 			],
-			"urls": [
-				{
-					"url": "https://t.co/pV5yYKzquQ",
-					"expanded_url": "https://twitter.com/i/web/status/988601577983356928",
-					"display_url": "twitter.com/i/web/status/9…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
 		"in_reply_to_status_id": null,
@@ -5330,17 +4714,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -5354,23 +4738,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8385,
-			"friends_count": 1113,
-			"listed_count": 514,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40601,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -5394,30 +4778,113 @@ Grailbird.data.tweets_2018_04 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 2,
+		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "I just discovered you can embed variables in the grammars of @aparrish's Python port of Tracery, and this changes everything. (And was probably obvious to everyone else already.)"
 	},
 	{
 		"created_at": "Mon Apr 23 15:43:28 +0000 2018",
 		"id": 988443245926666200,
 		"id_str": "988443245926666240",
-		"text": "Horace Fletcher, the guy who popularized the idea of chewing each bite of food 32 times, thought such mastication w… https://t.co/h6rWZ62RL2",
-		"truncated": true,
+		"full_text": "Horace Fletcher, the guy who popularized the idea of chewing each bite of food 32 times, thought such mastication would produce shit the \"odour of moist clay or of a hot biscuit\" https://t.co/NkT7s74A3E https://t.co/NSCmiezJgV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
 			"urls": [
 				{
-					"url": "https://t.co/h6rWZ62RL2",
-					"expanded_url": "https://twitter.com/i/web/status/988443245926666240",
-					"display_url": "twitter.com/i/web/status/9…",
+					"url": "https://t.co/NkT7s74A3E",
+					"expanded_url": "https://babel.hathitrust.org/cgi/pt?id=uc1.b4108576;view=1up;seq=84",
+					"display_url": "babel.hathitrust.org/cgi/pt?id=uc1.…",
 					"indices": [
-						117,
-						140
+						179,
+						202
 					]
+				}
+			],
+			"media": [
+				{
+					"id": 988443243829452800,
+					"id_str": "988443243829452801",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/Dben5K0W4AEbWUS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dben5K0W4AEbWUS.jpg",
+					"url": "https://t.co/NSCmiezJgV",
+					"display_url": "pic.twitter.com/NSCmiezJgV",
+					"expanded_url": "https://twitter.com/samplereality/status/988443245926666240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 424,
+							"h": 240,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 424,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 424,
+							"h": 240,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 988443243829452800,
+					"id_str": "988443243829452801",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/Dben5K0W4AEbWUS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dben5K0W4AEbWUS.jpg",
+					"url": "https://t.co/NSCmiezJgV",
+					"display_url": "pic.twitter.com/NSCmiezJgV",
+					"expanded_url": "https://twitter.com/samplereality/status/988443245926666240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 424,
+							"h": 240,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 424,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 424,
+							"h": 240,
+							"resize": "fit"
+						}
+					}
 				}
 			]
 		},
@@ -5430,17 +4897,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -5454,23 +4921,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8385,
-			"friends_count": 1113,
-			"listed_count": 514,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40601,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -5494,31 +4961,117 @@ Grailbird.data.tweets_2018_04 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 1,
-		"favorite_count": 2,
+		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Horace Fletcher, the guy who popularized the idea of chewing each bite of food 32 times, thought such mastication would produce shit the \"odour of moist clay or of a hot biscuit\" https://t.co/NkT7s74A3E https://t.co/NSCmiezJgV"
 	},
 	{
 		"created_at": "Mon Apr 23 00:40:37 +0000 2018",
 		"id": 988216033596108800,
 		"id_str": "988216033596108805",
-		"text": "Republican legislators in North Carolina when early voting plummeted for African Americans thanks to new policies i… https://t.co/sfLaBAUZpy",
-		"truncated": true,
+		"full_text": "Republican legislators in North Carolina when early voting plummeted for African Americans thanks to new policies in 2016 https://t.co/JIDabod4S0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
-			"urls": [
+			"urls": [],
+			"media": [
 				{
-					"url": "https://t.co/sfLaBAUZpy",
-					"expanded_url": "https://twitter.com/i/web/status/988216033596108805",
-					"display_url": "twitter.com/i/web/status/9…",
+					"id": 988216009378156500,
+					"id_str": "988216009378156544",
 					"indices": [
-						117,
-						140
-					]
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DbbZOYhW0AAjAIC.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DbbZOYhW0AAjAIC.jpg",
+					"url": "https://t.co/JIDabod4S0",
+					"display_url": "pic.twitter.com/JIDabod4S0",
+					"expanded_url": "https://twitter.com/samplereality/status/988216033596108805/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 988216009378156500,
+					"id_str": "988216009378156544",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DbbZOYhW0AAjAIC.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DbbZOYhW0AAjAIC.jpg",
+					"url": "https://t.co/JIDabod4S0",
+					"display_url": "pic.twitter.com/JIDabod4S0",
+					"expanded_url": "https://twitter.com/samplereality/status/988216033596108805/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							140
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DbbZOYhW0AAjAIC.mp4"
+							}
+						]
+					}
 				}
 			]
 		},
@@ -5531,17 +5084,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -5555,23 +5108,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8387,
-			"friends_count": 1113,
-			"listed_count": 514,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40599,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -5599,31 +5152,37 @@ Grailbird.data.tweets_2018_04 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Republican legislators in North Carolina when early voting plummeted for African Americans thanks to new policies in 2016 https://t.co/JIDabod4S0"
 	},
 	{
 		"created_at": "Mon Apr 23 00:34:30 +0000 2018",
 		"id": 988214495788093400,
 		"id_str": "988214495788093440",
-		"text": "One example of the reasonableness white rage masks itself in: disenfranchising people of color is done to “protect… https://t.co/abRCKaNDGB",
-		"truncated": true,
+		"full_text": "One example of the reasonableness white rage masks itself in: disenfranchising people of color is done to “protect the integrity of the ballot” - @ProfCAnderson",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [],
-			"urls": [
+			"user_mentions": [
 				{
-					"url": "https://t.co/abRCKaNDGB",
-					"expanded_url": "https://twitter.com/i/web/status/988214495788093440",
-					"display_url": "twitter.com/i/web/status/9…",
+					"screen_name": "ProfCAnderson",
+					"name": "Carol Anderson",
+					"id": 2497449176,
+					"id_str": "2497449176",
 					"indices": [
-						116,
-						139
+						146,
+						160
 					]
 				}
-			]
+			],
+			"urls": []
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
@@ -5632,17 +5191,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -5656,23 +5215,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8387,
-			"friends_count": 1113,
-			"listed_count": 514,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40599,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -5696,17 +5255,22 @@ Grailbird.data.tweets_2018_04 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 3,
-		"favorite_count": 7,
+		"favorite_count": 11,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "One example of the reasonableness white rage masks itself in: disenfranchising people of color is done to “protect the integrity of the ballot” - @ProfCAnderson"
 	},
 	{
 		"created_at": "Mon Apr 23 00:17:44 +0000 2018",
 		"id": 988210277303902200,
 		"id_str": "988210277303902208",
-		"text": "Tonight at @davidsoncollege, @ProfCAnderson asks, how does white rage work? Answer: by sounding reasonable.",
+		"full_text": "Tonight at @davidsoncollege, @ProfCAnderson asks, how does white rage work? Answer: by sounding reasonable.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -5734,7 +5298,7 @@ Grailbird.data.tweets_2018_04 =
 			],
 			"urls": []
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
@@ -5743,17 +5307,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -5767,23 +5331,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8387,
-			"friends_count": 1113,
-			"listed_count": 514,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40599,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -5810,37 +5374,31 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Tonight at @davidsoncollege, @ProfCAnderson asks, how does white rage work? Answer: by sounding reasonable."
 	},
 	{
-		"created_at": "Sun Apr 22 04:30:49 +0000 2018",
-		"id": 987911576618455000,
-		"id_str": "987911576618455040",
-		"text": "RT @bauhausbothaus: Space; Values (20th century) by P. Elkow https://t.co/BdM2CFsgdo https://t.co/mWvfpfPDAD",
+		"created_at": "Sun Apr 22 02:31:04 +0000 2018",
+		"id": 987881443027284000,
+		"id_str": "987881443027283968",
+		"full_text": "Space; Values (20th century) by P. Elkow https://t.co/BdM2CFsgdo https://t.co/mWvfpfPDAD",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "bauhausbothaus",
-					"name": "Bauhaus Bot",
-					"id": 979177515729211400,
-					"id_str": "979177515729211392",
-					"indices": [
-						3,
-						18
-					]
-				}
-			],
+			"user_mentions": [],
 			"urls": [
 				{
 					"url": "https://t.co/BdM2CFsgdo",
 					"expanded_url": "https://www.harvardartmuseums.org/collections/object/225376",
 					"display_url": "harvardartmuseums.org/collections/ob…",
 					"indices": [
-						61,
-						84
+						41,
+						64
 					]
 				}
 			],
@@ -5849,8 +5407,8 @@ Grailbird.data.tweets_2018_04 =
 					"id": 987881441555107800,
 					"id_str": "987881441555107840",
 					"indices": [
-						85,
-						108
+						65,
+						88
 					],
 					"media_url": "http://pbs.twimg.com/media/DbWo7-QX0AATiYE.jpg",
 					"media_url_https": "https://pbs.twimg.com/media/DbWo7-QX0AATiYE.jpg",
@@ -5879,11 +5437,7 @@ Grailbird.data.tweets_2018_04 =
 							"h": 768,
 							"resize": "fit"
 						}
-					},
-					"source_status_id": 987881443027284000,
-					"source_status_id_str": "987881443027283968",
-					"source_user_id": 979177515729211400,
-					"source_user_id_str": "979177515729211392"
+					}
 				}
 			]
 		},
@@ -5893,8 +5447,8 @@ Grailbird.data.tweets_2018_04 =
 					"id": 987881441555107800,
 					"id_str": "987881441555107840",
 					"indices": [
-						85,
-						108
+						65,
+						88
 					],
 					"media_url": "http://pbs.twimg.com/media/DbWo7-QX0AATiYE.jpg",
 					"media_url_https": "https://pbs.twimg.com/media/DbWo7-QX0AATiYE.jpg",
@@ -5923,77 +5477,60 @@ Grailbird.data.tweets_2018_04 =
 							"h": 768,
 							"resize": "fit"
 						}
-					},
-					"source_status_id": 987881443027284000,
-					"source_status_id_str": "987881443027283968",
-					"source_user_id": 979177515729211400,
-					"source_user_id_str": "979177515729211392"
+					}
 				}
 			]
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"https://www.twitter.com\" rel=\"nofollow\">Bauhaus Bot</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 8497292,
-			"id_str": "8497292",
-			"name": "Mark Sample",
-			"screen_name": "samplereality",
-			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"id": 979177515729211400,
+			"id_str": "979177515729211392",
+			"name": "Bauhaus Bot",
+			"screen_name": "bauhausbothaus",
+			"location": "Cambridge",
+			"description": "Finding random items in the Harvard University Art Museums' extensive Bauhaus Collection. A bot by @samplereality.",
+			"url": null,
 			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
-							"display_url": "samplereality.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
 				"description": {
 					"urls": []
 				}
 			},
 			"protected": false,
-			"followers_count": 8382,
-			"friends_count": 1112,
-			"listed_count": 514,
-			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"followers_count": 136,
+			"friends_count": 2,
+			"listed_count": 10,
+			"created_at": "Thu Mar 29 02:04:46 +0000 2018",
 			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
-			"geo_enabled": true,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 40596,
+			"statuses_count": 2028,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
-			"profile_link_color": "236299",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/979191001771315200/gMLnMT_v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/979191001771315200/gMLnMT_v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/979177515729211392/1522371998",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
 			"profile_text_color": "333333",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
 			"default_profile_image": false,
-			"following": false,
+			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
 			"translator_type": "none"
@@ -6002,186 +5539,25 @@ Grailbird.data.tweets_2018_04 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Sun Apr 22 02:31:04 +0000 2018",
-			"id": 987881443027284000,
-			"id_str": "987881443027283968",
-			"text": "Space; Values (20th century) by P. Elkow https://t.co/BdM2CFsgdo https://t.co/mWvfpfPDAD",
-			"truncated": false,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [
-					{
-						"url": "https://t.co/BdM2CFsgdo",
-						"expanded_url": "https://www.harvardartmuseums.org/collections/object/225376",
-						"display_url": "harvardartmuseums.org/collections/ob…",
-						"indices": [
-							41,
-							64
-						]
-					}
-				],
-				"media": [
-					{
-						"id": 987881441555107800,
-						"id_str": "987881441555107840",
-						"indices": [
-							65,
-							88
-						],
-						"media_url": "http://pbs.twimg.com/media/DbWo7-QX0AATiYE.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/DbWo7-QX0AATiYE.jpg",
-						"url": "https://t.co/mWvfpfPDAD",
-						"display_url": "pic.twitter.com/mWvfpfPDAD",
-						"expanded_url": "https://twitter.com/bauhausbothaus/status/987881443027283968/photo/1",
-						"type": "photo",
-						"sizes": {
-							"large": {
-								"w": 587,
-								"h": 768,
-								"resize": "fit"
-							},
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"small": {
-								"w": 520,
-								"h": 680,
-								"resize": "fit"
-							},
-							"medium": {
-								"w": 587,
-								"h": 768,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"extended_entities": {
-				"media": [
-					{
-						"id": 987881441555107800,
-						"id_str": "987881441555107840",
-						"indices": [
-							65,
-							88
-						],
-						"media_url": "http://pbs.twimg.com/media/DbWo7-QX0AATiYE.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/DbWo7-QX0AATiYE.jpg",
-						"url": "https://t.co/mWvfpfPDAD",
-						"display_url": "pic.twitter.com/mWvfpfPDAD",
-						"expanded_url": "https://twitter.com/bauhausbothaus/status/987881443027283968/photo/1",
-						"type": "photo",
-						"sizes": {
-							"large": {
-								"w": 587,
-								"h": 768,
-								"resize": "fit"
-							},
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"small": {
-								"w": 520,
-								"h": 680,
-								"resize": "fit"
-							},
-							"medium": {
-								"w": 587,
-								"h": 768,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"source": "<a href=\"https://www.twitter.com\" rel=\"nofollow\">Bauhaus Bot</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 979177515729211400,
-				"id_str": "979177515729211392",
-				"name": "Bauhaus Bot",
-				"screen_name": "bauhausbothaus",
-				"location": "Cambridge",
-				"description": "Finding random items in the Harvard University Art Museums' extensive Bauhaus Collection. A bot by @samplereality.",
-				"url": null,
-				"entities": {
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 52,
-				"friends_count": 2,
-				"listed_count": 5,
-				"created_at": "Thu Mar 29 02:04:46 +0000 2018",
-				"favourites_count": 0,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": false,
-				"verified": false,
-				"statuses_count": 277,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "F5F8FA",
-				"profile_background_image_url": null,
-				"profile_background_image_url_https": null,
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/979191001771315200/gMLnMT_v_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/979191001771315200/gMLnMT_v_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/979177515729211392/1522371998",
-				"profile_link_color": "1DA1F2",
-				"profile_sidebar_border_color": "C0DEED",
-				"profile_sidebar_fill_color": "DDEEF6",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": true,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 1,
-			"favorite_count": 1,
-			"favorited": false,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "pl"
-		},
 		"is_quote_status": false,
 		"retweet_count": 1,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
-		"lang": "pl"
+		"lang": "pl",
+		"text": "Space; Values (20th century) by P. Elkow https://t.co/BdM2CFsgdo https://t.co/mWvfpfPDAD"
 	},
 	{
 		"created_at": "Sat Apr 21 20:38:18 +0000 2018",
 		"id": 987792665684140000,
 		"id_str": "987792665684140032",
-		"text": "My only real question about SmugMug buying Flickr is will it break @fascists_exe. \nhttps://t.co/OaL7aihltP",
+		"full_text": "My only real question about SmugMug buying Flickr is will it break @fascists_exe. \nhttps://t.co/OaL7aihltP",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -6218,17 +5594,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -6242,23 +5618,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8382,
-			"friends_count": 1112,
-			"listed_count": 514,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40596,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -6283,12 +5659,21 @@ Grailbird.data.tweets_2018_04 =
 		"is_quote_status": true,
 		"quoted_status_id": 986881864366460900,
 		"quoted_status_id_str": "986881864366460928",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OaL7aihltP",
+			"expanded": "https://twitter.com/fascists_exe/status/986881864366460928",
+			"display": "twitter.com/fascists_exe/s…"
+		},
 		"quoted_status": {
 			"created_at": "Thu Apr 19 08:19:06 +0000 2018",
 			"id": 986881864366460900,
 			"id_str": "986881864366460928",
-			"text": "THIS BOX OF BAKING SODA KILLS FASCISTS https://t.co/pLxbdub3IZ",
+			"full_text": "THIS BOX OF BAKING SODA KILLS FASCISTS https://t.co/pLxbdub3IZ",
 			"truncated": false,
+			"display_text_range": [
+				0,
+				38
+			],
 			"entities": {
 				"hashtags": [],
 				"symbols": [],
@@ -6393,16 +5778,16 @@ Grailbird.data.tweets_2018_04 =
 					}
 				},
 				"protected": false,
-				"followers_count": 3146,
+				"followers_count": 3788,
 				"friends_count": 1,
-				"listed_count": 77,
+				"listed_count": 92,
 				"created_at": "Sun Jan 01 01:17:14 +0000 2017",
 				"favourites_count": 0,
-				"utc_offset": -14400,
-				"time_zone": "Eastern Time (US & Canada)",
+				"utc_offset": null,
+				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 5373,
+				"statuses_count": 7234,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -6432,26 +5817,31 @@ Grailbird.data.tweets_2018_04 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 3,
-			"favorite_count": 12,
+			"retweet_count": 4,
+			"favorite_count": 16,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": true,
 			"lang": "en"
 		},
 		"retweet_count": 0,
-		"favorite_count": 2,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "My only real question about SmugMug buying Flickr is will it break @fascists_exe. \nhttps://t.co/OaL7aihltP"
 	},
 	{
 		"created_at": "Sat Apr 21 01:40:34 +0000 2018",
 		"id": 987506344818282500,
 		"id_str": "987506344818282496",
-		"text": "@James_Mersol It might have! (And hey, good to hear from you!)",
+		"full_text": "@James_Mersol It might have! (And hey, good to hear from you!)",
 		"truncated": false,
+		"display_text_range": [
+			14,
+			62
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -6469,7 +5859,7 @@ Grailbird.data.tweets_2018_04 =
 			],
 			"urls": []
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
 		"in_reply_to_status_id": 987412131015512000,
 		"in_reply_to_status_id_str": "987412131015512064",
 		"in_reply_to_user_id": 38533646,
@@ -6478,17 +5868,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -6502,23 +5892,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8380,
-			"friends_count": 1112,
-			"listed_count": 513,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40594,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -6545,29 +5935,24 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@James_Mersol It might have! (And hey, good to hear from you!)"
 	},
 	{
 		"created_at": "Fri Apr 20 18:27:49 +0000 2018",
 		"id": 987397438892802000,
 		"id_str": "987397438892802049",
-		"text": "Yik Yak would still be around if they had only implemented the obvious revenue model: users pay a monthly fee to ke… https://t.co/ObX1itQBzt",
-		"truncated": true,
+		"full_text": "Yik Yak would still be around if they had only implemented the obvious revenue model: users pay a monthly fee to keep their anonymity. Don't pay the fee and your real name is displayed with your yaks.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/ObX1itQBzt",
-					"expanded_url": "https://twitter.com/i/web/status/987397438892802049",
-					"display_url": "twitter.com/i/web/status/9…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
 		"in_reply_to_status_id": null,
@@ -6578,17 +5963,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -6602,23 +5987,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8380,
-			"friends_count": 1112,
-			"listed_count": 513,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40594,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -6645,52 +6030,46 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Yik Yak would still be around if they had only implemented the obvious revenue model: users pay a monthly fee to keep their anonymity. Don't pay the fee and your real name is displayed with your yaks."
 	},
 	{
-		"created_at": "Fri Apr 20 17:26:14 +0000 2018",
-		"id": 987381941023494100,
-		"id_str": "987381941023494145",
-		"text": "RT @colsonwhitehead: Q: Why write about slavery? Haven’t we had enough stories about slavery? Why do we need another one?\nA: I could have w…",
+		"created_at": "Fri Apr 20 17:07:25 +0000 2018",
+		"id": 987377209215275000,
+		"id_str": "987377209215275009",
+		"full_text": "Q: Why write about slavery? Haven’t we had enough stories about slavery? Why do we need another one?\nA: I could have written about upper middle class white people who feel sad sometimes, but there’s a lot of competition.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "colsonwhitehead",
-					"name": "colson whitehead",
-					"id": 23641580,
-					"id_str": "23641580",
-					"indices": [
-						3,
-						19
-					]
-				}
-			],
+			"user_mentions": [],
 			"urls": []
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 8497292,
-			"id_str": "8497292",
-			"name": "Mark Sample",
-			"screen_name": "samplereality",
-			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"id": 23641580,
+			"id_str": "23641580",
+			"name": "colson whitehead",
+			"screen_name": "colsonwhitehead",
+			"location": "",
+			"description": "just another down on his luck carny with a pocketful of broken dreams. or not.",
+			"url": "https://t.co/nLJWdpLSbg",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
-							"display_url": "samplereality.com",
+							"url": "https://t.co/nLJWdpLSbg",
+							"expanded_url": "http://colsonwhitehead.com",
+							"display_url": "colsonwhitehead.com",
 							"indices": [
 								0,
 								23
@@ -6703,36 +6082,36 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8380,
-			"friends_count": 1112,
-			"listed_count": 513,
-			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"followers_count": 210850,
+			"friends_count": 576,
+			"listed_count": 2328,
+			"created_at": "Tue Mar 10 19:50:39 +0000 2009",
+			"favourites_count": 13043,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 40594,
+			"verified": true,
+			"statuses_count": 16938,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
-			"profile_link_color": "236299",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/263034586/photo_2__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/263034586/photo_2__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23641580/1355359362",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
 			"profile_text_color": "333333",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
 			"default_profile": false,
 			"default_profile_image": false,
-			"following": false,
+			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
 			"translator_type": "none"
@@ -6741,119 +6120,24 @@ Grailbird.data.tweets_2018_04 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Fri Apr 20 17:07:25 +0000 2018",
-			"id": 987377209215275000,
-			"id_str": "987377209215275009",
-			"text": "Q: Why write about slavery? Haven’t we had enough stories about slavery? Why do we need another one?\nA: I could hav… https://t.co/M3kWz4Fsum",
-			"truncated": true,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [
-					{
-						"url": "https://t.co/M3kWz4Fsum",
-						"expanded_url": "https://twitter.com/i/web/status/987377209215275009",
-						"display_url": "twitter.com/i/web/status/9…",
-						"indices": [
-							117,
-							140
-						]
-					}
-				]
-			},
-			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 23641580,
-				"id_str": "23641580",
-				"name": "colson whitehead",
-				"screen_name": "colsonwhitehead",
-				"location": "",
-				"description": "just another down on his luck carny with a pocketful of broken dreams. or not.",
-				"url": "https://t.co/nLJWdpLSbg",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/nLJWdpLSbg",
-								"expanded_url": "http://colsonwhitehead.com",
-								"display_url": "colsonwhitehead.com",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 215774,
-				"friends_count": 567,
-				"listed_count": 2312,
-				"created_at": "Tue Mar 10 19:50:39 +0000 2009",
-				"favourites_count": 11980,
-				"utc_offset": -14400,
-				"time_zone": "Eastern Time (US & Canada)",
-				"geo_enabled": true,
-				"verified": true,
-				"statuses_count": 16437,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "EBEBEB",
-				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/8135060/56swansontvdinner.jpg",
-				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/8135060/56swansontvdinner.jpg",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/263034586/photo_2__normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/263034586/photo_2__normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23641580/1355359362",
-				"profile_link_color": "990000",
-				"profile_sidebar_border_color": "DFDFDF",
-				"profile_sidebar_fill_color": "F3F3F3",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 1115,
-			"favorite_count": 6282,
-			"favorited": false,
-			"retweeted": true,
-			"lang": "en"
-		},
 		"is_quote_status": false,
-		"retweet_count": 1115,
-		"favorite_count": 0,
+		"retweet_count": 3806,
+		"favorite_count": 20829,
 		"favorited": false,
 		"retweeted": true,
-		"lang": "en"
+		"lang": "en",
+		"text": "Q: Why write about slavery? Haven’t we had enough stories about slavery? Why do we need another one?\nA: I could have written about upper middle class white people who feel sad sometimes, but there’s a lot of competition."
 	},
 	{
 		"created_at": "Fri Apr 20 17:24:04 +0000 2018",
 		"id": 987381399257837600,
 		"id_str": "987381399257837569",
-		"text": "@JMalazita @ThePSF This sounds really cool. Can’t wait to hear more about the course!",
+		"full_text": "@JMalazita @ThePSF This sounds really cool. Can’t wait to hear more about the course!",
 		"truncated": false,
+		"display_text_range": [
+			19,
+			85
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -6881,7 +6165,7 @@ Grailbird.data.tweets_2018_04 =
 			],
 			"urls": []
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
 		"in_reply_to_status_id": 987380644014645200,
 		"in_reply_to_status_id_str": "987380644014645248",
 		"in_reply_to_user_id": 27331430,
@@ -6890,17 +6174,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -6914,23 +6198,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8380,
-			"friends_count": 1112,
-			"listed_count": 513,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40594,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -6957,14 +6241,19 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@JMalazita @ThePSF This sounds really cool. Can’t wait to hear more about the course!"
 	},
 	{
 		"created_at": "Fri Apr 20 16:00:12 +0000 2018",
 		"id": 987360292446273500,
 		"id_str": "987360292446273546",
-		"text": "Please remove me from this thread.",
+		"full_text": "Please remove me from this thread.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -6980,17 +6269,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -7004,23 +6293,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8380,
-			"friends_count": 1112,
-			"listed_count": 513,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40594,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -7043,96 +6332,76 @@ Grailbird.data.tweets_2018_04 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 4,
+		"retweet_count": 1,
+		"favorite_count": 6,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Please remove me from this thread."
 	},
 	{
-		"created_at": "Thu Apr 19 19:03:25 +0000 2018",
-		"id": 987044010308063200,
-		"id_str": "987044010308063232",
-		"text": "RT @NSA_PRISMbot: Conrad Russel of Rosiemore, Tennessee emailed “i'm tired of feeling like the world is full of terrible people doing terri…",
+		"created_at": "Thu Feb 27 03:31:26 +0000 2014",
+		"id": 438879016410677250,
+		"id_str": "438879016410677248",
+		"full_text": "Conrad Russel of Rosiemore, Tennessee emailed “i'm tired of feeling like the world is full of terrible people doing terrible things.”",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "NSA_PRISMbot",
-					"name": "NSA PRISM",
-					"id": 1539693919,
-					"id_str": "1539693919",
-					"indices": [
-						3,
-						16
-					]
-				}
-			],
+			"user_mentions": [],
 			"urls": []
 		},
-		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"source": "<a href=\"http://www.samplereality.com\" rel=\"nofollow\">NSA PRISM BOT</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 8497292,
-			"id_str": "8497292",
-			"name": "Mark Sample",
-			"screen_name": "samplereality",
-			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"id": 1539693919,
+			"id_str": "1539693919",
+			"name": "NSA PRISM",
+			"screen_name": "NSA_PRISMbot",
+			"location": "We Are Everywhere.",
+			"description": "An experiment in speculative surveillance.",
+			"url": null,
 			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
-							"display_url": "samplereality.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
 				"description": {
 					"urls": []
 				}
 			},
 			"protected": false,
-			"followers_count": 8379,
-			"friends_count": 1112,
-			"listed_count": 513,
-			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
-			"geo_enabled": true,
+			"followers_count": 667,
+			"friends_count": 36,
+			"listed_count": 87,
+			"created_at": "Sat Jun 22 22:58:48 +0000 2013",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 40589,
+			"statuses_count": 12215,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
-			"profile_link_color": "236299",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000035923207/15be4bbda88cb51e598d384c1635c839_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000035923207/15be4bbda88cb51e598d384c1635c839_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
 			"profile_text_color": "333333",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
 			"default_profile_image": false,
 			"following": false,
 			"follow_request_sent": false,
@@ -7143,95 +6412,24 @@ Grailbird.data.tweets_2018_04 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Thu Feb 27 03:31:26 +0000 2014",
-			"id": 438879016410677250,
-			"id_str": "438879016410677248",
-			"text": "Conrad Russel of Rosiemore, Tennessee emailed “i'm tired of feeling like the world is full of terrible people doing terrible things.”",
-			"truncated": false,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": []
-			},
-			"source": "<a href=\"http://www.samplereality.com\" rel=\"nofollow\">NSA PRISM BOT</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 1539693919,
-				"id_str": "1539693919",
-				"name": "NSA PRISM",
-				"screen_name": "NSA_PRISMbot",
-				"location": "We Are Everywhere.",
-				"description": "An experiment in speculative surveillance.",
-				"url": null,
-				"entities": {
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 675,
-				"friends_count": 36,
-				"listed_count": 83,
-				"created_at": "Sat Jun 22 22:58:48 +0000 2013",
-				"favourites_count": 6,
-				"utc_offset": -10800,
-				"time_zone": "Atlantic Time (Canada)",
-				"geo_enabled": false,
-				"verified": false,
-				"statuses_count": 10789,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "C0DEED",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000035923207/15be4bbda88cb51e598d384c1635c839_normal.jpeg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000035923207/15be4bbda88cb51e598d384c1635c839_normal.jpeg",
-				"profile_link_color": "1DA1F2",
-				"profile_sidebar_border_color": "C0DEED",
-				"profile_sidebar_fill_color": "DDEEF6",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": true,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 3,
-			"favorite_count": 3,
-			"favorited": false,
-			"retweeted": true,
-			"lang": "en"
-		},
 		"is_quote_status": false,
 		"retweet_count": 3,
-		"favorite_count": 0,
+		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": true,
-		"lang": "en"
+		"lang": "en",
+		"text": "Conrad Russel of Rosiemore, Tennessee emailed “i'm tired of feeling like the world is full of terrible people doing terrible things.”"
 	},
 	{
 		"created_at": "Thu Apr 19 01:23:49 +0000 2018",
 		"id": 986777356911161300,
 		"id_str": "986777356911161345",
-		"text": "Oooh. It's totally conceivable I could make this show while we're in Spain this summer... \nhttps://t.co/gNxanmNTSj",
+		"full_text": "Oooh. It's totally conceivable I could make this show while we're in Spain this summer... \nhttps://t.co/gNxanmNTSj",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -7257,17 +6455,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -7281,23 +6479,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8377,
-			"friends_count": 1112,
-			"listed_count": 512,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40590,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -7322,12 +6520,21 @@ Grailbird.data.tweets_2018_04 =
 		"is_quote_status": true,
 		"quoted_status_id": 986167457252626400,
 		"quoted_status_id_str": "986167457252626433",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gNxanmNTSj",
+			"expanded": "https://twitter.com/Manics/status/986167457252626433",
+			"display": "twitter.com/Manics/status/…"
+		},
 		"quoted_status": {
 			"created_at": "Tue Apr 17 09:00:18 +0000 2018",
 			"id": 986167457252626400,
 			"id_str": "986167457252626433",
-			"text": "The Manics play @4everValencia, Spain on June 30th. \nGet tickets here: https://t.co/DDgedkd7on https://t.co/L6TtoLZc68",
+			"full_text": "The Manics play @4everValencia, Spain on June 30th. \nGet tickets here: https://t.co/DDgedkd7on https://t.co/L6TtoLZc68",
 			"truncated": false,
+			"display_text_range": [
+				0,
+				94
+			],
 			"entities": {
 				"hashtags": [],
 				"symbols": [],
@@ -7445,7 +6652,7 @@ Grailbird.data.tweets_2018_04 =
 				"name": "ManicStreetPreachers",
 				"screen_name": "Manics",
 				"location": "Blackwood, Wales",
-				"description": "New album 'Resistance Is Futile' out now: https://t.co/zDWg0jC1Zg",
+				"description": "‘This Is My Truth Tell Me Yours’ 20 Year Collector’s Edition out December 7th. https://t.co/ls2zye0abW",
 				"url": "https://t.co/w8JSwgj2JJ",
 				"entities": {
 					"url": {
@@ -7464,39 +6671,39 @@ Grailbird.data.tweets_2018_04 =
 					"description": {
 						"urls": [
 							{
-								"url": "https://t.co/zDWg0jC1Zg",
-								"expanded_url": "http://smarturl.it/ManicsOfficialStore?IQid=twitter.about",
-								"display_url": "smarturl.it/ManicsOfficial…",
+								"url": "https://t.co/ls2zye0abW",
+								"expanded_url": "http://smarturl.it/MTTMY20_TW",
+								"display_url": "smarturl.it/MTTMY20_TW",
 								"indices": [
-									42,
-									65
+									79,
+									102
 								]
 							}
 						]
 					}
 				},
 				"protected": false,
-				"followers_count": 130780,
-				"friends_count": 102,
-				"listed_count": 908,
+				"followers_count": 132084,
+				"friends_count": 105,
+				"listed_count": 920,
 				"created_at": "Tue Jun 22 16:46:41 +0000 2010",
-				"favourites_count": 33,
-				"utc_offset": 7200,
-				"time_zone": "Amsterdam",
+				"favourites_count": 44,
+				"utc_offset": null,
+				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 5573,
+				"statuses_count": 5928,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
 				"is_translation_enabled": false,
 				"profile_background_color": "F5F5F5",
-				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/530317715966132224/W7RlVfj6.jpeg",
-				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/530317715966132224/W7RlVfj6.jpeg",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/973923903964884992/kq4lJpc3_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/973923903964884992/kq4lJpc3_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/158416438/1523602770",
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1054296875480899584/R1pRz8Mw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054296875480899584/R1pRz8Mw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/158416438/1540199046",
 				"profile_link_color": "8CD9F2",
 				"profile_sidebar_border_color": "FFFFFF",
 				"profile_sidebar_fill_color": "DDEEF6",
@@ -7515,8 +6722,8 @@ Grailbird.data.tweets_2018_04 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 17,
-			"favorite_count": 86,
+			"retweet_count": 21,
+			"favorite_count": 94,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -7527,14 +6734,19 @@ Grailbird.data.tweets_2018_04 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Oooh. It's totally conceivable I could make this show while we're in Spain this summer... \nhttps://t.co/gNxanmNTSj"
 	},
 	{
 		"created_at": "Wed Apr 18 21:07:09 +0000 2018",
 		"id": 986712763467731000,
 		"id_str": "986712763467730946",
-		"text": "I’ve missed much of the #AllinforDavidson campaign today because I’ve been teaching, but then, getting to work with… https://t.co/wPcp9O8q1T",
-		"truncated": true,
+		"full_text": "I’ve missed much of the #AllinforDavidson campaign today because I’ve been teaching, but then, getting to work with awesome students is exactly why I’m #AllinforDavidson https://t.co/L1v6LmIKeg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -7543,23 +6755,30 @@ Grailbird.data.tweets_2018_04 =
 						24,
 						41
 					]
+				},
+				{
+					"text": "AllinforDavidson",
+					"indices": [
+						152,
+						169
+					]
 				}
 			],
 			"symbols": [],
 			"user_mentions": [],
 			"urls": [
 				{
-					"url": "https://t.co/wPcp9O8q1T",
-					"expanded_url": "https://twitter.com/i/web/status/986712763467730946",
-					"display_url": "twitter.com/i/web/status/9…",
+					"url": "https://t.co/L1v6LmIKeg",
+					"expanded_url": "https://www.givecampus.com/schools/DavidsonCollege/allinfordavidson/?a=134022",
+					"display_url": "givecampus.com/schools/Davids…",
 					"indices": [
-						117,
-						140
+						170,
+						193
 					]
 				}
 			]
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
@@ -7568,17 +6787,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -7592,23 +6811,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8377,
-			"friends_count": 1112,
-			"listed_count": 512,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40590,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -7632,18 +6851,23 @@ Grailbird.data.tweets_2018_04 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 5,
+		"favorite_count": 7,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "I’ve missed much of the #AllinforDavidson campaign today because I’ve been teaching, but then, getting to work with awesome students is exactly why I’m #AllinforDavidson https://t.co/L1v6LmIKeg"
 	},
 	{
 		"created_at": "Wed Apr 18 01:08:26 +0000 2018",
 		"id": 986411097279356900,
 		"id_str": "986411097279356929",
-		"text": "The life of the mind is great and all but the hours suck.",
+		"full_text": "The life of the mind is great and all but the hours suck.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -7659,17 +6883,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -7683,23 +6907,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8376,
-			"friends_count": 1112,
-			"listed_count": 512,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40588,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -7723,17 +6947,22 @@ Grailbird.data.tweets_2018_04 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 1,
-		"favorite_count": 11,
+		"favorite_count": 13,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "The life of the mind is great and all but the hours suck."
 	},
 	{
 		"created_at": "Wed Apr 18 00:55:17 +0000 2018",
 		"id": 986407787826737200,
 		"id_str": "986407787826737152",
-		"text": "Want some perspective for the end of the semester? https://t.co/xgYol8QOUv",
+		"full_text": "Want some perspective for the end of the semester? https://t.co/xgYol8QOUv",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -7759,17 +6988,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -7783,23 +7012,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8376,
-			"friends_count": 1112,
-			"listed_count": 512,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40588,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -7823,18 +7052,23 @@ Grailbird.data.tweets_2018_04 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 1,
-		"favorite_count": 3,
+		"favorite_count": 4,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Want some perspective for the end of the semester? https://t.co/xgYol8QOUv"
 	},
 	{
 		"created_at": "Tue Apr 17 22:16:26 +0000 2018",
 		"id": 986367808568221700,
 		"id_str": "986367808568221696",
-		"text": "(Seriously, that's the title of an internal document about Infocom's main programming language, ZIL.)",
+		"full_text": "(Seriously, that's the title of an internal document about Infocom's main programming language, ZIL.)",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -7850,17 +7084,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -7874,23 +7108,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8376,
-			"friends_count": 1112,
-			"listed_count": 512,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40588,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -7914,17 +7148,22 @@ Grailbird.data.tweets_2018_04 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "(Seriously, that's the title of an internal document about Infocom's main programming language, ZIL.)"
 	},
 	{
 		"created_at": "Tue Apr 17 22:15:36 +0000 2018",
 		"id": 986367599008206800,
 		"id_str": "986367599008206849",
-		"text": "Title of 1989 memo from Infocom: \"Everything You Always Wanted to Know About Writing IF But Couldn't Find Anyone Still Working Here to Ask\"",
+		"full_text": "Title of 1989 memo from Infocom: \"Everything You Always Wanted to Know About Writing IF But Couldn't Find Anyone Still Working Here to Ask\"",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -7940,17 +7179,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -7964,23 +7203,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8376,
-			"friends_count": 1112,
-			"listed_count": 512,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40588,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -8007,37 +7246,31 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Title of 1989 memo from Infocom: \"Everything You Always Wanted to Know About Writing IF But Couldn't Find Anyone Still Working Here to Ask\""
 	},
 	{
-		"created_at": "Tue Apr 17 14:28:47 +0000 2018",
-		"id": 986250123318644700,
-		"id_str": "986250123318644737",
-		"text": "RT @Clippy_exe: https://t.co/V6UBBqGk4g",
+		"created_at": "Tue Apr 17 14:28:04 +0000 2018",
+		"id": 986249942518943700,
+		"id_str": "986249942518943749",
+		"full_text": "https://t.co/V6UBBqGk4g",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "Clippy_exe",
-					"name": "Microsoft Clippy",
-					"id": 743107055750287400,
-					"id_str": "743107055750287362",
-					"indices": [
-						3,
-						14
-					]
-				}
-			],
+			"user_mentions": [],
 			"urls": [],
 			"media": [
 				{
 					"id": 986249941206163500,
 					"id_str": "986249941206163461",
 					"indices": [
-						16,
-						39
+						0,
+						23
 					],
 					"media_url": "http://pbs.twimg.com/media/Da_dGJ1X4AU7OLy.jpg",
 					"media_url_https": "https://pbs.twimg.com/media/Da_dGJ1X4AU7OLy.jpg",
@@ -8066,11 +7299,7 @@ Grailbird.data.tweets_2018_04 =
 							"h": 407,
 							"resize": "fit"
 						}
-					},
-					"source_status_id": 986249942518943700,
-					"source_status_id_str": "986249942518943749",
-					"source_user_id": 743107055750287400,
-					"source_user_id_str": "743107055750287362"
+					}
 				}
 			]
 		},
@@ -8080,8 +7309,8 @@ Grailbird.data.tweets_2018_04 =
 					"id": 986249941206163500,
 					"id_str": "986249941206163461",
 					"indices": [
-						16,
-						39
+						0,
+						23
 					],
 					"media_url": "http://pbs.twimg.com/media/Da_dGJ1X4AU7OLy.jpg",
 					"media_url_https": "https://pbs.twimg.com/media/Da_dGJ1X4AU7OLy.jpg",
@@ -8110,77 +7339,60 @@ Grailbird.data.tweets_2018_04 =
 							"h": 407,
 							"resize": "fit"
 						}
-					},
-					"source_status_id": 986249942518943700,
-					"source_status_id_str": "986249942518943749",
-					"source_user_id": 743107055750287400,
-					"source_user_id_str": "743107055750287362"
+					}
 				}
 			]
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Clippy_Exe</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 8497292,
-			"id_str": "8497292",
-			"name": "Mark Sample",
-			"screen_name": "samplereality",
-			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"id": 743107055750287400,
+			"id_str": "743107055750287362",
+			"name": "Microsoft Clippy",
+			"screen_name": "Clippy_exe",
+			"location": "Redmond, WA",
+			"description": "It looks like you're writing a tweet! Can I help?",
+			"url": null,
 			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
-							"display_url": "samplereality.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
 				"description": {
 					"urls": []
 				}
 			},
 			"protected": false,
-			"followers_count": 8376,
-			"friends_count": 1112,
-			"listed_count": 512,
-			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"followers_count": 83,
+			"friends_count": 29,
+			"listed_count": 13,
+			"created_at": "Wed Jun 15 15:45:03 +0000 2016",
 			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
-			"geo_enabled": true,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 40588,
+			"statuses_count": 222,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
-			"profile_link_color": "236299",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743107772024127489/CykwdRGT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743107772024127489/CykwdRGT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743107055750287362/1467344853",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
 			"profile_text_color": "333333",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
 			"default_profile_image": false,
-			"following": false,
+			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
 			"translator_type": "none"
@@ -8189,253 +7401,166 @@ Grailbird.data.tweets_2018_04 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Tue Apr 17 14:28:04 +0000 2018",
-			"id": 986249942518943700,
-			"id_str": "986249942518943749",
-			"text": "https://t.co/V6UBBqGk4g",
-			"truncated": false,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [],
-				"media": [
-					{
-						"id": 986249941206163500,
-						"id_str": "986249941206163461",
-						"indices": [
-							0,
-							23
-						],
-						"media_url": "http://pbs.twimg.com/media/Da_dGJ1X4AU7OLy.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/Da_dGJ1X4AU7OLy.jpg",
-						"url": "https://t.co/V6UBBqGk4g",
-						"display_url": "pic.twitter.com/V6UBBqGk4g",
-						"expanded_url": "https://twitter.com/Clippy_exe/status/986249942518943749/photo/1",
-						"type": "photo",
-						"sizes": {
-							"medium": {
-								"w": 241,
-								"h": 407,
-								"resize": "fit"
-							},
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"small": {
-								"w": 241,
-								"h": 407,
-								"resize": "fit"
-							},
-							"large": {
-								"w": 241,
-								"h": 407,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"extended_entities": {
-				"media": [
-					{
-						"id": 986249941206163500,
-						"id_str": "986249941206163461",
-						"indices": [
-							0,
-							23
-						],
-						"media_url": "http://pbs.twimg.com/media/Da_dGJ1X4AU7OLy.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/Da_dGJ1X4AU7OLy.jpg",
-						"url": "https://t.co/V6UBBqGk4g",
-						"display_url": "pic.twitter.com/V6UBBqGk4g",
-						"expanded_url": "https://twitter.com/Clippy_exe/status/986249942518943749/photo/1",
-						"type": "photo",
-						"sizes": {
-							"medium": {
-								"w": 241,
-								"h": 407,
-								"resize": "fit"
-							},
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"small": {
-								"w": 241,
-								"h": 407,
-								"resize": "fit"
-							},
-							"large": {
-								"w": 241,
-								"h": 407,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Clippy_Exe</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 743107055750287400,
-				"id_str": "743107055750287362",
-				"name": "Microsoft Clippy",
-				"screen_name": "Clippy_exe",
-				"location": "Redmond, WA",
-				"description": "It looks like you're writing a tweet! Can I help?",
-				"url": null,
-				"entities": {
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 91,
-				"friends_count": 29,
-				"listed_count": 11,
-				"created_at": "Wed Jun 15 15:45:03 +0000 2016",
-				"favourites_count": 0,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": false,
-				"verified": false,
-				"statuses_count": 220,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "F5F8FA",
-				"profile_background_image_url": null,
-				"profile_background_image_url_https": null,
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/743107772024127489/CykwdRGT_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/743107772024127489/CykwdRGT_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/743107055750287362/1467344853",
-				"profile_link_color": "1DA1F2",
-				"profile_sidebar_border_color": "C0DEED",
-				"profile_sidebar_fill_color": "DDEEF6",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": true,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 1,
-			"favorite_count": 1,
-			"favorited": false,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "und"
-		},
 		"is_quote_status": false,
 		"retweet_count": 1,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
-		"lang": "und"
+		"lang": "und",
+		"text": "https://t.co/V6UBBqGk4g"
 	},
 	{
-		"created_at": "Tue Apr 17 12:17:52 +0000 2018",
-		"id": 986217177454927900,
-		"id_str": "986217177454927873",
-		"text": "RT @lauren_kelley: As recently as 2009, female senators couldn’t use the pool in the congressional gym because some of their male colleague…",
+		"created_at": "Mon Apr 16 16:52:21 +0000 2018",
+		"id": 985923866248777700,
+		"id_str": "985923866248777729",
+		"full_text": "As recently as 2009, female senators couldn’t use the pool in the congressional gym because some of their male colleagues liked to swim naked. https://t.co/Jx1kYNQ3XJ https://t.co/YzThnkSKrW",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
+			"user_mentions": [],
+			"urls": [
 				{
-					"screen_name": "lauren_kelley",
-					"name": "Lauren Kelley",
-					"id": 151617922,
-					"id_str": "151617922",
+					"url": "https://t.co/Jx1kYNQ3XJ",
+					"expanded_url": "https://www.nytimes.com/2018/04/16/us/politics/collins-ernst-klobuchar-heitkamp.html",
+					"display_url": "nytimes.com/2018/04/16/us/…",
 					"indices": [
-						3,
-						17
+						143,
+						166
 					]
 				}
 			],
-			"urls": []
+			"media": [
+				{
+					"id": 985922381234495500,
+					"id_str": "985922381234495493",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/Da6zLp2W4AUPV-Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Da6zLp2W4AUPV-Y.jpg",
+					"url": "https://t.co/YzThnkSKrW",
+					"display_url": "pic.twitter.com/YzThnkSKrW",
+					"expanded_url": "https://twitter.com/lauren_kelley/status/985923866248777729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 279,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1174,
+							"h": 482,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1174,
+							"h": 482,
+							"resize": "fit"
+						}
+					}
+				}
+			]
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"extended_entities": {
+			"media": [
+				{
+					"id": 985922381234495500,
+					"id_str": "985922381234495493",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/Da6zLp2W4AUPV-Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Da6zLp2W4AUPV-Y.jpg",
+					"url": "https://t.co/YzThnkSKrW",
+					"display_url": "pic.twitter.com/YzThnkSKrW",
+					"expanded_url": "https://twitter.com/lauren_kelley/status/985923866248777729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 279,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1174,
+							"h": 482,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1174,
+							"h": 482,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 8497292,
-			"id_str": "8497292",
-			"name": "Mark Sample",
-			"screen_name": "samplereality",
-			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"id": 151617922,
+			"id_str": "151617922",
+			"name": "Lauren Kelley",
+			"screen_name": "lauren_kelley",
+			"location": "Brooklyn, NY",
+			"description": "Editorial board, @nytimes. Repro rights/gender. Previously: politics, @RollingStone. Texas forever.",
+			"url": null,
 			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
-							"display_url": "samplereality.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
 				"description": {
 					"urls": []
 				}
 			},
 			"protected": false,
-			"followers_count": 8376,
-			"friends_count": 1112,
-			"listed_count": 512,
-			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 40588,
+			"followers_count": 11198,
+			"friends_count": 974,
+			"listed_count": 362,
+			"created_at": "Thu Jun 03 21:02:01 +0000 2010",
+			"favourites_count": 9098,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9303,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
-			"profile_link_color": "236299",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/946848593108963329/pRKUhwy6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/946848593108963329/pRKUhwy6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/151617922/1445396133",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
 			"profile_text_color": "333333",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
 			"default_profile": false,
 			"default_profile_image": false,
 			"following": false,
@@ -8447,107 +7572,25 @@ Grailbird.data.tweets_2018_04 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Mon Apr 16 16:52:21 +0000 2018",
-			"id": 985923866248777700,
-			"id_str": "985923866248777729",
-			"text": "As recently as 2009, female senators couldn’t use the pool in the congressional gym because some of their male coll… https://t.co/vFJNPiR0wp",
-			"truncated": true,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [
-					{
-						"url": "https://t.co/vFJNPiR0wp",
-						"expanded_url": "https://twitter.com/i/web/status/985923866248777729",
-						"display_url": "twitter.com/i/web/status/9…",
-						"indices": [
-							117,
-							140
-						]
-					}
-				]
-			},
-			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 151617922,
-				"id_str": "151617922",
-				"name": "Lauren Kelley",
-				"screen_name": "lauren_kelley",
-				"location": "Brooklyn, NY",
-				"description": "Editorial board, @nytimes. Previously: politics, @RollingStone.",
-				"url": null,
-				"entities": {
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 9769,
-				"friends_count": 988,
-				"listed_count": 335,
-				"created_at": "Thu Jun 03 21:02:01 +0000 2010",
-				"favourites_count": 7881,
-				"utc_offset": -14400,
-				"time_zone": "Eastern Time (US & Canada)",
-				"geo_enabled": false,
-				"verified": true,
-				"statuses_count": 8710,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "022330",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/946848593108963329/pRKUhwy6_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/946848593108963329/pRKUhwy6_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/151617922/1445396133",
-				"profile_link_color": "0084B4",
-				"profile_sidebar_border_color": "A8C7F7",
-				"profile_sidebar_fill_color": "C0DFEC",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 3120,
-			"favorite_count": 5622,
-			"favorited": false,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "en"
-		},
 		"is_quote_status": false,
-		"retweet_count": 3120,
-		"favorite_count": 0,
+		"retweet_count": 3262,
+		"favorite_count": 6020,
 		"favorited": false,
 		"retweeted": true,
-		"lang": "en"
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "As recently as 2009, female senators couldn’t use the pool in the congressional gym because some of their male colleagues liked to swim naked. https://t.co/Jx1kYNQ3XJ https://t.co/YzThnkSKrW"
 	},
 	{
 		"created_at": "Tue Apr 17 10:36:35 +0000 2018",
 		"id": 986191685708369900,
 		"id_str": "986191685708369921",
-		"text": "This rocks. Thank you, Rachel and Laura! https://t.co/WOsomQbatq",
+		"full_text": "This rocks. Thank you, Rachel and Laura! https://t.co/WOsomQbatq",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -8564,7 +7607,7 @@ Grailbird.data.tweets_2018_04 =
 				}
 			]
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
@@ -8573,17 +7616,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -8597,23 +7640,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8376,
-			"friends_count": 1112,
-			"listed_count": 512,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40588,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -8638,25 +7681,133 @@ Grailbird.data.tweets_2018_04 =
 		"is_quote_status": true,
 		"quoted_status_id": 985972073490083800,
 		"quoted_status_id_str": "985972073490083841",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WOsomQbatq",
+			"expanded": "https://twitter.com/MModernity/status/985972073490083841",
+			"display": "twitter.com/MModernity/sta…"
+		},
 		"quoted_status": {
 			"created_at": "Mon Apr 16 20:03:55 +0000 2018",
 			"id": 985972073490083800,
 			"id_str": "985972073490083841",
-			"text": "New and exclusive to Print Plus, \"Search and Replace: Josephine Miles and the Origins of Distant Reading\" by… https://t.co/wKIAHcfmEp",
-			"truncated": true,
+			"full_text": "New and exclusive to Print Plus, \"Search and Replace: Josephine Miles and the Origins of Distant Reading\" by @rbuurma and @LAHeffernan. Read it on The Discipline blog: https://t.co/XVxbhK0o6k https://t.co/Fug5SIxO2h",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				191
+			],
 			"entities": {
 				"hashtags": [],
 				"symbols": [],
-				"user_mentions": [],
+				"user_mentions": [
+					{
+						"screen_name": "rbuurma",
+						"name": "Rachel Sagner Buurma",
+						"id": 291852590,
+						"id_str": "291852590",
+						"indices": [
+							109,
+							117
+						]
+					},
+					{
+						"screen_name": "LAHeffernan",
+						"name": "Laura Heffernan",
+						"id": 989555863,
+						"id_str": "989555863",
+						"indices": [
+							122,
+							134
+						]
+					}
+				],
 				"urls": [
 					{
-						"url": "https://t.co/wKIAHcfmEp",
-						"expanded_url": "https://twitter.com/i/web/status/985972073490083841",
-						"display_url": "twitter.com/i/web/status/9…",
+						"url": "https://t.co/XVxbhK0o6k",
+						"expanded_url": "https://modernismmodernity.org/forums/posts/search-and-replace",
+						"display_url": "modernismmodernity.org/forums/posts/s…",
 						"indices": [
-							110,
-							133
+							168,
+							191
 						]
+					}
+				],
+				"media": [
+					{
+						"id": 985972036781551600,
+						"id_str": "985972036781551616",
+						"indices": [
+							192,
+							215
+						],
+						"media_url": "http://pbs.twimg.com/media/Da7gV_LVMAAzG-Y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Da7gV_LVMAAzG-Y.jpg",
+						"url": "https://t.co/Fug5SIxO2h",
+						"display_url": "pic.twitter.com/Fug5SIxO2h",
+						"expanded_url": "https://twitter.com/MModernity/status/985972073490083841/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 875,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 496,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1493,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 985972036781551600,
+						"id_str": "985972036781551616",
+						"indices": [
+							192,
+							215
+						],
+						"media_url": "http://pbs.twimg.com/media/Da7gV_LVMAAzG-Y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Da7gV_LVMAAzG-Y.jpg",
+						"url": "https://t.co/Fug5SIxO2h",
+						"display_url": "pic.twitter.com/Fug5SIxO2h",
+						"expanded_url": "https://twitter.com/MModernity/status/985972073490083841/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 875,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 496,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1493,
+								"resize": "fit"
+							}
+						}
 					}
 				]
 			},
@@ -8693,23 +7844,23 @@ Grailbird.data.tweets_2018_04 =
 					}
 				},
 				"protected": false,
-				"followers_count": 2250,
-				"friends_count": 120,
-				"listed_count": 24,
+				"followers_count": 2615,
+				"friends_count": 134,
+				"listed_count": 26,
 				"created_at": "Sun Jun 17 16:50:16 +0000 2012",
-				"favourites_count": 34,
-				"utc_offset": -14400,
-				"time_zone": "Eastern Time (US & Canada)",
+				"favourites_count": 51,
+				"utc_offset": null,
+				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 250,
+				"statuses_count": 297,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
 				"is_translation_enabled": false,
 				"profile_background_color": "FFFFFF",
-				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/581423989/4fk1vkmw74dayejz9hkl.jpeg",
-				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/581423989/4fk1vkmw74dayejz9hkl.jpeg",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
 				"profile_background_tile": true,
 				"profile_image_url": "http://pbs.twimg.com/profile_images/2316691088/MoMo-Twitter_normal.jpg",
 				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2316691088/MoMo-Twitter_normal.jpg",
@@ -8731,8 +7882,8 @@ Grailbird.data.tweets_2018_04 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 53,
-			"favorite_count": 60,
+			"retweet_count": 58,
+			"favorite_count": 71,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -8743,94 +7894,74 @@ Grailbird.data.tweets_2018_04 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "This rocks. Thank you, Rachel and Laura! https://t.co/WOsomQbatq"
 	},
 	{
-		"created_at": "Mon Apr 16 23:43:37 +0000 2018",
-		"id": 986027364957159400,
-		"id_str": "986027364957159424",
-		"text": "RT @raza: How far you have to scroll to get to the Hannity revelation on ABC News, BBC News, CBS News, CNN, MSNBC, NBC News … and Fox News.…",
+		"created_at": "Mon Apr 16 19:59:13 +0000 2018",
+		"id": 985970891975741400,
+		"id_str": "985970891975741441",
+		"full_text": "Sean Hannity ending up as Trump's cellmate would be the perfect Twilight Zone ending for him.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "raza",
-					"name": "Raza Syed",
-					"id": 842291,
-					"id_str": "842291",
-					"indices": [
-						3,
-						8
-					]
-				}
-			],
+			"user_mentions": [],
 			"urls": []
 		},
-		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 8497292,
-			"id_str": "8497292",
-			"name": "Mark Sample",
-			"screen_name": "samplereality",
-			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"id": 27782837,
+			"id_str": "27782837",
+			"name": "Jesse McLaren",
+			"screen_name": "McJesse",
+			"location": "",
+			"description": "A boozer, a user, a loser.",
+			"url": null,
 			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
-							"display_url": "samplereality.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
 				"description": {
 					"urls": []
 				}
 			},
 			"protected": false,
-			"followers_count": 8374,
-			"friends_count": 1112,
-			"listed_count": 513,
-			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"followers_count": 1224415,
+			"friends_count": 992,
+			"listed_count": 1352,
+			"created_at": "Tue Mar 31 01:38:38 +0000 2009",
+			"favourites_count": 17385,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 40581,
+			"verified": true,
+			"statuses_count": 14714,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
-			"profile_link_color": "236299",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/684222363907551232/54R_VAhv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/684222363907551232/54R_VAhv_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
 			"profile_text_color": "333333",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
 			"default_profile_image": false,
-			"following": false,
+			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
 			"translator_type": "none"
@@ -8839,297 +7970,24 @@ Grailbird.data.tweets_2018_04 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Mon Apr 16 21:59:20 +0000 2018",
-			"id": 986001117959012400,
-			"id_str": "986001117959012352",
-			"text": "How far you have to scroll to get to the Hannity revelation on ABC News, BBC News, CBS News, CNN, MSNBC, NBC News …… https://t.co/h4nAJ3QkX9",
-			"truncated": true,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [
-					{
-						"url": "https://t.co/h4nAJ3QkX9",
-						"expanded_url": "https://twitter.com/i/web/status/986001117959012352",
-						"display_url": "twitter.com/i/web/status/9…",
-						"indices": [
-							117,
-							140
-						]
-					}
-				]
-			},
-			"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 842291,
-				"id_str": "842291",
-				"name": "Raza Syed",
-				"screen_name": "raza",
-				"location": "Los Angeles, CA",
-				"description": "I write screenplays.",
-				"url": "https://t.co/YmeacPE6s0",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/YmeacPE6s0",
-								"expanded_url": "http://razasyed.org/",
-								"display_url": "razasyed.org",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 9494,
-				"friends_count": 140,
-				"listed_count": 210,
-				"created_at": "Fri Mar 09 19:00:15 +0000 2007",
-				"favourites_count": 38377,
-				"utc_offset": -25200,
-				"time_zone": "Pacific Time (US & Canada)",
-				"geo_enabled": true,
-				"verified": false,
-				"statuses_count": 2922,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "131516",
-				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/417976709/city.jpg",
-				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/417976709/city.jpg",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/1169799919/daft_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1169799919/daft_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/842291/1348118358",
-				"profile_link_color": "009999",
-				"profile_sidebar_border_color": "FFFFFF",
-				"profile_sidebar_fill_color": "EFEFEF",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": true,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 268,
-			"favorite_count": 546,
-			"favorited": false,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "en"
-		},
 		"is_quote_status": false,
-		"retweet_count": 268,
-		"favorite_count": 0,
+		"retweet_count": 24,
+		"favorite_count": 244,
 		"favorited": false,
 		"retweeted": true,
-		"lang": "en"
-	},
-	{
-		"created_at": "Mon Apr 16 20:08:28 +0000 2018",
-		"id": 985973218233241600,
-		"id_str": "985973218233241605",
-		"text": "RT @McJesse: Sean Hannity ending up as Trump's cellmate would be the perfect Twilight Zone ending for him.",
-		"truncated": false,
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "McJesse",
-					"name": "Jesse McLaren",
-					"id": 27782837,
-					"id_str": "27782837",
-					"indices": [
-						3,
-						11
-					]
-				}
-			],
-			"urls": []
-		},
-		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 8497292,
-			"id_str": "8497292",
-			"name": "Mark Sample",
-			"screen_name": "samplereality",
-			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
-							"display_url": "samplereality.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 8374,
-			"friends_count": 1112,
-			"listed_count": 513,
-			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 40581,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
-			"profile_link_color": "236299",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "A0C5C7",
-			"profile_text_color": "333333",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Mon Apr 16 19:59:13 +0000 2018",
-			"id": 985970891975741400,
-			"id_str": "985970891975741441",
-			"text": "Sean Hannity ending up as Trump's cellmate would be the perfect Twilight Zone ending for him.",
-			"truncated": false,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": []
-			},
-			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 27782837,
-				"id_str": "27782837",
-				"name": "Jesse McLaren",
-				"screen_name": "McJesse",
-				"location": "",
-				"description": "Internet humorist. Emmy...(fights back tears) nominated. Currently @BuzzFeed. Tweets are regrettably my own.",
-				"url": null,
-				"entities": {
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 1234758,
-				"friends_count": 869,
-				"listed_count": 1076,
-				"created_at": "Tue Mar 31 01:38:38 +0000 2009",
-				"favourites_count": 15017,
-				"utc_offset": -18000,
-				"time_zone": "Quito",
-				"geo_enabled": true,
-				"verified": true,
-				"statuses_count": 12525,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "C0DEED",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/684222363907551232/54R_VAhv_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/684222363907551232/54R_VAhv_normal.jpg",
-				"profile_link_color": "1DA1F2",
-				"profile_sidebar_border_color": "C0DEED",
-				"profile_sidebar_fill_color": "DDEEF6",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": true,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 22,
-			"favorite_count": 232,
-			"favorited": false,
-			"retweeted": true,
-			"lang": "en"
-		},
-		"is_quote_status": false,
-		"retweet_count": 22,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": true,
-		"lang": "en"
+		"lang": "en",
+		"text": "Sean Hannity ending up as Trump's cellmate would be the perfect Twilight Zone ending for him."
 	},
 	{
 		"created_at": "Mon Apr 16 15:42:22 +0000 2018",
 		"id": 985906254282481700,
 		"id_str": "985906254282481665",
-		"text": "The anti-fascist game jam is a thing and there are some great #indiedev games there: https://t.co/RwZoaAxtJS… https://t.co/Be1l9ElQed",
-		"truncated": true,
+		"full_text": "The anti-fascist game jam is a thing and there are some great #indiedev games there: https://t.co/RwZoaAxtJS #AntifaGameJam https://t.co/cDSEv6zeku",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -9137,6 +7995,13 @@ Grailbird.data.tweets_2018_04 =
 					"indices": [
 						62,
 						71
+					]
+				},
+				{
+					"text": "AntifaGameJam",
+					"indices": [
+						109,
+						123
 					]
 				}
 			],
@@ -9151,15 +8016,97 @@ Grailbird.data.tweets_2018_04 =
 						85,
 						108
 					]
-				},
+				}
+			],
+			"media": [
 				{
-					"url": "https://t.co/Be1l9ElQed",
-					"expanded_url": "https://twitter.com/i/web/status/985906254282481665",
-					"display_url": "twitter.com/i/web/status/9…",
+					"id": 985906251040219100,
+					"id_str": "985906251040219141",
 					"indices": [
-						110,
-						133
-					]
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Da6kgwMW4AUqjB2.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Da6kgwMW4AUqjB2.jpg",
+					"url": "https://t.co/cDSEv6zeku",
+					"display_url": "pic.twitter.com/cDSEv6zeku",
+					"expanded_url": "https://twitter.com/samplereality/status/985906254282481665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 256,
+							"h": 256,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 256,
+							"h": 256,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 256,
+							"h": 256,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 985906251040219100,
+					"id_str": "985906251040219141",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Da6kgwMW4AUqjB2.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Da6kgwMW4AUqjB2.jpg",
+					"url": "https://t.co/cDSEv6zeku",
+					"display_url": "pic.twitter.com/cDSEv6zeku",
+					"expanded_url": "https://twitter.com/samplereality/status/985906254282481665/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 256,
+							"h": 256,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 256,
+							"h": 256,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 256,
+							"h": 256,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Da6kgwMW4AUqjB2.mp4"
+							}
+						]
+					}
 				}
 			]
 		},
@@ -9172,17 +8119,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -9196,23 +8143,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8374,
-			"friends_count": 1112,
-			"listed_count": 513,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40581,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -9236,18 +8183,23 @@ Grailbird.data.tweets_2018_04 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 3,
-		"favorite_count": 4,
+		"favorite_count": 6,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "The anti-fascist game jam is a thing and there are some great #indiedev games there: https://t.co/RwZoaAxtJS #AntifaGameJam https://t.co/cDSEv6zeku"
 	},
 	{
 		"created_at": "Mon Apr 16 13:28:39 +0000 2018",
 		"id": 985872603544997900,
 		"id_str": "985872603544997889",
-		"text": "@HannahLukow Given the content and the number of retweets, there was potential for white supremacist groups to lear… https://t.co/R5iNhr8YyK",
-		"truncated": true,
+		"full_text": "@HannahLukow Given the content and the number of retweets, there was potential for white supremacist groups to learn about the tour. So tagging would be doxxing in a sense. I know the students can handle any vitriol spewed at them, but that’s for them to decide, not some white male professor!",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			293
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -9263,19 +8215,9 @@ Grailbird.data.tweets_2018_04 =
 					]
 				}
 			],
-			"urls": [
-				{
-					"url": "https://t.co/R5iNhr8YyK",
-					"expanded_url": "https://twitter.com/i/web/status/985872603544997889",
-					"display_url": "twitter.com/i/web/status/9…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
 		"in_reply_to_status_id": 985870739407589400,
 		"in_reply_to_status_id_str": "985870739407589376",
 		"in_reply_to_user_id": 8497292,
@@ -9284,17 +8226,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -9308,23 +8250,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8374,
-			"friends_count": 1112,
-			"listed_count": 513,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40581,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -9351,14 +8293,19 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@HannahLukow Given the content and the number of retweets, there was potential for white supremacist groups to learn about the tour. So tagging would be doxxing in a sense. I know the students can handle any vitriol spewed at them, but that’s for them to decide, not some white male professor!"
 	},
 	{
 		"created_at": "Mon Apr 16 13:21:15 +0000 2018",
 		"id": 985870739407589400,
 		"id_str": "985870739407589376",
-		"text": "@HannahLukow Yes, attribution does matter! I wasn’t in a position during the tour to ask the students’ explicit per… https://t.co/WumqeSAaOC",
-		"truncated": true,
+		"full_text": "@HannahLukow Yes, attribution does matter! I wasn’t in a position during the tour to ask the students’ explicit permission to tag them, something I always do when the audience goes well beyond Davidson.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			202
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -9374,19 +8321,9 @@ Grailbird.data.tweets_2018_04 =
 					]
 				}
 			],
-			"urls": [
-				{
-					"url": "https://t.co/WumqeSAaOC",
-					"expanded_url": "https://twitter.com/i/web/status/985870739407589376",
-					"display_url": "twitter.com/i/web/status/9…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
 		"in_reply_to_status_id": 985711964184891400,
 		"in_reply_to_status_id_str": "985711964184891392",
 		"in_reply_to_user_id": 1020945205,
@@ -9395,17 +8332,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -9419,23 +8356,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8374,
-			"friends_count": 1112,
-			"listed_count": 513,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40581,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -9462,37 +8399,31 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@HannahLukow Yes, attribution does matter! I wasn’t in a position during the tour to ask the students’ explicit permission to tag them, something I always do when the audience goes well beyond Davidson."
 	},
 	{
-		"created_at": "Sun Apr 15 05:15:46 +0000 2018",
-		"id": 985386177510494200,
-		"id_str": "985386177510494208",
-		"text": "RT @bauhausbothaus: Four Fallen Soldiers in Cosmic Space (c.1916) by Johannes Molzahn https://t.co/SfSs1Aqu8K https://t.co/7ujR7Aaax7",
+		"created_at": "Sun Apr 15 04:31:06 +0000 2018",
+		"id": 985374932908609500,
+		"id_str": "985374932908609536",
+		"full_text": "Four Fallen Soldiers in Cosmic Space (c.1916) by Johannes Molzahn https://t.co/SfSs1Aqu8K https://t.co/7ujR7Aaax7",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "bauhausbothaus",
-					"name": "Bauhaus Bot",
-					"id": 979177515729211400,
-					"id_str": "979177515729211392",
-					"indices": [
-						3,
-						18
-					]
-				}
-			],
+			"user_mentions": [],
 			"urls": [
 				{
 					"url": "https://t.co/SfSs1Aqu8K",
 					"expanded_url": "https://www.harvardartmuseums.org/collections/object/225538",
 					"display_url": "harvardartmuseums.org/collections/ob…",
 					"indices": [
-						86,
-						109
+						66,
+						89
 					]
 				}
 			],
@@ -9501,8 +8432,8 @@ Grailbird.data.tweets_2018_04 =
 					"id": 985374931264458800,
 					"id_str": "985374931264458752",
 					"indices": [
-						110,
-						133
+						90,
+						113
 					],
 					"media_url": "http://pbs.twimg.com/media/DazBR3yX0AA-4Of.jpg",
 					"media_url_https": "https://pbs.twimg.com/media/DazBR3yX0AA-4Of.jpg",
@@ -9531,11 +8462,7 @@ Grailbird.data.tweets_2018_04 =
 							"h": 768,
 							"resize": "fit"
 						}
-					},
-					"source_status_id": 985374932908609500,
-					"source_status_id_str": "985374932908609536",
-					"source_user_id": 979177515729211400,
-					"source_user_id_str": "979177515729211392"
+					}
 				}
 			]
 		},
@@ -9545,8 +8472,8 @@ Grailbird.data.tweets_2018_04 =
 					"id": 985374931264458800,
 					"id_str": "985374931264458752",
 					"indices": [
-						110,
-						133
+						90,
+						113
 					],
 					"media_url": "http://pbs.twimg.com/media/DazBR3yX0AA-4Of.jpg",
 					"media_url_https": "https://pbs.twimg.com/media/DazBR3yX0AA-4Of.jpg",
@@ -9575,77 +8502,60 @@ Grailbird.data.tweets_2018_04 =
 							"h": 768,
 							"resize": "fit"
 						}
-					},
-					"source_status_id": 985374932908609500,
-					"source_status_id_str": "985374932908609536",
-					"source_user_id": 979177515729211400,
-					"source_user_id_str": "979177515729211392"
+					}
 				}
 			]
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"https://www.twitter.com\" rel=\"nofollow\">Bauhaus Bot</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 8497292,
-			"id_str": "8497292",
-			"name": "Mark Sample",
-			"screen_name": "samplereality",
-			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"id": 979177515729211400,
+			"id_str": "979177515729211392",
+			"name": "Bauhaus Bot",
+			"screen_name": "bauhausbothaus",
+			"location": "Cambridge",
+			"description": "Finding random items in the Harvard University Art Museums' extensive Bauhaus Collection. A bot by @samplereality.",
+			"url": null,
 			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
-							"display_url": "samplereality.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
 				"description": {
 					"urls": []
 				}
 			},
 			"protected": false,
-			"followers_count": 8378,
-			"friends_count": 1112,
-			"listed_count": 513,
-			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"followers_count": 136,
+			"friends_count": 2,
+			"listed_count": 10,
+			"created_at": "Thu Mar 29 02:04:46 +0000 2018",
 			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
-			"geo_enabled": true,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 40576,
+			"statuses_count": 2028,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
-			"profile_link_color": "236299",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/979191001771315200/gMLnMT_v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/979191001771315200/gMLnMT_v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/979177515729211392/1522371998",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
 			"profile_text_color": "333333",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
 			"default_profile_image": false,
-			"following": false,
+			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
 			"translator_type": "none"
@@ -9654,186 +8564,25 @@ Grailbird.data.tweets_2018_04 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Sun Apr 15 04:31:06 +0000 2018",
-			"id": 985374932908609500,
-			"id_str": "985374932908609536",
-			"text": "Four Fallen Soldiers in Cosmic Space (c.1916) by Johannes Molzahn https://t.co/SfSs1Aqu8K https://t.co/7ujR7Aaax7",
-			"truncated": false,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [
-					{
-						"url": "https://t.co/SfSs1Aqu8K",
-						"expanded_url": "https://www.harvardartmuseums.org/collections/object/225538",
-						"display_url": "harvardartmuseums.org/collections/ob…",
-						"indices": [
-							66,
-							89
-						]
-					}
-				],
-				"media": [
-					{
-						"id": 985374931264458800,
-						"id_str": "985374931264458752",
-						"indices": [
-							90,
-							113
-						],
-						"media_url": "http://pbs.twimg.com/media/DazBR3yX0AA-4Of.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/DazBR3yX0AA-4Of.jpg",
-						"url": "https://t.co/7ujR7Aaax7",
-						"display_url": "pic.twitter.com/7ujR7Aaax7",
-						"expanded_url": "https://twitter.com/bauhausbothaus/status/985374932908609536/photo/1",
-						"type": "photo",
-						"sizes": {
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"small": {
-								"w": 510,
-								"h": 680,
-								"resize": "fit"
-							},
-							"medium": {
-								"w": 576,
-								"h": 768,
-								"resize": "fit"
-							},
-							"large": {
-								"w": 576,
-								"h": 768,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"extended_entities": {
-				"media": [
-					{
-						"id": 985374931264458800,
-						"id_str": "985374931264458752",
-						"indices": [
-							90,
-							113
-						],
-						"media_url": "http://pbs.twimg.com/media/DazBR3yX0AA-4Of.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/DazBR3yX0AA-4Of.jpg",
-						"url": "https://t.co/7ujR7Aaax7",
-						"display_url": "pic.twitter.com/7ujR7Aaax7",
-						"expanded_url": "https://twitter.com/bauhausbothaus/status/985374932908609536/photo/1",
-						"type": "photo",
-						"sizes": {
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"small": {
-								"w": 510,
-								"h": 680,
-								"resize": "fit"
-							},
-							"medium": {
-								"w": 576,
-								"h": 768,
-								"resize": "fit"
-							},
-							"large": {
-								"w": 576,
-								"h": 768,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"source": "<a href=\"https://www.twitter.com\" rel=\"nofollow\">Bauhaus Bot</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 979177515729211400,
-				"id_str": "979177515729211392",
-				"name": "Bauhaus Bot",
-				"screen_name": "bauhausbothaus",
-				"location": "Cambridge",
-				"description": "Finding random items in the Harvard University Art Museums' extensive Bauhaus Collection. A bot by @samplereality.",
-				"url": null,
-				"entities": {
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 47,
-				"friends_count": 2,
-				"listed_count": 4,
-				"created_at": "Thu Mar 29 02:04:46 +0000 2018",
-				"favourites_count": 0,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": false,
-				"verified": false,
-				"statuses_count": 198,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "F5F8FA",
-				"profile_background_image_url": null,
-				"profile_background_image_url_https": null,
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/979191001771315200/gMLnMT_v_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/979191001771315200/gMLnMT_v_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/979177515729211392/1522371998",
-				"profile_link_color": "1DA1F2",
-				"profile_sidebar_border_color": "C0DEED",
-				"profile_sidebar_fill_color": "DDEEF6",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": true,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 1,
-			"favorite_count": 1,
-			"favorited": false,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "de"
-		},
 		"is_quote_status": false,
-		"retweet_count": 1,
+		"retweet_count": 2,
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "Four Fallen Soldiers in Cosmic Space (c.1916) by Johannes Molzahn https://t.co/SfSs1Aqu8K https://t.co/7ujR7Aaax7"
 	},
 	{
 		"created_at": "Sat Apr 14 16:45:30 +0000 2018",
 		"id": 985197366541209600,
 		"id_str": "985197366541209601",
-		"text": "and asterisk (*)",
+		"full_text": "and asterisk (*)",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -9849,17 +8598,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -9873,23 +8622,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8378,
-			"friends_count": 1112,
-			"listed_count": 513,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40576,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -9916,14 +8665,19 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "and asterisk (*)"
 	},
 	{
 		"created_at": "Sat Apr 14 16:45:19 +0000 2018",
 		"id": 985197319837667300,
 		"id_str": "985197319837667328",
-		"text": "ampersand (&amp;)",
+		"full_text": "ampersand (&amp;)",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -9939,17 +8693,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -9963,23 +8717,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8378,
-			"friends_count": 1112,
-			"listed_count": 513,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40576,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -10006,14 +8760,19 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "ampersand (&amp;)"
 	},
 	{
 		"created_at": "Sat Apr 14 16:45:06 +0000 2018",
 		"id": 985197265437577200,
 		"id_str": "985197265437577217",
-		"text": "percentage sign (%)",
+		"full_text": "percentage sign (%)",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -10029,17 +8788,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -10053,23 +8812,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8378,
-			"friends_count": 1112,
-			"listed_count": 513,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40576,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -10096,14 +8855,19 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "percentage sign (%)"
 	},
 	{
 		"created_at": "Sat Apr 14 16:44:51 +0000 2018",
 		"id": 985197203152080900,
 		"id_str": "985197203152080896",
-		"text": "dollar sign ($)",
+		"full_text": "dollar sign ($)",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -10119,17 +8883,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -10143,23 +8907,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8378,
-			"friends_count": 1112,
-			"listed_count": 513,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40576,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -10186,14 +8950,19 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "dollar sign ($)"
 	},
 	{
 		"created_at": "Sat Apr 14 16:44:39 +0000 2018",
 		"id": 985197149846736900,
 		"id_str": "985197149846736896",
-		"text": "pound sign (#)",
+		"full_text": "pound sign (#)",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -10209,17 +8978,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -10233,23 +9002,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8378,
-			"friends_count": 1112,
-			"listed_count": 513,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40576,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -10276,14 +9045,19 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "pound sign (#)"
 	},
 	{
 		"created_at": "Sat Apr 14 16:44:26 +0000 2018",
 		"id": 985197097212436500,
 		"id_str": "985197097212436485",
-		"text": "at sign (@)",
+		"full_text": "at sign (@)",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -10299,17 +9073,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -10323,23 +9097,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8378,
-			"friends_count": 1112,
-			"listed_count": 513,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40576,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -10366,14 +9140,19 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "at sign (@)"
 	},
 	{
 		"created_at": "Sat Apr 14 16:44:13 +0000 2018",
 		"id": 985197041012871200,
 		"id_str": "985197041012871168",
-		"text": "exclamation mark (!)",
+		"full_text": "exclamation mark (!)",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -10389,17 +9168,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -10413,23 +9192,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8378,
-			"friends_count": 1112,
-			"listed_count": 513,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40576,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -10456,14 +9235,19 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "exclamation mark (!)"
 	},
 	{
 		"created_at": "Sat Apr 14 16:44:00 +0000 2018",
 		"id": 985196986231074800,
 		"id_str": "985196986231074821",
-		"text": "Allowable special characters include:",
+		"full_text": "Allowable special characters include:",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -10479,17 +9263,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -10503,23 +9287,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8378,
-			"friends_count": 1112,
-			"listed_count": 513,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40576,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -10546,14 +9330,19 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Allowable special characters include:"
 	},
 	{
 		"created_at": "Sat Apr 14 16:43:42 +0000 2018",
 		"id": 985196910175772700,
 		"id_str": "985196910175772672",
-		"text": "Contain a special character",
+		"full_text": "Contain a special character",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -10569,17 +9358,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -10593,23 +9382,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8378,
-			"friends_count": 1112,
-			"listed_count": 513,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40576,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -10636,14 +9425,19 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Contain a special character"
 	},
 	{
 		"created_at": "Sat Apr 14 16:43:28 +0000 2018",
 		"id": 985196851715559400,
 		"id_str": "985196851715559424",
-		"text": "Contain a number",
+		"full_text": "Contain a number",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -10659,17 +9453,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -10683,23 +9477,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8378,
-			"friends_count": 1112,
-			"listed_count": 513,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40576,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -10726,14 +9520,19 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Contain a number"
 	},
 	{
 		"created_at": "Sat Apr 14 16:43:17 +0000 2018",
 		"id": 985196806828122100,
 		"id_str": "985196806828122113",
-		"text": "Contain upper and lowercase letters",
+		"full_text": "Contain upper and lowercase letters",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -10749,17 +9548,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -10773,23 +9572,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8378,
-			"friends_count": 1112,
-			"listed_count": 513,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40576,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -10816,14 +9615,19 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Contain upper and lowercase letters"
 	},
 	{
 		"created_at": "Sat Apr 14 16:43:02 +0000 2018",
 		"id": 985196742420217900,
 		"id_str": "985196742420217857",
-		"text": "Not be one of your last 5 passwords",
+		"full_text": "Not be one of your last 5 passwords",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -10839,17 +9643,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -10863,23 +9667,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8378,
-			"friends_count": 1112,
-			"listed_count": 513,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40576,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -10906,14 +9710,19 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Not be one of your last 5 passwords"
 	},
 	{
 		"created_at": "Sat Apr 14 16:42:47 +0000 2018",
 		"id": 985196680575406100,
 		"id_str": "985196680575406080",
-		"text": "Have a minimum of 12 characters",
+		"full_text": "Have a minimum of 12 characters",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -10929,17 +9738,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -10953,23 +9762,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8378,
-			"friends_count": 1112,
-			"listed_count": 513,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40576,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -10996,14 +9805,19 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Have a minimum of 12 characters"
 	},
 	{
 		"created_at": "Sat Apr 14 16:42:32 +0000 2018",
 		"id": 985196619107852300,
 		"id_str": "985196619107852289",
-		"text": "Your password must:",
+		"full_text": "Your password must:",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -11019,17 +9833,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -11043,23 +9857,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8378,
-			"friends_count": 1112,
-			"listed_count": 513,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40576,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -11086,21 +9900,26 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Your password must:"
 	},
 	{
 		"created_at": "Fri Apr 13 17:53:41 +0000 2018",
 		"id": 984852135484551200,
 		"id_str": "984852135484551168",
-		"text": "you don’t get to make fun of qr codes unless you know what qr means",
+		"full_text": "you don’t get to make fun of qr codes unless you know what qr means",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
 			"urls": []
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
@@ -11109,17 +9928,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -11133,23 +9952,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8378,
-			"friends_count": 1112,
-			"listed_count": 513,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40562,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -11176,14 +9995,19 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "you don’t get to make fun of qr codes unless you know what qr means"
 	},
 	{
 		"created_at": "Fri Apr 13 16:00:36 +0000 2018",
 		"id": 984823676959944700,
 		"id_str": "984823676959944705",
-		"text": "This is what structural racism looks like. \nhttps://t.co/sANS3TKiZO",
+		"full_text": "This is what structural racism looks like. \nhttps://t.co/sANS3TKiZO",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -11209,17 +10033,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -11233,23 +10057,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8378,
-			"friends_count": 1112,
-			"listed_count": 513,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40562,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -11274,24 +10098,33 @@ Grailbird.data.tweets_2018_04 =
 		"is_quote_status": true,
 		"quoted_status_id": 984620206680100900,
 		"quoted_status_id_str": "984620206680100864",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sANS3TKiZO",
+			"expanded": "https://twitter.com/nytimes/status/984821777632321536",
+			"display": "twitter.com/nytimes/status…"
+		},
 		"quoted_status": {
 			"created_at": "Fri Apr 13 02:32:05 +0000 2018",
 			"id": 984620206680100900,
 			"id_str": "984620206680100864",
-			"text": "Black infants in America are now more than twice as likely to die as white infants —  a racial disparity that is ac… https://t.co/lm54KUGV8j",
-			"truncated": true,
+			"full_text": "Black infants in America are now more than twice as likely to die as white infants —  a racial disparity that is actually wider than in 1850, 15 years before the end of slavery https://t.co/Sxn56hq7V8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				200
+			],
 			"entities": {
 				"hashtags": [],
 				"symbols": [],
 				"user_mentions": [],
 				"urls": [
 					{
-						"url": "https://t.co/lm54KUGV8j",
-						"expanded_url": "https://twitter.com/i/web/status/984620206680100864",
-						"display_url": "twitter.com/i/web/status/9…",
+						"url": "https://t.co/Sxn56hq7V8",
+						"expanded_url": "https://nyti.ms/2JF1UCk",
+						"display_url": "nyti.ms/2JF1UCk",
 						"indices": [
-							117,
-							140
+							177,
+							200
 						]
 					}
 				]
@@ -11339,23 +10172,23 @@ Grailbird.data.tweets_2018_04 =
 					}
 				},
 				"protected": false,
-				"followers_count": 41788893,
-				"friends_count": 880,
-				"listed_count": 194890,
+				"followers_count": 42400563,
+				"friends_count": 876,
+				"listed_count": 197579,
 				"created_at": "Fri Mar 02 20:41:42 +0000 2007",
-				"favourites_count": 16638,
-				"utc_offset": -14400,
-				"time_zone": "Eastern Time (US & Canada)",
-				"geo_enabled": false,
+				"favourites_count": 17453,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 316434,
+				"statuses_count": 338167,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
 				"is_translation_enabled": true,
 				"profile_background_color": "131516",
-				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png",
-				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
 				"profile_background_tile": true,
 				"profile_image_url": "http://pbs.twimg.com/profile_images/942784892882112513/qV4xB0I3_normal.jpg",
 				"profile_image_url_https": "https://pbs.twimg.com/profile_images/942784892882112513/qV4xB0I3_normal.jpg",
@@ -11378,67 +10211,71 @@ Grailbird.data.tweets_2018_04 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 8848,
-			"favorite_count": 8309,
+			"retweet_count": 9688,
+			"favorite_count": 9277,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
 		"retweet_count": 2,
-		"favorite_count": 4,
+		"favorite_count": 5,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "This is what structural racism looks like. \nhttps://t.co/sANS3TKiZO"
 	},
 	{
-		"created_at": "Fri Apr 13 10:36:47 +0000 2018",
-		"id": 984742185315729400,
-		"id_str": "984742185315729409",
-		"text": "RT @scottrettberg: We are hiring an associate professor in or Digital Culture program at the University of Bergen. We encourage candidates…",
+		"created_at": "Fri Apr 13 10:34:31 +0000 2018",
+		"id": 984741615855128600,
+		"id_str": "984741615855128577",
+		"full_text": "We are hiring an associate professor in or Digital Culture program at the University of Bergen. We encourage candidates with a strong publication record in digital media aesthetics: computer games, digital art, or e-lit to apply. https://t.co/sxpTuD3DEE",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
+			"user_mentions": [],
+			"urls": [
 				{
-					"screen_name": "scottrettberg",
-					"name": "Scott Rettberg",
-					"id": 86276893,
-					"id_str": "86276893",
+					"url": "https://t.co/sxpTuD3DEE",
+					"expanded_url": "https://www.jobbnorge.no/ledige-stillinger/stilling/151124/associate-professor-in-digital-culture-at-the-department-of-linguistic-literary-and-aesthetic-studies",
+					"display_url": "jobbnorge.no/ledige-stillin…",
 					"indices": [
-						3,
-						17
+						230,
+						253
 					]
 				}
-			],
-			"urls": []
+			]
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 8497292,
-			"id_str": "8497292",
-			"name": "Mark Sample",
-			"screen_name": "samplereality",
-			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"id": 86276893,
+			"id_str": "86276893",
+			"name": "Scott Rettberg",
+			"screen_name": "scottrettberg",
+			"location": "Bergen, Norway",
+			"description": "Researcher and writer teaching digital culture and electronic literature at the University of Bergen.",
+			"url": "http://t.co/pTImF8gvZo",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
-							"display_url": "samplereality.com",
+							"url": "http://t.co/pTImF8gvZo",
+							"expanded_url": "http://retts.net",
+							"display_url": "retts.net",
 							"indices": [
 								0,
-								23
+								22
 							]
 						}
 					]
@@ -11448,36 +10285,36 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8378,
-			"friends_count": 1112,
-			"listed_count": 513,
-			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"followers_count": 1497,
+			"friends_count": 533,
+			"listed_count": 94,
+			"created_at": "Fri Oct 30 09:47:43 +0000 2009",
+			"favourites_count": 379,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40562,
+			"statuses_count": 1256,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
-			"profile_link_color": "236299",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "A0C5C7",
-			"profile_text_color": "333333",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000019615902/8a5912c4023485bd3c758bec4539a720_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000019615902/8a5912c4023485bd3c758bec4539a720_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/86276893/1359212177",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
 			"default_profile": false,
 			"default_profile_image": false,
-			"following": false,
+			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
 			"translator_type": "none"
@@ -11486,120 +10323,25 @@ Grailbird.data.tweets_2018_04 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Fri Apr 13 10:34:31 +0000 2018",
-			"id": 984741615855128600,
-			"id_str": "984741615855128577",
-			"text": "We are hiring an associate professor in or Digital Culture program at the University of Bergen. We encourage candid… https://t.co/yjMfPpkxF2",
-			"truncated": true,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [
-					{
-						"url": "https://t.co/yjMfPpkxF2",
-						"expanded_url": "https://twitter.com/i/web/status/984741615855128577",
-						"display_url": "twitter.com/i/web/status/9…",
-						"indices": [
-							117,
-							140
-						]
-					}
-				]
-			},
-			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 86276893,
-				"id_str": "86276893",
-				"name": "Scott Rettberg",
-				"screen_name": "scottrettberg",
-				"location": "Bergen, Norway",
-				"description": "Researcher and writer teaching digital culture and electronic literature at the University of Bergen.",
-				"url": "http://t.co/pTImF8gvZo",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "http://t.co/pTImF8gvZo",
-								"expanded_url": "http://retts.net",
-								"display_url": "retts.net",
-								"indices": [
-									0,
-									22
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 1433,
-				"friends_count": 520,
-				"listed_count": 96,
-				"created_at": "Fri Oct 30 09:47:43 +0000 2009",
-				"favourites_count": 311,
-				"utc_offset": 7200,
-				"time_zone": "Stockholm",
-				"geo_enabled": true,
-				"verified": false,
-				"statuses_count": 1172,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "C6E2EE",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000019615902/8a5912c4023485bd3c758bec4539a720_normal.jpeg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000019615902/8a5912c4023485bd3c758bec4539a720_normal.jpeg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/86276893/1359212177",
-				"profile_link_color": "1F98C7",
-				"profile_sidebar_border_color": "C6E2EE",
-				"profile_sidebar_fill_color": "DAECF4",
-				"profile_text_color": "663B12",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 17,
-			"favorite_count": 4,
-			"favorited": false,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "en"
-		},
 		"is_quote_status": false,
-		"retweet_count": 17,
-		"favorite_count": 0,
+		"retweet_count": 16,
+		"favorite_count": 5,
 		"favorited": false,
 		"retweeted": true,
-		"lang": "en"
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We are hiring an associate professor in or Digital Culture program at the University of Bergen. We encourage candidates with a strong publication record in digital media aesthetics: computer games, digital art, or e-lit to apply. https://t.co/sxpTuD3DEE"
 	},
 	{
 		"created_at": "Fri Apr 13 01:29:50 +0000 2018",
 		"id": 984604542699540500,
 		"id_str": "984604542699540480",
-		"text": "@JoshAmbrose What's a radio?",
+		"full_text": "@JoshAmbrose What's a radio?",
 		"truncated": false,
+		"display_text_range": [
+			13,
+			28
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -11626,17 +10368,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -11650,23 +10392,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8374,
-			"friends_count": 1111,
-			"listed_count": 513,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40559,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -11693,26 +10435,31 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@JoshAmbrose What's a radio?"
 	},
 	{
 		"created_at": "Fri Apr 13 00:55:37 +0000 2018",
 		"id": 984595932368048100,
 		"id_str": "984595932368048128",
-		"text": "In every conceivable way we have made a worse world for our children and their children: 64 Pounds of Trash Killed… https://t.co/IO4Op4PbHP",
-		"truncated": true,
+		"full_text": "In every conceivable way we have made a worse world for our children and their children: 64 Pounds of Trash Killed a Sperm Whale in Spain, Scientists Say https://t.co/zmkqcjoEBG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
 			"urls": [
 				{
-					"url": "https://t.co/IO4Op4PbHP",
-					"expanded_url": "https://twitter.com/i/web/status/984595932368048128",
-					"display_url": "twitter.com/i/web/status/9…",
+					"url": "https://t.co/zmkqcjoEBG",
+					"expanded_url": "https://nyti.ms/2GWdtDl",
+					"display_url": "nyti.ms/2GWdtDl",
 					"indices": [
-						116,
-						139
+						154,
+						177
 					]
 				}
 			]
@@ -11726,17 +10473,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -11750,23 +10497,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8374,
-			"friends_count": 1111,
-			"listed_count": 513,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40559,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -11789,19 +10536,24 @@ Grailbird.data.tweets_2018_04 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 2,
-		"favorite_count": 5,
+		"retweet_count": 3,
+		"favorite_count": 6,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "In every conceivable way we have made a worse world for our children and their children: 64 Pounds of Trash Killed a Sperm Whale in Spain, Scientists Say https://t.co/zmkqcjoEBG"
 	},
 	{
 		"created_at": "Fri Apr 13 00:49:36 +0000 2018",
 		"id": 984594418358542300,
 		"id_str": "984594418358542336",
-		"text": "Note this is payout to *labels*. What trickles down to musicians is but a fraction of the fraction shown here. \nhttps://t.co/dPu71d9Iqc",
+		"full_text": "Note this is payout to *labels*. What trickles down to musicians is but a fraction of the fraction shown here. \nhttps://t.co/dPu71d9Iqc",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -11827,17 +10579,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -11851,23 +10603,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8374,
-			"friends_count": 1111,
-			"listed_count": 513,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40559,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -11892,12 +10644,21 @@ Grailbird.data.tweets_2018_04 =
 		"is_quote_status": true,
 		"quoted_status_id": 984561399954333700,
 		"quoted_status_id_str": "984561399954333702",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dPu71d9Iqc",
+			"expanded": "https://twitter.com/tedgioia/status/984592822258020353",
+			"display": "twitter.com/tedgioia/statu…"
+		},
 		"quoted_status": {
 			"created_at": "Thu Apr 12 22:38:24 +0000 2018",
 			"id": 984561399954333700,
 			"id_str": "984561399954333702",
-			"text": "Which music streamer pays the most to musicians? https://t.co/usIXaUJTfH The bigger they are, the harder they negot… https://t.co/KSmkMV0ytY",
-			"truncated": true,
+			"full_text": "Which music streamer pays the most to musicians? https://t.co/usIXaUJTfH The bigger they are, the harder they negotiate. https://t.co/19Ep8FUOw0",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				120
+			],
 			"entities": {
 				"hashtags": [],
 				"symbols": [],
@@ -11911,15 +10672,84 @@ Grailbird.data.tweets_2018_04 =
 							49,
 							72
 						]
-					},
+					}
+				],
+				"media": [
 					{
-						"url": "https://t.co/KSmkMV0ytY",
-						"expanded_url": "https://twitter.com/i/web/status/984561399954333702",
-						"display_url": "twitter.com/i/web/status/9…",
+						"id": 984560526444216300,
+						"id_str": "984560526444216320",
 						"indices": [
-							117,
-							140
-						]
+							121,
+							144
+						],
+						"media_url": "http://pbs.twimg.com/media/DanclRaUQAA92e8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DanclRaUQAA92e8.jpg",
+						"url": "https://t.co/19Ep8FUOw0",
+						"display_url": "pic.twitter.com/19Ep8FUOw0",
+						"expanded_url": "https://twitter.com/tedgioia/status/984561399954333702/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 750,
+								"h": 534,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 750,
+								"h": 534,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 484,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 984560526444216300,
+						"id_str": "984560526444216320",
+						"indices": [
+							121,
+							144
+						],
+						"media_url": "http://pbs.twimg.com/media/DanclRaUQAA92e8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DanclRaUQAA92e8.jpg",
+						"url": "https://t.co/19Ep8FUOw0",
+						"display_url": "pic.twitter.com/19Ep8FUOw0",
+						"expanded_url": "https://twitter.com/tedgioia/status/984561399954333702/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 750,
+								"h": 534,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 750,
+								"h": 534,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 484,
+								"resize": "fit"
+							}
+						}
 					}
 				]
 			},
@@ -11935,13 +10765,13 @@ Grailbird.data.tweets_2018_04 =
 				"name": "Ted Gioia",
 				"screen_name": "tedgioia",
 				"location": "",
-				"description": "Ted Gioia writes on music, literature and popular culture. His latest book is How to Listen to Jazz (Basic Books).",
-				"url": "https://t.co/oRfvjL3h3Y",
+				"description": "Ted Gioia writes on music, literature & pop culture. Author of 10 books including The History of Jazz, Delta Blues, and How to Listen to Jazz.",
+				"url": "https://t.co/oRfvjKLGcq",
 				"entities": {
 					"url": {
 						"urls": [
 							{
-								"url": "https://t.co/oRfvjL3h3Y",
+								"url": "https://t.co/oRfvjKLGcq",
 								"expanded_url": "http://www.tedgioia.com",
 								"display_url": "tedgioia.com",
 								"indices": [
@@ -11956,23 +10786,23 @@ Grailbird.data.tweets_2018_04 =
 					}
 				},
 				"protected": false,
-				"followers_count": 22351,
-				"friends_count": 6224,
-				"listed_count": 971,
+				"followers_count": 24426,
+				"friends_count": 6133,
+				"listed_count": 1032,
 				"created_at": "Wed Aug 26 17:05:28 +0000 2009",
-				"favourites_count": 6336,
-				"utc_offset": -21600,
-				"time_zone": "Mountain Time (US & Canada)",
+				"favourites_count": 9425,
+				"utc_offset": null,
+				"time_zone": null,
 				"geo_enabled": false,
 				"verified": true,
-				"statuses_count": 43095,
+				"statuses_count": 46114,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
 				"is_translation_enabled": false,
 				"profile_background_color": "131516",
-				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/672455042/a666d1d613da2adba50d6d19cb67f932.png",
-				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/672455042/a666d1d613da2adba50d6d19cb67f932.png",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
 				"profile_background_tile": true,
 				"profile_image_url": "http://pbs.twimg.com/profile_images/732608426774138881/joeQ-CHV_normal.jpg",
 				"profile_image_url_https": "https://pbs.twimg.com/profile_images/732608426774138881/joeQ-CHV_normal.jpg",
@@ -11995,8 +10825,8 @@ Grailbird.data.tweets_2018_04 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 20,
-			"favorite_count": 22,
+			"retweet_count": 27,
+			"favorite_count": 28,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -12007,14 +10837,19 @@ Grailbird.data.tweets_2018_04 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Note this is payout to *labels*. What trickles down to musicians is but a fraction of the fraction shown here. \nhttps://t.co/dPu71d9Iqc"
 	},
 	{
 		"created_at": "Thu Apr 12 19:20:14 +0000 2018",
 		"id": 984511530967318500,
 		"id_str": "984511530967318528",
-		"text": "Gone Home on sale for $3.74 at GOG (just in time for my Gender and Technology class): https://t.co/tTe52gevyN",
+		"full_text": "Gone Home on sale for $3.74 at GOG (just in time for my Gender and Technology class): https://t.co/tTe52gevyN",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -12031,7 +10866,7 @@ Grailbird.data.tweets_2018_04 =
 				}
 			]
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
@@ -12040,17 +10875,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -12064,23 +10899,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8374,
-			"friends_count": 1111,
-			"listed_count": 513,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40559,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -12108,21 +10943,26 @@ Grailbird.data.tweets_2018_04 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Gone Home on sale for $3.74 at GOG (just in time for my Gender and Technology class): https://t.co/tTe52gevyN"
 	},
 	{
 		"created_at": "Thu Apr 12 18:26:20 +0000 2018",
 		"id": 984497962968469500,
 		"id_str": "984497962968469505",
-		"text": "whoa buddy,,,watch how yer using ‘whence’ there",
+		"full_text": "whoa buddy,,,watch how yer using ‘whence’ there",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
 			"urls": []
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
@@ -12131,17 +10971,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -12155,23 +10995,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8374,
-			"friends_count": 1111,
-			"listed_count": 513,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40559,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -12198,37 +11038,31 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 4,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "whoa buddy,,,watch how yer using ‘whence’ there"
 	},
 	{
-		"created_at": "Thu Apr 12 02:48:30 +0000 2018",
-		"id": 984261950615031800,
-		"id_str": "984261950615031808",
-		"text": "RT @_NickMcGuire: Rare photo of all seven of Voldemort's horcruxes https://t.co/FyApmNzmw7",
+		"created_at": "Thu Apr 12 00:09:15 +0000 2018",
+		"id": 984221874572886000,
+		"id_str": "984221874572886021",
+		"full_text": "Rare photo of all seven of Voldemort's horcruxes https://t.co/FyApmNzmw7",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "_NickMcGuire",
-					"name": "ʞɔıu",
-					"id": 234121500,
-					"id_str": "234121500",
-					"indices": [
-						3,
-						16
-					]
-				}
-			],
+			"user_mentions": [],
 			"urls": [],
 			"media": [
 				{
 					"id": 984221759837823000,
 					"id_str": "984221759837822976",
 					"indices": [
-						67,
-						90
+						49,
+						72
 					],
 					"media_url": "http://pbs.twimg.com/media/DaioeddX4AAVCzN.jpg",
 					"media_url_https": "https://pbs.twimg.com/media/DaioeddX4AAVCzN.jpg",
@@ -12257,11 +11091,7 @@ Grailbird.data.tweets_2018_04 =
 							"h": 486,
 							"resize": "fit"
 						}
-					},
-					"source_status_id": 984221874572886000,
-					"source_status_id_str": "984221874572886021",
-					"source_user_id": 234121500,
-					"source_user_id_str": "234121500"
+					}
 				}
 			]
 		},
@@ -12271,8 +11101,8 @@ Grailbird.data.tweets_2018_04 =
 					"id": 984221759837823000,
 					"id_str": "984221759837822976",
 					"indices": [
-						67,
-						90
+						49,
+						72
 					],
 					"media_url": "http://pbs.twimg.com/media/DaioeddX4AAVCzN.jpg",
 					"media_url_https": "https://pbs.twimg.com/media/DaioeddX4AAVCzN.jpg",
@@ -12301,73 +11131,56 @@ Grailbird.data.tweets_2018_04 =
 							"h": 486,
 							"resize": "fit"
 						}
-					},
-					"source_status_id": 984221874572886000,
-					"source_status_id_str": "984221874572886021",
-					"source_user_id": 234121500,
-					"source_user_id_str": "234121500"
+					}
 				}
 			]
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 8497292,
-			"id_str": "8497292",
-			"name": "Mark Sample",
-			"screen_name": "samplereality",
-			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"id": 234121500,
+			"id_str": "234121500",
+			"name": "Nick 🎃👻🧛🏻‍♂️🧟‍♀️",
+			"screen_name": "_NickMcGuire",
+			"location": "North Carolina",
+			"description": "Opinions are likely not my own",
+			"url": null,
 			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
-							"display_url": "samplereality.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
 				"description": {
 					"urls": []
 				}
 			},
 			"protected": false,
-			"followers_count": 8368,
-			"friends_count": 1110,
-			"listed_count": 513,
-			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
-			"geo_enabled": true,
+			"followers_count": 400,
+			"friends_count": 342,
+			"listed_count": 3,
+			"created_at": "Tue Jan 04 22:14:42 +0000 2011",
+			"favourites_count": 8333,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 40555,
+			"statuses_count": 701,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
-			"profile_link_color": "236299",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "A0C5C7",
-			"profile_text_color": "333333",
-			"profile_use_background_image": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937125941243011073/oyMkynq1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937125941243011073/oyMkynq1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/234121500/1512263211",
+			"profile_link_color": "0E0E0E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
@@ -12380,444 +11193,37 @@ Grailbird.data.tweets_2018_04 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Thu Apr 12 00:09:15 +0000 2018",
-			"id": 984221874572886000,
-			"id_str": "984221874572886021",
-			"text": "Rare photo of all seven of Voldemort's horcruxes https://t.co/FyApmNzmw7",
-			"truncated": false,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [],
-				"media": [
-					{
-						"id": 984221759837823000,
-						"id_str": "984221759837822976",
-						"indices": [
-							49,
-							72
-						],
-						"media_url": "http://pbs.twimg.com/media/DaioeddX4AAVCzN.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/DaioeddX4AAVCzN.jpg",
-						"url": "https://t.co/FyApmNzmw7",
-						"display_url": "pic.twitter.com/FyApmNzmw7",
-						"expanded_url": "https://twitter.com/_NickMcGuire/status/984221874572886021/photo/1",
-						"type": "photo",
-						"sizes": {
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"medium": {
-								"w": 1091,
-								"h": 780,
-								"resize": "fit"
-							},
-							"large": {
-								"w": 1091,
-								"h": 780,
-								"resize": "fit"
-							},
-							"small": {
-								"w": 680,
-								"h": 486,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"extended_entities": {
-				"media": [
-					{
-						"id": 984221759837823000,
-						"id_str": "984221759837822976",
-						"indices": [
-							49,
-							72
-						],
-						"media_url": "http://pbs.twimg.com/media/DaioeddX4AAVCzN.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/DaioeddX4AAVCzN.jpg",
-						"url": "https://t.co/FyApmNzmw7",
-						"display_url": "pic.twitter.com/FyApmNzmw7",
-						"expanded_url": "https://twitter.com/_NickMcGuire/status/984221874572886021/photo/1",
-						"type": "photo",
-						"sizes": {
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"medium": {
-								"w": 1091,
-								"h": 780,
-								"resize": "fit"
-							},
-							"large": {
-								"w": 1091,
-								"h": 780,
-								"resize": "fit"
-							},
-							"small": {
-								"w": 680,
-								"h": 486,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 234121500,
-				"id_str": "234121500",
-				"name": "ʞɔıu",
-				"screen_name": "_NickMcGuire",
-				"location": "North Carolina",
-				"description": "Opinions are likely not my own",
-				"url": "https://t.co/LHeHqUPSHe",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/LHeHqUPSHe",
-								"expanded_url": "http://www.ilovesabi.com",
-								"display_url": "ilovesabi.com",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 409,
-				"friends_count": 295,
-				"listed_count": 3,
-				"created_at": "Tue Jan 04 22:14:42 +0000 2011",
-				"favourites_count": 4922,
-				"utc_offset": -18000,
-				"time_zone": "Quito",
-				"geo_enabled": false,
-				"verified": false,
-				"statuses_count": 510,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "000000",
-				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/605103156385693696/CRkaezzy.png",
-				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/605103156385693696/CRkaezzy.png",
-				"profile_background_tile": true,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/937125941243011073/oyMkynq1_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/937125941243011073/oyMkynq1_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/234121500/1512263211",
-				"profile_link_color": "0E0E0E",
-				"profile_sidebar_border_color": "000000",
-				"profile_sidebar_fill_color": "000000",
-				"profile_text_color": "000000",
-				"profile_use_background_image": true,
-				"has_extended_profile": true,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 2,
-			"favorite_count": 13,
-			"favorited": false,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "en"
-		},
 		"is_quote_status": false,
-		"retweet_count": 2,
-		"favorite_count": 0,
+		"retweet_count": 3,
+		"favorite_count": 20,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Rare photo of all seven of Voldemort's horcruxes https://t.co/FyApmNzmw7"
 	},
 	{
-		"created_at": "Thu Apr 12 01:40:46 +0000 2018",
-		"id": 984244906137997300,
-		"id_str": "984244906137997313",
-		"text": "Truly, this is wonderful news. Congratulations! @jemphd @AMartinezPhd @BensonDevyn @drlaurian",
+		"created_at": "Wed Apr 11 15:25:14 +0000 2018",
+		"id": 984090001775431700,
+		"id_str": "984090001775431680",
+		"full_text": "https://t.co/pwjW5NOpsn",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
+			"user_mentions": [],
+			"urls": [],
+			"media": [
 				{
-					"screen_name": "jemphd",
-					"name": "janemangan",
-					"id": 2201155366,
-					"id_str": "2201155366",
-					"indices": [
-						48,
-						55
-					]
-				},
-				{
-					"screen_name": "AMartinezPhd",
-					"name": "Amanda R. Martinez",
-					"id": 375723132,
-					"id_str": "375723132",
-					"indices": [
-						56,
-						69
-					]
-				},
-				{
-					"screen_name": "BensonDevyn",
-					"name": "Devyn Spence Benson",
-					"id": 707689579013222400,
-					"id_str": "707689579013222402",
-					"indices": [
-						70,
-						82
-					]
-				},
-				{
-					"screen_name": "drlaurian",
-					"name": "Laurian Bowles",
-					"id": 461032883,
-					"id_str": "461032883",
-					"indices": [
-						83,
-						93
-					]
-				}
-			],
-			"urls": []
-		},
-		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
-		"in_reply_to_status_id": 984227743427715100,
-		"in_reply_to_status_id_str": "984227743427715072",
-		"in_reply_to_user_id": 2201155366,
-		"in_reply_to_user_id_str": "2201155366",
-		"in_reply_to_screen_name": "jemphd",
-		"user": {
-			"id": 8497292,
-			"id_str": "8497292",
-			"name": "Mark Sample",
-			"screen_name": "samplereality",
-			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
-							"display_url": "samplereality.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 8368,
-			"friends_count": 1110,
-			"listed_count": 513,
-			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 40555,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
-			"profile_link_color": "236299",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "A0C5C7",
-			"profile_text_color": "333333",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 2,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en"
-	},
-	{
-		"created_at": "Thu Apr 12 01:35:40 +0000 2018",
-		"id": 984243622752280600,
-		"id_str": "984243622752280576",
-		"text": "@KevinGSmith2 Not a surprise, but a huge congratulations nonetheless!",
-		"truncated": false,
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "KevinGSmith2",
-					"name": "Kevin G. Smith",
-					"id": 759431287664939000,
-					"id_str": "759431287664939009",
+					"id": 984089991629426700,
+					"id_str": "984089991629426688",
 					"indices": [
 						0,
-						13
-					]
-				}
-			],
-			"urls": []
-		},
-		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
-		"in_reply_to_status_id": 984172707955822600,
-		"in_reply_to_status_id_str": "984172707955822593",
-		"in_reply_to_user_id": 759431287664939000,
-		"in_reply_to_user_id_str": "759431287664939009",
-		"in_reply_to_screen_name": "KevinGSmith2",
-		"user": {
-			"id": 8497292,
-			"id_str": "8497292",
-			"name": "Mark Sample",
-			"screen_name": "samplereality",
-			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
-							"display_url": "samplereality.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 8368,
-			"friends_count": 1110,
-			"listed_count": 513,
-			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 40555,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
-			"profile_link_color": "236299",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "A0C5C7",
-			"profile_text_color": "333333",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en"
-	},
-	{
-		"created_at": "Wed Apr 11 15:34:19 +0000 2018",
-		"id": 984092286492528600,
-		"id_str": "984092286492528640",
-		"text": "RT @aanand: https://t.co/pwjW5NOpsn",
-		"truncated": false,
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "aanand",
-					"name": "Pᴀᴜʟ Bʟᴀʀᴛ: Sᴍᴀʟʟ Cᴀᴘs",
-					"id": 14149919,
-					"id_str": "14149919",
-					"indices": [
-						3,
-						10
-					]
-				}
-			],
-			"urls": [],
-			"media": [
-				{
-					"id": 984089991629426700,
-					"id_str": "984089991629426688",
-					"indices": [
-						12,
-						35
+						23
 					],
 					"media_url": "http://pbs.twimg.com/media/DagwoioW0AACddN.jpg",
 					"media_url_https": "https://pbs.twimg.com/media/DagwoioW0AACddN.jpg",
@@ -12846,11 +11252,7 @@ Grailbird.data.tweets_2018_04 =
 							"h": 440,
 							"resize": "fit"
 						}
-					},
-					"source_status_id": 984090001775431700,
-					"source_status_id_str": "984090001775431680",
-					"source_user_id": 14149919,
-					"source_user_id_str": "14149919"
+					}
 				}
 			]
 		},
@@ -12860,8 +11262,8 @@ Grailbird.data.tweets_2018_04 =
 					"id": 984089991629426700,
 					"id_str": "984089991629426688",
 					"indices": [
-						12,
-						35
+						0,
+						23
 					],
 					"media_url": "http://pbs.twimg.com/media/DagwoioW0AACddN.jpg",
 					"media_url_https": "https://pbs.twimg.com/media/DagwoioW0AACddN.jpg",
@@ -12890,35 +11292,31 @@ Grailbird.data.tweets_2018_04 =
 							"h": 440,
 							"resize": "fit"
 						}
-					},
-					"source_status_id": 984090001775431700,
-					"source_status_id_str": "984090001775431680",
-					"source_user_id": 14149919,
-					"source_user_id_str": "14149919"
+					}
 				}
 			]
 		},
-		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 8497292,
-			"id_str": "8497292",
-			"name": "Mark Sample",
-			"screen_name": "samplereality",
-			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"id": 14149919,
+			"id_str": "14149919",
+			"name": "Karahi Ghost",
+			"screen_name": "aanand",
+			"location": "he/him",
+			"description": "Inventor of the “Aanand Style” of eating pizza",
+			"url": "https://t.co/qj86KY6hCL",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
-							"display_url": "samplereality.com",
+							"url": "https://t.co/qj86KY6hCL",
+							"expanded_url": "http://instagram.com/aanand",
+							"display_url": "instagram.com/aanand",
 							"indices": [
 								0,
 								23
@@ -12931,30 +11329,30 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8368,
-			"friends_count": 1110,
-			"listed_count": 513,
-			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
-			"geo_enabled": true,
+			"followers_count": 4576,
+			"friends_count": 762,
+			"listed_count": 203,
+			"created_at": "Fri Mar 14 22:41:43 +0000 2008",
+			"favourites_count": 80627,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 40555,
+			"statuses_count": 39488,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
-			"profile_link_color": "236299",
+			"profile_background_color": "E6E6E6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1003225253752033281/cl7XNeAI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1003225253752033281/cl7XNeAI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14149919/1536193201",
+			"profile_link_color": "1B95E0",
 			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_sidebar_fill_color": "FFCB88",
 			"profile_text_color": "333333",
 			"profile_use_background_image": false,
 			"has_extended_profile": true,
@@ -12969,176 +11367,25 @@ Grailbird.data.tweets_2018_04 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Wed Apr 11 15:25:14 +0000 2018",
-			"id": 984090001775431700,
-			"id_str": "984090001775431680",
-			"text": "https://t.co/pwjW5NOpsn",
-			"truncated": false,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [],
-				"media": [
-					{
-						"id": 984089991629426700,
-						"id_str": "984089991629426688",
-						"indices": [
-							0,
-							23
-						],
-						"media_url": "http://pbs.twimg.com/media/DagwoioW0AACddN.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/DagwoioW0AACddN.jpg",
-						"url": "https://t.co/pwjW5NOpsn",
-						"display_url": "pic.twitter.com/pwjW5NOpsn",
-						"expanded_url": "https://twitter.com/aanand/status/984090001775431680/photo/1",
-						"type": "photo",
-						"sizes": {
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"medium": {
-								"w": 880,
-								"h": 440,
-								"resize": "fit"
-							},
-							"small": {
-								"w": 680,
-								"h": 340,
-								"resize": "fit"
-							},
-							"large": {
-								"w": 880,
-								"h": 440,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"extended_entities": {
-				"media": [
-					{
-						"id": 984089991629426700,
-						"id_str": "984089991629426688",
-						"indices": [
-							0,
-							23
-						],
-						"media_url": "http://pbs.twimg.com/media/DagwoioW0AACddN.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/DagwoioW0AACddN.jpg",
-						"url": "https://t.co/pwjW5NOpsn",
-						"display_url": "pic.twitter.com/pwjW5NOpsn",
-						"expanded_url": "https://twitter.com/aanand/status/984090001775431680/photo/1",
-						"type": "photo",
-						"sizes": {
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"medium": {
-								"w": 880,
-								"h": 440,
-								"resize": "fit"
-							},
-							"small": {
-								"w": 680,
-								"h": 340,
-								"resize": "fit"
-							},
-							"large": {
-								"w": 880,
-								"h": 440,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 14149919,
-				"id_str": "14149919",
-				"name": "Pᴀᴜʟ Bʟᴀʀᴛ: Sᴍᴀʟʟ Cᴀᴘs",
-				"screen_name": "aanand",
-				"location": "",
-				"description": "Chill Lo Fi Tweets To Study/Relax To",
-				"url": null,
-				"entities": {
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 4507,
-				"friends_count": 703,
-				"listed_count": 184,
-				"created_at": "Fri Mar 14 22:41:43 +0000 2008",
-				"favourites_count": 73285,
-				"utc_offset": 3600,
-				"time_zone": "London",
-				"geo_enabled": false,
-				"verified": false,
-				"statuses_count": 40544,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "E6E6E6",
-				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678244080246239232/OQ_PmDBO.png",
-				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678244080246239232/OQ_PmDBO.png",
-				"profile_background_tile": true,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/972891605165400065/spkNcwnX_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/972891605165400065/spkNcwnX_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14149919/1522238009",
-				"profile_link_color": "666686",
-				"profile_sidebar_border_color": "FFFFFF",
-				"profile_sidebar_fill_color": "FFCB88",
-				"profile_text_color": "333333",
-				"profile_use_background_image": false,
-				"has_extended_profile": true,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 7539,
-			"favorite_count": 27063,
-			"favorited": false,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "und"
-		},
 		"is_quote_status": false,
-		"retweet_count": 7539,
-		"favorite_count": 0,
+		"retweet_count": 21175,
+		"favorite_count": 75338,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
-		"lang": "und"
+		"lang": "und",
+		"text": "https://t.co/pwjW5NOpsn"
 	},
 	{
 		"created_at": "Wed Apr 11 15:27:36 +0000 2018",
 		"id": 984090594917089300,
 		"id_str": "984090594917089282",
-		"text": "Me after talking about Vine all class. \nhttps://t.co/8tnDGIjR2B",
+		"full_text": "Me after talking about Vine all class. \nhttps://t.co/8tnDGIjR2B",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -13164,17 +11411,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -13188,23 +11435,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8368,
-			"friends_count": 1110,
-			"listed_count": 513,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40555,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -13229,12 +11476,21 @@ Grailbird.data.tweets_2018_04 =
 		"is_quote_status": true,
 		"quoted_status_id": 983772134450319400,
 		"quoted_status_id_str": "983772134450319362",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8tnDGIjR2B",
+			"expanded": "https://twitter.com/BookImages/status/983772134450319362",
+			"display": "twitter.com/BookImages/sta…"
+		},
 		"quoted_status": {
 			"created_at": "Tue Apr 10 18:22:09 +0000 2018",
 			"id": 983772134450319400,
 			"id_str": "983772134450319362",
-			"text": "page 227 of \"Emblemata V.C. Andreae Alciati Mediolanensis iurisconsulti :...\" (1622) https://t.co/WUdVRqnnUO https://t.co/bjzZ7ioPeY",
+			"full_text": "page 227 of \"Emblemata V.C. Andreae Alciati Mediolanensis iurisconsulti :...\" (1622) https://t.co/WUdVRqnnUO https://t.co/bjzZ7ioPeY",
 			"truncated": false,
+			"display_text_range": [
+				0,
+				108
+			],
 			"entities": {
 				"hashtags": [],
 				"symbols": [],
@@ -13359,16 +11615,16 @@ Grailbird.data.tweets_2018_04 =
 					}
 				},
 				"protected": false,
-				"followers_count": 2758,
+				"followers_count": 2777,
 				"friends_count": 52,
-				"listed_count": 171,
+				"listed_count": 183,
 				"created_at": "Sun Aug 31 03:20:04 +0000 2014",
 				"favourites_count": 1,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 13452,
+				"statuses_count": 13794,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -13410,14 +11666,19 @@ Grailbird.data.tweets_2018_04 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Me after talking about Vine all class. \nhttps://t.co/8tnDGIjR2B"
 	},
 	{
 		"created_at": "Wed Apr 11 14:21:32 +0000 2018",
 		"id": 984073971011383300,
 		"id_str": "984073971011383298",
-		"text": "Some days my whole class is just an extended eulogy for Vine.",
+		"full_text": "Some days my whole class is just an extended eulogy for Vine.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -13433,17 +11694,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -13457,23 +11718,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8368,
-			"friends_count": 1110,
-			"listed_count": 513,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40555,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -13497,34 +11758,29 @@ Grailbird.data.tweets_2018_04 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 1,
-		"favorite_count": 8,
+		"favorite_count": 7,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Some days my whole class is just an extended eulogy for Vine."
 	},
 	{
 		"created_at": "Tue Apr 10 15:42:45 +0000 2018",
 		"id": 983732020848332800,
 		"id_str": "983732020848332800",
-		"text": "Few physical reminders of white supremacy remain (like the whipping post, which we know existed but not where). It… https://t.co/UZJAPY4gHh",
-		"truncated": true,
+		"full_text": "Few physical reminders of white supremacy remain (like the whipping post, which we know existed but not where). It lies buried, just below the surface. But leaks out like the asbestos in town.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/UZJAPY4gHh",
-					"expanded_url": "https://twitter.com/i/web/status/983732020848332800",
-					"display_url": "twitter.com/i/web/status/9…",
-					"indices": [
-						116,
-						139
-					]
-				}
-			]
+			"urls": []
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
 		"in_reply_to_status_id": 983731379316850700,
 		"in_reply_to_status_id_str": "983731379316850688",
 		"in_reply_to_user_id": 8497292,
@@ -13533,17 +11789,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -13557,23 +11813,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8360,
-			"friends_count": 1109,
-			"listed_count": 513,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40549,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -13596,25 +11852,30 @@ Grailbird.data.tweets_2018_04 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1,
-		"favorite_count": 10,
+		"retweet_count": 2,
+		"favorite_count": 11,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Few physical reminders of white supremacy remain (like the whipping post, which we know existed but not where). It lies buried, just below the surface. But leaks out like the asbestos in town."
 	},
 	{
 		"created_at": "Tue Apr 10 15:40:12 +0000 2018",
 		"id": 983731379316850700,
 		"id_str": "983731379316850688",
-		"text": "Or how students in 1920 staged a mock lynching.",
+		"full_text": "Or how students in 1920 staged a mock lynching.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
 			"urls": []
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
 		"in_reply_to_status_id": 983730876876980200,
 		"in_reply_to_status_id_str": "983730876876980224",
 		"in_reply_to_user_id": 8497292,
@@ -13623,17 +11884,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -13647,113 +11908,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8360,
-			"friends_count": 1109,
-			"listed_count": 513,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40549,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
-			"profile_link_color": "236299",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "A0C5C7",
-			"profile_text_color": "333333",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 6,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en"
-	},
-	{
-		"created_at": "Tue Apr 10 15:38:12 +0000 2018",
-		"id": 983730876876980200,
-		"id_str": "983730876876980224",
-		"text": "Or the students’ blackface minstrel group that used to perform in the Cunningham theatre.",
-		"truncated": false,
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": []
-		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
-		"in_reply_to_status_id": 983730478946627600,
-		"in_reply_to_status_id_str": "983730478946627585",
-		"in_reply_to_user_id": 8497292,
-		"in_reply_to_user_id_str": "8497292",
-		"in_reply_to_screen_name": "samplereality",
-		"user": {
-			"id": 8497292,
-			"id_str": "8497292",
-			"name": "Mark Sample",
-			"screen_name": "samplereality",
-			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
-							"display_url": "samplereality.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 8360,
-			"friends_count": 1109,
-			"listed_count": 513,
-			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 40549,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -13780,40 +11951,45 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 5,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Or how students in 1920 staged a mock lynching."
 	},
 	{
-		"created_at": "Tue Apr 10 15:36:37 +0000 2018",
-		"id": 983730478946627600,
-		"id_str": "983730478946627585",
-		"text": "Or the way the college likes to claim segregationalist Woodrow Wilson as one of its own (despite Wilson attending Davidson just one year).",
+		"created_at": "Tue Apr 10 15:38:12 +0000 2018",
+		"id": 983730876876980200,
+		"id_str": "983730876876980224",
+		"full_text": "Or the students’ blackface minstrel group that used to perform in the Cunningham theatre.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
 			"urls": []
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
-		"in_reply_to_status_id": 983729684226674700,
-		"in_reply_to_status_id_str": "983729684226674688",
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+		"in_reply_to_status_id": 983730478946627600,
+		"in_reply_to_status_id_str": "983730478946627585",
 		"in_reply_to_user_id": 8497292,
 		"in_reply_to_user_id_str": "8497292",
 		"in_reply_to_screen_name": "samplereality",
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -13827,23 +12003,118 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8360,
-			"friends_count": 1109,
-			"listed_count": 513,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40549,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Or the students’ blackface minstrel group that used to perform in the Cunningham theatre."
+	},
+	{
+		"created_at": "Tue Apr 10 15:36:37 +0000 2018",
+		"id": 983730478946627600,
+		"id_str": "983730478946627585",
+		"full_text": "Or the way the college likes to claim segregationalist Woodrow Wilson as one of its own (despite Wilson attending Davidson just one year).",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+		"in_reply_to_status_id": 983729684226674700,
+		"in_reply_to_status_id_str": "983729684226674688",
+		"in_reply_to_user_id": 8497292,
+		"in_reply_to_user_id_str": "8497292",
+		"in_reply_to_screen_name": "samplereality",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark \"Funny Halloween Name\" Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41284,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -13870,31 +12141,26 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Or the way the college likes to claim segregationalist Woodrow Wilson as one of its own (despite Wilson attending Davidson just one year)."
 	},
 	{
 		"created_at": "Tue Apr 10 15:33:28 +0000 2018",
 		"id": 983729684226674700,
 		"id_str": "983729684226674688",
-		"text": "Or the way environmental racism works with the old asbestos factory in town, which leaks asbestos into the historic… https://t.co/u2T0lEpUfE",
-		"truncated": true,
+		"full_text": "Or the way environmental racism works with the old asbestos factory in town, which leaks asbestos into the historically black west side of town.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/u2T0lEpUfE",
-					"expanded_url": "https://twitter.com/i/web/status/983729684226674688",
-					"display_url": "twitter.com/i/web/status/9…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
 		"in_reply_to_status_id": 983728225313534000,
 		"in_reply_to_status_id_str": "983728225313533953",
 		"in_reply_to_user_id": 8497292,
@@ -13903,17 +12169,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -13927,23 +12193,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8360,
-			"friends_count": 1109,
-			"listed_count": 513,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40549,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -13970,21 +12236,26 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 4,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Or the way environmental racism works with the old asbestos factory in town, which leaks asbestos into the historically black west side of town."
 	},
 	{
 		"created_at": "Tue Apr 10 15:27:40 +0000 2018",
 		"id": 983728225313534000,
 		"id_str": "983728225313533953",
-		"text": "Or how in the mid-1950s a black man named James Howard was paid as a janitor but often worked as a research assistant and lab technician.",
+		"full_text": "Or how in the mid-1950s a black man named James Howard was paid as a janitor but often worked as a research assistant and lab technician.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
 			"urls": []
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
 		"in_reply_to_status_id": 983727500604813300,
 		"in_reply_to_status_id_str": "983727500604813312",
 		"in_reply_to_user_id": 8497292,
@@ -13993,17 +12264,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -14017,23 +12288,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8360,
-			"friends_count": 1109,
-			"listed_count": 513,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40549,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -14060,21 +12331,26 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Or how in the mid-1950s a black man named James Howard was paid as a janitor but often worked as a research assistant and lab technician."
 	},
 	{
 		"created_at": "Tue Apr 10 15:24:47 +0000 2018",
 		"id": 983727500604813300,
 		"id_str": "983727500604813312",
-		"text": "Or how Birth of the Nation was screened in 1961 to a frolicsome crowd of students.",
+		"full_text": "Or how Birth of the Nation was screened in 1961 to a frolicsome crowd of students.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
 			"urls": []
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
 		"in_reply_to_status_id": 983727009196101600,
 		"in_reply_to_status_id_str": "983727009196101632",
 		"in_reply_to_user_id": 8497292,
@@ -14083,17 +12359,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -14107,23 +12383,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8360,
-			"friends_count": 1109,
-			"listed_count": 513,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40549,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -14150,21 +12426,26 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Or how Birth of the Nation was screened in 1961 to a frolicsome crowd of students."
 	},
 	{
 		"created_at": "Tue Apr 10 15:22:50 +0000 2018",
 		"id": 983727009196101600,
 		"id_str": "983727009196101632",
-		"text": "Or how a hooded klansman used to be the symbol of student life organizations in the 1920s.",
+		"full_text": "Or how a hooded klansman used to be the symbol of student life organizations in the 1920s.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
 			"urls": []
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
 		"in_reply_to_status_id": 983726468625764400,
 		"in_reply_to_status_id_str": "983726468625764354",
 		"in_reply_to_user_id": 8497292,
@@ -14173,17 +12454,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -14197,23 +12478,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8360,
-			"friends_count": 1109,
-			"listed_count": 513,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40549,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -14240,21 +12521,26 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Or how a hooded klansman used to be the symbol of student life organizations in the 1920s."
 	},
 	{
 		"created_at": "Tue Apr 10 15:20:41 +0000 2018",
 		"id": 983726468625764400,
 		"id_str": "983726468625764354",
-		"text": "Or how Dixie was played at football games all the way up to the late 1960s.",
+		"full_text": "Or how Dixie was played at football games all the way up to the late 1960s.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
 			"urls": []
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
 		"in_reply_to_status_id": 983726206276300800,
 		"in_reply_to_status_id_str": "983726206276300800",
 		"in_reply_to_user_id": 8497292,
@@ -14263,17 +12549,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -14287,23 +12573,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8360,
-			"friends_count": 1109,
-			"listed_count": 513,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40549,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -14330,21 +12616,26 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Or how Dixie was played at football games all the way up to the late 1960s."
 	},
 	{
 		"created_at": "Tue Apr 10 15:19:38 +0000 2018",
 		"id": 983726206276300800,
 		"id_str": "983726206276300800",
-		"text": "Like that time the college lost much of its endowment after the Civil War because it was invested in Confederate war bonds.",
+		"full_text": "Like that time the college lost much of its endowment after the Civil War because it was invested in Confederate war bonds.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
 			"urls": []
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
 		"in_reply_to_status_id": 983725706613059600,
 		"in_reply_to_status_id_str": "983725706613059584",
 		"in_reply_to_user_id": 8497292,
@@ -14353,17 +12644,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -14377,23 +12668,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8360,
-			"friends_count": 1109,
-			"listed_count": 513,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40549,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -14420,31 +12711,104 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 5,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Like that time the college lost much of its endowment after the Civil War because it was invested in Confederate war bonds."
 	},
 	{
 		"created_at": "Tue Apr 10 15:17:39 +0000 2018",
 		"id": 983725706613059600,
 		"id_str": "983725706613059584",
-		"text": "Students lead faculty and about 50 other students on a Disorientation Tour of Davidson College’s legacy of racism a… https://t.co/6bSC3auM8Y",
-		"truncated": true,
+		"full_text": "Students lead faculty and about 50 other students on a Disorientation Tour of Davidson College’s legacy of racism and white supremacy. https://t.co/P3W35F3cy0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
-			"urls": [
+			"urls": [],
+			"media": [
 				{
-					"url": "https://t.co/6bSC3auM8Y",
-					"expanded_url": "https://twitter.com/i/web/status/983725706613059584",
-					"display_url": "twitter.com/i/web/status/9…",
+					"id": 983725693111554000,
+					"id_str": "983725693111554048",
 					"indices": [
-						117,
-						140
-					]
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/DablTk5W0AAigT_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DablTk5W0AAigT_.jpg",
+					"url": "https://t.co/P3W35F3cy0",
+					"display_url": "pic.twitter.com/P3W35F3cy0",
+					"expanded_url": "https://twitter.com/samplereality/status/983725706613059584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
 				}
 			]
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"extended_entities": {
+			"media": [
+				{
+					"id": 983725693111554000,
+					"id_str": "983725693111554048",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/DablTk5W0AAigT_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DablTk5W0AAigT_.jpg",
+					"url": "https://t.co/P3W35F3cy0",
+					"display_url": "pic.twitter.com/P3W35F3cy0",
+					"expanded_url": "https://twitter.com/samplereality/status/983725706613059584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
@@ -14453,17 +12817,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -14477,23 +12841,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8360,
-			"friends_count": 1109,
-			"listed_count": 513,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40549,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -14516,19 +12880,24 @@ Grailbird.data.tweets_2018_04 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 29,
-		"favorite_count": 89,
+		"retweet_count": 33,
+		"favorite_count": 106,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Students lead faculty and about 50 other students on a Disorientation Tour of Davidson College’s legacy of racism and white supremacy. https://t.co/P3W35F3cy0"
 	},
 	{
 		"created_at": "Tue Apr 10 13:05:32 +0000 2018",
 		"id": 983692455576064000,
 		"id_str": "983692455576064002",
-		"text": "Not the pee tape I was expecting this morning. https://t.co/pGhjsSTyYB",
+		"full_text": "Not the pee tape I was expecting this morning. https://t.co/pGhjsSTyYB",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -14545,7 +12914,7 @@ Grailbird.data.tweets_2018_04 =
 				}
 			]
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
@@ -14554,17 +12923,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -14578,23 +12947,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8360,
-			"friends_count": 1109,
-			"listed_count": 513,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40549,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -14619,27 +12988,34 @@ Grailbird.data.tweets_2018_04 =
 		"is_quote_status": true,
 		"quoted_status_id": 983691881732300800,
 		"quoted_status_id_str": "983691881732300800",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pGhjsSTyYB",
+			"expanded": "https://twitter.com/WhitmanFML/status/983691881732300800",
+			"display": "twitter.com/WhitmanFML/sta…"
+		},
 		"quoted_status": {
 			"created_at": "Tue Apr 10 13:03:15 +0000 2018",
 			"id": 983691881732300800,
 			"id_str": "983691881732300800",
-			"text": "The bare arm of the girl crosses the bare breast of her lover, they press close without lust, his lips press her ne… https://t.co/HBf0McyTkJ",
-			"truncated": true,
+			"full_text": "The bare arm of the girl crosses the bare breast of her lover, they press close without lust, his lips press her neck and everything was covered in pee. #fml",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				157
+			],
 			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [
+				"hashtags": [
 					{
-						"url": "https://t.co/HBf0McyTkJ",
-						"expanded_url": "https://twitter.com/i/web/status/983691881732300800",
-						"display_url": "twitter.com/i/web/status/9…",
+						"text": "fml",
 						"indices": [
-							117,
-							140
+							153,
+							157
 						]
 					}
-				]
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
 			},
 			"source": "<a href=\"http://www.twitter.com/WhitmanFML\" rel=\"nofollow\">WhitmanFML</a>",
 			"in_reply_to_status_id": null,
@@ -14674,16 +13050,16 @@ Grailbird.data.tweets_2018_04 =
 					}
 				},
 				"protected": false,
-				"followers_count": 584,
+				"followers_count": 614,
 				"friends_count": 24,
-				"listed_count": 57,
+				"listed_count": 64,
 				"created_at": "Wed Jan 23 14:58:53 +0000 2013",
 				"favourites_count": 0,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 11632,
+				"statuses_count": 11755,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -14712,7 +13088,7 @@ Grailbird.data.tweets_2018_04 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 0,
+			"retweet_count": 1,
 			"favorite_count": 2,
 			"favorited": false,
 			"retweeted": false,
@@ -14723,55 +13099,99 @@ Grailbird.data.tweets_2018_04 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Not the pee tape I was expecting this morning. https://t.co/pGhjsSTyYB"
 	},
 	{
-		"created_at": "Mon Apr 09 23:18:16 +0000 2018",
-		"id": 983484270411944000,
-		"id_str": "983484270411943936",
-		"text": "RT @WhitmanFML: Great are marriage, commerce, newspapers, books, freetrade, railroads, steamers, international mails and telegraphs and exc…",
+		"created_at": "Mon Apr 09 23:17:36 +0000 2018",
+		"id": 983484098911047700,
+		"id_str": "983484098911047680",
+		"full_text": "Great are marriage, commerce, newspapers, books, freetrade, railroads, steamers, international mails and telegraphs and exchanges and bubble bath #bubbles #wine #bathtime #overit #shouldhaveknown #imanidiot #fml",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
 		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
+			"hashtags": [
 				{
-					"screen_name": "WhitmanFML",
-					"name": "Walt FML Whitman",
-					"id": 1114575554,
-					"id_str": "1114575554",
+					"text": "bubbles",
 					"indices": [
-						3,
-						14
+						146,
+						154
+					]
+				},
+				{
+					"text": "wine",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "bathtime",
+					"indices": [
+						161,
+						170
+					]
+				},
+				{
+					"text": "overit",
+					"indices": [
+						171,
+						178
+					]
+				},
+				{
+					"text": "shouldhaveknown",
+					"indices": [
+						179,
+						195
+					]
+				},
+				{
+					"text": "imanidiot",
+					"indices": [
+						196,
+						206
+					]
+				},
+				{
+					"text": "fml",
+					"indices": [
+						207,
+						211
 					]
 				}
 			],
+			"symbols": [],
+			"user_mentions": [],
 			"urls": []
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"http://www.twitter.com/WhitmanFML\" rel=\"nofollow\">WhitmanFML</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 8497292,
-			"id_str": "8497292",
-			"name": "Mark Sample",
-			"screen_name": "samplereality",
-			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"id": 1114575554,
+			"id_str": "1114575554",
+			"name": "Walt FML Whitman",
+			"screen_name": "WhitmanFML",
+			"location": "O America!",
+			"description": "What is grass? #FML (A bot by @samplereality)",
+			"url": "http://t.co/kcJ7U5Oe6x",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
+							"url": "http://t.co/kcJ7U5Oe6x",
 							"expanded_url": "http://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
-								23
+								22
 							]
 						}
 					]
@@ -14781,34 +13201,33 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8350,
-			"friends_count": 1109,
-			"listed_count": 513,
-			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"followers_count": 614,
+			"friends_count": 24,
+			"listed_count": 64,
+			"created_at": "Wed Jan 23 14:58:53 +0000 2013",
 			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
-			"geo_enabled": true,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 40537,
+			"statuses_count": 11755,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
-			"profile_link_color": "236299",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3302504020/81aad066b79d6c611005a2e27927e99f_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3302504020/81aad066b79d6c611005a2e27927e99f_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
 			"profile_text_color": "333333",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
 			"default_profile_image": false,
 			"following": false,
 			"follow_request_sent": false,
@@ -14819,118 +13238,24 @@ Grailbird.data.tweets_2018_04 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Mon Apr 09 23:17:36 +0000 2018",
-			"id": 983484098911047700,
-			"id_str": "983484098911047680",
-			"text": "Great are marriage, commerce, newspapers, books, freetrade, railroads, steamers, international mails and telegraphs… https://t.co/irJTgl9B2x",
-			"truncated": true,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [
-					{
-						"url": "https://t.co/irJTgl9B2x",
-						"expanded_url": "https://twitter.com/i/web/status/983484098911047680",
-						"display_url": "twitter.com/i/web/status/9…",
-						"indices": [
-							117,
-							140
-						]
-					}
-				]
-			},
-			"source": "<a href=\"http://www.twitter.com/WhitmanFML\" rel=\"nofollow\">WhitmanFML</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 1114575554,
-				"id_str": "1114575554",
-				"name": "Walt FML Whitman",
-				"screen_name": "WhitmanFML",
-				"location": "O America!",
-				"description": "What is grass? #FML (A bot by @samplereality)",
-				"url": "http://t.co/kcJ7U5Oe6x",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "http://t.co/kcJ7U5Oe6x",
-								"expanded_url": "http://www.samplereality.com",
-								"display_url": "samplereality.com",
-								"indices": [
-									0,
-									22
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 582,
-				"friends_count": 24,
-				"listed_count": 57,
-				"created_at": "Wed Jan 23 14:58:53 +0000 2013",
-				"favourites_count": 0,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": false,
-				"verified": false,
-				"statuses_count": 11628,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "C0DEED",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/3302504020/81aad066b79d6c611005a2e27927e99f_normal.jpeg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3302504020/81aad066b79d6c611005a2e27927e99f_normal.jpeg",
-				"profile_link_color": "1DA1F2",
-				"profile_sidebar_border_color": "C0DEED",
-				"profile_sidebar_fill_color": "DDEEF6",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": true,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 2,
-			"favorite_count": 0,
-			"favorited": false,
-			"retweeted": true,
-			"lang": "en"
-		},
 		"is_quote_status": false,
 		"retweet_count": 2,
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": true,
-		"lang": "en"
+		"lang": "en",
+		"text": "Great are marriage, commerce, newspapers, books, freetrade, railroads, steamers, international mails and telegraphs and exchanges and bubble bath #bubbles #wine #bathtime #overit #shouldhaveknown #imanidiot #fml"
 	},
 	{
 		"created_at": "Mon Apr 09 20:02:17 +0000 2018",
 		"id": 983434949096366100,
 		"id_str": "983434949096366086",
-		"text": "What's great is how Bank of America's Works p-card site asks me to change my password every other week.",
+		"full_text": "What's great is how Bank of America's Works p-card site asks me to change my password every other week.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -14946,17 +13271,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -14970,23 +13295,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8350,
-			"friends_count": 1109,
-			"listed_count": 513,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40537,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -15010,17 +13335,22 @@ Grailbird.data.tweets_2018_04 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 4,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "What's great is how Bank of America's Works p-card site asks me to change my password every other week."
 	},
 	{
 		"created_at": "Sun Apr 08 19:21:14 +0000 2018",
 		"id": 983062229447831600,
 		"id_str": "983062229447831553",
-		"text": "What's great about Moodle is how I have to re-log in every 12 hours using two-factor authentication.",
+		"full_text": "What's great about Moodle is how I have to re-log in every 12 hours using two-factor authentication.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -15036,17 +13366,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -15060,23 +13390,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8349,
-			"friends_count": 1110,
-			"listed_count": 512,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40535,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -15103,14 +13433,19 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "What's great about Moodle is how I have to re-log in every 12 hours using two-factor authentication."
 	},
 	{
 		"created_at": "Sun Apr 08 00:20:33 +0000 2018",
 		"id": 982775167469457400,
 		"id_str": "982775167469457408",
-		"text": "Dude, I’m glad you’re seeing a doctor, but I don’t think this is just a simple rash. https://t.co/EqxJrZ7ZTe",
+		"full_text": "Dude, I’m glad you’re seeing a doctor, but I don’t think this is just a simple rash. https://t.co/EqxJrZ7ZTe",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -15127,7 +13462,7 @@ Grailbird.data.tweets_2018_04 =
 				}
 			]
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
@@ -15136,17 +13471,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -15160,23 +13495,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8348,
-			"friends_count": 1110,
-			"listed_count": 512,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40534,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -15201,27 +13536,26 @@ Grailbird.data.tweets_2018_04 =
 		"is_quote_status": true,
 		"quoted_status_id": 982774732545249300,
 		"quoted_status_id_str": "982774732545249280",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EqxJrZ7ZTe",
+			"expanded": "https://twitter.com/WhitmanFML/status/982774732545249280",
+			"display": "twitter.com/WhitmanFML/sta…"
+		},
 		"quoted_status": {
 			"created_at": "Sun Apr 08 00:18:49 +0000 2018",
 			"id": 982774732545249300,
 			"id_str": "982774732545249280",
-			"text": "today, i went to the doctor because of the redness and swelling of my penis, hoping that it was just a minor rash a… https://t.co/gdpSH66nNE",
-			"truncated": true,
+			"full_text": "today, i went to the doctor because of the redness and swelling of my penis, hoping that it was just a minor rash and nor any thing in the earth, or down in the oldest graves of the earth",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				187
+			],
 			"entities": {
 				"hashtags": [],
 				"symbols": [],
 				"user_mentions": [],
-				"urls": [
-					{
-						"url": "https://t.co/gdpSH66nNE",
-						"expanded_url": "https://twitter.com/i/web/status/982774732545249280",
-						"display_url": "twitter.com/i/web/status/9…",
-						"indices": [
-							117,
-							140
-						]
-					}
-				]
+				"urls": []
 			},
 			"source": "<a href=\"http://www.twitter.com/WhitmanFML\" rel=\"nofollow\">WhitmanFML</a>",
 			"in_reply_to_status_id": null,
@@ -15256,16 +13590,16 @@ Grailbird.data.tweets_2018_04 =
 					}
 				},
 				"protected": false,
-				"followers_count": 577,
+				"followers_count": 614,
 				"friends_count": 24,
-				"listed_count": 57,
+				"listed_count": 64,
 				"created_at": "Wed Jan 23 14:58:53 +0000 2013",
 				"favourites_count": 0,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 11622,
+				"statuses_count": 11755,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -15305,94 +13639,75 @@ Grailbird.data.tweets_2018_04 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Dude, I’m glad you’re seeing a doctor, but I don’t think this is just a simple rash. https://t.co/EqxJrZ7ZTe"
 	},
 	{
-		"created_at": "Sat Apr 07 16:30:54 +0000 2018",
-		"id": 982656977292718100,
-		"id_str": "982656977292718080",
-		"text": "RT @TinyProtests: 🌤️　　\n\n🏦😳😵😖🏦\n🏢😕😞😲🏦\n🏛️😩🤔🤔🏨🏦🏛️🏨🏦🏗️\n🏬😲😢😓🚕　🚚🚌🚙🚐\n🏪😲😶😨🚛🚓🚐🚛🚙🚚\n🏛️🙄😓🤤🌳🏢🏨🏛️🏛️🏦\n🏗️😬😯😑🏛️\n🏢😭😕😥🏦\n🏛️😡😕🤐🏭\n🏢🙄😦😩🏢\nTEACHERS DESERVE A RAISE!",
+		"created_at": "Sat Apr 07 16:19:48 +0000 2018",
+		"id": 982654181440933900,
+		"id_str": "982654181440933889",
+		"full_text": "🌤️　　\n\n🏦😳😵😖🏦\n🏢😕😞😲🏦\n🏛️😩🤔🤔🏨🏦🏛️🏨🏦🏗️\n🏬😲😢😓🚕　🚚🚌🚙🚐\n🏪😲😶😨🚛🚓🚐🚛🚙🚚\n🏛️🙄😓🤤🌳🏢🏨🏛️🏛️🏦\n🏗️😬😯😑🏛️\n🏢😭😕😥🏦\n🏛️😡😕🤐🏭\n🏢🙄😦😩🏢\nTEACHERS DESERVE A RAISE!",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "TinyProtests",
-					"name": "Tiny Protests",
-					"id": 838385078044672000,
-					"id_str": "838385078044672001",
-					"indices": [
-						3,
-						16
-					]
-				}
-			],
+			"user_mentions": [],
 			"urls": []
 		},
-		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"source": "<a href=\"https://cheapbotsdonequick.com\" rel=\"nofollow\">Cheap Bots, Done Quick!</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 8497292,
-			"id_str": "8497292",
-			"name": "Mark Sample",
-			"screen_name": "samplereality",
-			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"id": 838385078044672000,
+			"id_str": "838385078044672001",
+			"name": "Tiny Protests",
+			"screen_name": "TinyProtests",
+			"location": "United States",
+			"description": "🇺🇸 WE MARCH FOR ALL WHO ARE OPPRESSED. \nWE SUPPORT OUR ALLIES IN 🇵🇷@protestitas",
+			"url": null,
 			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
-							"display_url": "samplereality.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
 				"description": {
 					"urls": []
 				}
 			},
 			"protected": false,
-			"followers_count": 8348,
-			"friends_count": 1110,
-			"listed_count": 512,
-			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
-			"geo_enabled": true,
+			"followers_count": 151,
+			"friends_count": 22,
+			"listed_count": 39,
+			"created_at": "Sun Mar 05 13:45:53 +0000 2017",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 40534,
+			"statuses_count": 4011,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
-			"profile_link_color": "236299",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "A0C5C7",
-			"profile_text_color": "333333",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/992805959776002049/v_Sj54MR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/992805959776002049/v_Sj54MR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/838385078044672001/1525539913",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
 			"profile_use_background_image": false,
-			"has_extended_profile": true,
+			"has_extended_profile": false,
 			"default_profile": false,
 			"default_profile_image": false,
-			"following": false,
+			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
 			"translator_type": "none"
@@ -15401,96 +13716,24 @@ Grailbird.data.tweets_2018_04 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Sat Apr 07 16:19:48 +0000 2018",
-			"id": 982654181440933900,
-			"id_str": "982654181440933889",
-			"text": "🌤️　　\n\n🏦😳😵😖🏦\n🏢😕😞😲🏦\n🏛️😩🤔🤔🏨🏦🏛️🏨🏦🏗️\n🏬😲😢😓🚕　🚚🚌🚙🚐\n🏪😲😶😨🚛🚓🚐🚛🚙🚚\n🏛️🙄😓🤤🌳🏢🏨🏛️🏛️🏦\n🏗️😬😯😑🏛️\n🏢😭😕😥🏦\n🏛️😡😕🤐🏭\n🏢🙄😦😩🏢\nTEACHERS DESERVE A RAISE!",
-			"truncated": false,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": []
-			},
-			"source": "<a href=\"http://cheapbotsdonequick.com\" rel=\"nofollow\">Cheap Bots, Done Quick!</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 838385078044672000,
-				"id_str": "838385078044672001",
-				"name": "Tiny Protests",
-				"screen_name": "TinyProtests",
-				"location": "PUERTO RICO, USA, AND THE WORLD!",
-				"description": "🇺🇸 WE MARCH FOR ALL WHO ARE OPPRESSED. 🇵🇷 ¡EL PUEBLO UNIDO JAMÁS SERÁ VENCIDO! 🌍 CITIZENS OF THE WORLD UNITE!",
-				"url": null,
-				"entities": {
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 142,
-				"friends_count": 18,
-				"listed_count": 32,
-				"created_at": "Sun Mar 05 13:45:53 +0000 2017",
-				"favourites_count": 2,
-				"utc_offset": -14400,
-				"time_zone": "Eastern Time (US & Canada)",
-				"geo_enabled": false,
-				"verified": false,
-				"statuses_count": 2286,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "000000",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/838387700650618880/VodC0e3x_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/838387700650618880/VodC0e3x_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/838385078044672001/1515529738",
-				"profile_link_color": "000000",
-				"profile_sidebar_border_color": "000000",
-				"profile_sidebar_fill_color": "000000",
-				"profile_text_color": "000000",
-				"profile_use_background_image": false,
-				"has_extended_profile": true,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 3,
-			"favorite_count": 9,
-			"favorited": false,
-			"retweeted": true,
-			"lang": "en"
-		},
 		"is_quote_status": false,
 		"retweet_count": 3,
-		"favorite_count": 0,
+		"favorite_count": 9,
 		"favorited": false,
 		"retweeted": true,
-		"lang": "en"
+		"lang": "en",
+		"text": "🌤️　　\n\n🏦😳😵😖🏦\n🏢😕😞😲🏦\n🏛️😩🤔🤔🏨🏦🏛️🏨🏦🏗️\n🏬😲😢😓🚕　🚚🚌🚙🚐\n🏪😲😶😨🚛🚓🚐🚛🚙🚚\n🏛️🙄😓🤤🌳🏢🏨🏛️🏛️🏦\n🏗️😬😯😑🏛️\n🏢😭😕😥🏦\n🏛️😡😕🤐🏭\n🏢🙄😦😩🏢\nTEACHERS DESERVE A RAISE!"
 	},
 	{
 		"created_at": "Sat Apr 07 15:38:58 +0000 2018",
 		"id": 982643905744330800,
 		"id_str": "982643905744330753",
-		"text": "And don't forget smart TVs track everything you watch, unless you turn off automatic content recognition. \nhttps://t.co/i1RKsfM5yA",
+		"full_text": "And don't forget smart TVs track everything you watch, unless you turn off automatic content recognition. \nhttps://t.co/i1RKsfM5yA",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -15516,17 +13759,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -15540,23 +13783,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8348,
-			"friends_count": 1110,
-			"listed_count": 512,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40534,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -15579,141 +13822,24 @@ Grailbird.data.tweets_2018_04 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": true,
-		"quoted_status_id": 982642808912826400,
-		"quoted_status_id_str": "982642808912826368",
-		"quoted_status": {
-			"created_at": "Sat Apr 07 15:34:36 +0000 2018",
-			"id": 982642808912826400,
-			"id_str": "982642808912826368",
-			"text": "Facebook’s surveillance is nothing compared to Comcast, AT&amp;T and Verizon | Salome Viljoen | Opinion | The Guardian… https://t.co/jrCOc4PQIE",
-			"truncated": true,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [
-					{
-						"url": "https://t.co/jrCOc4PQIE",
-						"expanded_url": "https://twitter.com/i/web/status/982642808912826368",
-						"display_url": "twitter.com/i/web/status/9…",
-						"indices": [
-							120,
-							143
-						]
-					}
-				]
-			},
-			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 12206102,
-				"id_str": "12206102",
-				"name": "PrivacyDigest",
-				"screen_name": "PrivacyDigest",
-				"location": "Big Apple",
-				"description": "Started blog July 4th, 1999. Visit FB page http://t.co/BT0gik9uXM so I can track you.  Amazon Wishlist :-) http://t.co/IkxYbAC1rA",
-				"url": "http://t.co/IgE6di2ofP",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "http://t.co/IgE6di2ofP",
-								"expanded_url": "http://PrivacyDigest.com",
-								"display_url": "PrivacyDigest.com",
-								"indices": [
-									0,
-									22
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": [
-							{
-								"url": "http://t.co/BT0gik9uXM",
-								"expanded_url": "http://facebook.com/PrivacyDigest",
-								"display_url": "facebook.com/PrivacyDigest",
-								"indices": [
-									43,
-									65
-								]
-							},
-							{
-								"url": "http://t.co/IkxYbAC1rA",
-								"expanded_url": "http://www.amazon.com/registry/wishlist/CI4HONHSS5A2/ref=cm_sw_r_tw_ws_bpOzvb01982YR",
-								"display_url": "amazon.com/registry/wishl…",
-								"indices": [
-									107,
-									129
-								]
-							}
-						]
-					}
-				},
-				"protected": false,
-				"followers_count": 9934,
-				"friends_count": 151,
-				"listed_count": 706,
-				"created_at": "Mon Jan 14 05:57:09 +0000 2008",
-				"favourites_count": 16,
-				"utc_offset": -14400,
-				"time_zone": "Eastern Time (US & Canada)",
-				"geo_enabled": false,
-				"verified": false,
-				"statuses_count": 84758,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "C0DEED",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/208206323/GreenLibertyHead_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/208206323/GreenLibertyHead_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12206102/1362354635",
-				"profile_link_color": "1DA1F2",
-				"profile_sidebar_border_color": "C0DEED",
-				"profile_sidebar_fill_color": "DDEEF6",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": true,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 9,
-			"favorite_count": 6,
-			"favorited": false,
-			"retweeted": false,
-			"possibly_sensitive": false,
-			"lang": "en"
-		},
 		"retweet_count": 3,
 		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "And don't forget smart TVs track everything you watch, unless you turn off automatic content recognition. \nhttps://t.co/i1RKsfM5yA"
 	},
 	{
 		"created_at": "Sat Apr 07 14:34:15 +0000 2018",
 		"id": 982627619643514900,
 		"id_str": "982627619643514882",
-		"text": "@AMartinezPhd How dare you treat your job like a...job! 🤪",
+		"full_text": "@AMartinezPhd How dare you treat your job like a...job! 🤪",
 		"truncated": false,
+		"display_text_range": [
+			14,
+			57
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -15731,7 +13857,7 @@ Grailbird.data.tweets_2018_04 =
 			],
 			"urls": []
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
 		"in_reply_to_status_id": 982437621065449500,
 		"in_reply_to_status_id_str": "982437621065449472",
 		"in_reply_to_user_id": 375723132,
@@ -15740,17 +13866,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -15764,23 +13890,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8348,
-			"friends_count": 1110,
-			"listed_count": 512,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40534,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -15807,31 +13933,26 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@AMartinezPhd How dare you treat your job like a...job! 🤪"
 	},
 	{
 		"created_at": "Sat Apr 07 12:32:56 +0000 2018",
 		"id": 982597088339996700,
 		"id_str": "982597088339996672",
-		"text": "April, whatcha doing? Don’t you know there’s already too much going on? And you wanna squeeze in more talks, perfor… https://t.co/TdzLZZyXHw",
-		"truncated": true,
+		"full_text": "April, whatcha doing? Don’t you know there’s already too much going on? And you wanna squeeze in more talks, performances, and events? That ain’t right.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/TdzLZZyXHw",
-					"expanded_url": "https://twitter.com/i/web/status/982597088339996672",
-					"display_url": "twitter.com/i/web/status/9…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
@@ -15840,17 +13961,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -15864,23 +13985,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8348,
-			"friends_count": 1110,
-			"listed_count": 512,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40534,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -15907,31 +14028,26 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "April, whatcha doing? Don’t you know there’s already too much going on? And you wanna squeeze in more talks, performances, and events? That ain’t right."
 	},
 	{
 		"created_at": "Sat Apr 07 01:32:23 +0000 2018",
 		"id": 982430854604521500,
 		"id_str": "982430854604521472",
-		"text": "On one hand, at a small college you can be made to feel like a 2nd class citizen if you don’t have children. On the… https://t.co/a57oJl0cW8",
-		"truncated": true,
+		"full_text": "On one hand, at a small college you can be made to feel like a 2nd class citizen if you don’t have children. On the other hand, so many evening and weekend work commitments presume you don’t have children.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/a57oJl0cW8",
-					"expanded_url": "https://twitter.com/i/web/status/982430854604521472",
-					"display_url": "twitter.com/i/web/status/9…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
@@ -15940,17 +14056,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -15964,23 +14080,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8350,
-			"friends_count": 1110,
-			"listed_count": 512,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40530,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -16003,18 +14119,23 @@ Grailbird.data.tweets_2018_04 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 7,
+		"retweet_count": 1,
+		"favorite_count": 11,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "On one hand, at a small college you can be made to feel like a 2nd class citizen if you don’t have children. On the other hand, so many evening and weekend work commitments presume you don’t have children."
 	},
 	{
 		"created_at": "Fri Apr 06 14:05:54 +0000 2018",
 		"id": 982258098134859800,
 		"id_str": "982258098134859778",
-		"text": "@daniellynds https://t.co/NrG7kpoy4C",
+		"full_text": "@daniellynds https://t.co/NrG7kpoy4C",
 		"truncated": false,
+		"display_text_range": [
+			13,
+			36
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -16051,17 +14172,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -16075,23 +14196,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8350,
-			"friends_count": 1110,
-			"listed_count": 512,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40530,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -16119,52 +14240,134 @@ Grailbird.data.tweets_2018_04 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "und"
+		"lang": "und",
+		"text": "@daniellynds https://t.co/NrG7kpoy4C"
 	},
 	{
-		"created_at": "Thu Apr 05 20:05:05 +0000 2018",
-		"id": 981986102818017300,
-		"id_str": "981986102818017281",
-		"text": "RT @ClintSmithIII: Davidson College, I’ll be reading on campus tonight at 7:30 in the 900 room. Excited to be back on campus! Free &amp; open t…",
+		"created_at": "Thu Apr 05 15:05:25 +0000 2018",
+		"id": 981910686107304000,
+		"id_str": "981910686107303937",
+		"full_text": "Davidson College, I’ll be reading on campus tonight at 7:30 in the 900 room. Excited to be back on campus! Free &amp; open to the public. \n\nhttps://t.co/SAhl23qxVX https://t.co/eTU7aF8ZuV",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
+			"user_mentions": [],
+			"urls": [
 				{
-					"screen_name": "ClintSmithIII",
-					"name": "Clint Smith",
-					"id": 472587261,
-					"id_str": "472587261",
+					"url": "https://t.co/SAhl23qxVX",
+					"expanded_url": "https://www.davidson.edu/events/event-detail?id=129624",
+					"display_url": "davidson.edu/events/event-d…",
 					"indices": [
-						3,
-						17
+						140,
+						163
 					]
 				}
 			],
-			"urls": []
+			"media": [
+				{
+					"id": 981910672618524700,
+					"id_str": "981910672618524672",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/DaByjeqXkAADsn_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaByjeqXkAADsn_.jpg",
+					"url": "https://t.co/eTU7aF8ZuV",
+					"display_url": "pic.twitter.com/eTU7aF8ZuV",
+					"expanded_url": "https://twitter.com/ClintSmithIII/status/981910686107303937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 451,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 409,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 451,
+							"resize": "fit"
+						}
+					}
+				}
+			]
 		},
-		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"extended_entities": {
+			"media": [
+				{
+					"id": 981910672618524700,
+					"id_str": "981910672618524672",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/DaByjeqXkAADsn_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaByjeqXkAADsn_.jpg",
+					"url": "https://t.co/eTU7aF8ZuV",
+					"display_url": "pic.twitter.com/eTU7aF8ZuV",
+					"expanded_url": "https://twitter.com/ClintSmithIII/status/981910686107303937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 451,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 409,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 451,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 8497292,
-			"id_str": "8497292",
-			"name": "Mark Sample",
-			"screen_name": "samplereality",
-			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"id": 472587261,
+			"id_str": "472587261",
+			"name": "Clint Smith",
+			"screen_name": "ClintSmithIII",
+			"location": "Washington, DC",
+			"description": "Writer. Teacher. PhD Candidate @Harvard studying incarceration, education, & inequality. Author of Counting Descent.",
+			"url": "https://t.co/v22Brlvem6",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
-							"display_url": "samplereality.com",
+							"url": "https://t.co/v22Brlvem6",
+							"expanded_url": "http://www.clintsmithiii.com",
+							"display_url": "clintsmithiii.com",
 							"indices": [
 								0,
 								23
@@ -16177,36 +14380,36 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8346,
-			"friends_count": 1110,
-			"listed_count": 512,
-			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"followers_count": 246234,
+			"friends_count": 1595,
+			"listed_count": 2726,
+			"created_at": "Tue Jan 24 03:09:01 +0000 2012",
+			"favourites_count": 23949,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 40528,
+			"verified": true,
+			"statuses_count": 23623,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
-			"profile_link_color": "236299",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "A0C5C7",
-			"profile_text_color": "333333",
-			"profile_use_background_image": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1024852566230876167/fujyAlLB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1024852566230876167/fujyAlLB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/472587261/1405490588",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"following": false,
+			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
 			"translator_type": "none"
@@ -16215,120 +14418,25 @@ Grailbird.data.tweets_2018_04 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Thu Apr 05 15:05:25 +0000 2018",
-			"id": 981910686107304000,
-			"id_str": "981910686107303937",
-			"text": "Davidson College, I’ll be reading on campus tonight at 7:30 in the 900 room. Excited to be back on campus! Free &amp; o… https://t.co/Bpq1hwor62",
-			"truncated": true,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [
-					{
-						"url": "https://t.co/Bpq1hwor62",
-						"expanded_url": "https://twitter.com/i/web/status/981910686107303937",
-						"display_url": "twitter.com/i/web/status/9…",
-						"indices": [
-							121,
-							144
-						]
-					}
-				]
-			},
-			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 472587261,
-				"id_str": "472587261",
-				"name": "Clint Smith",
-				"screen_name": "ClintSmithIII",
-				"location": "Washington, DC",
-				"description": "Writer. Teacher. PhD Candidate @Harvard studying incarceration, education, & inequality. Author of Counting Descent.",
-				"url": "https://t.co/v22BrldDuy",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/v22BrldDuy",
-								"expanded_url": "http://www.clintsmithiii.com",
-								"display_url": "clintsmithiii.com",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 206271,
-				"friends_count": 1499,
-				"listed_count": 2236,
-				"created_at": "Tue Jan 24 03:09:01 +0000 2012",
-				"favourites_count": 21918,
-				"utc_offset": -14400,
-				"time_zone": "Eastern Time (US & Canada)",
-				"geo_enabled": true,
-				"verified": true,
-				"statuses_count": 21140,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "1A1B1F",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/911700378269478913/nDMjP7Wr_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/911700378269478913/nDMjP7Wr_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/472587261/1405490588",
-				"profile_link_color": "2FC2EF",
-				"profile_sidebar_border_color": "181A1E",
-				"profile_sidebar_fill_color": "252429",
-				"profile_text_color": "666666",
-				"profile_use_background_image": true,
-				"has_extended_profile": true,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 29,
-			"favorite_count": 130,
-			"favorited": false,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "en"
-		},
 		"is_quote_status": false,
-		"retweet_count": 29,
-		"favorite_count": 0,
+		"retweet_count": 28,
+		"favorite_count": 131,
 		"favorited": false,
 		"retweeted": true,
-		"lang": "en"
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Davidson College, I’ll be reading on campus tonight at 7:30 in the 900 room. Excited to be back on campus! Free &amp; open to the public. \n\nhttps://t.co/SAhl23qxVX https://t.co/eTU7aF8ZuV"
 	},
 	{
 		"created_at": "Thu Apr 05 03:29:24 +0000 2018",
 		"id": 981735529510326300,
 		"id_str": "981735529510326272",
-		"text": "Oh, hey, I still have the 28-year-old playbill in a scrapbook. https://t.co/VqVALVltVQ",
+		"full_text": "Oh, hey, I still have the 28-year-old playbill in a scrapbook. https://t.co/VqVALVltVQ",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -16449,7 +14557,7 @@ Grailbird.data.tweets_2018_04 =
 				}
 			]
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
 		"in_reply_to_status_id": 981734070861357000,
 		"in_reply_to_status_id_str": "981734070861357056",
 		"in_reply_to_user_id": 8497292,
@@ -16458,17 +14566,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -16482,23 +14590,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8347,
-			"friends_count": 1110,
-			"listed_count": 512,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40527,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -16522,35 +14630,30 @@ Grailbird.data.tweets_2018_04 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Oh, hey, I still have the 28-year-old playbill in a scrapbook. https://t.co/VqVALVltVQ"
 	},
 	{
 		"created_at": "Thu Apr 05 03:23:36 +0000 2018",
 		"id": 981734070861357000,
 		"id_str": "981734070861357056",
-		"text": "Random: in 1990 I saw a staging of Jesus Christ Superstar in Moscow, entirely in Russian, in which King Herod wore… https://t.co/2GFK4eFP0d",
-		"truncated": true,
+		"full_text": "Random: in 1990 I saw a staging of Jesus Christ Superstar in Moscow, entirely in Russian, in which King Herod wore a gigantic, I mean, HUUUUGE dildo.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/2GFK4eFP0d",
-					"expanded_url": "https://twitter.com/i/web/status/981734070861357056",
-					"display_url": "twitter.com/i/web/status/9…",
-					"indices": [
-						116,
-						139
-					]
-				}
-			]
+			"urls": []
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
@@ -16559,17 +14662,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -16583,23 +14686,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8347,
-			"friends_count": 1110,
-			"listed_count": 512,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40527,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -16623,17 +14726,22 @@ Grailbird.data.tweets_2018_04 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 7,
+		"favorite_count": 9,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Random: in 1990 I saw a staging of Jesus Christ Superstar in Moscow, entirely in Russian, in which King Herod wore a gigantic, I mean, HUUUUGE dildo."
 	},
 	{
 		"created_at": "Thu Apr 05 03:05:31 +0000 2018",
 		"id": 981729518401544200,
 		"id_str": "981729518401544193",
-		"text": "Such a frightening story. I’m waiting for my own classes to show up on campus reform dot org. https://t.co/nWlYygf8cO",
+		"full_text": "Such a frightening story. I’m waiting for my own classes to show up on campus reform dot org. https://t.co/nWlYygf8cO",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -16650,7 +14758,7 @@ Grailbird.data.tweets_2018_04 =
 				}
 			]
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
@@ -16659,17 +14767,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -16683,23 +14791,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8347,
-			"friends_count": 1110,
-			"listed_count": 512,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40527,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -16724,24 +14832,33 @@ Grailbird.data.tweets_2018_04 =
 		"is_quote_status": true,
 		"quoted_status_id": 981719070394540000,
 		"quoted_status_id_str": "981719070394540032",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nWlYygf8cO",
+			"expanded": "https://twitter.com/NPR/status/981719070394540032",
+			"display": "twitter.com/NPR/status/981…"
+		},
 		"quoted_status": {
 			"created_at": "Thu Apr 05 02:24:00 +0000 2018",
 			"id": 981719070394540000,
 			"id_str": "981719070394540032",
-			"text": "As professors become targets of online campaigns, some have lost their jobs — and others say they fear for their fa… https://t.co/ogaGo1zl2Q",
-			"truncated": true,
+			"full_text": "As professors become targets of online campaigns, some have lost their jobs — and others say they fear for their families' safety. https://t.co/FUzCuMj7q6",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				154
+			],
 			"entities": {
 				"hashtags": [],
 				"symbols": [],
 				"user_mentions": [],
 				"urls": [
 					{
-						"url": "https://t.co/ogaGo1zl2Q",
-						"expanded_url": "https://twitter.com/i/web/status/981719070394540032",
-						"display_url": "twitter.com/i/web/status/9…",
+						"url": "https://t.co/FUzCuMj7q6",
+						"expanded_url": "https://n.pr/2EjqSDo",
+						"display_url": "n.pr/2EjqSDo",
 						"indices": [
-							117,
-							140
+							131,
+							154
 						]
 					}
 				]
@@ -16789,23 +14906,23 @@ Grailbird.data.tweets_2018_04 =
 					}
 				},
 				"protected": false,
-				"followers_count": 7512216,
-				"friends_count": 72109,
-				"listed_count": 65341,
+				"followers_count": 7617409,
+				"friends_count": 71519,
+				"listed_count": 65969,
 				"created_at": "Sun Apr 22 05:10:15 +0000 2007",
-				"favourites_count": 2411,
-				"utc_offset": -14400,
-				"time_zone": "Eastern Time (US & Canada)",
+				"favourites_count": 2456,
+				"utc_offset": null,
+				"time_zone": null,
 				"geo_enabled": false,
 				"verified": true,
-				"statuses_count": 147395,
+				"statuses_count": 162190,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
 				"is_translation_enabled": true,
 				"profile_background_color": "9AE4E8",
-				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/414161733/nprnews_background.jpg",
-				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/414161733/nprnews_background.jpg",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 				"profile_background_tile": false,
 				"profile_image_url": "http://pbs.twimg.com/profile_images/722199003845304320/s2zwEoao_normal.jpg",
 				"profile_image_url_https": "https://pbs.twimg.com/profile_images/722199003845304320/s2zwEoao_normal.jpg",
@@ -16828,26 +14945,31 @@ Grailbird.data.tweets_2018_04 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 137,
-			"favorite_count": 174,
+			"retweet_count": 196,
+			"favorite_count": 225,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
 		"retweet_count": 0,
-		"favorite_count": 2,
+		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Such a frightening story. I’m waiting for my own classes to show up on campus reform dot org. https://t.co/nWlYygf8cO"
 	},
 	{
 		"created_at": "Thu Apr 05 01:39:38 +0000 2018",
 		"id": 981707907053117400,
 		"id_str": "981707907053117441",
-		"text": "@KristinCollie20 @MobyDickatSea Sorry about the delay!",
+		"full_text": "@KristinCollie20 @MobyDickatSea Sorry about the delay!",
 		"truncated": false,
+		"display_text_range": [
+			32,
+			54
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -16884,17 +15006,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -16908,23 +15030,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8347,
-			"friends_count": 1110,
-			"listed_count": 512,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40527,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -16951,14 +15073,19 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@KristinCollie20 @MobyDickatSea Sorry about the delay!"
 	},
 	{
 		"created_at": "Thu Apr 05 01:36:52 +0000 2018",
 		"id": 981707210916024300,
 		"id_str": "981707210916024320",
-		"text": "After three weeks of downtime during which I added new extracts, @MobyDickatSea is back at sea. \nhttps://t.co/u9wj8qZEVD",
+		"full_text": "After three weeks of downtime during which I added new extracts, @MobyDickatSea is back at sea. \nhttps://t.co/u9wj8qZEVD",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -16995,17 +15122,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -17019,23 +15146,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8347,
-			"friends_count": 1110,
-			"listed_count": 512,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40527,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -17060,12 +15187,21 @@ Grailbird.data.tweets_2018_04 =
 		"is_quote_status": true,
 		"quoted_status_id": 981705381876588500,
 		"quoted_status_id_str": "981705381876588545",
+		"quoted_status_permalink": {
+			"url": "https://t.co/u9wj8qZEVD",
+			"expanded": "https://twitter.com/MobyDickatSea/status/981705381876588545",
+			"display": "twitter.com/MobyDickatSea/…"
+		},
 		"quoted_status": {
 			"created_at": "Thu Apr 05 01:29:36 +0000 2018",
 			"id": 981705381876588500,
 			"id_str": "981705381876588545",
-			"text": "all that we call lives and souls, lie dreaming, dreaming, still",
+			"full_text": "all that we call lives and souls, lie dreaming, dreaming, still",
 			"truncated": false,
+			"display_text_range": [
+				0,
+				63
+			],
 			"entities": {
 				"hashtags": [],
 				"symbols": [],
@@ -17092,16 +15228,16 @@ Grailbird.data.tweets_2018_04 =
 					}
 				},
 				"protected": false,
-				"followers_count": 35924,
+				"followers_count": 42568,
 				"friends_count": 1,
-				"listed_count": 476,
+				"listed_count": 554,
 				"created_at": "Tue Jun 04 17:23:46 +0000 2013",
 				"favourites_count": 1,
-				"utc_offset": -25200,
-				"time_zone": "Pacific Time (US & Canada)",
+				"utc_offset": null,
+				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 14783,
+				"statuses_count": 16937,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -17123,7 +15259,7 @@ Grailbird.data.tweets_2018_04 =
 				"default_profile_image": false,
 				"following": true,
 				"follow_request_sent": false,
-				"notifications": false,
+				"notifications": true,
 				"translator_type": "none"
 			},
 			"geo": null,
@@ -17131,8 +15267,8 @@ Grailbird.data.tweets_2018_04 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 91,
-			"favorite_count": 226,
+			"retweet_count": 104,
+			"favorite_count": 291,
 			"favorited": false,
 			"retweeted": false,
 			"lang": "en"
@@ -17142,14 +15278,19 @@ Grailbird.data.tweets_2018_04 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "After three weeks of downtime during which I added new extracts, @MobyDickatSea is back at sea. \nhttps://t.co/u9wj8qZEVD"
 	},
 	{
 		"created_at": "Thu Apr 05 01:33:54 +0000 2018",
 		"id": 981706461368782800,
 		"id_str": "981706461368782854",
-		"text": "So looking forward to this! \nhttps://t.co/wqfuVTmlwN",
+		"full_text": "So looking forward to this! \nhttps://t.co/wqfuVTmlwN",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -17175,17 +15316,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -17199,23 +15340,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8347,
-			"friends_count": 1110,
-			"listed_count": 512,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40527,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -17240,25 +15381,113 @@ Grailbird.data.tweets_2018_04 =
 		"is_quote_status": true,
 		"quoted_status_id": 981528664679632900,
 		"quoted_status_id_str": "981528664679632896",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wqfuVTmlwN",
+			"expanded": "https://twitter.com/ProfTilburg/status/981692044358963200",
+			"display": "twitter.com/ProfTilburg/st…"
+		},
 		"quoted_status": {
 			"created_at": "Wed Apr 04 13:47:24 +0000 2018",
 			"id": 981528664679632900,
 			"id_str": "981528664679632896",
-			"text": "Mark your calendars, Charlotte-area folks, Prof. Carol Anderson is coming to Davidson this month! 4/22 7:30 p.m.… https://t.co/WoEevJ4pal",
-			"truncated": true,
+			"full_text": "Mark your calendars, Charlotte-area folks, Prof. Carol Anderson is coming to Davidson this month! 4/22 7:30 p.m. @DavidsonCollege Lecture is free and open to the public. https://t.co/je01p6BdQ4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				169
+			],
 			"entities": {
 				"hashtags": [],
 				"symbols": [],
-				"user_mentions": [],
-				"urls": [
+				"user_mentions": [
 					{
-						"url": "https://t.co/WoEevJ4pal",
-						"expanded_url": "https://twitter.com/i/web/status/981528664679632896",
-						"display_url": "twitter.com/i/web/status/9…",
+						"screen_name": "DavidsonCollege",
+						"name": "Davidson College",
+						"id": 353477625,
+						"id_str": "353477625",
 						"indices": [
-							114,
-							137
+							113,
+							129
 						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 981528301440127000,
+						"id_str": "981528301440126977",
+						"indices": [
+							170,
+							193
+						],
+						"media_url": "http://pbs.twimg.com/media/DZ8WyjBU0AE-Vxn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZ8WyjBU0AE-Vxn.jpg",
+						"url": "https://t.co/je01p6BdQ4",
+						"display_url": "pic.twitter.com/je01p6BdQ4",
+						"expanded_url": "https://twitter.com/ProfTilburg/status/981528664679632896/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 780,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 442,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 810,
+								"h": 1246,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 981528301440127000,
+						"id_str": "981528301440126977",
+						"indices": [
+							170,
+							193
+						],
+						"media_url": "http://pbs.twimg.com/media/DZ8WyjBU0AE-Vxn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZ8WyjBU0AE-Vxn.jpg",
+						"url": "https://t.co/je01p6BdQ4",
+						"display_url": "pic.twitter.com/je01p6BdQ4",
+						"expanded_url": "https://twitter.com/ProfTilburg/status/981528664679632896/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 780,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 442,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 810,
+								"h": 1246,
+								"resize": "fit"
+							}
+						}
 					}
 				]
 			},
@@ -17275,17 +15504,17 @@ Grailbird.data.tweets_2018_04 =
 				"screen_name": "ProfTilburg",
 				"location": "Davidson, NC",
 				"description": "Professor of History at Davidson College. Teaching and writing about France, labor, sexuality, and popular culture. Core faculty in Gender & Sexuality Studies.",
-				"url": "http://t.co/jYCSNin25z",
+				"url": "https://t.co/t35ifEY2lk",
 				"entities": {
 					"url": {
 						"urls": [
 							{
-								"url": "http://t.co/jYCSNin25z",
-								"expanded_url": "http://www.davidson.edu/academics/history/faculty/patricia-tilburg",
+								"url": "https://t.co/t35ifEY2lk",
+								"expanded_url": "http://www.davidson.edu/academics/history/faculty-and-staff/patricia-tilburg",
 								"display_url": "davidson.edu/academics/hist…",
 								"indices": [
 									0,
-									22
+									23
 								]
 							}
 						]
@@ -17295,32 +15524,32 @@ Grailbird.data.tweets_2018_04 =
 					}
 				},
 				"protected": false,
-				"followers_count": 548,
-				"friends_count": 862,
-				"listed_count": 30,
+				"followers_count": 715,
+				"friends_count": 942,
+				"listed_count": 33,
 				"created_at": "Tue Jan 07 14:55:08 +0000 2014",
-				"favourites_count": 1874,
-				"utc_offset": -25200,
-				"time_zone": "Pacific Time (US & Canada)",
+				"favourites_count": 2256,
+				"utc_offset": null,
+				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 1690,
+				"statuses_count": 1827,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
 				"is_translation_enabled": false,
-				"profile_background_color": "EBEBEB",
+				"profile_background_color": "000000",
 				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
 				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
 				"profile_background_tile": false,
 				"profile_image_url": "http://pbs.twimg.com/profile_images/420578193884463104/WJKlR2en_normal.jpeg",
 				"profile_image_url_https": "https://pbs.twimg.com/profile_images/420578193884463104/WJKlR2en_normal.jpeg",
 				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2280705680/1389108219",
-				"profile_link_color": "990000",
-				"profile_sidebar_border_color": "DFDFDF",
-				"profile_sidebar_fill_color": "F3F3F3",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
+				"profile_link_color": "EC7063",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
 				"has_extended_profile": false,
 				"default_profile": false,
 				"default_profile_image": false,
@@ -17334,8 +15563,8 @@ Grailbird.data.tweets_2018_04 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 4,
-			"favorite_count": 16,
+			"retweet_count": 8,
+			"favorite_count": 27,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -17346,14 +15575,19 @@ Grailbird.data.tweets_2018_04 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "So looking forward to this! \nhttps://t.co/wqfuVTmlwN"
 	},
 	{
 		"created_at": "Thu Apr 05 01:07:34 +0000 2018",
 		"id": 981699836167770100,
 		"id_str": "981699836167770112",
-		"text": "(Not THE Well. I'm not that old.)",
+		"full_text": "(Not THE Well. I'm not that old.)",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -17369,17 +15603,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -17393,23 +15627,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8347,
-			"friends_count": 1110,
-			"listed_count": 512,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40527,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -17436,14 +15670,19 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "(Not THE Well. I'm not that old.)"
 	},
 	{
 		"created_at": "Thu Apr 05 01:06:57 +0000 2018",
 		"id": 981699679745429500,
 		"id_str": "981699679745429504",
-		"text": "I miss the Well.",
+		"full_text": "I miss the Well.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -17459,17 +15698,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -17483,23 +15722,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8347,
-			"friends_count": 1110,
-			"listed_count": 512,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40527,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -17526,31 +15765,26 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "I miss the Well."
 	},
 	{
 		"created_at": "Wed Apr 04 20:20:00 +0000 2018",
 		"id": 981627466769928200,
 		"id_str": "981627466769928192",
-		"text": "@sherah1918 Super congratulations! @NEH_ODH is so lucky to have you!",
+		"full_text": "@sherah1918 Super congratulations! @NEH_ODH is so lucky to have you!",
 		"truncated": false,
+		"display_text_range": [
+			12,
+			68
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [
 				{
-					"screen_name": "sherah1918",
-					"name": "Sheila Brennan",
-					"id": 14119160,
-					"id_str": "14119160",
-					"indices": [
-						0,
-						11
-					]
-				},
-				{
 					"screen_name": "NEH_ODH",
-					"name": "NEH Dig Humanities",
+					"name": "NEH Digital Humanities",
 					"id": 158445401,
 					"id_str": "158445401",
 					"indices": [
@@ -17566,21 +15800,21 @@ Grailbird.data.tweets_2018_04 =
 		"in_reply_to_status_id_str": "981605912799600641",
 		"in_reply_to_user_id": 14119160,
 		"in_reply_to_user_id_str": "14119160",
-		"in_reply_to_screen_name": "sherah1918",
+		"in_reply_to_screen_name": "SheilaABrennan",
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -17594,23 +15828,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8347,
-			"friends_count": 1110,
-			"listed_count": 512,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40527,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -17637,52 +15871,203 @@ Grailbird.data.tweets_2018_04 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@sherah1918 Super congratulations! @NEH_ODH is so lucky to have you!"
 	},
 	{
-		"created_at": "Tue Apr 03 15:58:56 +0000 2018",
-		"id": 981199379833983000,
-		"id_str": "981199379833982976",
-		"text": "RT @datasociety: NEW: Data &amp; Society is hiring for a cluster of roles to support our Media Manipulation research initiative https://t.co/CK…",
+		"created_at": "Mon Apr 02 14:08:33 +0000 2018",
+		"id": 980809214435176400,
+		"id_str": "980809214435176448",
+		"full_text": "NEW: Data &amp; Society is hiring for a cluster of roles to support our Media Manipulation research initiative https://t.co/CK4vD1N0S3",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
+			"user_mentions": [],
+			"urls": [
 				{
-					"screen_name": "datasociety",
-					"name": "Data & Society",
-					"id": 1894231788,
-					"id_str": "1894231788",
+					"url": "https://t.co/CK4vD1N0S3",
+					"expanded_url": "https://datasociety.net/blog/2018/03/30/new-jobs-at-data-society-media-manipulation-initiative/",
+					"display_url": "datasociety.net/blog/2018/03/3…",
 					"indices": [
-						3,
-						15
+						111,
+						134
 					]
 				}
-			],
-			"urls": []
+			]
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 8497292,
-			"id_str": "8497292",
-			"name": "Mark Sample",
-			"screen_name": "samplereality",
-			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"id": 1894231788,
+			"id_str": "1894231788",
+			"name": "Data & Society",
+			"screen_name": "datasociety",
+			"location": "NYC",
+			"description": "Data & Society is a research institute focused on the social and cultural issues arising from data-centric technological development.",
+			"url": "http://t.co/kXdGuWyZJA",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
-							"display_url": "samplereality.com",
+							"url": "http://t.co/kXdGuWyZJA",
+							"expanded_url": "http://www.datasociety.net",
+							"display_url": "datasociety.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33707,
+			"friends_count": 441,
+			"listed_count": 1494,
+			"created_at": "Sun Sep 22 16:14:59 +0000 2013",
+			"favourites_count": 4941,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6547,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "42413C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/966347637585797120/ZSmaBHEB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/966347637585797120/ZSmaBHEB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1894231788/1530115321",
+			"profile_link_color": "7FD7E1",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 199,
+		"favorite_count": 219,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW: Data &amp; Society is hiring for a cluster of roles to support our Media Manipulation research initiative https://t.co/CK4vD1N0S3"
+	},
+	{
+		"created_at": "Mon Apr 02 16:00:13 +0000 2018",
+		"id": 980837313176535000,
+		"id_str": "980837313176535040",
+		"full_text": "For @parisreview, I wrote about how literary tribute accounts are lovely and bizarre and one of the best parts of this platform. Thanks @DailyKerouac @samplereality and @Wwm_Shakespeare for your insight! https://t.co/MOuLMX9FVz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "parisreview",
+					"name": "The Paris Review",
+					"id": 71256932,
+					"id_str": "71256932",
+					"indices": [
+						4,
+						16
+					]
+				},
+				{
+					"screen_name": "DailyKerouac",
+					"name": "Daily Kerouac",
+					"id": 121832664,
+					"id_str": "121832664",
+					"indices": [
+						136,
+						149
+					]
+				},
+				{
+					"screen_name": "samplereality",
+					"name": "Foul Rag and Bone Shop of the Heart",
+					"id": 8497292,
+					"id_str": "8497292",
+					"indices": [
+						150,
+						164
+					]
+				},
+				{
+					"screen_name": "Wwm_Shakespeare",
+					"name": "William Shakespeare",
+					"id": 15126599,
+					"id_str": "15126599",
+					"indices": [
+						169,
+						185
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MOuLMX9FVz",
+					"expanded_url": "https://twitter.com/parisreview/status/980835192976834560",
+					"display_url": "twitter.com/parisreview/st…",
+					"indices": [
+						204,
+						227
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2705679621,
+			"id_str": "2705679621",
+			"name": "Kate Dwyer",
+			"screen_name": "ByKateDwyer",
+			"location": "New York, NY",
+			"description": "Words in NYT, Paris Review Daily, The Cut, Teen Vogue, TIME, and other corners of the web. I’m probably too earnest for this.",
+			"url": "https://t.co/zzQQ5k5jk9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zzQQ5k5jk9",
+							"expanded_url": "http://www.kate-dwyer.com",
+							"display_url": "kate-dwyer.com",
 							"indices": [
 								0,
 								23
@@ -17695,36 +16080,36 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8348,
-			"friends_count": 1110,
-			"listed_count": 512,
-			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"followers_count": 1355,
+			"friends_count": 996,
+			"listed_count": 24,
+			"created_at": "Sun Jul 13 03:15:56 +0000 2014",
+			"favourites_count": 3224,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40518,
+			"statuses_count": 1504,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
-			"profile_link_color": "236299",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956390740275466240/ANAJxMwE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956390740275466240/ANAJxMwE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2705679621/1539715037",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
 			"profile_text_color": "333333",
-			"profile_use_background_image": false,
+			"profile_use_background_image": true,
 			"has_extended_profile": true,
-			"default_profile": false,
+			"default_profile": true,
 			"default_profile_image": false,
-			"following": false,
+			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
 			"translator_type": "none"
@@ -17733,24 +16118,47 @@ Grailbird.data.tweets_2018_04 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Mon Apr 02 14:08:33 +0000 2018",
-			"id": 980809214435176400,
-			"id_str": "980809214435176448",
-			"text": "NEW: Data &amp; Society is hiring for a cluster of roles to support our Media Manipulation research initiative https://t.co/CK4vD1N0S3",
+		"is_quote_status": true,
+		"quoted_status_id": 980835192976834600,
+		"quoted_status_id_str": "980835192976834560",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MOuLMX9FVz",
+			"expanded": "https://twitter.com/parisreview/status/980835192976834560",
+			"display": "twitter.com/parisreview/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 02 15:51:47 +0000 2018",
+			"id": 980835192976834600,
+			"id_str": "980835192976834560",
+			"full_text": "The man behind @Wwm_Shakespeare describes his tribute account as “a play in miniature.” He uses Shakespeare’s words to comment on the world and listens as his hundreds of thousands of followers engage. https://t.co/mBF3094Yo5",
 			"truncated": false,
+			"display_text_range": [
+				0,
+				225
+			],
 			"entities": {
 				"hashtags": [],
 				"symbols": [],
-				"user_mentions": [],
+				"user_mentions": [
+					{
+						"screen_name": "Wwm_Shakespeare",
+						"name": "William Shakespeare",
+						"id": 15126599,
+						"id_str": "15126599",
+						"indices": [
+							15,
+							31
+						]
+					}
+				],
 				"urls": [
 					{
-						"url": "https://t.co/CK4vD1N0S3",
-						"expanded_url": "https://datasociety.net/blog/2018/03/30/new-jobs-at-data-society-media-manipulation-initiative/",
-						"display_url": "datasociety.net/blog/2018/03/3…",
+						"url": "https://t.co/mBF3094Yo5",
+						"expanded_url": "https://www.theparisreview.org/blog/2018/04/02/shakespeares-twitter-account/",
+						"display_url": "theparisreview.org/blog/2018/04/0…",
 						"indices": [
-							111,
-							134
+							202,
+							225
 						]
 					}
 				]
@@ -17762,20 +16170,20 @@ Grailbird.data.tweets_2018_04 =
 			"in_reply_to_user_id_str": null,
 			"in_reply_to_screen_name": null,
 			"user": {
-				"id": 1894231788,
-				"id_str": "1894231788",
-				"name": "Data & Society",
-				"screen_name": "datasociety",
-				"location": "NYC",
-				"description": "Data & Society is a research institute focused on the social and cultural issues arising from data-centric technological development.",
-				"url": "http://t.co/kXdGuWyZJA",
+				"id": 71256932,
+				"id_str": "71256932",
+				"name": "The Paris Review",
+				"screen_name": "parisreview",
+				"location": "New York, NY",
+				"description": "Quarterly literary magazine founded in 1953.",
+				"url": "http://t.co/oXirIX6rPZ",
 				"entities": {
 					"url": {
 						"urls": [
 							{
-								"url": "http://t.co/kXdGuWyZJA",
-								"expanded_url": "http://www.datasociety.net",
-								"display_url": "datasociety.net",
+								"url": "http://t.co/oXirIX6rPZ",
+								"expanded_url": "http://theparisreview.org",
+								"display_url": "theparisreview.org",
 								"indices": [
 									0,
 									22
@@ -17788,36 +16196,36 @@ Grailbird.data.tweets_2018_04 =
 					}
 				},
 				"protected": false,
-				"followers_count": 25640,
-				"friends_count": 429,
-				"listed_count": 1248,
-				"created_at": "Sun Sep 22 16:14:59 +0000 2013",
-				"favourites_count": 3990,
-				"utc_offset": -14400,
-				"time_zone": "Eastern Time (US & Canada)",
+				"followers_count": 939491,
+				"friends_count": 4653,
+				"listed_count": 11613,
+				"created_at": "Thu Sep 03 13:48:31 +0000 2009",
+				"favourites_count": 12655,
+				"utc_offset": null,
+				"time_zone": null,
 				"geo_enabled": false,
-				"verified": false,
-				"statuses_count": 5081,
+				"verified": true,
+				"statuses_count": 59430,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
 				"is_translation_enabled": false,
-				"profile_background_color": "42413C",
+				"profile_background_color": "9AE4E8",
 				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/966347637585797120/ZSmaBHEB_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/966347637585797120/ZSmaBHEB_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1894231788/1519229180",
-				"profile_link_color": "7FD7E1",
+				"profile_image_url": "http://pbs.twimg.com/profile_images/773206272632057857/3Or-FkJz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/773206272632057857/3Or-FkJz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/71256932/1536067915",
+				"profile_link_color": "D97B41",
 				"profile_sidebar_border_color": "FFFFFF",
-				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_sidebar_fill_color": "FFFFFF",
 				"profile_text_color": "333333",
-				"profile_use_background_image": false,
+				"profile_use_background_image": true,
 				"has_extended_profile": false,
 				"default_profile": false,
 				"default_profile_image": false,
-				"following": true,
+				"following": false,
 				"follow_request_sent": false,
 				"notifications": false,
 				"translator_type": "none"
@@ -17827,365 +16235,31 @@ Grailbird.data.tweets_2018_04 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 186,
-			"favorite_count": 200,
+			"retweet_count": 37,
+			"favorite_count": 122,
 			"favorited": false,
-			"retweeted": true,
+			"retweeted": false,
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
-		"is_quote_status": false,
-		"retweet_count": 186,
-		"favorite_count": 0,
+		"retweet_count": 17,
+		"favorite_count": 81,
 		"favorited": false,
 		"retweeted": true,
-		"lang": "en"
-	},
-	{
-		"created_at": "Mon Apr 02 18:08:13 +0000 2018",
-		"id": 980869526471487500,
-		"id_str": "980869526471487489",
-		"text": "RT @ByKateDwyer: For @parisreview, I wrote about how literary tribute accounts are lovely and bizarre and one of the best parts of this pla…",
-		"truncated": false,
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "ByKateDwyer",
-					"name": "Kate Dwyer",
-					"id": 2705679621,
-					"id_str": "2705679621",
-					"indices": [
-						3,
-						15
-					]
-				},
-				{
-					"screen_name": "parisreview",
-					"name": "The Paris Review",
-					"id": 71256932,
-					"id_str": "71256932",
-					"indices": [
-						21,
-						33
-					]
-				}
-			],
-			"urls": []
-		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 8497292,
-			"id_str": "8497292",
-			"name": "Mark Sample",
-			"screen_name": "samplereality",
-			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
-							"display_url": "samplereality.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 8344,
-			"friends_count": 1110,
-			"listed_count": 512,
-			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 40517,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
-			"profile_link_color": "236299",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "A0C5C7",
-			"profile_text_color": "333333",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Mon Apr 02 16:00:13 +0000 2018",
-			"id": 980837313176535000,
-			"id_str": "980837313176535040",
-			"text": "For @parisreview, I wrote about how literary tribute accounts are lovely and bizarre and one of the best parts of t… https://t.co/ELQ4u2DGz8",
-			"truncated": true,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [
-					{
-						"screen_name": "parisreview",
-						"name": "The Paris Review",
-						"id": 71256932,
-						"id_str": "71256932",
-						"indices": [
-							4,
-							16
-						]
-					}
-				],
-				"urls": [
-					{
-						"url": "https://t.co/ELQ4u2DGz8",
-						"expanded_url": "https://twitter.com/i/web/status/980837313176535040",
-						"display_url": "twitter.com/i/web/status/9…",
-						"indices": [
-							117,
-							140
-						]
-					}
-				]
-			},
-			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 2705679621,
-				"id_str": "2705679621",
-				"name": "Kate Dwyer",
-				"screen_name": "ByKateDwyer",
-				"location": "New York, NY",
-				"description": "Words in the Paris Review, Hyperallergic, Teen Vogue, TIME, Bon Appetit, and other corners of the web. Currently writing about art thieves.",
-				"url": "https://t.co/zzQQ5k5jk9",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/zzQQ5k5jk9",
-								"expanded_url": "http://www.kate-dwyer.com",
-								"display_url": "kate-dwyer.com",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 1097,
-				"friends_count": 876,
-				"listed_count": 18,
-				"created_at": "Sun Jul 13 03:15:56 +0000 2014",
-				"favourites_count": 2862,
-				"utc_offset": -14400,
-				"time_zone": "Eastern Time (US & Canada)",
-				"geo_enabled": true,
-				"verified": false,
-				"statuses_count": 1401,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": true,
-				"profile_background_color": "C0DEED",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/956390740275466240/ANAJxMwE_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/956390740275466240/ANAJxMwE_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2705679621/1506901560",
-				"profile_link_color": "1DA1F2",
-				"profile_sidebar_border_color": "C0DEED",
-				"profile_sidebar_fill_color": "DDEEF6",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": true,
-				"default_profile": true,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": true,
-			"quoted_status_id": 980835192976834600,
-			"quoted_status_id_str": "980835192976834560",
-			"quoted_status": {
-				"created_at": "Mon Apr 02 15:51:47 +0000 2018",
-				"id": 980835192976834600,
-				"id_str": "980835192976834560",
-				"text": "The man behind @Wwm_Shakespeare describes his tribute account as “a play in miniature.” He uses Shakespeare’s words… https://t.co/zZ7XOZEGIc",
-				"truncated": true,
-				"entities": {
-					"hashtags": [],
-					"symbols": [],
-					"user_mentions": [
-						{
-							"screen_name": "Wwm_Shakespeare",
-							"name": "William Shakespeare",
-							"id": 15126599,
-							"id_str": "15126599",
-							"indices": [
-								15,
-								31
-							]
-						}
-					],
-					"urls": [
-						{
-							"url": "https://t.co/zZ7XOZEGIc",
-							"expanded_url": "https://twitter.com/i/web/status/980835192976834560",
-							"display_url": "twitter.com/i/web/status/9…",
-							"indices": [
-								117,
-								140
-							]
-						}
-					]
-				},
-				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-				"in_reply_to_status_id": null,
-				"in_reply_to_status_id_str": null,
-				"in_reply_to_user_id": null,
-				"in_reply_to_user_id_str": null,
-				"in_reply_to_screen_name": null,
-				"user": {
-					"id": 71256932,
-					"id_str": "71256932",
-					"name": "The Paris Review",
-					"screen_name": "parisreview",
-					"location": "New York, NY",
-					"description": "Quarterly literary magazine founded in 1953.",
-					"url": "http://t.co/oXirIX6rPZ",
-					"entities": {
-						"url": {
-							"urls": [
-								{
-									"url": "http://t.co/oXirIX6rPZ",
-									"expanded_url": "http://theparisreview.org",
-									"display_url": "theparisreview.org",
-									"indices": [
-										0,
-										22
-									]
-								}
-							]
-						},
-						"description": {
-							"urls": []
-						}
-					},
-					"protected": false,
-					"followers_count": 948471,
-					"friends_count": 4016,
-					"listed_count": 11497,
-					"created_at": "Thu Sep 03 13:48:31 +0000 2009",
-					"favourites_count": 10622,
-					"utc_offset": -14400,
-					"time_zone": "Eastern Time (US & Canada)",
-					"geo_enabled": false,
-					"verified": true,
-					"statuses_count": 52579,
-					"lang": "en",
-					"contributors_enabled": false,
-					"is_translator": false,
-					"is_translation_enabled": false,
-					"profile_background_color": "9AE4E8",
-					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/34404793/twitter_background.jpg",
-					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/34404793/twitter_background.jpg",
-					"profile_background_tile": false,
-					"profile_image_url": "http://pbs.twimg.com/profile_images/773206272632057857/3Or-FkJz_normal.jpg",
-					"profile_image_url_https": "https://pbs.twimg.com/profile_images/773206272632057857/3Or-FkJz_normal.jpg",
-					"profile_banner_url": "https://pbs.twimg.com/profile_banners/71256932/1519911312",
-					"profile_link_color": "75BA65",
-					"profile_sidebar_border_color": "FFFFFF",
-					"profile_sidebar_fill_color": "FFFFFF",
-					"profile_text_color": "333333",
-					"profile_use_background_image": true,
-					"has_extended_profile": false,
-					"default_profile": false,
-					"default_profile_image": false,
-					"following": false,
-					"follow_request_sent": false,
-					"notifications": false,
-					"translator_type": "none"
-				},
-				"geo": null,
-				"coordinates": null,
-				"place": null,
-				"contributors": null,
-				"is_quote_status": false,
-				"retweet_count": 34,
-				"favorite_count": 108,
-				"favorited": false,
-				"retweeted": false,
-				"possibly_sensitive": false,
-				"lang": "en"
-			},
-			"retweet_count": 13,
-			"favorite_count": 66,
-			"favorited": false,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "en"
-		},
-		"is_quote_status": true,
-		"quoted_status_id": 980835192976834600,
-		"quoted_status_id_str": "980835192976834560",
-		"retweet_count": 13,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": true,
-		"lang": "en"
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For @parisreview, I wrote about how literary tribute accounts are lovely and bizarre and one of the best parts of this platform. Thanks @DailyKerouac @samplereality and @Wwm_Shakespeare for your insight! https://t.co/MOuLMX9FVz"
 	},
 	{
 		"created_at": "Mon Apr 02 00:51:14 +0000 2018",
 		"id": 980608559821066200,
 		"id_str": "980608559821066242",
-		"text": "#SpringBreak2018 https://t.co/1cNWkb2QRE",
+		"full_text": "#SpringBreak2018 https://t.co/1cNWkb2QRE",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -18210,7 +16284,7 @@ Grailbird.data.tweets_2018_04 =
 				}
 			]
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
@@ -18219,17 +16293,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -18243,23 +16317,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8336,
-			"friends_count": 1109,
-			"listed_count": 512,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40516,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -18284,27 +16358,26 @@ Grailbird.data.tweets_2018_04 =
 		"is_quote_status": true,
 		"quoted_status_id": 980608092906905600,
 		"quoted_status_id_str": "980608092906905600",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1cNWkb2QRE",
+			"expanded": "https://twitter.com/WhitmanFML/status/980608092906905600",
+			"display": "twitter.com/WhitmanFML/sta…"
+		},
 		"quoted_status": {
 			"created_at": "Mon Apr 02 00:49:22 +0000 2018",
 			"id": 980608092906905600,
 			"id_str": "980608092906905600",
-			"text": "holy fuck you guys the ranch is being taken over by 20 somethings! they are all wearing bodysuits and i sound trium… https://t.co/IeKrdqlhsG",
-			"truncated": true,
+			"full_text": "holy fuck you guys the ranch is being taken over by 20 somethings! they are all wearing bodysuits and i sound triumphal drums for the dead, i fling through my embouchures the loudest and gayest music to them",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				207
+			],
 			"entities": {
 				"hashtags": [],
 				"symbols": [],
 				"user_mentions": [],
-				"urls": [
-					{
-						"url": "https://t.co/IeKrdqlhsG",
-						"expanded_url": "https://twitter.com/i/web/status/980608092906905600",
-						"display_url": "twitter.com/i/web/status/9…",
-						"indices": [
-							117,
-							140
-						]
-					}
-				]
+				"urls": []
 			},
 			"source": "<a href=\"http://www.twitter.com/WhitmanFML\" rel=\"nofollow\">WhitmanFML</a>",
 			"in_reply_to_status_id": null,
@@ -18339,16 +16412,16 @@ Grailbird.data.tweets_2018_04 =
 					}
 				},
 				"protected": false,
-				"followers_count": 525,
+				"followers_count": 614,
 				"friends_count": 24,
-				"listed_count": 56,
+				"listed_count": 64,
 				"created_at": "Wed Jan 23 14:58:53 +0000 2013",
 				"favourites_count": 0,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 11599,
+				"statuses_count": 11755,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -18377,8 +16450,8 @@ Grailbird.data.tweets_2018_04 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 2,
-			"favorite_count": 0,
+			"retweet_count": 5,
+			"favorite_count": 7,
 			"favorited": false,
 			"retweeted": false,
 			"lang": "en"
@@ -18388,21 +16461,26 @@ Grailbird.data.tweets_2018_04 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "und"
+		"lang": "und",
+		"text": "#SpringBreak2018 https://t.co/1cNWkb2QRE"
 	},
 	{
 		"created_at": "Sun Apr 01 14:12:49 +0000 2018",
 		"id": 980447898793136100,
 		"id_str": "980447898793136128",
-		"text": "Stories about why white evangelicals support Trump focus too much on “evangelical” and not enough on “white.”",
+		"full_text": "Stories about why white evangelicals support Trump focus too much on “evangelical” and not enough on “white.”",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
 			"urls": []
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
 		"in_reply_to_status_id": 980447191142629400,
 		"in_reply_to_status_id_str": "980447191142629376",
 		"in_reply_to_user_id": 8497292,
@@ -18411,17 +16489,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -18435,23 +16513,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8336,
-			"friends_count": 1109,
-			"listed_count": 512,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40516,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -18475,34 +16553,39 @@ Grailbird.data.tweets_2018_04 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 1,
-		"favorite_count": 10,
+		"favorite_count": 12,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Stories about why white evangelicals support Trump focus too much on “evangelical” and not enough on “white.”"
 	},
 	{
 		"created_at": "Sun Apr 01 14:10:00 +0000 2018",
 		"id": 980447191142629400,
 		"id_str": "980447191142629376",
-		"text": "I read the noxious Left Behind series so you don’t have to and I can say Donald Trump is a perfect match for how th… https://t.co/gMS2g7CoAu",
-		"truncated": true,
+		"full_text": "I read the noxious Left Behind series so you don’t have to and I can say Donald Trump is a perfect match for how the antichrist is described there and yet... https://t.co/lIhCGcpQZ0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
 			"urls": [
 				{
-					"url": "https://t.co/gMS2g7CoAu",
-					"expanded_url": "https://twitter.com/i/web/status/980447191142629376",
-					"display_url": "twitter.com/i/web/status/9…",
+					"url": "https://t.co/lIhCGcpQZ0",
+					"expanded_url": "https://twitter.com/michaelkruse/status/980443338418671616",
+					"display_url": "twitter.com/michaelkruse/s…",
 					"indices": [
-						117,
-						140
+						158,
+						181
 					]
 				}
 			]
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
@@ -18511,17 +16594,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -18535,23 +16618,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8336,
-			"friends_count": 1109,
-			"listed_count": 512,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40516,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -18576,12 +16659,21 @@ Grailbird.data.tweets_2018_04 =
 		"is_quote_status": true,
 		"quoted_status_id": 980443338418671600,
 		"quoted_status_id_str": "980443338418671616",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lIhCGcpQZ0",
+			"expanded": "https://twitter.com/michaelkruse/status/980443338418671616",
+			"display": "twitter.com/michaelkruse/s…"
+		},
 		"quoted_status": {
 			"created_at": "Sun Apr 01 13:54:42 +0000 2018",
 			"id": 980443338418671600,
 			"id_str": "980443338418671616",
-			"text": "Writes @sullivanamy: Eighty percent of white evangelicals would vote against Jesus Christ himself if he ran as a De… https://t.co/FldBQLVjnW",
-			"truncated": true,
+			"full_text": "Writes @sullivanamy: Eighty percent of white evangelicals would vote against Jesus Christ himself if he ran as a Democrat. https://t.co/8EwRKojrzy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				146
+			],
 			"entities": {
 				"hashtags": [],
 				"symbols": [],
@@ -18599,12 +16691,12 @@ Grailbird.data.tweets_2018_04 =
 				],
 				"urls": [
 					{
-						"url": "https://t.co/FldBQLVjnW",
-						"expanded_url": "https://twitter.com/i/web/status/980443338418671616",
-						"display_url": "twitter.com/i/web/status/9…",
+						"url": "https://t.co/8EwRKojrzy",
+						"expanded_url": "https://nyti.ms/2uD3Bwn",
+						"display_url": "nyti.ms/2uD3Bwn",
 						"indices": [
-							117,
-							140
+							123,
+							146
 						]
 					}
 				]
@@ -18642,23 +16734,23 @@ Grailbird.data.tweets_2018_04 =
 					}
 				},
 				"protected": false,
-				"followers_count": 13014,
-				"friends_count": 2281,
-				"listed_count": 566,
+				"followers_count": 15587,
+				"friends_count": 2522,
+				"listed_count": 636,
 				"created_at": "Mon Sep 15 03:41:07 +0000 2008",
-				"favourites_count": 12399,
-				"utc_offset": -14400,
-				"time_zone": "Eastern Time (US & Canada)",
+				"favourites_count": 12956,
+				"utc_offset": null,
+				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 54319,
+				"statuses_count": 57955,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
 				"is_translation_enabled": false,
 				"profile_background_color": "022330",
-				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/563261734/Disney.jpg",
-				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/563261734/Disney.jpg",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
 				"profile_background_tile": true,
 				"profile_image_url": "http://pbs.twimg.com/profile_images/2850291603/d5868bc5a8261dc98da8fe18341fa112_normal.jpeg",
 				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2850291603/d5868bc5a8261dc98da8fe18341fa112_normal.jpeg",
@@ -18688,67 +16780,72 @@ Grailbird.data.tweets_2018_04 =
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
-		"retweet_count": 0,
-		"favorite_count": 5,
+		"retweet_count": 1,
+		"favorite_count": 7,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "I read the noxious Left Behind series so you don’t have to and I can say Donald Trump is a perfect match for how the antichrist is described there and yet... https://t.co/lIhCGcpQZ0"
 	},
 	{
-		"created_at": "Sun Apr 01 14:07:27 +0000 2018",
-		"id": 980446549007364100,
-		"id_str": "980446549007364096",
-		"text": "RT @michaelkruse: Writes @sullivanamy: Eighty percent of white evangelicals would vote against Jesus Christ himself if he ran as a Democrat…",
+		"created_at": "Sun Apr 01 13:54:42 +0000 2018",
+		"id": 980443338418671600,
+		"id_str": "980443338418671616",
+		"full_text": "Writes @sullivanamy: Eighty percent of white evangelicals would vote against Jesus Christ himself if he ran as a Democrat. https://t.co/8EwRKojrzy",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [
-				{
-					"screen_name": "michaelkruse",
-					"name": "Michael Kruse",
-					"id": 16291449,
-					"id_str": "16291449",
-					"indices": [
-						3,
-						16
-					]
-				},
 				{
 					"screen_name": "sullivanamy",
 					"name": "Amy Sullivan",
 					"id": 26402448,
 					"id_str": "26402448",
 					"indices": [
-						25,
-						37
+						7,
+						19
 					]
 				}
 			],
-			"urls": []
+			"urls": [
+				{
+					"url": "https://t.co/8EwRKojrzy",
+					"expanded_url": "https://nyti.ms/2uD3Bwn",
+					"display_url": "nyti.ms/2uD3Bwn",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
 		},
-		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 8497292,
-			"id_str": "8497292",
-			"name": "Mark Sample",
-			"screen_name": "samplereality",
-			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"id": 16291449,
+			"id_str": "16291449",
+			"name": "Michael Kruse",
+			"screen_name": "michaelkruse",
+			"location": "Davidson or D.C. or ...",
+			"description": "Senior staff writer, @POLITICO, @POLITICOMag. @TB_Times alum. @DavidsonCollege grad. Love Lauren and the girls. I let people keep talking.",
+			"url": "https://t.co/wErwlDYcw9",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
-							"display_url": "samplereality.com",
+							"url": "https://t.co/wErwlDYcw9",
+							"expanded_url": "http://POLITICO.com",
+							"display_url": "POLITICO.com",
 							"indices": [
 								0,
 								23
@@ -18761,36 +16858,36 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8336,
-			"friends_count": 1109,
-			"listed_count": 512,
-			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"followers_count": 15587,
+			"friends_count": 2522,
+			"listed_count": 636,
+			"created_at": "Mon Sep 15 03:41:07 +0000 2008",
+			"favourites_count": 12956,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 40516,
+			"verified": true,
+			"statuses_count": 57955,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
-			"profile_link_color": "236299",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2850291603/d5868bc5a8261dc98da8fe18341fa112_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2850291603/d5868bc5a8261dc98da8fe18341fa112_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16291449/1472068699",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
 			"profile_text_color": "333333",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
 			"default_profile": false,
 			"default_profile_image": false,
-			"following": false,
+			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
 			"translator_type": "none"
@@ -18799,131 +16896,25 @@ Grailbird.data.tweets_2018_04 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Sun Apr 01 13:54:42 +0000 2018",
-			"id": 980443338418671600,
-			"id_str": "980443338418671616",
-			"text": "Writes @sullivanamy: Eighty percent of white evangelicals would vote against Jesus Christ himself if he ran as a De… https://t.co/FldBQLVjnW",
-			"truncated": true,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [
-					{
-						"screen_name": "sullivanamy",
-						"name": "Amy Sullivan",
-						"id": 26402448,
-						"id_str": "26402448",
-						"indices": [
-							7,
-							19
-						]
-					}
-				],
-				"urls": [
-					{
-						"url": "https://t.co/FldBQLVjnW",
-						"expanded_url": "https://twitter.com/i/web/status/980443338418671616",
-						"display_url": "twitter.com/i/web/status/9…",
-						"indices": [
-							117,
-							140
-						]
-					}
-				]
-			},
-			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 16291449,
-				"id_str": "16291449",
-				"name": "Michael Kruse",
-				"screen_name": "michaelkruse",
-				"location": "Davidson or D.C. or ...",
-				"description": "Senior staff writer, @POLITICO, @POLITICOMag. @TB_Times alum. @DavidsonCollege grad. Love Lauren and the girls. I let people keep talking.",
-				"url": "https://t.co/wErwlDYcw9",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/wErwlDYcw9",
-								"expanded_url": "http://POLITICO.com",
-								"display_url": "POLITICO.com",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 13014,
-				"friends_count": 2281,
-				"listed_count": 566,
-				"created_at": "Mon Sep 15 03:41:07 +0000 2008",
-				"favourites_count": 12399,
-				"utc_offset": -14400,
-				"time_zone": "Eastern Time (US & Canada)",
-				"geo_enabled": true,
-				"verified": true,
-				"statuses_count": 54319,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "022330",
-				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/563261734/Disney.jpg",
-				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/563261734/Disney.jpg",
-				"profile_background_tile": true,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/2850291603/d5868bc5a8261dc98da8fe18341fa112_normal.jpeg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2850291603/d5868bc5a8261dc98da8fe18341fa112_normal.jpeg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16291449/1472068699",
-				"profile_link_color": "0084B4",
-				"profile_sidebar_border_color": "A8C7F7",
-				"profile_sidebar_fill_color": "C0DFEC",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 3,
-			"favorite_count": 25,
-			"favorited": false,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "en"
-		},
 		"is_quote_status": false,
 		"retweet_count": 3,
-		"favorite_count": 0,
+		"favorite_count": 25,
 		"favorited": false,
 		"retweeted": true,
-		"lang": "en"
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Writes @sullivanamy: Eighty percent of white evangelicals would vote against Jesus Christ himself if he ran as a Democrat. https://t.co/8EwRKojrzy"
 	},
 	{
 		"created_at": "Sun Apr 01 13:27:27 +0000 2018",
 		"id": 980436480094023700,
 		"id_str": "980436480094023680",
-		"text": "Funny how this overview of reactions to the Roseanne reboot never mention the word race. 🤔 https://t.co/BlFyFpx7gV",
+		"full_text": "Funny how this overview of reactions to the Roseanne reboot never mention the word race. 🤔 https://t.co/BlFyFpx7gV",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -18949,17 +16940,17 @@ Grailbird.data.tweets_2018_04 =
 		"user": {
 			"id": 8497292,
 			"id_str": "8497292",
-			"name": "Mark Sample",
+			"name": "Mark \"Funny Halloween Name\" Sample",
 			"screen_name": "samplereality",
 			"location": "This Land Is Your Land",
-			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
-			"url": "https://t.co/jzW78xdOk4",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/jzW78xdOk4",
-							"expanded_url": "http://www.samplereality.com",
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
 							"display_url": "samplereality.com",
 							"indices": [
 								0,
@@ -18973,23 +16964,23 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8336,
-			"friends_count": 1109,
-			"listed_count": 512,
+			"followers_count": 8730,
+			"friends_count": 1151,
+			"listed_count": 521,
 			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
-			"favourites_count": 0,
-			"utc_offset": -14400,
-			"time_zone": "Eastern Time (US & Canada)",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 40516,
+			"statuses_count": 41284,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "B3B3B3",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
@@ -19017,6 +17008,7 @@ Grailbird.data.tweets_2018_04 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Funny how this overview of reactions to the Roseanne reboot never mention the word race. 🤔 https://t.co/BlFyFpx7gV"
 	}
 ]
