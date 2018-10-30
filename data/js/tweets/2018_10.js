@@ -1,6 +1,1186 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Tue Oct 30 02:32:29 +0000 2018",
+		"id": 1057097879431434200,
+		"id_str": "1057097879431434241",
+		"full_text": "In addition to this official statement, I wanna add that Bannon was directly involved in an outlet that actively empowered the abuse and harassment of games researchers (among many others) at the height of gamergate, which is an extra reason ACE should be condemned. #boycottACE https://t.co/X55M5dQKZv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "boycottACE",
+					"indices": [
+						267,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/X55M5dQKZv",
+					"expanded_url": "https://twitter.com/DiGRAAustralia/status/1057096896890658816",
+					"display_url": "twitter.com/DiGRAAustralia…",
+					"indices": [
+						279,
+						302
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24668419,
+			"id_str": "24668419",
+			"name": "tl;Dr. Brendan Keogh",
+			"screen_name": "BRKeogh",
+			"location": "Brisbane, Queensland",
+			"description": "Research Fellow, @qutdmrc. Author, A Play of Bodies @MITPress. Writes about digital media and the videogame industry. Occasional videogame maker. Views my own.",
+			"url": "https://t.co/aT8vmIidaI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aT8vmIidaI",
+							"expanded_url": "http://brkeogh.com",
+							"display_url": "brkeogh.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9338,
+			"friends_count": 1091,
+			"listed_count": 348,
+			"created_at": "Mon Mar 16 08:56:30 +0000 2009",
+			"favourites_count": 36106,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 140316,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF0AC9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/835561838708314112/l76sANJx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/835561838708314112/l76sANJx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24668419/1530185615",
+			"profile_link_color": "27DB0B",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1057096896890658800,
+		"quoted_status_id_str": "1057096896890658816",
+		"quoted_status_permalink": {
+			"url": "https://t.co/X55M5dQKZv",
+			"expanded": "https://twitter.com/DiGRAAustralia/status/1057096896890658816",
+			"display": "twitter.com/DiGRAAustralia…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 30 02:28:34 +0000 2018",
+			"id": 1057096896890658800,
+			"id_str": "1057096896890658816",
+			"full_text": "We condemn ACE for their decision to give hatred a platform by inviting Steve Bannon to deliver a keynote. We also condemn ACE Chair, Adrian David Cheok, for misrepresenting the organisation's current program committee, and his ongoing abuse of peers on social media. #boycottACE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "boycottACE",
+						"indices": [
+							268,
+							279
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1913440831,
+				"id_str": "1913440831",
+				"name": "DiGRA Australia",
+				"screen_name": "DiGRAAustralia",
+				"location": "Australia",
+				"description": "Official twitter account of the Digital Games Research Association (DiGRA) Australian chapter!",
+				"url": "http://t.co/CThVNqmQkM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/CThVNqmQkM",
+								"expanded_url": "http://www.digraa.org",
+								"display_url": "digraa.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 195,
+				"friends_count": 81,
+				"listed_count": 6,
+				"created_at": "Sat Sep 28 07:05:49 +0000 2013",
+				"favourites_count": 50,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 166,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/433734117344047104/_3ZVZveJ_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/433734117344047104/_3ZVZveJ_normal.png",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 39,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In addition to this official statement, I wanna add that Bannon was directly involved in an outlet that actively empowered the abuse and harassment of games researchers (among many others) at the height of gamergate, which is an extra reason ACE should be condemned. #boycottACE https://t.co/X55M5dQKZv"
+	},
+	{
+		"created_at": "Mon Oct 29 17:56:06 +0000 2018",
+		"id": 1056967928762060800,
+		"id_str": "1056967928762060800",
+		"full_text": "\"The Rise and Fall and Return of the Fraktur Font\" comic brilliantly uses a typeface to think about white nationalism. https://t.co/0mQ0ViFaJe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0mQ0ViFaJe",
+					"expanded_url": "https://www.newyorker.com/culture/culture-desk/the-rise-and-fall-and-return-of-the-fraktur-font",
+					"display_url": "newyorker.com/culture/cultur…",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark \"Funny Halloween Name\" Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8736,
+			"friends_count": 1150,
+			"listed_count": 520,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41288,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"The Rise and Fall and Return of the Fraktur Font\" comic brilliantly uses a typeface to think about white nationalism. https://t.co/0mQ0ViFaJe"
+	},
+	{
+		"created_at": "Mon Oct 29 14:59:28 +0000 2018",
+		"id": 1056923478966878200,
+		"id_str": "1056923478966878208",
+		"full_text": "Now, watching qanon videos on YouTube and filling out our newly made Internet Conspiracy Bingo cards.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+		"in_reply_to_status_id": 1056919734401273900,
+		"in_reply_to_status_id_str": "1056919734401273858",
+		"in_reply_to_user_id": 8497292,
+		"in_reply_to_user_id_str": "8497292",
+		"in_reply_to_screen_name": "samplereality",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark \"Funny Halloween Name\" Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8736,
+			"friends_count": 1150,
+			"listed_count": 520,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41288,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Now, watching qanon videos on YouTube and filling out our newly made Internet Conspiracy Bingo cards."
+	},
+	{
+		"created_at": "Mon Oct 29 14:44:35 +0000 2018",
+		"id": 1056919734401273900,
+		"id_str": "1056919734401273858",
+		"full_text": "Today in Intro to Digital Studies: making Internet Conspiracy Bingo cards. https://t.co/HYuMpnu5ei",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1056919720224530400,
+					"id_str": "1056919720224530432",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/Dqru4sAWoAALhwb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dqru4sAWoAALhwb.jpg",
+					"url": "https://t.co/HYuMpnu5ei",
+					"display_url": "pic.twitter.com/HYuMpnu5ei",
+					"expanded_url": "https://twitter.com/samplereality/status/1056919734401273858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1017,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1735,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 576,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1056919720224530400,
+					"id_str": "1056919720224530432",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/Dqru4sAWoAALhwb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dqru4sAWoAALhwb.jpg",
+					"url": "https://t.co/HYuMpnu5ei",
+					"display_url": "pic.twitter.com/HYuMpnu5ei",
+					"expanded_url": "https://twitter.com/samplereality/status/1056919734401273858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1017,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1735,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 576,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1056919729401720800,
+					"id_str": "1056919729401720835",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/Dqru5OMXcAMYaji.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dqru5OMXcAMYaji.jpg",
+					"url": "https://t.co/HYuMpnu5ei",
+					"display_url": "pic.twitter.com/HYuMpnu5ei",
+					"expanded_url": "https://twitter.com/samplereality/status/1056919734401273858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 668,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2012,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1179,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark \"Funny Halloween Name\" Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8736,
+			"friends_count": 1150,
+			"listed_count": 520,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41288,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today in Intro to Digital Studies: making Internet Conspiracy Bingo cards. https://t.co/HYuMpnu5ei"
+	},
+	{
+		"created_at": "Sat Oct 27 09:43:27 +0000 2018",
+		"id": 1056119173087141900,
+		"id_str": "1056119173087141888",
+		"full_text": "I’m at #mozfest - speaking at 12:45pm. The tl;dr slide is below. Come hang out! https://t.co/LPh5UwKYB8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "mozfest",
+					"indices": [
+						7,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1056119164308521000,
+					"id_str": "1056119164308520961",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/DqgWyM0XgAEfmpq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqgWyM0XgAEfmpq.jpg",
+					"url": "https://t.co/LPh5UwKYB8",
+					"display_url": "pic.twitter.com/LPh5UwKYB8",
+					"expanded_url": "https://twitter.com/noUpside/status/1056119173087141888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 421,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 421,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1056119164308521000,
+					"id_str": "1056119164308520961",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/DqgWyM0XgAEfmpq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqgWyM0XgAEfmpq.jpg",
+					"url": "https://t.co/LPh5UwKYB8",
+					"display_url": "pic.twitter.com/LPh5UwKYB8",
+					"expanded_url": "https://twitter.com/noUpside/status/1056119173087141888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 421,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 421,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24254084,
+			"id_str": "24254084",
+			"name": "Renee DiResta",
+			"screen_name": "noUpside",
+			"location": "San Francisco, CA",
+			"description": "researching computational propaganda & disinfo w/ @data4democracy & @newknowledgeAI. Mozilla Fellow. prev founder at @havenmx🚢, VC @OATV, trader @ Jane Street.",
+			"url": "https://t.co/RTJKWqgI8M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RTJKWqgI8M",
+							"expanded_url": "http://thehardwarestartup.com",
+							"display_url": "thehardwarestartup.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17082,
+			"friends_count": 1076,
+			"listed_count": 1,
+			"created_at": "Fri Mar 13 21:06:13 +0000 2009",
+			"favourites_count": 19742,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 16422,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/458807679352193024/1rj3ogYS_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/458807679352193024/1rj3ogYS_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24254084/1398222941",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 291,
+		"favorite_count": 749,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’m at #mozfest - speaking at 12:45pm. The tl;dr slide is below. Come hang out! https://t.co/LPh5UwKYB8"
+	},
+	{
+		"created_at": "Sun Oct 28 01:10:06 +0000 2018",
+		"id": 1056352374120480800,
+		"id_str": "1056352374120480768",
+		"full_text": "this weekend https://t.co/PJrhD48MEv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PJrhD48MEv",
+					"expanded_url": "https://twitter.com/MobyDickatSea/status/1056347588792930309",
+					"display_url": "twitter.com/MobyDickatSea/…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark \"Funny Halloween Name\" Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8736,
+			"friends_count": 1150,
+			"listed_count": 520,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41288,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1056347588792930300,
+		"quoted_status_id_str": "1056347588792930309",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PJrhD48MEv",
+			"expanded": "https://twitter.com/MobyDickatSea/status/1056347588792930309",
+			"display": "twitter.com/MobyDickatSea/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Oct 28 00:51:05 +0000 2018",
+			"id": 1056347588792930300,
+			"id_str": "1056347588792930309",
+			"full_text": "a black night an open boat, when almost despairing of reaching any hospitable shore",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				83
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://twitter.com/MobyDickatSea\" rel=\"nofollow\">Moby Dick at Sea</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1482779976,
+				"id_str": "1482779976",
+				"name": "Moby Dick",
+				"screen_name": "MobyDickatSea",
+				"location": "The South Seas",
+				"description": "Moby-Dick, by Herman Melville. Loose fish and fast fish, tweeting on the same line.  A random bot by @samplereality.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 42744,
+				"friends_count": 1,
+				"listed_count": 554,
+				"created_at": "Tue Jun 04 17:23:46 +0000 2013",
+				"favourites_count": 1,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 16961,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "3289B5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3755781902/9b47b7e223799bb523c7628e00b411c4_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3755781902/9b47b7e223799bb523c7628e00b411c4_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1482779976/1439810275",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 72,
+			"favorite_count": 183,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "this weekend https://t.co/PJrhD48MEv"
+	},
+	{
+		"created_at": "Sat Oct 27 12:13:08 +0000 2018",
+		"id": 1056156841238032400,
+		"id_str": "1056156841238032384",
+		"full_text": "Color Control (1944-1946) by John J. Reiss https://t.co/Dw33LgUgTW https://t.co/RvDJh5vFll",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Dw33LgUgTW",
+					"expanded_url": "https://www.harvardartmuseums.org/collections/object/225470",
+					"display_url": "harvardartmuseums.org/collections/ob…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1056156840080351200,
+					"id_str": "1056156840080351233",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/Dqg5DOAWoAEdotv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dqg5DOAWoAEdotv.jpg",
+					"url": "https://t.co/RvDJh5vFll",
+					"display_url": "pic.twitter.com/RvDJh5vFll",
+					"expanded_url": "https://twitter.com/bauhausbothaus/status/1056156841238032384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 660,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 660,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 438,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1056156840080351200,
+					"id_str": "1056156840080351233",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/Dqg5DOAWoAEdotv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dqg5DOAWoAEdotv.jpg",
+					"url": "https://t.co/RvDJh5vFll",
+					"display_url": "pic.twitter.com/RvDJh5vFll",
+					"expanded_url": "https://twitter.com/bauhausbothaus/status/1056156841238032384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 660,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 660,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 438,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.twitter.com\" rel=\"nofollow\">Bauhaus Bot</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 979177515729211400,
+			"id_str": "979177515729211392",
+			"name": "Bauhaus Bot",
+			"screen_name": "bauhausbothaus",
+			"location": "Cambridge",
+			"description": "Finding random items in the Harvard University Art Museums' extensive Bauhaus Collection. A bot by @samplereality.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 135,
+			"friends_count": 2,
+			"listed_count": 10,
+			"created_at": "Thu Mar 29 02:04:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2051,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/979191001771315200/gMLnMT_v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/979191001771315200/gMLnMT_v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/979177515729211392/1522371998",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Color Control (1944-1946) by John J. Reiss https://t.co/Dw33LgUgTW https://t.co/RvDJh5vFll"
+	},
+	{
 		"created_at": "Sat Oct 27 09:43:27 +0000 2018",
 		"id": 1056119173087141900,
 		"id_str": "1056119173087141888",
@@ -5229,7 +6409,7 @@ Grailbird.data.tweets_2018_10 =
 		"user": {
 			"id": 234121500,
 			"id_str": "234121500",
-			"name": "Nick 🎃👻🧛🏻‍♂️🧟‍♀️",
+			"name": "Nick 🎃👻🧛🏻♂️🧟♀️",
 			"screen_name": "_NickMcGuire",
 			"location": "North Carolina",
 			"description": "Opinions are likely not my own",
@@ -7709,7 +8889,7 @@ Grailbird.data.tweets_2018_10 =
 			"created_at": "Fri Oct 12 13:15:18 +0000 2018",
 			"id": 1050736670654562300,
 			"id_str": "1050736670654562304",
-			"full_text": "I am there, I help, I came stretched atop of the load but forgot the charger in the office 🤦‍♂️both laptops dead. guess i'll go for a drive in a bit. #fml",
+			"full_text": "I am there, I help, I came stretched atop of the load but forgot the charger in the office 🤦♂️both laptops dead. guess i'll go for a drive in a bit. #fml",
 			"truncated": false,
 			"display_text_range": [
 				0,
