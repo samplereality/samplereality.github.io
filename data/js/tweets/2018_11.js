@@ -1,6 +1,417 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sat Nov 03 21:02:24 +0000 2018",
+		"id": 1058826753081131000,
+		"id_str": "1058826753081131008",
+		"full_text": "Fascists in a democracy demand the right of free speech, but once in power will absolutely, definitively, not grant it to anyone other than themselves. That's their trick and they know it perfectly well.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28049003,
+			"id_str": "28049003",
+			"name": "William Gibson",
+			"screen_name": "GreatDismal",
+			"location": "Vancouver",
+			"description": "Author of Neuromancer, etc., and most recently The Peripheral",
+			"url": "https://t.co/CznTyjSM79",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CznTyjSM79",
+							"expanded_url": "http://www.williamgibsonbooks.com/index.asp",
+							"display_url": "williamgibsonbooks.com/index.asp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 243578,
+			"friends_count": 244,
+			"listed_count": 8704,
+			"created_at": "Wed Apr 01 04:17:37 +0000 2009",
+			"favourites_count": 1900,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 154208,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/941936786841804800/ROWvk1Qs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/941936786841804800/ROWvk1Qs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28049003/1481775615",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "4AA31A",
+			"profile_sidebar_fill_color": "BFA48D",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1971,
+		"favorite_count": 4899,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Fascists in a democracy demand the right of free speech, but once in power will absolutely, definitively, not grant it to anyone other than themselves. That's their trick and they know it perfectly well."
+	},
+	{
+		"created_at": "Sat Nov 03 19:08:05 +0000 2018",
+		"id": 1058797985268752400,
+		"id_str": "1058797985268752384",
+		"full_text": "*MIT's Docubase* Not sure why I didn't know before about MIT's Open Documentary Lab and its Docubase, a database of digital documentary projects https://t.co/YTsDqkQ9g5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YTsDqkQ9g5",
+					"expanded_url": "https://ift.tt/2F4aImV",
+					"display_url": "ift.tt/2F4aImV",
+					"indices": [
+						145,
+						168
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8744,
+			"friends_count": 1151,
+			"listed_count": 520,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1180,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41313,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "*MIT's Docubase* Not sure why I didn't know before about MIT's Open Documentary Lab and its Docubase, a database of digital documentary projects https://t.co/YTsDqkQ9g5"
+	},
+	{
+		"created_at": "Sat Nov 03 11:59:41 +0000 2018",
+		"id": 1058690172164956200,
+		"id_str": "1058690172164956160",
+		"full_text": "Capt Sully Sullenberger, who safely landed that plane on the Hudson, has been moved to speak out before mid-term elections. \n\nHe was a Republican most of his life, but not anymore.\n\nhere’s how he explains 1/\n\nhttps://t.co/ROkSvImSIn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ROkSvImSIn",
+					"expanded_url": "https://www.washingtonpost.com/opinions/we-saved-155-lives-on-the-hudson-now-lets-vote-for-leaders-wholl-protect-us-all/2018/10/29/554fd0e6-d87c-11e8-a10f-b51546b10756_story.html?utm_term=.7c074c30230f",
+					"display_url": "washingtonpost.com/opinions/we-sa…",
+					"indices": [
+						209,
+						232
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 259395895,
+			"id_str": "259395895",
+			"name": "John Harwood",
+			"screen_name": "JohnJHarwood",
+			"location": "Washington, DC",
+			"description": "a Dad who covers Washington, the economy and national politics for CNBC. Find my Speakeasy interviews at https://t.co/1W6sZssXTB",
+			"url": "http://t.co/Y2lKsflFRI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Y2lKsflFRI",
+							"expanded_url": "http://www.cnbc.com",
+							"display_url": "cnbc.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1W6sZssXTB",
+							"expanded_url": "http://cnbc.com/Speakeasy",
+							"display_url": "cnbc.com/Speakeasy",
+							"indices": [
+								105,
+								128
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 243335,
+			"friends_count": 1420,
+			"listed_count": 5040,
+			"created_at": "Tue Mar 01 20:49:40 +0000 2011",
+			"favourites_count": 1132,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 109357,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/868178337859911680/GJ8zcy-z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/868178337859911680/GJ8zcy-z_normal.jpg",
+			"profile_link_color": "3473A3",
+			"profile_sidebar_border_color": "CFCFCF",
+			"profile_sidebar_fill_color": "E3E3E3",
+			"profile_text_color": "5E5E5E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4400,
+		"favorite_count": 7827,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Capt Sully Sullenberger, who safely landed that plane on the Hudson, has been moved to speak out before mid-term elections. \n\nHe was a Republican most of his life, but not anymore.\n\nhere’s how he explains 1/\n\nhttps://t.co/ROkSvImSIn"
+	},
+	{
+		"created_at": "Sat Nov 03 13:59:33 +0000 2018",
+		"id": 1058720339910426600,
+		"id_str": "1058720339910426625",
+		"full_text": "Call it AM Radio Confusion, but I always get Bread, Dan Fogelberg, and Anne Murray mixed up.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8744,
+			"friends_count": 1151,
+			"listed_count": 520,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1180,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41313,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Call it AM Radio Confusion, but I always get Bread, Dan Fogelberg, and Anne Murray mixed up."
+	},
+	{
 		"created_at": "Fri Nov 02 15:35:48 +0000 2018",
 		"id": 1058382171021496300,
 		"id_str": "1058382171021496323",
