@@ -1,6 +1,652 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Mon Nov 05 01:26:28 +0000 2018",
+		"id": 1059255593859457000,
+		"id_str": "1059255593859457024",
+		"full_text": "Given how the NYT has given oxygen to far-right internet communities, this tweet isn't ironic or anything. \nhttps://t.co/C7v8VOnWfz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/C7v8VOnWfz",
+					"expanded_url": "https://twitter.com/nytpolitics/status/1059252175111667714",
+					"display_url": "twitter.com/nytpolitics/st…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8748,
+			"friends_count": 1151,
+			"listed_count": 520,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1180,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41315,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1059251468853755900,
+		"quoted_status_id_str": "1059251468853755904",
+		"quoted_status_permalink": {
+			"url": "https://t.co/C7v8VOnWfz",
+			"expanded": "https://twitter.com/nytpolitics/status/1059252175111667714",
+			"display": "twitter.com/nytpolitics/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 05 01:10:04 +0000 2018",
+			"id": 1059251468853755900,
+			"id_str": "1059251468853755904",
+			"full_text": "Far-right internet communities have been buoyed in recent weeks as their once-fringe views have been given oxygen by President Trump and his allies https://t.co/baXoaqmkMt",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				171
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/baXoaqmkMt",
+						"expanded_url": "https://nyti.ms/2QjASDl",
+						"display_url": "nyti.ms/2QjASDl",
+						"indices": [
+							148,
+							171
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14434063,
+				"id_str": "14434063",
+				"name": "NYT Politics",
+				"screen_name": "nytpolitics",
+				"location": "Washington Bureau",
+				"description": "A fast-paced feed of news, analysis and dispatches from The New York Times political team. Sign up for the First Draft email: https://t.co/aKaal1tXi3",
+				"url": "https://t.co/DYX7dqlKgz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DYX7dqlKgz",
+								"expanded_url": "http://www.nytimes.com/politics",
+								"display_url": "nytimes.com/politics",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/aKaal1tXi3",
+								"expanded_url": "http://nyti.ms/1pURTzj",
+								"display_url": "nyti.ms/1pURTzj",
+								"indices": [
+									126,
+									149
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 437015,
+				"friends_count": 276,
+				"listed_count": 9006,
+				"created_at": "Fri Apr 18 15:18:43 +0000 2008",
+				"favourites_count": 441,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 112455,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/966048308786417664/TkTOM2Cb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/966048308786417664/TkTOM2Cb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14434063/1421338332",
+				"profile_link_color": "004276",
+				"profile_sidebar_border_color": "323232",
+				"profile_sidebar_fill_color": "E7EFF8",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Given how the NYT has given oxygen to far-right internet communities, this tweet isn't ironic or anything. \nhttps://t.co/C7v8VOnWfz"
+	},
+	{
+		"created_at": "Sun Nov 04 15:13:26 +0000 2018",
+		"id": 1059101321607987200,
+		"id_str": "1059101321607987200",
+		"full_text": "@JoolveraJose @medium_key I’m sure you picked the first choice!",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JoolveraJose",
+					"name": "Yo Soy Joe",
+					"id": 3459523829,
+					"id_str": "3459523829",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "medium_key",
+					"name": "A A Anna",
+					"id": 856541043864604700,
+					"id_str": "856541043864604672",
+					"indices": [
+						14,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1058846091574239200,
+		"in_reply_to_status_id_str": "1058846091574239233",
+		"in_reply_to_user_id": 3459523829,
+		"in_reply_to_user_id_str": "3459523829",
+		"in_reply_to_screen_name": "JoolveraJose",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8748,
+			"friends_count": 1151,
+			"listed_count": 520,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1180,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41315,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JoolveraJose @medium_key I’m sure you picked the first choice!"
+	},
+	{
+		"created_at": "Sun Nov 04 14:33:39 +0000 2018",
+		"id": 1059091307300380700,
+		"id_str": "1059091307300380673",
+		"full_text": "And twice a year cancel Monday to make up for the lost time. https://t.co/QbXRDwL9Bp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QbXRDwL9Bp",
+					"expanded_url": "https://twitter.com/yayitsrob/status/1058974489449521152",
+					"display_url": "twitter.com/yayitsrob/stat…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8748,
+			"friends_count": 1151,
+			"listed_count": 520,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1180,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41315,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1058974489449521200,
+		"quoted_status_id_str": "1058974489449521152",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QbXRDwL9Bp",
+			"expanded": "https://twitter.com/yayitsrob/status/1058974489449521152",
+			"display": "twitter.com/yayitsrob/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 04 06:49:27 +0000 2018",
+			"id": 1058974489449521200,
+			"id_str": "1058974489449521152",
+			"full_text": "Make all Sundays 25 hours long imho",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				35
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2400631,
+				"id_str": "2400631",
+				"name": "Robinson Meyer",
+				"screen_name": "yayitsrob",
+				"location": "DC",
+				"description": "Staff writer at @TheAtlantic, covering Trump, the environment, climate change, leviathans. // DM for Signal, email",
+				"url": "https://t.co/bVYGkDGdQZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bVYGkDGdQZ",
+								"expanded_url": "https://tinyletter.com/robinsonmeyer",
+								"display_url": "tinyletter.com/robinsonmeyer",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 20083,
+				"friends_count": 1708,
+				"listed_count": 937,
+				"created_at": "Tue Mar 27 04:03:09 +0000 2007",
+				"favourites_count": 43186,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 816,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/869388912409677828/V7daeAUk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/869388912409677828/V7daeAUk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2400631/1398432472",
+				"profile_link_color": "D59B40",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFC999",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 31,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "And twice a year cancel Monday to make up for the lost time. https://t.co/QbXRDwL9Bp"
+	},
+	{
+		"created_at": "Sat Nov 03 21:02:24 +0000 2018",
+		"id": 1058826753081131000,
+		"id_str": "1058826753081131008",
+		"full_text": "Fascists in a democracy demand the right of free speech, but once in power will absolutely, definitively, not grant it to anyone other than themselves. That's their trick and they know it perfectly well.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28049003,
+			"id_str": "28049003",
+			"name": "William Gibson",
+			"screen_name": "GreatDismal",
+			"location": "Vancouver",
+			"description": "Author of Neuromancer, etc., and most recently The Peripheral",
+			"url": "https://t.co/CznTyjSM79",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CznTyjSM79",
+							"expanded_url": "http://www.williamgibsonbooks.com/index.asp",
+							"display_url": "williamgibsonbooks.com/index.asp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 243838,
+			"friends_count": 244,
+			"listed_count": 8706,
+			"created_at": "Wed Apr 01 04:17:37 +0000 2009",
+			"favourites_count": 1900,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 154283,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/941936786841804800/ROWvk1Qs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/941936786841804800/ROWvk1Qs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28049003/1481775615",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "4AA31A",
+			"profile_sidebar_fill_color": "BFA48D",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3431,
+		"favorite_count": 8709,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Fascists in a democracy demand the right of free speech, but once in power will absolutely, definitively, not grant it to anyone other than themselves. That's their trick and they know it perfectly well."
+	},
+	{
 		"created_at": "Sat Nov 03 21:02:24 +0000 2018",
 		"id": 1058826753081131000,
 		"id_str": "1058826753081131008",
