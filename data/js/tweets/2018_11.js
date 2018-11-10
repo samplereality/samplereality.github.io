@@ -1,6 +1,1196 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sat Nov 10 05:25:08 +0000 2018",
+		"id": 1061127596220579800,
+		"id_str": "1061127596220579840",
+		"full_text": "Thread about giving Nazis a platform. https://t.co/isgQ0dtFAq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/isgQ0dtFAq",
+					"expanded_url": "https://twitter.com/MikeStuchbery_/status/1060917587905822721",
+					"display_url": "twitter.com/MikeStuchbery_…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8760,
+			"friends_count": 1151,
+			"listed_count": 521,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1183,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41372,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1060917587905822700,
+		"quoted_status_id_str": "1060917587905822721",
+		"quoted_status_permalink": {
+			"url": "https://t.co/isgQ0dtFAq",
+			"expanded": "https://twitter.com/MikeStuchbery_/status/1060917587905822721",
+			"display": "twitter.com/MikeStuchbery_…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 09 15:30:38 +0000 2018",
+			"id": 1060917587905822700,
+			"id_str": "1060917587905822721",
+			"full_text": "For those of you who are a bit sketchy on your modern German history, alongside the anniversary of 'Kristallnacht' or 'Reichspogromnacht', it's also the anniversary of the Munich Beer Hall Putsch. Here's something quickly on why that matters... /1 https://t.co/WXAdqETzSH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				247
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1060917578380570600,
+						"id_str": "1060917578380570627",
+						"indices": [
+							248,
+							271
+						],
+						"media_url": "http://pbs.twimg.com/media/Drki6qNXcAMVy2Y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Drki6qNXcAMVy2Y.jpg",
+						"url": "https://t.co/WXAdqETzSH",
+						"display_url": "pic.twitter.com/WXAdqETzSH",
+						"expanded_url": "https://twitter.com/MikeStuchbery_/status/1060917587905822721/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 448,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 791,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1800,
+								"h": 1186,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1060917578380570600,
+						"id_str": "1060917578380570627",
+						"indices": [
+							248,
+							271
+						],
+						"media_url": "http://pbs.twimg.com/media/Drki6qNXcAMVy2Y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Drki6qNXcAMVy2Y.jpg",
+						"url": "https://t.co/WXAdqETzSH",
+						"display_url": "pic.twitter.com/WXAdqETzSH",
+						"expanded_url": "https://twitter.com/MikeStuchbery_/status/1060917587905822721/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 448,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 791,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1800,
+								"h": 1186,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2546258378,
+				"id_str": "2546258378",
+				"name": "Mike Stuchbery💀🍷",
+				"screen_name": "MikeStuchbery_",
+				"location": "Luton, England",
+				"description": "I tell stories about the past, as weird & wonderful as it is. // Rep: @dhhlitagency // Kofi: https://t.co/YgI1JATeVt // Patreon: https://t.co/0dD1Ca9LHm",
+				"url": "https://t.co/G51b633aUs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/G51b633aUs",
+								"expanded_url": "http://mike-stuchbery.org",
+								"display_url": "mike-stuchbery.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/YgI1JATeVt",
+								"expanded_url": "http://bit.ly/mskofi",
+								"display_url": "bit.ly/mskofi",
+								"indices": [
+									93,
+									116
+								]
+							},
+							{
+								"url": "https://t.co/0dD1Ca9LHm",
+								"expanded_url": "http://bit.ly/mspat",
+								"display_url": "bit.ly/mspat",
+								"indices": [
+									129,
+									152
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 57073,
+				"friends_count": 16236,
+				"listed_count": 777,
+				"created_at": "Wed Jun 04 14:26:45 +0000 2014",
+				"favourites_count": 125336,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 46415,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1049439202369245186/iDeKvpXM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1049439202369245186/iDeKvpXM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2546258378/1541448505",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 275,
+			"favorite_count": 358,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thread about giving Nazis a platform. https://t.co/isgQ0dtFAq"
+	},
+	{
+		"created_at": "Sat Nov 10 04:08:10 +0000 2018",
+		"id": 1061108229080576000,
+		"id_str": "1061108229080576000",
+		"full_text": "@LMSacasas I would guess so. Arendt’s Eichmann in Jerusalem was published in 1963, and Cohen’s poem came out in 1964.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LMSacasas",
+					"name": "LM Sacasas",
+					"id": 268328453,
+					"id_str": "268328453",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+		"in_reply_to_status_id": 1061097300406222800,
+		"in_reply_to_status_id_str": "1061097300406222848",
+		"in_reply_to_user_id": 268328453,
+		"in_reply_to_user_id_str": "268328453",
+		"in_reply_to_screen_name": "LMSacasas",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8760,
+			"friends_count": 1151,
+			"listed_count": 521,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1183,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41372,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LMSacasas I would guess so. Arendt’s Eichmann in Jerusalem was published in 1963, and Cohen’s poem came out in 1964."
+	},
+	{
+		"created_at": "Sat Nov 10 02:51:55 +0000 2018",
+		"id": 1061089038172676100,
+		"id_str": "1061089038172676096",
+		"full_text": "In “All There is to Know about Adolph Eichmann” Leonard Cohen reveals the terrifying nature of Nazis by virtue of their own normalcy. https://t.co/PiHbA2xBbp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1061089036666916900,
+					"id_str": "1061089036666916864",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/Drm-22GX0AANmJQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Drm-22GX0AANmJQ.jpg",
+					"url": "https://t.co/PiHbA2xBbp",
+					"display_url": "pic.twitter.com/PiHbA2xBbp",
+					"expanded_url": "https://twitter.com/samplereality/status/1061089038172676096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 826,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 468,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 826,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1061089036666916900,
+					"id_str": "1061089036666916864",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/Drm-22GX0AANmJQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Drm-22GX0AANmJQ.jpg",
+					"url": "https://t.co/PiHbA2xBbp",
+					"display_url": "pic.twitter.com/PiHbA2xBbp",
+					"expanded_url": "https://twitter.com/samplereality/status/1061089038172676096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 826,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 468,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 826,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8760,
+			"friends_count": 1151,
+			"listed_count": 521,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1183,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41372,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 60,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In “All There is to Know about Adolph Eichmann” Leonard Cohen reveals the terrifying nature of Nazis by virtue of their own normalcy. https://t.co/PiHbA2xBbp"
+	},
+	{
+		"created_at": "Fri Nov 09 22:13:43 +0000 2018",
+		"id": 1061019028746059800,
+		"id_str": "1061019028746059776",
+		"full_text": "White supremacist groups are trying to make college campuses their battleground. Like this group, desperately plastering its posters alongside intramural schedules and fellowship announcements. https://t.co/hS1Kk4R3V8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1061019020651085800,
+					"id_str": "1061019020651085824",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/Drl_LYHXQAAC2_G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Drl_LYHXQAAC2_G.jpg",
+					"url": "https://t.co/hS1Kk4R3V8",
+					"display_url": "pic.twitter.com/hS1Kk4R3V8",
+					"expanded_url": "https://twitter.com/samplereality/status/1061019028746059776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1821,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1061019020651085800,
+					"id_str": "1061019020651085824",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/Drl_LYHXQAAC2_G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Drl_LYHXQAAC2_G.jpg",
+					"url": "https://t.co/hS1Kk4R3V8",
+					"display_url": "pic.twitter.com/hS1Kk4R3V8",
+					"expanded_url": "https://twitter.com/samplereality/status/1061019028746059776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1821,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1061019017694060500,
+					"id_str": "1061019017694060544",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/Drl_LNGWoAAzBJb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Drl_LNGWoAAzBJb.jpg",
+					"url": "https://t.co/hS1Kk4R3V8",
+					"display_url": "pic.twitter.com/hS1Kk4R3V8",
+					"expanded_url": "https://twitter.com/samplereality/status/1061019028746059776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 396,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 699,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1758,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1061019020399390700,
+					"id_str": "1061019020399390721",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/Drl_LXLWsAEWb0J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Drl_LXLWsAEWb0J.jpg",
+					"url": "https://t.co/hS1Kk4R3V8",
+					"display_url": "pic.twitter.com/hS1Kk4R3V8",
+					"expanded_url": "https://twitter.com/samplereality/status/1061019028746059776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1091,
+							"h": 1538,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 851,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 482,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8760,
+			"friends_count": 1151,
+			"listed_count": 521,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1183,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41372,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "White supremacist groups are trying to make college campuses their battleground. Like this group, desperately plastering its posters alongside intramural schedules and fellowship announcements. https://t.co/hS1Kk4R3V8"
+	},
+	{
+		"created_at": "Fri Nov 09 19:43:08 +0000 2018",
+		"id": 1060981133012320300,
+		"id_str": "1060981133012320257",
+		"full_text": "THIS TOILET PAPER TUBE KILLS FASCISTS https://t.co/pPhSZ0TxG8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1060981131577868300,
+					"id_str": "1060981131577868289",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/Drlct8UXQAEvFpt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Drlct8UXQAEvFpt.jpg",
+					"url": "https://t.co/pPhSZ0TxG8",
+					"display_url": "pic.twitter.com/pPhSZ0TxG8",
+					"expanded_url": "https://twitter.com/fascists_exe/status/1060981133012320257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1060981131577868300,
+					"id_str": "1060981131577868289",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/Drlct8UXQAEvFpt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Drlct8UXQAEvFpt.jpg",
+					"url": "https://t.co/pPhSZ0TxG8",
+					"display_url": "pic.twitter.com/pPhSZ0TxG8",
+					"expanded_url": "https://twitter.com/fascists_exe/status/1060981133012320257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">This Machine</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815366238037823500,
+			"id_str": "815366238037823488",
+			"name": "Kill Fascists",
+			"screen_name": "fascists_exe",
+			"location": "",
+			"description": "this bot kills fascists. inspired by woody guthrie. made by @samplereality.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3788,
+			"friends_count": 1,
+			"listed_count": 90,
+			"created_at": "Sun Jan 01 01:17:14 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7382,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/815368021158088704/aDlV3uCV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/815368021158088704/aDlV3uCV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815366238037823488/1484183176",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "THIS TOILET PAPER TUBE KILLS FASCISTS https://t.co/pPhSZ0TxG8"
+	},
+	{
+		"created_at": "Fri Nov 09 20:10:14 +0000 2018",
+		"id": 1060987952980025300,
+		"id_str": "1060987952980025344",
+		"full_text": "@pomeranian99 @roundtrip Yeah, it’s amazing how relevant the novel is again. And again. And again.",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pomeranian99",
+					"name": "Clive Thompson",
+					"id": 661403,
+					"id_str": "661403",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "roundtrip",
+					"name": "Greg Lloyd",
+					"id": 17071737,
+					"id_str": "17071737",
+					"indices": [
+						14,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1060966778296246300,
+		"in_reply_to_status_id_str": "1060966778296246273",
+		"in_reply_to_user_id": 661403,
+		"in_reply_to_user_id_str": "661403",
+		"in_reply_to_screen_name": "pomeranian99",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8760,
+			"friends_count": 1151,
+			"listed_count": 521,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1183,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41372,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@pomeranian99 @roundtrip Yeah, it’s amazing how relevant the novel is again. And again. And again."
+	},
+	{
+		"created_at": "Thu Nov 08 10:40:52 +0000 2018",
+		"id": 1060482278265118700,
+		"id_str": "1060482278265118720",
+		"full_text": "Birth control?\nBAN IT!\nAbortion?\nBAN IT!\nGay marriage?\nBAN IT!\nGuns?\nLook, banning things never works. People will find ways to get them.\n\nNot a single day has America gone without a mass shooting. NOT A SINGLE DAY. \n\n11 people were shot overnight at Thousand Oaks in California.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 716432228,
+			"id_str": "716432228",
+			"name": "StanceGrounded",
+			"screen_name": "_SJPeace_",
+			"location": "",
+			"description": "Activist- Muslim, American by birth, Pakistani by blood. Educated man of color - changing the world one friend at a time. Detroit MI ✊🏾 #Resist BLM 🇵🇰",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 142940,
+			"friends_count": 35838,
+			"listed_count": 579,
+			"created_at": "Wed Jul 25 17:22:39 +0000 2012",
+			"favourites_count": 4015,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5706,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1050990628660801536/scEOaxDd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1050990628660801536/scEOaxDd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/716432228/1530137426",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48707,
+		"favorite_count": 144997,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Birth control?\nBAN IT!\nAbortion?\nBAN IT!\nGay marriage?\nBAN IT!\nGuns?\nLook, banning things never works. People will find ways to get them.\n\nNot a single day has America gone without a mass shooting. NOT A SINGLE DAY. \n\n11 people were shot overnight at Thousand Oaks in California."
+	},
+	{
 		"created_at": "Fri Nov 09 03:31:46 +0000 2018",
 		"id": 1060736678430687200,
 		"id_str": "1060736678430687232",
