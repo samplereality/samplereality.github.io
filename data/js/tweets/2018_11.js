@@ -1,6 +1,510 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Tue Nov 13 00:53:49 +0000 2018",
+		"id": 1062146482642608100,
+		"id_str": "1062146482642608128",
+		"full_text": "Hate speech is not an opinion. It’s an act of terror.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8763,
+			"friends_count": 1151,
+			"listed_count": 521,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1183,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41385,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Hate speech is not an opinion. It’s an act of terror."
+	},
+	{
+		"created_at": "Sat Nov 10 22:49:40 +0000 2018",
+		"id": 1061390460474798100,
+		"id_str": "1061390460474798081",
+		"full_text": "Hi, Satan! I'm an ER doc. If you add up every gummy bear, cue ball, or copy of your shitty books Ive pulled out of orifices, it doesnt even approach the number of moms Ive had to tell their kids are dead from guns. Stick w/the xenophobia+racism youre so good at and GTFO our lane. https://t.co/HaAH2ZNXhR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HaAH2ZNXhR",
+					"expanded_url": "https://twitter.com/AnnCoulter/status/1061368733229309952",
+					"display_url": "twitter.com/AnnCoulter/sta…",
+					"indices": [
+						281,
+						304
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 466856651,
+			"id_str": "466856651",
+			"name": "Rick Pescatore, DO",
+			"screen_name": "Rick_Pescatore",
+			"location": "South Jersey",
+			"description": "Emergency Doctor. Thoughts are my own.",
+			"url": "https://t.co/72QD9pGmtg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/72QD9pGmtg",
+							"expanded_url": "https://journals.lww.com/em-news/Pages/podcastepisodes.aspx?podcastid=7",
+							"display_url": "journals.lww.com/em-news/Pages/…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19715,
+			"friends_count": 356,
+			"listed_count": 83,
+			"created_at": "Tue Jan 17 21:30:08 +0000 2012",
+			"favourites_count": 15112,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8634,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928866766771703808/y4ZwTA_P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928866766771703808/y4ZwTA_P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/466856651/1534873354",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1061368733229310000,
+		"quoted_status_id_str": "1061368733229309952",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HaAH2ZNXhR",
+			"expanded": "https://twitter.com/AnnCoulter/status/1061368733229309952",
+			"display": "twitter.com/AnnCoulter/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Nov 10 21:23:19 +0000 2018",
+			"id": 1061368733229310000,
+			"id_str": "1061368733229309952",
+			"full_text": "Emergency room doctors pull cue balls, vines &amp; gummy bears out of human orifices every week.  That doesn't make them experts on pool, horticulture or chewy candy. https://t.co/EdksEGDnCx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				166
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/EdksEGDnCx",
+						"expanded_url": "https://twitter.com/drjudymelinek/status/1060912988532629504",
+						"display_url": "twitter.com/drjudymelinek/…",
+						"indices": [
+							167,
+							190
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 196168350,
+				"id_str": "196168350",
+				"name": "Ann Coulter",
+				"screen_name": "AnnCoulter",
+				"location": "Los Angeles/NYC",
+				"description": "Author - follow me on #Facebook! https://t.co/i7VTQ5btPI",
+				"url": "http://t.co/yOTZER5hRn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/yOTZER5hRn",
+								"expanded_url": "http://www.anncoulter.com",
+								"display_url": "anncoulter.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/i7VTQ5btPI",
+								"expanded_url": "http://goo.gl/JvMjld",
+								"display_url": "goo.gl/JvMjld",
+								"indices": [
+									33,
+									56
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2097687,
+				"friends_count": 982,
+				"listed_count": 13217,
+				"created_at": "Tue Sep 28 14:04:51 +0000 2010",
+				"favourites_count": 18,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 37808,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/598204767739981825/iD1DZBbS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/598204767739981825/iD1DZBbS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/196168350/1534785019",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1060912988532629500,
+			"quoted_status_id_str": "1060912988532629504",
+			"quoted_status_permalink": {
+				"url": "https://t.co/EdksEGDnCx",
+				"expanded": "https://twitter.com/drjudymelinek/status/1060912988532629504",
+				"display": "twitter.com/drjudymelinek/…"
+			},
+			"retweet_count": 8124,
+			"favorite_count": 28312,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 174240,
+		"favorite_count": 686821,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hi, Satan! I'm an ER doc. If you add up every gummy bear, cue ball, or copy of your shitty books Ive pulled out of orifices, it doesnt even approach the number of moms Ive had to tell their kids are dead from guns. Stick w/the xenophobia+racism youre so good at and GTFO our lane. https://t.co/HaAH2ZNXhR"
+	},
+	{
+		"created_at": "Sun Nov 11 18:08:52 +0000 2018",
+		"id": 1061682186305310700,
+		"id_str": "1061682186305310720",
+		"full_text": "mood https://t.co/S0we7OwRmm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1061682181565767700,
+					"id_str": "1061682181565767680",
+					"indices": [
+						5,
+						28
+					],
+					"media_url": "http://pbs.twimg.com/media/DrvaUbCW4AA2ENT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrvaUbCW4AA2ENT.jpg",
+					"url": "https://t.co/S0we7OwRmm",
+					"display_url": "pic.twitter.com/S0we7OwRmm",
+					"expanded_url": "https://twitter.com/samplereality/status/1061682186305310720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 862,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 964,
+							"h": 1342,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 488,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1061682181565767700,
+					"id_str": "1061682181565767680",
+					"indices": [
+						5,
+						28
+					],
+					"media_url": "http://pbs.twimg.com/media/DrvaUbCW4AA2ENT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrvaUbCW4AA2ENT.jpg",
+					"url": "https://t.co/S0we7OwRmm",
+					"display_url": "pic.twitter.com/S0we7OwRmm",
+					"expanded_url": "https://twitter.com/samplereality/status/1061682186305310720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 862,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 964,
+							"h": 1342,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 488,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8763,
+			"friends_count": 1151,
+			"listed_count": 521,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1183,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41385,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "mood https://t.co/S0we7OwRmm"
+	},
+	{
 		"created_at": "Sat Nov 10 22:49:40 +0000 2018",
 		"id": 1061390460474798100,
 		"id_str": "1061390460474798081",
