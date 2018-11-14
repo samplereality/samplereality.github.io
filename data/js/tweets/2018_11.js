@@ -1,6 +1,639 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Wed Nov 14 00:02:45 +0000 2018",
+		"id": 1062496015645896700,
+		"id_str": "1062496015645896704",
+		"full_text": "👏👏👏 \nhttps://t.co/LfyijC1KWu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LfyijC1KWu",
+					"expanded_url": "https://twitter.com/ericawerner/status/1062455326367248384",
+					"display_url": "twitter.com/ericawerner/st…",
+					"indices": [
+						5,
+						28
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8769,
+			"friends_count": 1151,
+			"listed_count": 519,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1183,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41388,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1062446638881476600,
+		"quoted_status_id_str": "1062446638881476608",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LfyijC1KWu",
+			"expanded": "https://twitter.com/ericawerner/status/1062455326367248384",
+			"display": "twitter.com/ericawerner/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 13 20:46:32 +0000 2018",
+			"id": 1062446638881476600,
+			"id_str": "1062446638881476608",
+			"full_text": "House Republicans-elect look pretty different from House Democrats-elect. https://t.co/KSgFVU4cFx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				73
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1062446316578574300,
+						"id_str": "1062446316578574337",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/Dr6RS7yWkAEviHz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dr6RS7yWkAEviHz.jpg",
+						"url": "https://t.co/KSgFVU4cFx",
+						"display_url": "pic.twitter.com/KSgFVU4cFx",
+						"expanded_url": "https://twitter.com/ericawerner/status/1062446638881476608/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 688,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 334,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 688,
+								"h": 338,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1062446316578574300,
+						"id_str": "1062446316578574337",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/Dr6RS7yWkAEviHz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dr6RS7yWkAEviHz.jpg",
+						"url": "https://t.co/KSgFVU4cFx",
+						"display_url": "pic.twitter.com/KSgFVU4cFx",
+						"expanded_url": "https://twitter.com/ericawerner/status/1062446638881476608/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 688,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 334,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 688,
+								"h": 338,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1062446360958505000,
+						"id_str": "1062446360958504961",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/Dr6RVhHWkAE_eZF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dr6RVhHWkAE_eZF.jpg",
+						"url": "https://t.co/KSgFVU4cFx",
+						"display_url": "pic.twitter.com/KSgFVU4cFx",
+						"expanded_url": "https://twitter.com/ericawerner/status/1062446638881476608/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 412,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 724,
+								"h": 439,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 724,
+								"h": 439,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 33653195,
+				"id_str": "33653195",
+				"name": "Erica Werner",
+				"screen_name": "ericawerner",
+				"location": "Washington, DC",
+				"description": "Washington Post congressional reporter. Formerly AP.",
+				"url": "https://t.co/fJMCeIYylK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fJMCeIYylK",
+								"expanded_url": "http://www.washingtonpost.com",
+								"display_url": "washingtonpost.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 27974,
+				"friends_count": 844,
+				"listed_count": 914,
+				"created_at": "Mon Apr 20 20:36:14 +0000 2009",
+				"favourites_count": 3140,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6654,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/893539604929933313/PwiEjE6P_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/893539604929933313/PwiEjE6P_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/33653195/1437593085",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15270,
+			"favorite_count": 40788,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "👏👏👏 \nhttps://t.co/LfyijC1KWu"
+	},
+	{
+		"created_at": "Tue Nov 13 20:09:45 +0000 2018",
+		"id": 1062437381402431500,
+		"id_str": "1062437381402431491",
+		"full_text": "Thank you, Humble Bundle, for commodifying dystopia, and at a discount too! https://t.co/zU2vzJMgPV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1062437379468755000,
+					"id_str": "1062437379468754944",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/Dr6JKudVAAAKrVQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dr6JKudVAAAKrVQ.jpg",
+					"url": "https://t.co/zU2vzJMgPV",
+					"display_url": "pic.twitter.com/zU2vzJMgPV",
+					"expanded_url": "https://twitter.com/samplereality/status/1062437381402431491/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 614,
+							"h": 898,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 614,
+							"h": 898,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 465,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1062437379468755000,
+					"id_str": "1062437379468754944",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/Dr6JKudVAAAKrVQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dr6JKudVAAAKrVQ.jpg",
+					"url": "https://t.co/zU2vzJMgPV",
+					"display_url": "pic.twitter.com/zU2vzJMgPV",
+					"expanded_url": "https://twitter.com/samplereality/status/1062437381402431491/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 614,
+							"h": 898,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 614,
+							"h": 898,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 465,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8769,
+			"friends_count": 1151,
+			"listed_count": 519,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1183,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41388,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you, Humble Bundle, for commodifying dystopia, and at a discount too! https://t.co/zU2vzJMgPV"
+	},
+	{
+		"created_at": "Tue Nov 13 14:18:06 +0000 2018",
+		"id": 1062348883660075000,
+		"id_str": "1062348883660075008",
+		"full_text": "Thank you to the ⁦@washingtonpost⁩ for bringing national attention to ⁦@FindPba⁩. The whole ⁦@DavidsonCollege⁩ community is hoping the Braxton-Andrew family finds him and bring him home soon.  https://t.co/Vrw4RZzHPW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "washingtonpost",
+					"name": "The Washington Post",
+					"id": 2467791,
+					"id_str": "2467791",
+					"indices": [
+						18,
+						33
+					]
+				},
+				{
+					"screen_name": "FindPba",
+					"name": "Find PBA",
+					"id": 1058714803634688000,
+					"id_str": "1058714803634688002",
+					"indices": [
+						71,
+						79
+					]
+				},
+				{
+					"screen_name": "DavidsonCollege",
+					"name": "Davidson College",
+					"id": 353477625,
+					"id_str": "353477625",
+					"indices": [
+						93,
+						109
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Vrw4RZzHPW",
+					"expanded_url": "https://www.washingtonpost.com/nation/2018/11/13/an-american-traveler-vanished-mexico-now-his-familys-search-is-underway/?utm_term=.2c5f89da3a81",
+					"display_url": "washingtonpost.com/nation/2018/11…",
+					"indices": [
+						193,
+						216
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 62824122,
+			"id_str": "62824122",
+			"name": "Chris Marsicano",
+			"screen_name": "ChrisMarsicano",
+			"location": "Nashville, TN",
+			"description": "Faculty member at @DavidsonCollege, interested in higher education politics and #edpolicy. RTs ≠ Endorsements",
+			"url": "https://t.co/kGpQuTdEnC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kGpQuTdEnC",
+							"expanded_url": "http://www.chrismarsicano.com",
+							"display_url": "chrismarsicano.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2154,
+			"friends_count": 1297,
+			"listed_count": 57,
+			"created_at": "Tue Aug 04 13:56:44 +0000 2009",
+			"favourites_count": 11609,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7819,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/929862794895171584/3TSz3wFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/929862794895171584/3TSz3wFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/62824122/1525972910",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you to the ⁦@washingtonpost⁩ for bringing national attention to ⁦@FindPba⁩. The whole ⁦@DavidsonCollege⁩ community is hoping the Braxton-Andrew family finds him and bring him home soon.  https://t.co/Vrw4RZzHPW"
+	},
+	{
 		"created_at": "Tue Nov 13 00:53:49 +0000 2018",
 		"id": 1062146482642608100,
 		"id_str": "1062146482642608128",
