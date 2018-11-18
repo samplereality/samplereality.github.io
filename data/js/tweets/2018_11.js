@@ -1,6 +1,700 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sat Nov 17 19:07:16 +0000 2018",
+		"id": 1063871207219609600,
+		"id_str": "1063871207219609600",
+		"full_text": "Trump sells fear because he has nothing else to sell.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8774,
+			"friends_count": 1151,
+			"listed_count": 519,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1185,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41410,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Trump sells fear because he has nothing else to sell."
+	},
+	{
+		"created_at": "Sat Nov 17 16:41:33 +0000 2018",
+		"id": 1063834539200528400,
+		"id_str": "1063834539200528388",
+		"full_text": "This isn’t due process, it’s toxic masculinity. https://t.co/RxkwK5pZYq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RxkwK5pZYq",
+					"expanded_url": "https://twitter.com/NARAL/status/1062828993169289218",
+					"display_url": "twitter.com/NARAL/status/1…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8774,
+			"friends_count": 1151,
+			"listed_count": 519,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1185,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41410,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1062828993169289200,
+		"quoted_status_id_str": "1062828993169289218",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RxkwK5pZYq",
+			"expanded": "https://twitter.com/NARAL/status/1062828993169289218",
+			"display": "twitter.com/NARAL/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 14 22:05:53 +0000 2018",
+			"id": 1062828993169289200,
+			"id_str": "1062828993169289218",
+			"full_text": "A new rule from Betsy DeVos would require universities to allow accused sexual abusers to cross-examine and re-traumatize their victims. This is absolutely sickening. https://t.co/CbHgxiH0wh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				190
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/CbHgxiH0wh",
+						"expanded_url": "https://www.washingtonpost.com/local/education/betsy-devos-set-to-bolster-rights-of-accused-in-rewrite-of-sexual-assault-rules/2018/11/14/828ebd9c-e7d1-11e8-a939-9469f1166f9d_story.html",
+						"display_url": "washingtonpost.com/local/educatio…",
+						"indices": [
+							167,
+							190
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17006036,
+				"id_str": "17006036",
+				"name": "NARAL",
+				"screen_name": "NARAL",
+				"location": "Washington, DC",
+				"description": "NARAL Pro-Choice America fights to protect & expand reproductive freedom for all. #StopTheBans",
+				"url": "https://t.co/FVWpmRfmi7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FVWpmRfmi7",
+								"expanded_url": "http://www.ProChoiceAmerica.org/",
+								"display_url": "ProChoiceAmerica.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 176011,
+				"friends_count": 5761,
+				"listed_count": 2809,
+				"created_at": "Mon Oct 27 20:11:49 +0000 2008",
+				"favourites_count": 18934,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 54663,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0C0650",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1055178046507044867/Hp5mRjkS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1055178046507044867/Hp5mRjkS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17006036/1541566873",
+				"profile_link_color": "0099CC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "CCCCFF",
+				"profile_text_color": "0C0650",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5254,
+			"favorite_count": 6433,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This isn’t due process, it’s toxic masculinity. https://t.co/RxkwK5pZYq"
+	},
+	{
+		"created_at": "Sat Nov 17 14:21:05 +0000 2018",
+		"id": 1063799188910153700,
+		"id_str": "1063799188910153728",
+		"full_text": "“Flawless execution” https://t.co/esQYWrUVFq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/esQYWrUVFq",
+					"expanded_url": "https://twitter.com/funder/status/1063586507053826049",
+					"display_url": "twitter.com/funder/status/…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8774,
+			"friends_count": 1151,
+			"listed_count": 519,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1185,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41410,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1063586507053826000,
+		"quoted_status_id_str": "1063586507053826049",
+		"quoted_status_permalink": {
+			"url": "https://t.co/esQYWrUVFq",
+			"expanded": "https://twitter.com/funder/status/1063586507053826049",
+			"display": "twitter.com/funder/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Nov 17 00:15:58 +0000 2018",
+			"id": 1063586507053826000,
+			"id_str": "1063586507053826049",
+			"full_text": "Whatever you do don’t retweet this video where Ivanka thanks \"the Deputy Crown Prince for his vision, his hard work, and for the flawless execution of two amazing days here in Saudi Arabia. Hopefully the first of many many visits to come.\" Blood money. https://t.co/WMQY58jDxT",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1052710297004384300,
+						"id_str": "1052710297004384256",
+						"indices": [
+							253,
+							276
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1052710297004384256/pu/img/k3ATLo-HjFcoZaLB.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1052710297004384256/pu/img/k3ATLo-HjFcoZaLB.jpg",
+						"url": "https://t.co/WMQY58jDxT",
+						"display_url": "pic.twitter.com/WMQY58jDxT",
+						"expanded_url": "https://twitter.com/funder/status/1052711745276526592/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1052711745276526600,
+						"source_status_id_str": "1052711745276526592",
+						"source_user_id": 14247236,
+						"source_user_id_str": "14247236"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1052710297004384300,
+						"id_str": "1052710297004384256",
+						"indices": [
+							253,
+							276
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1052710297004384256/pu/img/k3ATLo-HjFcoZaLB.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1052710297004384256/pu/img/k3ATLo-HjFcoZaLB.jpg",
+						"url": "https://t.co/WMQY58jDxT",
+						"display_url": "pic.twitter.com/WMQY58jDxT",
+						"expanded_url": "https://twitter.com/funder/status/1052711745276526592/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1052711745276526600,
+						"source_status_id_str": "1052711745276526592",
+						"source_user_id": 14247236,
+						"source_user_id_str": "14247236",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 15230,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1052710297004384256/pu/vid/640x360/F-Q8SY3DBW2qN6CZ.mp4?tag=5"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1052710297004384256/pu/vid/320x180/v1XIX4jbIq4hJBFM.mp4?tag=5"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1052710297004384256/pu/pl/L0LKpkzVJ3pztPjg.m3u8?tag=5"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 14247236,
+								"id_str": "14247236",
+								"name": "Scott Dworkin",
+								"screen_name": "funder",
+								"location": "",
+								"description": "Co-Founder/Lead Investigator @TheDemCoalition. Host of #DworkinReport podcast. Proud member of #TheResistance. Democrat. Helped uncover #TrumpRussia.",
+								"url": "https://t.co/C8LaSjzXvH",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/C8LaSjzXvH",
+												"expanded_url": "http://DworkinReport.com",
+												"display_url": "DworkinReport.com",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 404722,
+								"friends_count": 56493,
+								"listed_count": 3974,
+								"created_at": "Fri Mar 28 21:38:52 +0000 2008",
+								"favourites_count": 90954,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": true,
+								"statuses_count": 193390,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "C0DEED",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/843990001532764160/yjMRQs74_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/843990001532764160/yjMRQs74_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/14247236/1517267836",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14247236,
+				"id_str": "14247236",
+				"name": "Scott Dworkin",
+				"screen_name": "funder",
+				"location": "",
+				"description": "Co-Founder/Lead Investigator @TheDemCoalition. Host of #DworkinReport podcast. Proud member of #TheResistance. Democrat. Helped uncover #TrumpRussia.",
+				"url": "https://t.co/C8LaSjzXvH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/C8LaSjzXvH",
+								"expanded_url": "http://DworkinReport.com",
+								"display_url": "DworkinReport.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 404722,
+				"friends_count": 56493,
+				"listed_count": 3974,
+				"created_at": "Fri Mar 28 21:38:52 +0000 2008",
+				"favourites_count": 90954,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 193390,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/843990001532764160/yjMRQs74_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/843990001532764160/yjMRQs74_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14247236/1517267836",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21389,
+			"favorite_count": 21686,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Flawless execution” https://t.co/esQYWrUVFq"
+	},
+	{
 		"created_at": "Fri Nov 16 22:40:22 +0000 2018",
 		"id": 1063562446810619900,
 		"id_str": "1063562446810619905",
