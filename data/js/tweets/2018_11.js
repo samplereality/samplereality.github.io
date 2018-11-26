@@ -1,6 +1,387 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sun Nov 25 23:04:56 +0000 2018",
+		"id": 1066830122936922100,
+		"id_str": "1066830122936922118",
+		"full_text": "Good thread: https://t.co/ac1A7zpGA4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ac1A7zpGA4",
+					"expanded_url": "https://twitter.com/briandelay/status/1066721849734615041",
+					"display_url": "twitter.com/briandelay/sta…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2985145831,
+			"id_str": "2985145831",
+			"name": "Dr. Rachel Yoho",
+			"screen_name": "rachel_yoho",
+			"location": "",
+			"description": "Scientist. STEM education researcher. Writer. Sports fan. Biology, biotechnology, environmental education. Faculty - Miami University. Tweets mine.",
+			"url": "https://t.co/pU4acB6l4k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pU4acB6l4k",
+							"expanded_url": "http://rachelyoho.com",
+							"display_url": "rachelyoho.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 355,
+			"friends_count": 496,
+			"listed_count": 14,
+			"created_at": "Fri Jan 16 05:00:46 +0000 2015",
+			"favourites_count": 449,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 821,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/852604162584059905/CUWtDU2h_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/852604162584059905/CUWtDU2h_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2985145831/1433791044",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1066721849734615000,
+		"quoted_status_id_str": "1066721849734615041",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ac1A7zpGA4",
+			"expanded": "https://twitter.com/briandelay/status/1066721849734615041",
+			"display": "twitter.com/briandelay/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 25 15:54:42 +0000 2018",
+			"id": 1066721849734615000,
+			"id_str": "1066721849734615041",
+			"full_text": "Over the next few weeks, students will get the chance to evaluate their professors and TAs. They're going to get it wrong. They'll be harder on women and people of color than on white men. Tenured white male faculty, in particular, should help their students understand this. 1/8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 528153058,
+				"id_str": "528153058",
+				"name": "Brian DeLay",
+				"screen_name": "BrianDeLay",
+				"location": "Berkeley, CA",
+				"description": "Historian at UC Berkeley. Author of War of a Thousand Deserts: Indian Raids & The U.S.-Mexican War. Interested in guns, borders, and power. Also birds.",
+				"url": "https://t.co/5oJCzrDUQ7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5oJCzrDUQ7",
+								"expanded_url": "http://history.berkeley.edu/people/brian-delay",
+								"display_url": "history.berkeley.edu/people/brian-d…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1426,
+				"friends_count": 465,
+				"listed_count": 15,
+				"created_at": "Sun Mar 18 04:43:09 +0000 2012",
+				"favourites_count": 2375,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 749,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/968563746485428225/z0ejzPFq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/968563746485428225/z0ejzPFq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/528153058/1519758993",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 917,
+			"favorite_count": 1932,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Good thread: https://t.co/ac1A7zpGA4"
+	},
+	{
+		"created_at": "Wed Nov 21 19:05:29 +0000 2018",
+		"id": 1065320312806535200,
+		"id_str": "1065320312806535173",
+		"full_text": "A reminder that free 2-day shipping has a human cost. https://t.co/aIbFdi6VUV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1065320306867400700,
+					"id_str": "1065320306867400705",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/DsjHLL7XcAETDo1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsjHLL7XcAETDo1.jpg",
+					"url": "https://t.co/aIbFdi6VUV",
+					"display_url": "pic.twitter.com/aIbFdi6VUV",
+					"expanded_url": "https://twitter.com/amandahess/status/1065320312806535173/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 749,
+							"h": 931,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 749,
+							"h": 931,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 547,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1065320306867400700,
+					"id_str": "1065320306867400705",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/DsjHLL7XcAETDo1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsjHLL7XcAETDo1.jpg",
+					"url": "https://t.co/aIbFdi6VUV",
+					"display_url": "pic.twitter.com/aIbFdi6VUV",
+					"expanded_url": "https://twitter.com/amandahess/status/1065320312806535173/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 749,
+							"h": 931,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 749,
+							"h": 931,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 547,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1065318603002716200,
+		"in_reply_to_status_id_str": "1065318603002716170",
+		"in_reply_to_user_id": 16222904,
+		"in_reply_to_user_id_str": "16222904",
+		"in_reply_to_screen_name": "amandahess",
+		"user": {
+			"id": 16222904,
+			"id_str": "16222904",
+			"name": "Amanda Hess",
+			"screen_name": "amandahess",
+			"location": "",
+			"description": "critic at large, @nytimes. my email is amanda.hess@nytimes.com",
+			"url": "https://t.co/uxrkE8adKC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uxrkE8adKC",
+							"expanded_url": "https://www.nytimes.com/video/InternettingAmandaHess",
+							"display_url": "nytimes.com/video/Internet…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50744,
+			"friends_count": 1018,
+			"listed_count": 1600,
+			"created_at": "Wed Sep 10 16:04:26 +0000 2008",
+			"favourites_count": 31794,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1752,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "4A913C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1055827902711939074/C8_mzLXx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1055827902711939074/C8_mzLXx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16222904/1525375652",
+			"profile_link_color": "6AE0FC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "ADF0DF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 96,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A reminder that free 2-day shipping has a human cost. https://t.co/aIbFdi6VUV"
+	},
+	{
 		"created_at": "Wed Nov 21 19:05:29 +0000 2018",
 		"id": 1065320312806535200,
 		"id_str": "1065320312806535173",
