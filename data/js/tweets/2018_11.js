@@ -1,6 +1,418 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Tue Nov 27 21:02:31 +0000 2018",
+		"id": 1067524091668774900,
+		"id_str": "1067524091668774919",
+		"full_text": "If you are unsure how Trump maintains the support of ~40% of the American people, consider he is supported by two enormous media companies that operate as state propaganda outlets https://t.co/6t4oP0MLaP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6t4oP0MLaP",
+					"expanded_url": "https://twitter.com/Mediaite/status/1067523527450877952",
+					"display_url": "twitter.com/Mediaite/statu…",
+					"indices": [
+						180,
+						203
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15464697,
+			"id_str": "15464697",
+			"name": "Judd Legum",
+			"screen_name": "JuddLegum",
+			"location": "Washington, DC",
+			"description": "I write Popular Information, a newsletter about politics for people who give a damn. DMs open. judd@popular.info",
+			"url": "https://t.co/7lEYXJGXf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7lEYXJGXf5",
+							"expanded_url": "http://Popular.info",
+							"display_url": "Popular.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 310563,
+			"friends_count": 1193,
+			"listed_count": 5424,
+			"created_at": "Thu Jul 17 05:37:26 +0000 2008",
+			"favourites_count": 3133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 49793,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/636336373453053952/yv-YqI5w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/636336373453053952/yv-YqI5w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15464697/1533728641",
+			"profile_link_color": "202037",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1067523527450878000,
+		"quoted_status_id_str": "1067523527450877952",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6t4oP0MLaP",
+			"expanded": "https://twitter.com/Mediaite/status/1067523527450877952",
+			"display": "twitter.com/Mediaite/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 27 21:00:17 +0000 2018",
+			"id": 1067523527450878000,
+			"id_str": "1067523527450877952",
+			"full_text": "Sinclair Makes 200 Local News Stations Run Segment Supporting Use of Tear Gas on Migrants https://t.co/yyGOzT9Eie https://t.co/qGHYTA7Sg0",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				113
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/yyGOzT9Eie",
+						"expanded_url": "http://mediaite.com/a/dmxfp",
+						"display_url": "mediaite.com/a/dmxfp",
+						"indices": [
+							90,
+							113
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1067522174355857400,
+						"id_str": "1067522174355857409",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/DtCZwvhVYAEad41.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DtCZwvhVYAEad41.jpg",
+						"url": "https://t.co/qGHYTA7Sg0",
+						"display_url": "pic.twitter.com/qGHYTA7Sg0",
+						"expanded_url": "https://twitter.com/Mediaite/status/1067523527450877952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 377,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1413,
+								"h": 784,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 666,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1067522174355857400,
+						"id_str": "1067522174355857409",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/DtCZwvhVYAEad41.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DtCZwvhVYAEad41.jpg",
+						"url": "https://t.co/qGHYTA7Sg0",
+						"display_url": "pic.twitter.com/qGHYTA7Sg0",
+						"expanded_url": "https://twitter.com/Mediaite/status/1067523527450877952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 377,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1413,
+								"h": 784,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 666,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 29465136,
+				"id_str": "29465136",
+				"name": "Mediaite",
+				"screen_name": "Mediaite",
+				"location": "New York, NY",
+				"description": "THE site for news and smart opinions about print, online and broadcast media.  -  https://t.co/Nla5nN7cx0",
+				"url": "http://t.co/5edk9iymjC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/5edk9iymjC",
+								"expanded_url": "http://www.Mediaite.com",
+								"display_url": "Mediaite.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Nla5nN7cx0",
+								"expanded_url": "http://www.facebook.com/Mediaite",
+								"display_url": "facebook.com/Mediaite",
+								"indices": [
+									82,
+									105
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 153256,
+				"friends_count": 3256,
+				"listed_count": 5118,
+				"created_at": "Tue Apr 07 15:03:06 +0000 2009",
+				"favourites_count": 789,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 152784,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "D6D6D6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/882575964324208640/BtpGLHdx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/882575964324208640/BtpGLHdx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/29465136/1499257493",
+				"profile_link_color": "061099",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F8F8F2",
+				"profile_text_color": "313442",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1451,
+			"favorite_count": 811,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 8837,
+		"favorite_count": 15981,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you are unsure how Trump maintains the support of ~40% of the American people, consider he is supported by two enormous media companies that operate as state propaganda outlets https://t.co/6t4oP0MLaP"
+	},
+	{
+		"created_at": "Wed Nov 28 04:00:24 +0000 2018",
+		"id": 1067629254932906000,
+		"id_str": "1067629254932905984",
+		"full_text": "I've been listening to Bruce Cockburn's \"If I Had a Rocket Launcher\" on repeat for the past few days https://t.co/1CJGXakTb3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1CJGXakTb3",
+					"expanded_url": "https://www.youtube.com/watch?v=z02J_kPincA",
+					"display_url": "youtube.com/watch?v=z02J_k…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8779,
+			"friends_count": 1151,
+			"listed_count": 517,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1187,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41426,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I've been listening to Bruce Cockburn's \"If I Had a Rocket Launcher\" on repeat for the past few days https://t.co/1CJGXakTb3"
+	},
+	{
 		"created_at": "Tue Nov 27 02:36:15 +0000 2018",
 		"id": 1067245688227012600,
 		"id_str": "1067245688227012608",
