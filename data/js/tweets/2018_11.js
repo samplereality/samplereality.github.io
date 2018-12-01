@@ -1,6 +1,452 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Fri Nov 30 19:30:18 +0000 2018",
+		"id": 1068588047866974200,
+		"id_str": "1068588047866974208",
+		"full_text": "It wouldn't be ironic at all if the only election fraud committed in the mid-terms was by Republicans. https://t.co/Gwzm3WnbRr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Gwzm3WnbRr",
+					"expanded_url": "https://www.washingtonpost.com/politics/nc-election-officials-plan-hearing-over-fraud-concerns-in-us-house-race-raising-possibility-of-new-election/2018/11/30/d1fc0450-f4b7-11e8-aeea-b85fd44449f5_story.html?utm_term=.620d08c2b69d",
+					"display_url": "washingtonpost.com/politics/nc-el…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8780,
+			"friends_count": 1153,
+			"listed_count": 520,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1189,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41440,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It wouldn't be ironic at all if the only election fraud committed in the mid-terms was by Republicans. https://t.co/Gwzm3WnbRr"
+	},
+	{
+		"created_at": "Fri Nov 30 16:34:36 +0000 2018",
+		"id": 1068543830897643500,
+		"id_str": "1068543830897643524",
+		"full_text": "*Video Games In East Germany: The Stasi Played Along* Fascinating history of the Commodore 64, East Germany in the 80s, and the surveillance state. https://t.co/L1MHE6St24",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/L1MHE6St24",
+					"expanded_url": "https://ift.tt/2A7MFOg",
+					"display_url": "ift.tt/2A7MFOg",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8780,
+			"friends_count": 1153,
+			"listed_count": 520,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1189,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41440,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "*Video Games In East Germany: The Stasi Played Along* Fascinating history of the Commodore 64, East Germany in the 80s, and the surveillance state. https://t.co/L1MHE6St24"
+	},
+	{
+		"created_at": "Wed Nov 28 17:23:18 +0000 2018",
+		"id": 1067831310511571000,
+		"id_str": "1067831310511570944",
+		"full_text": "Read this story about Amazon sticking items in baby registries unbeknownst to many expecting parents (https://t.co/PyhJIj6HzC). Then read this thread for the behind-the-scenes reporting details. https://t.co/nK5zMwnyO4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PyhJIj6HzC",
+					"expanded_url": "https://www.wsj.com/articles/new-parents-complain-amazon-ads-are-deceptive-1543417201",
+					"display_url": "wsj.com/articles/new-p…",
+					"indices": [
+						102,
+						125
+					]
+				},
+				{
+					"url": "https://t.co/nK5zMwnyO4",
+					"expanded_url": "https://twitter.com/rolfewinkler/status/1067813546526879744",
+					"display_url": "twitter.com/rolfewinkler/s…",
+					"indices": [
+						195,
+						218
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14663698,
+			"id_str": "14663698",
+			"name": "Deepa Seetharaman",
+			"screen_name": "dseetharaman",
+			"location": "San Francisco",
+			"description": "@WSJ tech reporter covering Facebook. DM for Signal / cell. deepa.seetharaman@wsj.com / dseetharaman@protonmail.com / tips! https://t.co/JywZoMfj1d",
+			"url": "https://t.co/EVmAJzeYPa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EVmAJzeYPa",
+							"expanded_url": "http://www.wsj.com/news/author/8237",
+							"display_url": "wsj.com/news/author/82…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/JywZoMfj1d",
+							"expanded_url": "https://www.wsj.com/tips",
+							"display_url": "wsj.com/tips",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 13313,
+			"friends_count": 1012,
+			"listed_count": 630,
+			"created_at": "Mon May 05 19:26:30 +0000 2008",
+			"favourites_count": 8395,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 18185,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1026241179908599808/n0R721BE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1026241179908599808/n0R721BE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14663698/1498025589",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1067813546526879700,
+		"quoted_status_id_str": "1067813546526879744",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nK5zMwnyO4",
+			"expanded": "https://twitter.com/rolfewinkler/status/1067813546526879744",
+			"display": "twitter.com/rolfewinkler/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 28 16:12:43 +0000 2018",
+			"id": 1067813546526879700,
+			"id_str": "1067813546526879744",
+			"full_text": "THREAD: When my in-laws created a baby registry for us on @amazon, we noticed three odd items on the registry that we/they hadn't selected...",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				141
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "amazon",
+						"name": "Amazon.com",
+						"id": 20793816,
+						"id_str": "20793816",
+						"indices": [
+							58,
+							65
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19219421,
+				"id_str": "19219421",
+				"name": "Rolfe Winkler",
+				"screen_name": "RolfeWinkler",
+				"location": "",
+				"description": "Covering VC/startups for WSJ. rolfe dot winkler at wsj dot com. Signal for secure messages: 847-380-0751. Anonymous document share via https://t.co/DK4CJ5rzaR",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/DK4CJ5rzaR",
+								"expanded_url": "http://wsj.com/tips",
+								"display_url": "wsj.com/tips",
+								"indices": [
+									135,
+									158
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 14622,
+				"friends_count": 701,
+				"listed_count": 749,
+				"created_at": "Tue Jan 20 04:17:36 +0000 2009",
+				"favourites_count": 1392,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 4099,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1067823193052733441/mdjF2DHR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067823193052733441/mdjF2DHR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19219421/1441068845",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 736,
+			"favorite_count": 1116,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 16,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read this story about Amazon sticking items in baby registries unbeknownst to many expecting parents (https://t.co/PyhJIj6HzC). Then read this thread for the behind-the-scenes reporting details. https://t.co/nK5zMwnyO4"
+	},
+	{
 		"created_at": "Fri Nov 30 03:53:55 +0000 2018",
 		"id": 1068352398895267800,
 		"id_str": "1068352398895267840",
