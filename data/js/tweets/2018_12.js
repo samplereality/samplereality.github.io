@@ -1,6 +1,1028 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sat Dec 01 16:32:44 +0000 2018",
+		"id": 1068905749508698100,
+		"id_str": "1068905749508698113",
+		"full_text": "But the big beef of lies still overpower the condiments of truth \nhttps://t.co/ZIiWFnm7kx https://t.co/gS9sXqg1uT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZIiWFnm7kx",
+					"expanded_url": "https://twitter.com/GeorgeLakoff/status/1068891959882846208",
+					"display_url": "twitter.com/GeorgeLakoff/s…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1068905747411492900,
+					"id_str": "1068905747411492866",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/DtWEHSzV4AI-TJ6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtWEHSzV4AI-TJ6.jpg",
+					"url": "https://t.co/gS9sXqg1uT",
+					"display_url": "pic.twitter.com/gS9sXqg1uT",
+					"expanded_url": "https://twitter.com/samplereality/status/1068905749508698113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 661,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 995,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 995,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1068905747411492900,
+					"id_str": "1068905747411492866",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/DtWEHSzV4AI-TJ6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtWEHSzV4AI-TJ6.jpg",
+					"url": "https://t.co/gS9sXqg1uT",
+					"display_url": "pic.twitter.com/gS9sXqg1uT",
+					"expanded_url": "https://twitter.com/samplereality/status/1068905749508698113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 661,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 995,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 995,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8778,
+			"friends_count": 1153,
+			"listed_count": 520,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1189,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41444,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1068891959882846200,
+		"quoted_status_id_str": "1068891959882846208",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZIiWFnm7kx",
+			"expanded": "https://twitter.com/GeorgeLakoff/status/1068891959882846208",
+			"display": "twitter.com/GeorgeLakoff/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Dec 01 15:37:56 +0000 2018",
+			"id": 1068891959882846200,
+			"id_str": "1068891959882846208",
+			"full_text": "Truth Sandwich:\n1. Start with the truth. The first frame gets the advantage.\n2. Indicate the lie. Avoid amplifying the specific language if possible. \n3. Return to the truth. Always repeat truths more than lies.\nHear more in Ep 14 of FrameLab w/@gilduran76\nhttps://t.co/cQNOqgRk0w",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "gilduran76",
+						"name": "gil duran",
+						"id": 227430010,
+						"id_str": "227430010",
+						"indices": [
+							245,
+							256
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/cQNOqgRk0w",
+						"expanded_url": "https://soundcloud.com/user-253479697/14-truth-sandwich-time",
+						"display_url": "soundcloud.com/user-253479697…",
+						"indices": [
+							257,
+							280
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 237637694,
+				"id_str": "237637694",
+				"name": "George Lakoff",
+				"screen_name": "GeorgeLakoff",
+				"location": "California, USA",
+				"description": "Professor Emeritus @UCBerkeley. Best-selling author of The ALL NEW Don’t Think of an Elephant. Co-Host of FrameLab podcast. https://t.co/CGbZDYM4ld",
+				"url": "https://t.co/wFh9QI3Ylj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wFh9QI3Ylj",
+								"expanded_url": "http://www.framelab.us",
+								"display_url": "framelab.us",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/CGbZDYM4ld",
+								"expanded_url": "https://goo.gl/oGv7gw",
+								"display_url": "goo.gl/oGv7gw",
+								"indices": [
+									124,
+									147
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 63921,
+				"friends_count": 1394,
+				"listed_count": 1224,
+				"created_at": "Thu Jan 13 08:26:49 +0000 2011",
+				"favourites_count": 2648,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2603,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EFEFEF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/949062115901390848/g7V06yOB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/949062115901390848/g7V06yOB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/237637694/1499120558",
+				"profile_link_color": "009BDD",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 671,
+			"favorite_count": 1237,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "But the big beef of lies still overpower the condiments of truth \nhttps://t.co/ZIiWFnm7kx https://t.co/gS9sXqg1uT"
+	},
+	{
+		"created_at": "Sat Dec 01 16:27:07 +0000 2018",
+		"id": 1068904335453667300,
+		"id_str": "1068904335453667365",
+		"full_text": "Looks like the meaty lies still overpower the condiments of truth\nhttps://t.co/uYGFjxCJtC https://t.co/SpkOHa4s0h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uYGFjxCJtC",
+					"expanded_url": "https://twitter.com/ibogost/status/1068903099371274240",
+					"display_url": "twitter.com/ibogost/status…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1068904332865622000,
+					"id_str": "1068904332865622018",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/DtWC09NU0AIptYV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtWC09NU0AIptYV.jpg",
+					"url": "https://t.co/SpkOHa4s0h",
+					"display_url": "pic.twitter.com/SpkOHa4s0h",
+					"expanded_url": "https://twitter.com/samplereality/status/1068904335453667365/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1197,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 582,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1197,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1068904332865622000,
+					"id_str": "1068904332865622018",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/DtWC09NU0AIptYV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtWC09NU0AIptYV.jpg",
+					"url": "https://t.co/SpkOHa4s0h",
+					"display_url": "pic.twitter.com/SpkOHa4s0h",
+					"expanded_url": "https://twitter.com/samplereality/status/1068904335453667365/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1197,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 582,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1197,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8778,
+			"friends_count": 1153,
+			"listed_count": 520,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1189,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41444,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1068903099371274200,
+		"quoted_status_id_str": "1068903099371274240",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uYGFjxCJtC",
+			"expanded": "https://twitter.com/ibogost/status/1068903099371274240",
+			"display": "twitter.com/ibogost/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Dec 01 16:22:12 +0000 2018",
+			"id": 1068903099371274200,
+			"id_str": "1068903099371274240",
+			"full_text": "Verbal frames… with buns. https://t.co/tIPrdWCVz1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				25
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/tIPrdWCVz1",
+						"expanded_url": "https://twitter.com/GeorgeLakoff/status/1068891959882846208",
+						"display_url": "twitter.com/GeorgeLakoff/s…",
+						"indices": [
+							26,
+							49
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6825792,
+				"id_str": "6825792",
+				"name": "Ian Bogost",
+				"screen_name": "ibogost",
+				"location": "Atlanta, GA",
+				"description": "Writer and game designer. @GeorgiaTech Professor, @TheAtlantic Contributing Editor, @objectsobjects co-editor. Read \"Play Anything\": https://t.co/gu9vvchIOv",
+				"url": "https://t.co/rpSiyMSN93",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rpSiyMSN93",
+								"expanded_url": "http://bogost.com",
+								"display_url": "bogost.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/gu9vvchIOv",
+								"expanded_url": "http://amzn.to/2ckRwyy",
+								"display_url": "amzn.to/2ckRwyy",
+								"indices": [
+									133,
+									156
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 101107,
+				"friends_count": 4776,
+				"listed_count": 2356,
+				"created_at": "Fri Jun 15 04:29:43 +0000 2007",
+				"favourites_count": 41737,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1957,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "5B3C19",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1036236841773461504/FKSs9rJ4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1036236841773461504/FKSs9rJ4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6825792/1535853319",
+				"profile_link_color": "D0E6E3",
+				"profile_sidebar_border_color": "5B3C19",
+				"profile_sidebar_fill_color": "D8A636",
+				"profile_text_color": "231F20",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1068891959882846200,
+			"quoted_status_id_str": "1068891959882846208",
+			"quoted_status_permalink": {
+				"url": "https://t.co/tIPrdWCVz1",
+				"expanded": "https://twitter.com/GeorgeLakoff/status/1068891959882846208",
+				"display": "twitter.com/GeorgeLakoff/s…"
+			},
+			"retweet_count": 11,
+			"favorite_count": 33,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Looks like the meaty lies still overpower the condiments of truth\nhttps://t.co/uYGFjxCJtC https://t.co/SpkOHa4s0h"
+	},
+	{
+		"created_at": "Sat Dec 01 15:22:38 +0000 2018",
+		"id": 1068888106168918000,
+		"id_str": "1068888106168918016",
+		"full_text": "Come work with us (wherever you live, we're a remote-first team) to continue building a sustainable technical infrastructure for the Democratic Party. https://t.co/FWIleljcAR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FWIleljcAR",
+					"expanded_url": "https://twitter.com/peterseibel/status/1068639130328825861",
+					"display_url": "twitter.com/peterseibel/st…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1813571,
+			"id_str": "1813571",
+			"name": "Liza Daly",
+			"screen_name": "liza",
+			"location": "Boston, MA",
+			"description": "Staff Engineer at @TheDemocrats; interactive fiction; art bots. I will pet your dog. she/her",
+			"url": "https://t.co/OjThjWHpJ2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OjThjWHpJ2",
+							"expanded_url": "https://lizadaly.com",
+							"display_url": "lizadaly.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9404,
+			"friends_count": 471,
+			"listed_count": 641,
+			"created_at": "Wed Mar 21 23:47:31 +0000 2007",
+			"favourites_count": 23090,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13953,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/630503586569416705/0eW7PmDi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/630503586569416705/0eW7PmDi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1813571/1485127428",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1068639130328825900,
+		"quoted_status_id_str": "1068639130328825861",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FWIleljcAR",
+			"expanded": "https://twitter.com/peterseibel/status/1068639130328825861",
+			"display": "twitter.com/peterseibel/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 30 22:53:17 +0000 2018",
+			"id": 1068639130328825900,
+			"id_str": "1068639130328825861",
+			"full_text": "A year ago I joined the fantastic DNC Tech team. We kicked ass in the midterms but now it's time to gear up to elect a president. To do that we're going to need some more great folks. If you want to take on Trump in 2020, come join us: https://t.co/AJak8j9JiO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				259
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/AJak8j9JiO",
+						"expanded_url": "https://jobs.lever.co/dnc/3fb65151-0bd9-439c-924c-c806df1dce83",
+						"display_url": "jobs.lever.co/dnc/3fb65151-0…",
+						"indices": [
+							236,
+							259
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 40684667,
+				"id_str": "40684667",
+				"name": "Peter Seibel",
+				"screen_name": "peterseibel",
+				"location": "Berkeley, California",
+				"description": "“I am not a member of any organized political party. I am a Democrat.”",
+				"url": "https://t.co/uxxtS5yV6x",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uxxtS5yV6x",
+								"expanded_url": "http://www.gigamonkeys.com/",
+								"display_url": "gigamonkeys.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8071,
+				"friends_count": 2811,
+				"listed_count": 365,
+				"created_at": "Sun May 17 16:15:10 +0000 2009",
+				"favourites_count": 14938,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 21102,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/918323818904436736/rXI4m1Cu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/918323818904436736/rXI4m1Cu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/40684667/1367863977",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 31,
+			"favorite_count": 69,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 20,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Come work with us (wherever you live, we're a remote-first team) to continue building a sustainable technical infrastructure for the Democratic Party. https://t.co/FWIleljcAR"
+	},
+	{
+		"created_at": "Sat Dec 01 12:31:44 +0000 2018",
+		"id": 1068845100170690600,
+		"id_str": "1068845100170690560",
+		"full_text": "that was the worst movember ever https://t.co/1oOcveKVnf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1068845093573009400,
+					"id_str": "1068845093573009408",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/DtVM8xpWoAAOfrK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtVM8xpWoAAOfrK.jpg",
+					"url": "https://t.co/1oOcveKVnf",
+					"display_url": "pic.twitter.com/1oOcveKVnf",
+					"expanded_url": "https://twitter.com/samplereality/status/1068845100170690560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1068845093573009400,
+					"id_str": "1068845093573009408",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/DtVM8xpWoAAOfrK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtVM8xpWoAAOfrK.jpg",
+					"url": "https://t.co/1oOcveKVnf",
+					"display_url": "pic.twitter.com/1oOcveKVnf",
+					"expanded_url": "https://twitter.com/samplereality/status/1068845100170690560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8778,
+			"friends_count": 1153,
+			"listed_count": 520,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1189,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41444,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "that was the worst movember ever https://t.co/1oOcveKVnf"
+	},
+	{
 		"created_at": "Sat Dec 01 04:54:28 +0000 2018",
 		"id": 1068730023044177900,
 		"id_str": "1068730023044177920",
