@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Mon Dec 03 01:36:25 +0000 2018",
+		"id": 1069404959186329600,
+		"id_str": "1069404959186329600",
+		"full_text": "\"Too much STEM not enough citizenship.\" https://t.co/kRH9LWQTUU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kRH9LWQTUU",
+					"expanded_url": "https://twitter.com/revbennyd/status/1069396519327948801",
+					"display_url": "twitter.com/revbennyd/stat…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15268600,
+			"id_str": "15268600",
+			"name": "Jeff Sharlet",
+			"screen_name": "JeffSharlet",
+			"location": "",
+			"description": "NYT bestselling author (The Family, C St, Sweet Heaven When I Die), magazinist (@nytmag, @esquire, @vqr), prof (@dartmouth). Coming 2019: THE DARKNESS SHOW.",
+			"url": "https://t.co/Os63XdtTGP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Os63XdtTGP",
+							"expanded_url": "http://Instagram.com/jeffsharlet",
+							"display_url": "Instagram.com/jeffsharlet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25294,
+			"friends_count": 2883,
+			"listed_count": 854,
+			"created_at": "Sun Jun 29 05:26:12 +0000 2008",
+			"favourites_count": 27088,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 41077,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1063202851294457856/66GduNzA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1063202851294457856/66GduNzA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15268600/1531930502",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1069396519327948800,
+		"quoted_status_id_str": "1069396519327948801",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kRH9LWQTUU",
+			"expanded": "https://twitter.com/revbennyd/status/1069396519327948801",
+			"display": "twitter.com/revbennyd/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 03 01:02:53 +0000 2018",
+			"id": 1069396519327948800,
+			"id_str": "1069396519327948801",
+			"full_text": "@JeffSharlet My eldest daughter, a high school senior who is in the process of applying to an impressive list of elite universities, only knows about the Cold War because she once asked me to explain the Billy Joel song \"We Didn't Start the Fire.\" Too much STEM not enough citizenship.",
+			"truncated": false,
+			"display_text_range": [
+				13,
+				285
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "JeffSharlet",
+						"name": "Jeff Sharlet",
+						"id": 15268600,
+						"id_str": "15268600",
+						"indices": [
+							0,
+							12
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1069298323239174100,
+			"in_reply_to_status_id_str": "1069298323239174144",
+			"in_reply_to_user_id": 15268600,
+			"in_reply_to_user_id_str": "15268600",
+			"in_reply_to_screen_name": "JeffSharlet",
+			"user": {
+				"id": 1062276284,
+				"id_str": "1062276284",
+				"name": "Ben Daniel",
+				"screen_name": "revbennyd",
+				"location": "Oakland, CA",
+				"description": "Pastor, Montclair Presbyterian Church, writer of left-leaning, faith-based, social, theological, and political commentary.",
+				"url": "http://t.co/jLk1hff5NE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/jLk1hff5NE",
+								"expanded_url": "http://bendaniel.org",
+								"display_url": "bendaniel.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 120,
+				"friends_count": 94,
+				"listed_count": 2,
+				"created_at": "Sat Jan 05 05:59:49 +0000 2013",
+				"favourites_count": 1325,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 918,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/511340031860932610/By30JEWT_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/511340031860932610/By30JEWT_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1062276284/1357581457",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 20,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 9,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Too much STEM not enough citizenship.\" https://t.co/kRH9LWQTUU"
+	},
+	{
 		"created_at": "Sat Dec 01 16:32:44 +0000 2018",
 		"id": 1068905749508698100,
 		"id_str": "1068905749508698113",
