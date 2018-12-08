@@ -1,6 +1,534 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Fri Dec 07 20:23:09 +0000 2018",
+		"id": 1071138062191771600,
+		"id_str": "1071138062191771648",
+		"full_text": "@jmittell Happy birthday!?!",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jmittell",
+					"name": "Jason Mittell",
+					"id": 35295295,
+					"id_str": "35295295",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": 1071137348002476000,
+		"in_reply_to_status_id_str": "1071137348002476033",
+		"in_reply_to_user_id": 35295295,
+		"in_reply_to_user_id_str": "35295295",
+		"in_reply_to_screen_name": "jmittell",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8785,
+			"friends_count": 1151,
+			"listed_count": 514,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1193,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41466,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jmittell Happy birthday!?!"
+	},
+	{
+		"created_at": "Fri Dec 07 20:22:39 +0000 2018",
+		"id": 1071137935427280900,
+		"id_str": "1071137935427280896",
+		"full_text": "I'm not a crisis actor, but I play one on TV.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8785,
+			"friends_count": 1151,
+			"listed_count": 514,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1193,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41466,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I'm not a crisis actor, but I play one on TV."
+	},
+	{
+		"created_at": "Fri Dec 07 20:16:33 +0000 2018",
+		"id": 1071136401998123000,
+		"id_str": "1071136401998123008",
+		"full_text": "Wow. I'd say this is unbelievable...but it's not. \nhttps://t.co/QBYLjV8YxY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QBYLjV8YxY",
+					"expanded_url": "https://twitter.com/math_rachel/status/976235105973714949",
+					"display_url": "twitter.com/math_rachel/st…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8785,
+			"friends_count": 1151,
+			"listed_count": 514,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1193,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41466,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 976235105973715000,
+		"quoted_status_id_str": "976235105973714949",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QBYLjV8YxY",
+			"expanded": "https://twitter.com/math_rachel/status/976235105973714949",
+			"display": "twitter.com/math_rachel/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 20 23:12:41 +0000 2018",
+			"id": 976235105973715000,
+			"id_str": "976235105973714949",
+			"full_text": "Error rates of facial recognition programs for women by shades of skin color (important research by @jovialjoy @timnitGebru) https://t.co/vgw111VGnt https://t.co/jwwo2QwjEo",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				148
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jovialjoy",
+						"name": "Joy Buolamwini",
+						"id": 19700387,
+						"id_str": "19700387",
+						"indices": [
+							100,
+							110
+						]
+					},
+					{
+						"screen_name": "timnitGebru",
+						"name": "Timnit Gebru",
+						"id": 359831209,
+						"id_str": "359831209",
+						"indices": [
+							111,
+							123
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/vgw111VGnt",
+						"expanded_url": "http://gendershades.org/index.html",
+						"display_url": "gendershades.org/index.html",
+						"indices": [
+							125,
+							148
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 976233421545459700,
+						"id_str": "976233421545459713",
+						"indices": [
+							149,
+							172
+						],
+						"media_url": "http://pbs.twimg.com/media/DYxHH-UU0AE2rTQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYxHH-UU0AE2rTQ.jpg",
+						"url": "https://t.co/jwwo2QwjEo",
+						"display_url": "pic.twitter.com/jwwo2QwjEo",
+						"expanded_url": "https://twitter.com/math_rachel/status/976235105973714949/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 831,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1501,
+								"h": 1039,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 471,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 976233421545459700,
+						"id_str": "976233421545459713",
+						"indices": [
+							149,
+							172
+						],
+						"media_url": "http://pbs.twimg.com/media/DYxHH-UU0AE2rTQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYxHH-UU0AE2rTQ.jpg",
+						"url": "https://t.co/jwwo2QwjEo",
+						"display_url": "pic.twitter.com/jwwo2QwjEo",
+						"expanded_url": "https://twitter.com/math_rachel/status/976235105973714949/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 831,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1501,
+								"h": 1039,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 471,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1408142352,
+				"id_str": "1408142352",
+				"name": "Rachel Thomas",
+				"screen_name": "math_rachel",
+				"location": "San Francisco, CA",
+				"description": "co-founder https://t.co/ZvDGNlehRt + professor @usfca_msds | past: Duke math PhD, quant, early Uber eng | now: making neural nets uncool",
+				"url": "https://t.co/98mUQ5O2TF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/98mUQ5O2TF",
+								"expanded_url": "http://www.fast.ai",
+								"display_url": "fast.ai",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ZvDGNlehRt",
+								"expanded_url": "http://fast.ai",
+								"display_url": "fast.ai",
+								"indices": [
+									11,
+									34
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 34209,
+				"friends_count": 703,
+				"listed_count": 841,
+				"created_at": "Mon May 06 16:31:50 +0000 2013",
+				"favourites_count": 3422,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4368,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/802658972784214016/_MmQnI3K_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/802658972784214016/_MmQnI3K_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1408142352/1480203936",
+				"profile_link_color": "113E87",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 727,
+			"favorite_count": 755,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wow. I'd say this is unbelievable...but it's not. \nhttps://t.co/QBYLjV8YxY"
+	},
+	{
 		"created_at": "Fri Dec 07 02:22:35 +0000 2018",
 		"id": 1070866130095493100,
 		"id_str": "1070866130095493121",
