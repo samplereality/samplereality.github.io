@@ -1,6 +1,737 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Tue Dec 11 20:36:17 +0000 2018",
+		"id": 1072590917830361100,
+		"id_str": "1072590917830361088",
+		"full_text": "*STET by Sarah Gailey* Short experimental fiction with a fresh take on the AI trolley problem. https://t.co/RpKcWmbx1Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RpKcWmbx1Y",
+					"expanded_url": "https://ift.tt/2RPCoxJ",
+					"display_url": "ift.tt/2RPCoxJ",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8796,
+			"friends_count": 1152,
+			"listed_count": 515,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1196,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41493,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "*STET by Sarah Gailey* Short experimental fiction with a fresh take on the AI trolley problem. https://t.co/RpKcWmbx1Y"
+	},
+	{
+		"created_at": "Tue Dec 11 19:53:26 +0000 2018",
+		"id": 1072580136858517500,
+		"id_str": "1072580136858517504",
+		"full_text": "Adding this to my Death in the Digital Age syllabus for the spring. https://t.co/eWhTYI2GNZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eWhTYI2GNZ",
+					"expanded_url": "https://twitter.com/gaileyfrey/status/1052230617520205825",
+					"display_url": "twitter.com/gaileyfrey/sta…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8796,
+			"friends_count": 1152,
+			"listed_count": 515,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1196,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41493,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1052230617520205800,
+		"quoted_status_id_str": "1052230617520205825",
+		"quoted_status_permalink": {
+			"url": "https://t.co/eWhTYI2GNZ",
+			"expanded": "https://twitter.com/gaileyfrey/status/1052230617520205825",
+			"display": "twitter.com/gaileyfrey/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 16 16:11:43 +0000 2018",
+			"id": 1052230617520205800,
+			"id_str": "1052230617520205825",
+			"full_text": "I wrote STET entirely out of spite. It's the most ambitious short story I've ever written. Pettiness is powerful.\n\n https://t.co/zLUlMJTRhr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				139
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/zLUlMJTRhr",
+						"expanded_url": "https://firesidefiction.com/stet",
+						"display_url": "firesidefiction.com/stet",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23715059,
+				"id_str": "23715059",
+				"name": "Sarah Gailey",
+				"screen_name": "gaileyfrey",
+				"location": "Los Angeles, CA",
+				"description": "Hugo award winner. Campbell/Nebula award finalist. Regular miscreant at @tordotcom @bnscifi. Repped by @dongwon. They/them. Pure rascality.",
+				"url": "https://t.co/vANRtm90dC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vANRtm90dC",
+								"expanded_url": "http://www.sarahgailey.com/",
+								"display_url": "sarahgailey.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 27241,
+				"friends_count": 658,
+				"listed_count": 478,
+				"created_at": "Wed Mar 11 03:25:02 +0000 2009",
+				"favourites_count": 21698,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 49694,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1001951793029332992/AYwAsCK7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1001951793029332992/AYwAsCK7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23715059/1538026889",
+				"profile_link_color": "088253",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 435,
+			"favorite_count": 977,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Adding this to my Death in the Digital Age syllabus for the spring. https://t.co/eWhTYI2GNZ"
+	},
+	{
+		"created_at": "Tue Dec 11 13:48:17 +0000 2018",
+		"id": 1072488240282828800,
+		"id_str": "1072488240282828801",
+		"full_text": "We contributed some new data to this article. We have been tracing  the frequency of shares and impact of YouTube influencers on Gab. \n\nOn Gab, YouTube is like the blockbuster video of white supremacist content. Gab users often share YouTube videos to substantiate racist claims. https://t.co/NBIMLS81MT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NBIMLS81MT",
+					"expanded_url": "https://twitter.com/washingtonpost/status/1072466648936914944",
+					"display_url": "twitter.com/washingtonpost…",
+					"indices": [
+						280,
+						303
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 122111410,
+			"id_str": "122111410",
+			"name": "Joan Donovan, PhD",
+			"screen_name": "BostonJoan",
+			"location": "Set to Private",
+			"description": "Media Manipulation - Lead Researcher @datasociety. Affiliate @bkcharvard. My friends are going to save the world.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4847,
+			"friends_count": 2779,
+			"listed_count": 196,
+			"created_at": "Thu Mar 11 16:39:39 +0000 2010",
+			"favourites_count": 5735,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11689,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057754767693410304/f7QCy54m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057754767693410304/f7QCy54m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/122111410/1407252540",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1072466648936915000,
+		"quoted_status_id_str": "1072466648936914944",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NBIMLS81MT",
+			"expanded": "https://twitter.com/washingtonpost/status/1072466648936914944",
+			"display": "twitter.com/washingtonpost…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 11 12:22:29 +0000 2018",
+			"id": 1072466648936915000,
+			"id_str": "1072466648936914944",
+			"full_text": "Two years after #Pizzagate showed the dangers of hateful conspiracies, they’re still rampant on YouTube https://t.co/0bjKOoq9dA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				127
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Pizzagate",
+						"indices": [
+							16,
+							26
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/0bjKOoq9dA",
+						"expanded_url": "https://wapo.st/2EpQH97",
+						"display_url": "wapo.st/2EpQH97",
+						"indices": [
+							104,
+							127
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2467791,
+				"id_str": "2467791",
+				"name": "The Washington Post",
+				"screen_name": "washingtonpost",
+				"location": "Washington, DC",
+				"description": "Breaking news, analysis, and opinion. Founded in 1877. Our staff on Twitter: https://t.co/VV0UBAMHg8",
+				"url": "http://t.co/Hq7hTYkOPg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Hq7hTYkOPg",
+								"expanded_url": "http://washingtonpost.com",
+								"display_url": "washingtonpost.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/VV0UBAMHg8",
+								"expanded_url": "https://twitter.com/washingtonpost/lists/washington-post-people",
+								"display_url": "twitter.com/washingtonpost…",
+								"indices": [
+									77,
+									100
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 13146407,
+				"friends_count": 1511,
+				"listed_count": 88065,
+				"created_at": "Tue Mar 27 11:19:39 +0000 2007",
+				"favourites_count": 4515,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 295219,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "333333",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1060271522319925257/fJKwJ0r2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060271522319925257/fJKwJ0r2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2467791/1469484132",
+				"profile_link_color": "0057EC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DBDBDB",
+				"profile_text_color": "323232",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 133,
+			"favorite_count": 174,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 29,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We contributed some new data to this article. We have been tracing  the frequency of shares and impact of YouTube influencers on Gab. \n\nOn Gab, YouTube is like the blockbuster video of white supremacist content. Gab users often share YouTube videos to substantiate racist claims. https://t.co/NBIMLS81MT"
+	},
+	{
+		"created_at": "Mon Dec 10 23:05:22 +0000 2018",
+		"id": 1072266048320274400,
+		"id_str": "1072266048320274433",
+		"full_text": "Someone ⁦@DavidsonCollege⁩ had a productive study break! Good luck, students, with your exams! https://t.co/VK1BKOCTuF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DavidsonCollege",
+					"name": "Davidson College",
+					"id": 353477625,
+					"id_str": "353477625",
+					"indices": [
+						9,
+						25
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1072266029957566500,
+					"id_str": "1072266029957566464",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/DuF0RexW0AAl9xg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuF0RexW0AAl9xg.jpg",
+					"url": "https://t.co/VK1BKOCTuF",
+					"display_url": "pic.twitter.com/VK1BKOCTuF",
+					"expanded_url": "https://twitter.com/KyraKietrys/status/1072266048320274433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1072266029957566500,
+					"id_str": "1072266029957566464",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/DuF0RexW0AAl9xg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuF0RexW0AAl9xg.jpg",
+					"url": "https://t.co/VK1BKOCTuF",
+					"display_url": "pic.twitter.com/VK1BKOCTuF",
+					"expanded_url": "https://twitter.com/KyraKietrys/status/1072266048320274433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 506435044,
+			"id_str": "506435044",
+			"name": "Kyra Kietrys",
+			"screen_name": "KyraKietrys",
+			"location": "Davidson, NC",
+			"description": "Professor of Hispanic Studies and Humanities at Davidson College. Scholar of women in contemporary Spain and memory studies. International education.",
+			"url": "https://t.co/B0hOaVpsMP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B0hOaVpsMP",
+							"expanded_url": "http://kyrakietrys.com",
+							"display_url": "kyrakietrys.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 132,
+			"friends_count": 105,
+			"listed_count": 2,
+			"created_at": "Mon Feb 27 21:33:16 +0000 2012",
+			"favourites_count": 240,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/713726272904552448/NzWZkIu5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/713726272904552448/NzWZkIu5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 67,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Someone ⁦@DavidsonCollege⁩ had a productive study break! Good luck, students, with your exams! https://t.co/VK1BKOCTuF"
+	},
+	{
 		"created_at": "Tue Dec 11 03:48:02 +0000 2018",
 		"id": 1072337183909048300,
 		"id_str": "1072337183909048320",
