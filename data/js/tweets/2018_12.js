@@ -1,6 +1,479 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sun Dec 16 22:51:11 +0000 2018",
+		"id": 1074436808438661100,
+		"id_str": "1074436808438661120",
+		"full_text": "Check this out! Taper #2 includes my epic emoji soap opera, Two Moji. https://t.co/BXxDp5xqcw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BXxDp5xqcw",
+					"expanded_url": "https://twitter.com/nickmofo/status/1074395857603231756",
+					"display_url": "twitter.com/nickmofo/statu…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8806,
+			"friends_count": 1153,
+			"listed_count": 515,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41500,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1074395857603231700,
+		"quoted_status_id_str": "1074395857603231756",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BXxDp5xqcw",
+			"expanded": "https://twitter.com/nickmofo/status/1074395857603231756",
+			"display": "twitter.com/nickmofo/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Dec 16 20:08:28 +0000 2018",
+			"id": 1074395857603231700,
+			"id_str": "1074395857603231756",
+			"full_text": "Taper #2 is out! 18 tiny computational poems: @doam Sebastian Bartlett, Kyle Booten, Angela Chang, Augusto Corvalan @KaviDuvvoori @esen_espinosa @Leonardo_UPRM Judy Heflin @cj391 Vinicius Marquet, Stuart Moulthrop @everestpipkin @samplereality William Wu\n\nhttps://t.co/bXsFjJCbEQ https://t.co/FlNt7JVtLx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "doam",
+						"name": "six",
+						"id": 36306145,
+						"id_str": "36306145",
+						"indices": [
+							46,
+							51
+						]
+					},
+					{
+						"screen_name": "KaviDuvvoori",
+						"name": "Kavi Duvvoori",
+						"id": 987426033262473200,
+						"id_str": "987426033262473216",
+						"indices": [
+							116,
+							129
+						]
+					},
+					{
+						"screen_name": "esen_espinosa",
+						"name": "Esen Espinosa",
+						"id": 54453902,
+						"id_str": "54453902",
+						"indices": [
+							130,
+							144
+						]
+					},
+					{
+						"screen_name": "Leonardo_UPRM",
+						"name": "Leonardo Flores",
+						"id": 38562659,
+						"id_str": "38562659",
+						"indices": [
+							145,
+							159
+						]
+					},
+					{
+						"screen_name": "cj391",
+						"name": "Chris Joseph",
+						"id": 21854560,
+						"id_str": "21854560",
+						"indices": [
+							172,
+							178
+						]
+					},
+					{
+						"screen_name": "everestpipkin",
+						"name": "everest",
+						"id": 28825574,
+						"id_str": "28825574",
+						"indices": [
+							214,
+							228
+						]
+					},
+					{
+						"screen_name": "samplereality",
+						"name": "Sample",
+						"id": 8497292,
+						"id_str": "8497292",
+						"indices": [
+							229,
+							243
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/bXsFjJCbEQ",
+						"expanded_url": "http://taper.badquar.to/2/",
+						"display_url": "taper.badquar.to/2/",
+						"indices": [
+							256,
+							279
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1074395752493924400,
+						"id_str": "1074395752493924353",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/DukFPpeWwAEIQ6k.png",
+						"media_url_https": "https://pbs.twimg.com/media/DukFPpeWwAEIQ6k.png",
+						"url": "https://t.co/FlNt7JVtLx",
+						"display_url": "pic.twitter.com/FlNt7JVtLx",
+						"expanded_url": "https://twitter.com/nickmofo/status/1074395857603231756/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 256,
+								"h": 256,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 256,
+								"h": 256,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 256,
+								"h": 256,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1074395752493924400,
+						"id_str": "1074395752493924353",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/DukFPpeWwAEIQ6k.png",
+						"media_url_https": "https://pbs.twimg.com/media/DukFPpeWwAEIQ6k.png",
+						"url": "https://t.co/FlNt7JVtLx",
+						"display_url": "pic.twitter.com/FlNt7JVtLx",
+						"expanded_url": "https://twitter.com/nickmofo/status/1074395857603231756/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 256,
+								"h": 256,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 256,
+								"h": 256,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 256,
+								"h": 256,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 397429327,
+				"id_str": "397429327",
+				"name": "Nick Montfort",
+				"screen_name": "nickmofo",
+				"location": "New York & Boston",
+				"description": "Poet who computes & collaborates. Runs micropress Bad Quarto, @syncnyc. Books: #!, The Truelist, @cppress; The Future, etc. @mitpress. Teaches @mit_cmsw, @sfpc.",
+				"url": "https://t.co/HMmxdsnjHT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HMmxdsnjHT",
+								"expanded_url": "http://nickm.com",
+								"display_url": "nickm.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3325,
+				"friends_count": 329,
+				"listed_count": 149,
+				"created_at": "Mon Oct 24 17:40:47 +0000 2011",
+				"favourites_count": 2363,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5381,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/992135598893826050/i7bPATiH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/992135598893826050/i7bPATiH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/397429327/1417325336",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check this out! Taper #2 includes my epic emoji soap opera, Two Moji. https://t.co/BXxDp5xqcw"
+	},
+	{
+		"created_at": "Sun Dec 16 13:24:51 +0000 2018",
+		"id": 1074294283946086400,
+		"id_str": "1074294283946086400",
+		"full_text": "An incredible report from the NYT on how McKinsey—that beacon of American “consulting”—repeatedly works against freedom and democracy.  https://t.co/ANfS98Wr5w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ANfS98Wr5w",
+					"expanded_url": "https://www.nytimes.com/2018/12/15/world/asia/mckinsey-china-russia.html?action=click&module=Top%20Stories&pgtype=Homepage",
+					"display_url": "nytimes.com/2018/12/15/wor…",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8806,
+			"friends_count": 1153,
+			"listed_count": 515,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41500,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "An incredible report from the NYT on how McKinsey—that beacon of American “consulting”—repeatedly works against freedom and democracy.  https://t.co/ANfS98Wr5w"
+	},
+	{
 		"created_at": "Thu Dec 13 14:23:17 +0000 2018",
 		"id": 1073221825491071000,
 		"id_str": "1073221825491070977",
