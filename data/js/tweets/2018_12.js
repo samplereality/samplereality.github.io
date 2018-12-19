@@ -1,6 +1,878 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Tue Dec 18 20:09:48 +0000 2018",
+		"id": 1075120969809870800,
+		"id_str": "1075120969809870848",
+		"full_text": "my son Braxtyn is such an activist! i love that he stands up for what he believes in https://t.co/4Oz3hpxPL6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1075120963753103400,
+					"id_str": "1075120963753103360",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/DuuY0f8UUAAA5Us.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuuY0f8UUAAA5Us.jpg",
+					"url": "https://t.co/4Oz3hpxPL6",
+					"display_url": "pic.twitter.com/4Oz3hpxPL6",
+					"expanded_url": "https://twitter.com/Hoejabi/status/1075120969809870848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 541,
+							"h": 540,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1075120963753103400,
+					"id_str": "1075120963753103360",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/DuuY0f8UUAAA5Us.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuuY0f8UUAAA5Us.jpg",
+					"url": "https://t.co/4Oz3hpxPL6",
+					"display_url": "pic.twitter.com/4Oz3hpxPL6",
+					"expanded_url": "https://twitter.com/Hoejabi/status/1075120969809870848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 541,
+							"h": 540,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3369989507,
+			"id_str": "3369989507",
+			"name": "jesus rearrange my life challenge",
+			"screen_name": "Hoejabi",
+			"location": "",
+			"description": "I love my beautiful caucasian family 😊 Mother of 3 (braxtyn, mekenzyie, and viktorya)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4801,
+			"friends_count": 271,
+			"listed_count": 39,
+			"created_at": "Fri Jul 10 23:50:13 +0000 2015",
+			"favourites_count": 23101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11466,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1075102177516027904/fDRrL0zZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1075102177516027904/fDRrL0zZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3369989507/1545159309",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 141,
+		"favorite_count": 935,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "my son Braxtyn is such an activist! i love that he stands up for what he believes in https://t.co/4Oz3hpxPL6"
+	},
+	{
+		"created_at": "Tue Dec 18 18:46:49 +0000 2018",
+		"id": 1075100087456538600,
+		"id_str": "1075100087456538624",
+		"full_text": "Also known as the \"Codenames\" theory of subtweeting. \nhttps://t.co/iadVQdq39e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iadVQdq39e",
+					"expanded_url": "https://twitter.com/samplereality/status/1075099901749530624",
+					"display_url": "twitter.com/samplereality/…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8807,
+			"friends_count": 1152,
+			"listed_count": 515,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1200,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41511,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1075099901749530600,
+		"quoted_status_id_str": "1075099901749530624",
+		"quoted_status_permalink": {
+			"url": "https://t.co/iadVQdq39e",
+			"expanded": "https://twitter.com/samplereality/status/1075099901749530624",
+			"display": "twitter.com/samplereality/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 18 18:46:05 +0000 2018",
+			"id": 1075099901749530600,
+			"id_str": "1075099901749530624",
+			"full_text": "I subscribe to the convergence theory approach to subtweeting, wherein you wait until 3 or 4 disconnected things happen and you compose a subtweet that could apply to all 3 or 4.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				178
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 8497292,
+				"id_str": "8497292",
+				"name": "Sample",
+				"screen_name": "samplereality",
+				"location": "This Land Is Your Land",
+				"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+				"url": "https://t.co/oRy4nnx6c1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oRy4nnx6c1",
+								"expanded_url": "https://www.samplereality.com",
+								"display_url": "samplereality.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8807,
+				"friends_count": 1152,
+				"listed_count": 515,
+				"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+				"favourites_count": 1200,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 41511,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B3B3B3",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+				"profile_link_color": "236299",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Also known as the \"Codenames\" theory of subtweeting. \nhttps://t.co/iadVQdq39e"
+	},
+	{
+		"created_at": "Tue Dec 18 18:46:05 +0000 2018",
+		"id": 1075099901749530600,
+		"id_str": "1075099901749530624",
+		"full_text": "I subscribe to the convergence theory approach to subtweeting, wherein you wait until 3 or 4 disconnected things happen and you compose a subtweet that could apply to all 3 or 4.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8807,
+			"friends_count": 1152,
+			"listed_count": 515,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1200,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41511,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I subscribe to the convergence theory approach to subtweeting, wherein you wait until 3 or 4 disconnected things happen and you compose a subtweet that could apply to all 3 or 4."
+	},
+	{
+		"created_at": "Tue Dec 18 18:43:51 +0000 2018",
+		"id": 1075099337825378300,
+		"id_str": "1075099337825378305",
+		"full_text": "Just because people aren't talking about something on Twitter doesn't mean they're not talking about something.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8807,
+			"friends_count": 1152,
+			"listed_count": 515,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1200,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41511,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Just because people aren't talking about something on Twitter doesn't mean they're not talking about something."
+	},
+	{
+		"created_at": "Tue Dec 18 15:41:20 +0000 2018",
+		"id": 1075053405410750500,
+		"id_str": "1075053405410750466",
+		"full_text": "I feel like the rise of psychologist as public intellectuals is an offshoot of neo-liberalism: every problem is a personal one rather than a collective one, with self-help replacing political activism. https://t.co/VnD2aYaXKt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VnD2aYaXKt",
+					"expanded_url": "https://twitter.com/jtlevy/status/1075045703125270529",
+					"display_url": "twitter.com/jtlevy/status/…",
+					"indices": [
+						202,
+						225
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 604940737,
+			"id_str": "604940737",
+			"name": "Jeet Heer",
+			"screen_name": "HeerJeet",
+			"location": "Germany",
+			"description": "1. Staff Writer, The New Republic 2.  Work found here: https://t.co/ERLZ3hCrx9 3. Twitter essayist 4. Profile drawing by Joe Ollmann",
+			"url": "https://t.co/h4rwFMPe9b",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/h4rwFMPe9b",
+							"expanded_url": "http://www.tnr.com",
+							"display_url": "tnr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ERLZ3hCrx9",
+							"expanded_url": "http://www.newrepublic.com/authors/jeet-heer",
+							"display_url": "newrepublic.com/authors/jeet-h…",
+							"indices": [
+								55,
+								78
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 189823,
+			"friends_count": 920,
+			"listed_count": 3639,
+			"created_at": "Sun Jun 10 23:41:23 +0000 2012",
+			"favourites_count": 5431,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 122580,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/771802394195668992/sdiSWCGC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/771802394195668992/sdiSWCGC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/604940737/1475815709",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1075045703125270500,
+		"quoted_status_id_str": "1075045703125270529",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VnD2aYaXKt",
+			"expanded": "https://twitter.com/jtlevy/status/1075045703125270529",
+			"display": "twitter.com/jtlevy/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 18 15:10:43 +0000 2018",
+			"id": 1075045703125270500,
+			"id_str": "1075045703125270529",
+			"full_text": "The eras of sociologists and economists as the famous public intellectuals no doubt left a lot to be desired, but boy o boy does this era of the dominance of psychologists have a LOT to answer for. https://t.co/JCmrnZpeLp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				197
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1075045692966621200,
+						"id_str": "1075045692966621186",
+						"indices": [
+							198,
+							221
+						],
+						"media_url": "http://pbs.twimg.com/media/DutUXKaW0AIgwFk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DutUXKaW0AIgwFk.jpg",
+						"url": "https://t.co/JCmrnZpeLp",
+						"display_url": "pic.twitter.com/JCmrnZpeLp",
+						"expanded_url": "https://twitter.com/jtlevy/status/1075045703125270529/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 661,
+								"h": 630,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 661,
+								"h": 630,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 661,
+								"h": 630,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1075045692966621200,
+						"id_str": "1075045692966621186",
+						"indices": [
+							198,
+							221
+						],
+						"media_url": "http://pbs.twimg.com/media/DutUXKaW0AIgwFk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DutUXKaW0AIgwFk.jpg",
+						"url": "https://t.co/JCmrnZpeLp",
+						"display_url": "pic.twitter.com/JCmrnZpeLp",
+						"expanded_url": "https://twitter.com/jtlevy/status/1075045703125270529/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 661,
+								"h": 630,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 661,
+								"h": 630,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 661,
+								"h": 630,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14911886,
+				"id_str": "14911886",
+				"name": "Jacob T. Levy",
+				"screen_name": "jtlevy",
+				"location": "Montreal, Quebec",
+				"description": "Jacob T. Levy, Tomlinson Prof of Political Theory, McGill. RPF https://t.co/6IHDQBE8Sj Niskanen https://t.co/VzP09U5Zei Opinions here are mine not McGill's.",
+				"url": "https://t.co/xXRVmJpUon",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xXRVmJpUon",
+								"expanded_url": "http://jacobtlevy.com",
+								"display_url": "jacobtlevy.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/6IHDQBE8Sj",
+								"expanded_url": "http://amzn.to/1osWYDC",
+								"display_url": "amzn.to/1osWYDC",
+								"indices": [
+									63,
+									86
+								]
+							},
+							{
+								"url": "https://t.co/VzP09U5Zei",
+								"expanded_url": "http://tinyurl.com/gpu3rzw",
+								"display_url": "tinyurl.com/gpu3rzw",
+								"indices": [
+									96,
+									119
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 13619,
+				"friends_count": 835,
+				"listed_count": 399,
+				"created_at": "Mon May 26 18:36:30 +0000 2008",
+				"favourites_count": 54233,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 52930,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/656602232222191616/TyCC98vy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/656602232222191616/TyCC98vy_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 105,
+			"favorite_count": 554,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 638,
+		"favorite_count": 2846,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I feel like the rise of psychologist as public intellectuals is an offshoot of neo-liberalism: every problem is a personal one rather than a collective one, with self-help replacing political activism. https://t.co/VnD2aYaXKt"
+	},
+	{
 		"created_at": "Tue Dec 18 01:58:27 +0000 2018",
 		"id": 1074846322820345900,
 		"id_str": "1074846322820345857",
