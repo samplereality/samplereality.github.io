@@ -1,6 +1,1058 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Wed Dec 19 14:27:26 +0000 2018",
+		"id": 1075397197091532800,
+		"id_str": "1075397197091532800",
+		"full_text": "Thread about ed tech, zombie innovation, and why @audreywatters is rightfully stepping away from it all. https://t.co/v6z9mrlF0B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "audreywatters",
+					"name": "Audrey Watters",
+					"id": 25388528,
+					"id_str": "25388528",
+					"indices": [
+						49,
+						63
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/v6z9mrlF0B",
+					"expanded_url": "https://twitter.com/biblioracle/status/1075391754281590784",
+					"display_url": "twitter.com/biblioracle/st…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8805,
+			"friends_count": 1152,
+			"listed_count": 515,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1200,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41515,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1075391754281590800,
+		"quoted_status_id_str": "1075391754281590784",
+		"quoted_status_permalink": {
+			"url": "https://t.co/v6z9mrlF0B",
+			"expanded": "https://twitter.com/biblioracle/status/1075391754281590784",
+			"display": "twitter.com/biblioracle/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 19 14:05:48 +0000 2018",
+			"id": 1075391754281590800,
+			"id_str": "1075391754281590784",
+			"full_text": "Been thinking about @audreywatters announcement that she's moving away from chronicling ed tech @hackeducation, at least partly due to the frustration over not being listened to. As Audrey says, what's the point of repeating oneself if nothing changes? https://t.co/Px2V71OnXr https://t.co/1yITnAINA0",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "audreywatters",
+						"name": "Audrey Watters",
+						"id": 25388528,
+						"id_str": "25388528",
+						"indices": [
+							20,
+							34
+						]
+					},
+					{
+						"screen_name": "hackeducation",
+						"name": "Hack Education",
+						"id": 149029700,
+						"id_str": "149029700",
+						"indices": [
+							96,
+							110
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Px2V71OnXr",
+						"expanded_url": "http://hackeducation.com/2018/12/18/top-ed-tech-trends-stories",
+						"display_url": "hackeducation.com/2018/12/18/top…",
+						"indices": [
+							253,
+							276
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1075391712426688500,
+						"id_str": "1075391712426688512",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/media/DuyPEJWXgAAPbFK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DuyPEJWXgAAPbFK.jpg",
+						"url": "https://t.co/1yITnAINA0",
+						"display_url": "pic.twitter.com/1yITnAINA0",
+						"expanded_url": "https://twitter.com/biblioracle/status/1075391754281590784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 464,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 687,
+								"h": 469,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 687,
+								"h": 469,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1075391712426688500,
+						"id_str": "1075391712426688512",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/media/DuyPEJWXgAAPbFK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DuyPEJWXgAAPbFK.jpg",
+						"url": "https://t.co/1yITnAINA0",
+						"display_url": "pic.twitter.com/1yITnAINA0",
+						"expanded_url": "https://twitter.com/biblioracle/status/1075391754281590784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 464,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 687,
+								"h": 469,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 687,
+								"h": 469,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 136277952,
+				"id_str": "136277952",
+				"name": "John Warner",
+				"screen_name": "biblioracle",
+				"location": "South Carolina",
+				"description": "Author WHY THEY CAN'T WRITE: KILLING THE FIVE-PARAGRAPH ESSAY AND OTHER NECESSITIES and other stuff. @insidehighered, @mcsweeneys,  @ChiTribBooks.",
+				"url": "https://t.co/hZw4o3lZJc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hZw4o3lZJc",
+								"expanded_url": "https://www.johnwarnerwriter.com",
+								"display_url": "johnwarnerwriter.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9381,
+				"friends_count": 1443,
+				"listed_count": 266,
+				"created_at": "Fri Apr 23 13:47:49 +0000 2010",
+				"favourites_count": 9501,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 26525,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/993869746536841216/EZZKey6P_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/993869746536841216/EZZKey6P_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/136277952/1525522454",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 46,
+			"favorite_count": 81,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thread about ed tech, zombie innovation, and why @audreywatters is rightfully stepping away from it all. https://t.co/v6z9mrlF0B"
+	},
+	{
+		"created_at": "Wed Dec 19 14:12:12 +0000 2018",
+		"id": 1075393365561217000,
+		"id_str": "1075393365561217024",
+		"full_text": "@samplereality literally had a FB researcher say \"we don't worry about losing users, we get them over on Insta\"",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "samplereality",
+					"name": "Sample",
+					"id": 8497292,
+					"id_str": "8497292",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1075392022142439400,
+		"in_reply_to_status_id_str": "1075392022142439424",
+		"in_reply_to_user_id": 8497292,
+		"in_reply_to_user_id_str": "8497292",
+		"in_reply_to_screen_name": "samplereality",
+		"user": {
+			"id": 190886946,
+			"id_str": "190886946",
+			"name": "Jacqueline Wernimont",
+			"screen_name": "profwernimont",
+			"location": "Hanover, NH",
+			"description": "feminist histories of quantification & commemoration, digital justice. Trying not to fall over. Distinguished Chair of DH & Social Engagement@Dartmouth She/her",
+			"url": "http://t.co/ny8fCXizjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ny8fCXizjn",
+							"expanded_url": "http://jwernimont.wordpress.com",
+							"display_url": "jwernimont.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3611,
+			"friends_count": 1320,
+			"listed_count": 256,
+			"created_at": "Wed Sep 15 02:27:26 +0000 2010",
+			"favourites_count": 17706,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27155,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C1EBDB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957750389079601153/1peoROzd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957750389079601153/1peoROzd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/190886946/1538566146",
+			"profile_link_color": "143306",
+			"profile_sidebar_border_color": "A9D9BF",
+			"profile_sidebar_fill_color": "E8F5DC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@samplereality literally had a FB researcher say \"we don't worry about losing users, we get them over on Insta\""
+	},
+	{
+		"created_at": "Wed Dec 19 14:06:52 +0000 2018",
+		"id": 1075392022142439400,
+		"id_str": "1075392022142439424",
+		"full_text": "And don’t think you’re safe if you only have Instagram. Whatever happens with Facebook happens with Instagram. Same company, same shitty ethics. https://t.co/pmyaQGFbXv https://t.co/VjUqBlv34i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pmyaQGFbXv",
+					"expanded_url": "https://www.nytimes.com/2018/12/18/technology/facebook-privacy.html?action=click&module=Top%20Stories&pgtype=Homepage",
+					"display_url": "nytimes.com/2018/12/18/tec…",
+					"indices": [
+						145,
+						168
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1075392017167994900,
+					"id_str": "1075392017167994881",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/DuyPV4mW0AErSJp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuyPV4mW0AErSJp.jpg",
+					"url": "https://t.co/VjUqBlv34i",
+					"display_url": "pic.twitter.com/VjUqBlv34i",
+					"expanded_url": "https://twitter.com/samplereality/status/1075392022142439424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1319,
+							"h": 287,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 148,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 261,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1075392017167994900,
+					"id_str": "1075392017167994881",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/DuyPV4mW0AErSJp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuyPV4mW0AErSJp.jpg",
+					"url": "https://t.co/VjUqBlv34i",
+					"display_url": "pic.twitter.com/VjUqBlv34i",
+					"expanded_url": "https://twitter.com/samplereality/status/1075392022142439424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1319,
+							"h": 287,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 148,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 261,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8805,
+			"friends_count": 1152,
+			"listed_count": 515,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1200,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41515,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "And don’t think you’re safe if you only have Instagram. Whatever happens with Facebook happens with Instagram. Same company, same shitty ethics. https://t.co/pmyaQGFbXv https://t.co/VjUqBlv34i"
+	},
+	{
+		"created_at": "Wed Dec 19 12:46:06 +0000 2018",
+		"id": 1075371698302660600,
+		"id_str": "1075371698302660609",
+		"full_text": "5 minutes ago, and holy shit. I sprang out of bed, ran down to the garage, and double checked. Holy shit. 👀🚙➡️ https://t.co/ShHrk2aIuU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ShHrk2aIuU",
+					"expanded_url": "https://twitter.com/tonyposnanski/status/1075066904522440704",
+					"display_url": "twitter.com/tonyposnanski/…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8805,
+			"friends_count": 1152,
+			"listed_count": 515,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1200,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41515,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1075066904522440700,
+		"quoted_status_id_str": "1075066904522440704",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ShHrk2aIuU",
+			"expanded": "https://twitter.com/tonyposnanski/status/1075066904522440704",
+			"display": "twitter.com/tonyposnanski/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 18 16:34:58 +0000 2018",
+			"id": 1075066904522440700,
+			"id_str": "1075066904522440704",
+			"full_text": "How old were you when you realized the arrow on the gas pump in your car shows which side the gas tank is on? https://t.co/Bb7BlD76k5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				109
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1075066893831004200,
+						"id_str": "1075066893831004160",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/DutnpNyUYAASdU-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DutnpNyUYAASdU-.jpg",
+						"url": "https://t.co/Bb7BlD76k5",
+						"display_url": "pic.twitter.com/Bb7BlD76k5",
+						"expanded_url": "https://twitter.com/tonyposnanski/status/1075066904522440704/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1075066893831004200,
+						"id_str": "1075066893831004160",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/DutnpNyUYAASdU-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DutnpNyUYAASdU-.jpg",
+						"url": "https://t.co/Bb7BlD76k5",
+						"display_url": "pic.twitter.com/Bb7BlD76k5",
+						"expanded_url": "https://twitter.com/tonyposnanski/status/1075066904522440704/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17642747,
+				"id_str": "17642747",
+				"name": "Tony Posnanski",
+				"screen_name": "tonyposnanski",
+				"location": "",
+				"description": "Comedian. Author. Lost & gained weight. Helped a bullied child meet a boy band. Went viral for being kind to a mother & child. The Frank Stallone of Posnanskis.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 148417,
+				"friends_count": 1959,
+				"listed_count": 1856,
+				"created_at": "Wed Nov 26 04:57:28 +0000 2008",
+				"favourites_count": 35983,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 97123,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1075474689668059136/jjF-PP0U_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1075474689668059136/jjF-PP0U_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17642747/1542335821",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 626,
+			"favorite_count": 3213,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "5 minutes ago, and holy shit. I sprang out of bed, ran down to the garage, and double checked. Holy shit. 👀🚙➡️ https://t.co/ShHrk2aIuU"
+	},
+	{
+		"created_at": "Tue Dec 18 20:09:48 +0000 2018",
+		"id": 1075120969809870800,
+		"id_str": "1075120969809870848",
+		"full_text": "my son Braxtyn is such an activist! i love that he stands up for what he believes in https://t.co/4Oz3hpxPL6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1075120963753103400,
+					"id_str": "1075120963753103360",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/DuuY0f8UUAAA5Us.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuuY0f8UUAAA5Us.jpg",
+					"url": "https://t.co/4Oz3hpxPL6",
+					"display_url": "pic.twitter.com/4Oz3hpxPL6",
+					"expanded_url": "https://twitter.com/Hoejabi/status/1075120969809870848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 541,
+							"h": 540,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1075120963753103400,
+					"id_str": "1075120963753103360",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/DuuY0f8UUAAA5Us.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuuY0f8UUAAA5Us.jpg",
+					"url": "https://t.co/4Oz3hpxPL6",
+					"display_url": "pic.twitter.com/4Oz3hpxPL6",
+					"expanded_url": "https://twitter.com/Hoejabi/status/1075120969809870848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 541,
+							"h": 540,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3369989507,
+			"id_str": "3369989507",
+			"name": "jesus rearrange my life challenge",
+			"screen_name": "Hoejabi",
+			"location": "",
+			"description": "I love my beautiful caucasian family 😊 Mother of 3 (braxtyn, mekenzyie, and viktorya)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5229,
+			"friends_count": 241,
+			"listed_count": 38,
+			"created_at": "Fri Jul 10 23:50:13 +0000 2015",
+			"favourites_count": 23203,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11208,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1075102177516027904/fDRrL0zZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1075102177516027904/fDRrL0zZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3369989507/1545159309",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 192,
+		"favorite_count": 1250,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "my son Braxtyn is such an activist! i love that he stands up for what he believes in https://t.co/4Oz3hpxPL6"
+	},
+	{
 		"created_at": "Tue Dec 18 20:09:48 +0000 2018",
 		"id": 1075120969809870800,
 		"id_str": "1075120969809870848",
