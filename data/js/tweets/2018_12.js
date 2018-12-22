@@ -1,6 +1,904 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sat Dec 22 05:21:36 +0000 2018",
+		"id": 1076346999014916100,
+		"id_str": "1076346999014916096",
+		"full_text": "Trump is now blaming Dems for the shutdown even though he said he’d own it. But really, the fault belongs to every single Republican who’s enabled Trump for the past 2 years.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8807,
+			"friends_count": 1153,
+			"listed_count": 516,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1201,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41520,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Trump is now blaming Dems for the shutdown even though he said he’d own it. But really, the fault belongs to every single Republican who’s enabled Trump for the past 2 years."
+	},
+	{
+		"created_at": "Fri Dec 21 19:26:48 +0000 2018",
+		"id": 1076197309988393000,
+		"id_str": "1076197309988392960",
+		"full_text": "Not sure why everyone is complaining so hard about this. https://t.co/UH9cFkEgSl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1076197296415461400,
+					"id_str": "1076197296415461376",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/Du9rvTkUUAA0aNO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du9rvTkUUAA0aNO.jpg",
+					"url": "https://t.co/UH9cFkEgSl",
+					"display_url": "pic.twitter.com/UH9cFkEgSl",
+					"expanded_url": "https://twitter.com/kjhealy/status/1076197309988392960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1157,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 678,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1076197296415461400,
+					"id_str": "1076197296415461376",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/Du9rvTkUUAA0aNO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du9rvTkUUAA0aNO.jpg",
+					"url": "https://t.co/UH9cFkEgSl",
+					"display_url": "pic.twitter.com/UH9cFkEgSl",
+					"expanded_url": "https://twitter.com/kjhealy/status/1076197309988392960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1157,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 678,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 782325,
+			"id_str": "782325",
+			"name": "Kieran Healy",
+			"screen_name": "kjhealy",
+			"location": "Durham/Chapel Hill NC",
+			"description": "Data Visualization / Preorder the book at https://t.co/MXk4HLSxgC",
+			"url": "https://t.co/9AodRQczL6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9AodRQczL6",
+							"expanded_url": "http://kieranhealy.org",
+							"display_url": "kieranhealy.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/MXk4HLSxgC",
+							"expanded_url": "https://amzn.to/2vfAixM",
+							"display_url": "amzn.to/2vfAixM",
+							"indices": [
+								42,
+								65
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 18796,
+			"friends_count": 100,
+			"listed_count": 607,
+			"created_at": "Tue Feb 20 05:00:17 +0000 2007",
+			"favourites_count": 15665,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 210,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDF5FC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1038054136779075585/hM0FR8ot_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1038054136779075585/hM0FR8ot_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/782325/1543420776",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E1DFD2",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 116,
+		"favorite_count": 442,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Not sure why everyone is complaining so hard about this. https://t.co/UH9cFkEgSl"
+	},
+	{
+		"created_at": "Fri Dec 21 12:13:50 +0000 2018",
+		"id": 1076088353454477300,
+		"id_str": "1076088353454477312",
+		"full_text": "Well, here I am. https://t.co/WUXLSVXCZr via @politicomag",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "POLITICOMag",
+					"name": "POLITICO Magazine",
+					"id": 1548489476,
+					"id_str": "1548489476",
+					"indices": [
+						45,
+						57
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WUXLSVXCZr",
+					"expanded_url": "https://politi.co/2EK7HqM",
+					"display_url": "politi.co/2EK7HqM",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20715936,
+			"id_str": "20715936",
+			"name": "Connie Schultz",
+			"screen_name": "ConnieSchultz",
+			"location": "Cleveland, OH",
+			"description": "Syndicated columnist. J-prof @KentState. Random House novel coming. Won Pulitzer, which didn't impress my dog. Married @SenSherrodBrown, so never bored.",
+			"url": "https://t.co/oK7xj96cHB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oK7xj96cHB",
+							"expanded_url": "http://www.creators.com/opinion/connie-schultz.html",
+							"display_url": "creators.com/opinion/connie…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57636,
+			"friends_count": 7455,
+			"listed_count": 917,
+			"created_at": "Thu Feb 12 20:45:46 +0000 2009",
+			"favourites_count": 6473,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10249,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/984082792358133766/E6ie5YY1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/984082792358133766/E6ie5YY1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20715936/1486775671",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0eb9676d24b211f1",
+			"url": "https://api.twitter.com/1.1/geo/id/0eb9676d24b211f1.json",
+			"place_type": "city",
+			"name": "Cleveland",
+			"full_name": "Cleveland, OH",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-81.877771,
+							41.392684
+						],
+						[
+							-81.5331634,
+							41.392684
+						],
+						[
+							-81.5331634,
+							41.599195
+						],
+						[
+							-81.877771,
+							41.599195
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 711,
+		"favorite_count": 3595,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Well, here I am. https://t.co/WUXLSVXCZr via @politicomag"
+	},
+	{
+		"created_at": "Thu Dec 20 21:06:54 +0000 2018",
+		"id": 1075860113125244900,
+		"id_str": "1075860113125244928",
+		"full_text": "Hi so this is how we’re still teaching about sexual assault in high schools https://t.co/4AfD1XTWOS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1075860104912658400,
+					"id_str": "1075860104912658432",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/Du45ELVVYAAHVpp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du45ELVVYAAHVpp.jpg",
+					"url": "https://t.co/4AfD1XTWOS",
+					"display_url": "pic.twitter.com/4AfD1XTWOS",
+					"expanded_url": "https://twitter.com/joshraclaw/status/1075860113125244928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 476,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 476,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 476,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1075860104912658400,
+					"id_str": "1075860104912658432",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/Du45ELVVYAAHVpp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du45ELVVYAAHVpp.jpg",
+					"url": "https://t.co/4AfD1XTWOS",
+					"display_url": "pic.twitter.com/4AfD1XTWOS",
+					"expanded_url": "https://twitter.com/joshraclaw/status/1075860113125244928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 476,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 476,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 476,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3116850868,
+			"id_str": "3116850868",
+			"name": "Joshua Rac-fa-la-la-la-law ❄️",
+			"screen_name": "joshraclaw",
+			"location": "Philadelphia, PA",
+			"description": "Linguist and conversation analyst at West Chester University. Tweets on language, gesture, gender, bias, higher ed, and things in between. he/him. [ˈɹæklɔ].",
+			"url": "https://t.co/jEIVzIicNR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jEIVzIicNR",
+							"expanded_url": "http://www.joshuaraclaw.com/",
+							"display_url": "joshuaraclaw.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2074,
+			"friends_count": 824,
+			"listed_count": 38,
+			"created_at": "Thu Mar 26 02:21:12 +0000 2015",
+			"favourites_count": 72873,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12803,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/741814115220348928/N6GSbLRQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/741814115220348928/N6GSbLRQ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 121,
+		"favorite_count": 237,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hi so this is how we’re still teaching about sexual assault in high schools https://t.co/4AfD1XTWOS"
+	},
+	{
+		"created_at": "Fri Dec 21 14:25:57 +0000 2018",
+		"id": 1076121600620142600,
+		"id_str": "1076121600620142592",
+		"full_text": "Huh, not our experience. Our kids were obsessed for a 6 week period last May and June and then it went away. Their obsession with Silly Bandz lasted longer. https://t.co/vAfzJdsedY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vAfzJdsedY",
+					"expanded_url": "https://twitter.com/mims/status/1076105712953102336",
+					"display_url": "twitter.com/mims/status/10…",
+					"indices": [
+						157,
+						180
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8807,
+			"friends_count": 1153,
+			"listed_count": 516,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1201,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41520,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1076105712953102300,
+		"quoted_status_id_str": "1076105712953102336",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vAfzJdsedY",
+			"expanded": "https://twitter.com/mims/status/1076105712953102336",
+			"display": "twitter.com/mims/status/10…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 21 13:22:49 +0000 2018",
+			"id": 1076105712953102300,
+			"id_str": "1076105712953102336",
+			"full_text": "How Fortnite Triggered an Unwinnable War Between Parents and Their Boys \n\nhttps://t.co/7djxi5CsUr https://t.co/bGLfPazunR",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				97
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7djxi5CsUr",
+						"expanded_url": "https://www.wsj.com/articles/how-fortnite-triggered-an-unwinnable-war-between-parents-and-their-boys-11545397200",
+						"display_url": "wsj.com/articles/how-f…",
+						"indices": [
+							74,
+							97
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1076105687606923300,
+						"id_str": "1076105687606923265",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/Du8Ya-KWkAEAY5W.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Du8Ya-KWkAEAY5W.jpg",
+						"url": "https://t.co/bGLfPazunR",
+						"display_url": "pic.twitter.com/bGLfPazunR",
+						"expanded_url": "https://twitter.com/mims/status/1076105712953102336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 868,
+								"h": 661,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 868,
+								"h": 661,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 518,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1076105687606923300,
+						"id_str": "1076105687606923265",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/Du8Ya-KWkAEAY5W.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Du8Ya-KWkAEAY5W.jpg",
+						"url": "https://t.co/bGLfPazunR",
+						"display_url": "pic.twitter.com/bGLfPazunR",
+						"expanded_url": "https://twitter.com/mims/status/1076105712953102336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 868,
+								"h": 661,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 868,
+								"h": 661,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 518,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1769191,
+				"id_str": "1769191",
+				"name": "Christopher Mims 🎆",
+				"screen_name": "mims",
+				"location": "Baltimore, MD",
+				"description": "Tech columnist at @WSJ. We'll make it, but it's going to be close.",
+				"url": "https://t.co/oqoRRScUpn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oqoRRScUpn",
+								"expanded_url": "http://www.wsj.com/news/author/8003",
+								"display_url": "wsj.com/news/author/80…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 83100,
+				"friends_count": 6081,
+				"listed_count": 4020,
+				"created_at": "Wed Mar 21 17:01:19 +0000 2007",
+				"favourites_count": 160534,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 17392,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1055801570913337344/JWVV2JJB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1055801570913337344/JWVV2JJB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1769191/1544269193",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21,
+			"favorite_count": 36,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Huh, not our experience. Our kids were obsessed for a 6 week period last May and June and then it went away. Their obsession with Silly Bandz lasted longer. https://t.co/vAfzJdsedY"
+	},
+	{
 		"created_at": "Thu Dec 20 15:03:28 +0000 2018",
 		"id": 1075768655349112800,
 		"id_str": "1075768655349112835",
