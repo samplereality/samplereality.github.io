@@ -1,6 +1,300 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sat Oct 06 20:38:57 +0000 2018",
+		"id": 1048673988845752300,
+		"id_str": "1048673988845752320",
+		"full_text": "THE COLLAPSE OF CIVILIZATION HAS WAY MORE SPIDER-MAN MOVIES THAN I HAD ANTICIPATED",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1656244670,
+			"id_str": "1656244670",
+			"name": "NOT A WOLF",
+			"screen_name": "SICKOFWOLVES",
+			"location": "Los Angeles, CA",
+			"description": "COFFEE LOVER. GRAPHIC DESIGNER. DEFINITELY NOT A WOLF PRETENDING TO BE A MAN.\n\nHELP CROWDFUND MY NEW BOOK BELOW",
+			"url": "https://t.co/sgm3P9kb6J",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sgm3P9kb6J",
+							"expanded_url": "https://teespring.com/stores/fine-human-clothing",
+							"display_url": "teespring.com/stores/fine-hu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 158777,
+			"friends_count": 894,
+			"listed_count": 982,
+			"created_at": "Thu Aug 08 21:32:17 +0000 2013",
+			"favourites_count": 2690,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2316,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982347921323524096/FQ9L97By_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982347921323524096/FQ9L97By_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1656244670/1523046107",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3929,
+		"favorite_count": 15032,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "THE COLLAPSE OF CIVILIZATION HAS WAY MORE SPIDER-MAN MOVIES THAN I HAD ANTICIPATED"
+	},
+	{
+		"created_at": "Sun Dec 23 16:50:16 +0000 2018",
+		"id": 1076882694980669400,
+		"id_str": "1076882694980669445",
+		"full_text": "Amazon owns IMBDb, GoodReads, Twitch, Audible, a 10,000 Year Clock made of a mountain, a truck that dispenses raw steak alongside tech stuff, &amp; so SO more\n\nno one has ever cataloged the 180+ parts of Amazon’s empire before, so \n@lmatsakis and i did it https://t.co/44MpDaacK0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lmatsakis",
+					"name": "Louise Matsakis",
+					"id": 1854373320,
+					"id_str": "1854373320",
+					"indices": [
+						232,
+						242
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/44MpDaacK0",
+					"expanded_url": "https://www.wired.com/story/why-hard-escape-amazons-long-reach/",
+					"display_url": "wired.com/story/why-hard…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 57724877,
+			"id_str": "57724877",
+			"name": "paris martineau",
+			"screen_name": "parismartineau",
+			"location": "brooklyn",
+			"description": "staff writer @wired covering platforms, online extremism, & social media manipulation. DMs open. send tips: paris_martineau@wired.com / signal 2677978655",
+			"url": "https://t.co/1yXydAsDvY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1yXydAsDvY",
+							"expanded_url": "https://www.wired.com/author/paris-martineau/",
+							"display_url": "wired.com/author/paris-m…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7785,
+			"friends_count": 1042,
+			"listed_count": 160,
+			"created_at": "Fri Jul 17 18:58:46 +0000 2009",
+			"favourites_count": 8925,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 215,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1007995943944417280/nNpzewP9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1007995943944417280/nNpzewP9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/57724877/1537898854",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3479,
+		"favorite_count": 7078,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Amazon owns IMBDb, GoodReads, Twitch, Audible, a 10,000 Year Clock made of a mountain, a truck that dispenses raw steak alongside tech stuff, &amp; so SO more\n\nno one has ever cataloged the 180+ parts of Amazon’s empire before, so \n@lmatsakis and i did it https://t.co/44MpDaacK0"
+	},
+	{
+		"created_at": "Sun Dec 23 23:51:05 +0000 2018",
+		"id": 1076988596157116400,
+		"id_str": "1076988596157116419",
+		"full_text": "Then there you lie like the one warm spark in the heart of an arctic crystal.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://twitter.com/MobyDickatSea\" rel=\"nofollow\">Moby Dick at Sea</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1482779976,
+			"id_str": "1482779976",
+			"name": "Moby Dick",
+			"screen_name": "MobyDickatSea",
+			"location": "The South Seas",
+			"description": "Moby-Dick, by Herman Melville. Loose fish and fast fish, tweeting on the same line.  A random bot by @samplereality.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44978,
+			"friends_count": 1,
+			"listed_count": 570,
+			"created_at": "Tue Jun 04 17:23:46 +0000 2013",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17620,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3289B5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3755781902/9b47b7e223799bb523c7628e00b411c4_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3755781902/9b47b7e223799bb523c7628e00b411c4_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1482779976/1439810275",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 72,
+		"favorite_count": 201,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Then there you lie like the one warm spark in the heart of an arctic crystal."
+	},
+	{
 		"created_at": "Sun Dec 23 23:51:05 +0000 2018",
 		"id": 1076988596157116400,
 		"id_str": "1076988596157116419",
