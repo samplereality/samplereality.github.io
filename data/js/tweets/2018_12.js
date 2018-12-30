@@ -1,6 +1,500 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sat Dec 29 20:48:00 +0000 2018",
+		"id": 1079116848216657900,
+		"id_str": "1079116848216657921",
+		"full_text": "In 'Two Moji' https://t.co/WU0xZygw5s @samplereality presents tiny linked stories using those little iconic picture things that are now everywhere on the Internet, including on Taper #2 https://t.co/bXsFjJCbEQ https://t.co/9hLBXCG8Fx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "samplereality",
+					"name": "Sample",
+					"id": 8497292,
+					"id_str": "8497292",
+					"indices": [
+						38,
+						52
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WU0xZygw5s",
+					"expanded_url": "http://taper.badquar.to/2/two_moji.html",
+					"display_url": "taper.badquar.to/2/two_moji.html",
+					"indices": [
+						14,
+						37
+					]
+				},
+				{
+					"url": "https://t.co/bXsFjJCbEQ",
+					"expanded_url": "http://taper.badquar.to/2/",
+					"display_url": "taper.badquar.to/2/",
+					"indices": [
+						186,
+						209
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1079051412020125700,
+					"id_str": "1079051412020125697",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/DvmPisvX4AEmNlE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvmPisvX4AEmNlE.jpg",
+					"url": "https://t.co/9hLBXCG8Fx",
+					"display_url": "pic.twitter.com/9hLBXCG8Fx",
+					"expanded_url": "https://twitter.com/nickmofo/status/1079116848216657921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 601,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 601,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 601,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1079051412020125700,
+					"id_str": "1079051412020125697",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/DvmPisvX4AEmNlE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvmPisvX4AEmNlE.jpg",
+					"url": "https://t.co/9hLBXCG8Fx",
+					"display_url": "pic.twitter.com/9hLBXCG8Fx",
+					"expanded_url": "https://twitter.com/nickmofo/status/1079116848216657921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 601,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 601,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 601,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 397429327,
+			"id_str": "397429327",
+			"name": "Nick Montfort",
+			"screen_name": "nickmofo",
+			"location": "New York & Boston",
+			"description": "Poet who computes & collaborates. Runs micropress Bad Quarto, @syncnyc. Books: #!, The Truelist, @cppress; The Future, etc. @mitpress. Teaches @mit_cmsw, @sfpc.",
+			"url": "https://t.co/HMmxdsnjHT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HMmxdsnjHT",
+							"expanded_url": "http://nickm.com",
+							"display_url": "nickm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3330,
+			"friends_count": 329,
+			"listed_count": 147,
+			"created_at": "Mon Oct 24 17:40:47 +0000 2011",
+			"favourites_count": 2368,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5397,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/992135598893826050/i7bPATiH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/992135598893826050/i7bPATiH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/397429327/1417325336",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In 'Two Moji' https://t.co/WU0xZygw5s @samplereality presents tiny linked stories using those little iconic picture things that are now everywhere on the Internet, including on Taper #2 https://t.co/bXsFjJCbEQ https://t.co/9hLBXCG8Fx"
+	},
+	{
+		"created_at": "Sat Dec 29 21:20:08 +0000 2018",
+		"id": 1079124934419464200,
+		"id_str": "1079124934419464194",
+		"full_text": "Words of truth from @audreywatters. So-called technologists suck at predicting the future, because they understand neither the past nor the present. https://t.co/v7TZCXzhQZ https://t.co/8ucopAJze5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "audreywatters",
+					"name": "Audrey Watters",
+					"id": 25388528,
+					"id_str": "25388528",
+					"indices": [
+						20,
+						34
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/v7TZCXzhQZ",
+					"expanded_url": "https://hewn.substack.com/p/hewn-no-298",
+					"display_url": "hewn.substack.com/p/hewn-no-298",
+					"indices": [
+						149,
+						172
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1079124932888588300,
+					"id_str": "1079124932888588288",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/DvnSaLUXcAALtv_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvnSaLUXcAALtv_.jpg",
+					"url": "https://t.co/8ucopAJze5",
+					"display_url": "pic.twitter.com/8ucopAJze5",
+					"expanded_url": "https://twitter.com/samplereality/status/1079124934419464194/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 247,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 247,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 164,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1079124932888588300,
+					"id_str": "1079124932888588288",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/DvnSaLUXcAALtv_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvnSaLUXcAALtv_.jpg",
+					"url": "https://t.co/8ucopAJze5",
+					"display_url": "pic.twitter.com/8ucopAJze5",
+					"expanded_url": "https://twitter.com/samplereality/status/1079124934419464194/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 247,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 247,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 164,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8824,
+			"friends_count": 1153,
+			"listed_count": 517,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1202,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41531,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Words of truth from @audreywatters. So-called technologists suck at predicting the future, because they understand neither the past nor the present. https://t.co/v7TZCXzhQZ https://t.co/8ucopAJze5"
+	},
+	{
+		"created_at": "Fri Dec 28 21:48:56 +0000 2018",
+		"id": 1078769797654081500,
+		"id_str": "1078769797654081536",
+		"full_text": "Half of internet traffic is bots, most Facebook traffic is bots, Instagram is bots, and like, over half of phone calls are bots. Like. We are already living the Robot Apocalypse. We're just in the boring part of it.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 354570003,
+			"id_str": "354570003",
+			"name": "Brandon",
+			"screen_name": "brandonlgtaylor",
+			"location": "",
+			"description": "Idk (@IowaWritersWksp).   Agent: @Mere215.   Words: @lithub, @them, @joylandfiction, etc.   Soon: novel&stories(@riverheadbooks)",
+			"url": "https://t.co/F0lR3al1JM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/F0lR3al1JM",
+							"expanded_url": "http://brandonlgtaylor.com/",
+							"display_url": "brandonlgtaylor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17907,
+			"friends_count": 400,
+			"listed_count": 311,
+			"created_at": "Sat Aug 13 23:15:37 +0000 2011",
+			"favourites_count": 212008,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56260,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1055650058018918401/hgF4e5zg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1055650058018918401/hgF4e5zg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/354570003/1495497890",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2099,
+		"favorite_count": 7008,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Half of internet traffic is bots, most Facebook traffic is bots, Instagram is bots, and like, over half of phone calls are bots. Like. We are already living the Robot Apocalypse. We're just in the boring part of it."
+	},
+	{
 		"created_at": "Sat Dec 29 01:40:53 +0000 2018",
 		"id": 1078828166641262600,
 		"id_str": "1078828166641262594",
