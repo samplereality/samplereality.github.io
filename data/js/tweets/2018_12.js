@@ -1,6 +1,822 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Mon Dec 31 01:44:38 +0000 2018",
+		"id": 1079553885314928600,
+		"id_str": "1079553885314928640",
+		"full_text": "@erinroseglass Once my head is out of holiday mode I need to write up some of my weird tricks!",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "erinroseglass",
+					"name": "erin glass",
+					"id": 468076687,
+					"id_str": "468076687",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": 1079487921067946000,
+		"in_reply_to_status_id_str": "1079487921067945984",
+		"in_reply_to_user_id": 468076687,
+		"in_reply_to_user_id_str": "468076687",
+		"in_reply_to_screen_name": "erinroseglass",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8830,
+			"friends_count": 1152,
+			"listed_count": 515,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1202,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41534,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@erinroseglass Once my head is out of holiday mode I need to write up some of my weird tricks!"
+	},
+	{
+		"created_at": "Sun Dec 30 19:36:20 +0000 2018",
+		"id": 1079461200092647400,
+		"id_str": "1079461200092647425",
+		"full_text": "⁦@stingraerae⁩ This story at the Atlantic reminded me of your thesis! https://t.co/6dtg1TqC3l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stingraerae",
+					"name": "Soph!",
+					"id": 175859204,
+					"id_str": "175859204",
+					"indices": [
+						1,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6dtg1TqC3l",
+					"expanded_url": "https://www.theatlantic.com/politics/archive/2018/12/change-my-view-does-not-allow-rudeness-or-hostility/578566/",
+					"display_url": "theatlantic.com/politics/archi…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8830,
+			"friends_count": 1152,
+			"listed_count": 515,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1202,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41534,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "⁦@stingraerae⁩ This story at the Atlantic reminded me of your thesis! https://t.co/6dtg1TqC3l"
+	},
+	{
+		"created_at": "Sun Dec 30 16:07:51 +0000 2018",
+		"id": 1079408734491889700,
+		"id_str": "1079408734491889664",
+		"full_text": "2018, moving into 2019? Hopefully. https://t.co/6kgbTtShL6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6kgbTtShL6",
+					"expanded_url": "https://twitter.com/MobyDickatSea/status/1079404513595981825",
+					"display_url": "twitter.com/MobyDickatSea/…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8830,
+			"friends_count": 1152,
+			"listed_count": 515,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1202,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41534,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1079404513595981800,
+		"quoted_status_id_str": "1079404513595981825",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6kgbTtShL6",
+			"expanded": "https://twitter.com/MobyDickatSea/status/1079404513595981825",
+			"display": "twitter.com/MobyDickatSea/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Dec 30 15:51:05 +0000 2018",
+			"id": 1079404513595981800,
+			"id_str": "1079404513595981825",
+			"full_text": "they swam out of the white curds of the whale's direful wrath into the serene, exasperating sunlight",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				100
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://twitter.com/MobyDickatSea\" rel=\"nofollow\">Moby Dick at Sea</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1482779976,
+				"id_str": "1482779976",
+				"name": "Moby Dick",
+				"screen_name": "MobyDickatSea",
+				"location": "The South Seas",
+				"description": "Moby-Dick, by Herman Melville. Loose fish and fast fish, tweeting on the same line.  A random bot by @samplereality.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 45115,
+				"friends_count": 1,
+				"listed_count": 575,
+				"created_at": "Tue Jun 04 17:23:46 +0000 2013",
+				"favourites_count": 1,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 17691,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "3289B5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3755781902/9b47b7e223799bb523c7628e00b411c4_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3755781902/9b47b7e223799bb523c7628e00b411c4_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1482779976/1439810275",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21,
+			"favorite_count": 58,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2018, moving into 2019? Hopefully. https://t.co/6kgbTtShL6"
+	},
+	{
+		"created_at": "Sat Dec 29 20:48:00 +0000 2018",
+		"id": 1079116848216657900,
+		"id_str": "1079116848216657921",
+		"full_text": "In 'Two Moji' https://t.co/WU0xZygw5s @samplereality presents tiny linked stories using those little iconic picture things that are now everywhere on the Internet, including on Taper #2 https://t.co/bXsFjJCbEQ https://t.co/9hLBXCG8Fx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "samplereality",
+					"name": "Sample",
+					"id": 8497292,
+					"id_str": "8497292",
+					"indices": [
+						38,
+						52
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WU0xZygw5s",
+					"expanded_url": "http://taper.badquar.to/2/two_moji.html",
+					"display_url": "taper.badquar.to/2/two_moji.html",
+					"indices": [
+						14,
+						37
+					]
+				},
+				{
+					"url": "https://t.co/bXsFjJCbEQ",
+					"expanded_url": "http://taper.badquar.to/2/",
+					"display_url": "taper.badquar.to/2/",
+					"indices": [
+						186,
+						209
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1079051412020125700,
+					"id_str": "1079051412020125697",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/DvmPisvX4AEmNlE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvmPisvX4AEmNlE.jpg",
+					"url": "https://t.co/9hLBXCG8Fx",
+					"display_url": "pic.twitter.com/9hLBXCG8Fx",
+					"expanded_url": "https://twitter.com/nickmofo/status/1079116848216657921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 601,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 601,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 601,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1079051412020125700,
+					"id_str": "1079051412020125697",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/DvmPisvX4AEmNlE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvmPisvX4AEmNlE.jpg",
+					"url": "https://t.co/9hLBXCG8Fx",
+					"display_url": "pic.twitter.com/9hLBXCG8Fx",
+					"expanded_url": "https://twitter.com/nickmofo/status/1079116848216657921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 601,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 601,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 601,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 397429327,
+			"id_str": "397429327",
+			"name": "Nick Montfort",
+			"screen_name": "nickmofo",
+			"location": "New York & Boston",
+			"description": "Poet who computes & collaborates. Runs micropress Bad Quarto, @syncnyc. Books: #!, The Truelist, @cppress; The Future, etc. @mitpress. Teaches @mit_cmsw, @sfpc.",
+			"url": "https://t.co/HMmxdsnjHT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HMmxdsnjHT",
+							"expanded_url": "http://nickm.com",
+							"display_url": "nickm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3331,
+			"friends_count": 329,
+			"listed_count": 146,
+			"created_at": "Mon Oct 24 17:40:47 +0000 2011",
+			"favourites_count": 2369,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5397,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/992135598893826050/i7bPATiH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/992135598893826050/i7bPATiH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/397429327/1417325336",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In 'Two Moji' https://t.co/WU0xZygw5s @samplereality presents tiny linked stories using those little iconic picture things that are now everywhere on the Internet, including on Taper #2 https://t.co/bXsFjJCbEQ https://t.co/9hLBXCG8Fx"
+	},
+	{
+		"created_at": "Sat Dec 29 21:20:08 +0000 2018",
+		"id": 1079124934419464200,
+		"id_str": "1079124934419464194",
+		"full_text": "Words of truth from @audreywatters. So-called technologists suck at predicting the future, because they understand neither the past nor the present. https://t.co/v7TZCXzhQZ https://t.co/8ucopAJze5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "audreywatters",
+					"name": "Audrey Watters",
+					"id": 25388528,
+					"id_str": "25388528",
+					"indices": [
+						20,
+						34
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/v7TZCXzhQZ",
+					"expanded_url": "https://hewn.substack.com/p/hewn-no-298",
+					"display_url": "hewn.substack.com/p/hewn-no-298",
+					"indices": [
+						149,
+						172
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1079124932888588300,
+					"id_str": "1079124932888588288",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/DvnSaLUXcAALtv_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvnSaLUXcAALtv_.jpg",
+					"url": "https://t.co/8ucopAJze5",
+					"display_url": "pic.twitter.com/8ucopAJze5",
+					"expanded_url": "https://twitter.com/samplereality/status/1079124934419464194/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 247,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 247,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 164,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1079124932888588300,
+					"id_str": "1079124932888588288",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/DvnSaLUXcAALtv_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvnSaLUXcAALtv_.jpg",
+					"url": "https://t.co/8ucopAJze5",
+					"display_url": "pic.twitter.com/8ucopAJze5",
+					"expanded_url": "https://twitter.com/samplereality/status/1079124934419464194/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 247,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 247,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 164,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8830,
+			"friends_count": 1152,
+			"listed_count": 515,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1202,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41534,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Words of truth from @audreywatters. So-called technologists suck at predicting the future, because they understand neither the past nor the present. https://t.co/v7TZCXzhQZ https://t.co/8ucopAJze5"
+	},
+	{
 		"created_at": "Sat Dec 29 20:48:00 +0000 2018",
 		"id": 1079116848216657900,
 		"id_str": "1079116848216657921",
