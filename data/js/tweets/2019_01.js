@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 04 16:30:06 +0000 2019",
+		"id": 1081226271676354600,
+		"id_str": "1081226271676354566",
+		"full_text": "https://t.co/7zmeGcn3ik \nhttps://t.co/jZJC7sjHE9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7zmeGcn3ik",
+					"expanded_url": "https://twitter.com/mobydickatsea/status/762141982768652288",
+					"display_url": "twitter.com/mobydickatsea/…",
+					"indices": [
+						0,
+						23
+					]
+				},
+				{
+					"url": "https://t.co/jZJC7sjHE9",
+					"expanded_url": "https://twitter.com/briancroxall/status/1081225779277713408",
+					"display_url": "twitter.com/briancroxall/s…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8837,
+			"friends_count": 1152,
+			"listed_count": 517,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1205,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41538,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1081225779277713400,
+		"quoted_status_id_str": "1081225779277713408",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jZJC7sjHE9",
+			"expanded": "https://twitter.com/briancroxall/status/1081225779277713408",
+			"display": "twitter.com/briancroxall/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 04 16:28:08 +0000 2019",
+			"id": 1081225779277713400,
+			"id_str": "1081225779277713408",
+			"full_text": "Bryant discussing British variants of Moby Dick, which shifted Ishmael’s “Who aint a slave?” to “Who isn’t a slave?”  #s245 #mla19",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				130
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "s245",
+						"indices": [
+							118,
+							123
+						]
+					},
+					{
+						"text": "mla19",
+						"indices": [
+							124,
+							130
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12043242,
+				"id_str": "12043242",
+				"name": "Brian Croxall",
+				"screen_name": "briancroxall",
+				"location": "Provo, UT",
+				"description": "Asst. Prof of Digital Humanities at @BYU. I read 20th-/21st-century American fiction. I'm a @ProfHacker.",
+				"url": "http://t.co/Ias70lcqJw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Ias70lcqJw",
+								"expanded_url": "http://briancroxall.net",
+								"display_url": "briancroxall.net",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8589,
+				"friends_count": 1741,
+				"listed_count": 533,
+				"created_at": "Wed Jan 09 20:39:55 +0000 2008",
+				"favourites_count": 7948,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 62821,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "592323",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/930906490470150144/cfgAsqnO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/930906490470150144/cfgAsqnO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12043242/1372173801",
+				"profile_link_color": "A67051",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "BFAA69",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/7zmeGcn3ik \nhttps://t.co/jZJC7sjHE9"
+	},
+	{
 		"created_at": "Thu Jan 03 20:12:53 +0000 2019",
 		"id": 1080919951790272500,
 		"id_str": "1080919951790272518",
