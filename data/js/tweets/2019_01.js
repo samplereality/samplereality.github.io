@@ -222,6 +222,275 @@ Grailbird.data.tweets_2019_01 =
 				}
 			},
 			"protected": false,
+			"followers_count": 2847,
+			"friends_count": 2211,
+			"listed_count": 116,
+			"created_at": "Sun Apr 27 02:58:47 +0000 2008",
+			"favourites_count": 2650,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25819,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/946813071829487616/cVxSooxa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/946813071829487616/cVxSooxa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14554601/1534167656",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Republicans: “Steve King got worse recently”\n\nPre-2017 Steve King: “Hold my beer” https://t.co/0L5II6JULr"
+	},
+	{
+		"created_at": "Tue Jan 15 02:22:50 +0000 2019",
+		"id": 1084999320099799000,
+		"id_str": "1084999320099799040",
+		"full_text": "Republicans: “Steve King got worse recently”\n\nPre-2017 Steve King: “Hold my beer” https://t.co/0L5II6JULr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1084999315439972400,
+					"id_str": "1084999315439972352",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw6xIPpXcAAqs6_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw6xIPpXcAAqs6_.jpg",
+					"url": "https://t.co/0L5II6JULr",
+					"display_url": "pic.twitter.com/0L5II6JULr",
+					"expanded_url": "https://twitter.com/choosesam/status/1084999320099799040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 642,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 708,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 708,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1084999315439972400,
+					"id_str": "1084999315439972352",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw6xIPpXcAAqs6_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw6xIPpXcAAqs6_.jpg",
+					"url": "https://t.co/0L5II6JULr",
+					"display_url": "pic.twitter.com/0L5II6JULr",
+					"expanded_url": "https://twitter.com/choosesam/status/1084999320099799040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 642,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 708,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 708,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1084999315444166700,
+					"id_str": "1084999315444166656",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw6xIPqXcAAw7xo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw6xIPqXcAAw7xo.jpg",
+					"url": "https://t.co/0L5II6JULr",
+					"display_url": "pic.twitter.com/0L5II6JULr",
+					"expanded_url": "https://twitter.com/choosesam/status/1084999320099799040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 728,
+							"h": 357,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 728,
+							"h": 357,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 333,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1084999315452579800,
+					"id_str": "1084999315452579841",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw6xIPsX0AEsld0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw6xIPsX0AEsld0.jpg",
+					"url": "https://t.co/0L5II6JULr",
+					"display_url": "pic.twitter.com/0L5II6JULr",
+					"expanded_url": "https://twitter.com/choosesam/status/1084999320099799040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 727,
+							"h": 333,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 727,
+							"h": 333,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 311,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1084999315431542800,
+					"id_str": "1084999315431542785",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw6xIPnW0AEiadS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw6xIPnW0AEiadS.jpg",
+					"url": "https://t.co/0L5II6JULr",
+					"display_url": "pic.twitter.com/0L5II6JULr",
+					"expanded_url": "https://twitter.com/choosesam/status/1084999320099799040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 1140,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 447,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1140,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14554601,
+			"id_str": "14554601",
+			"name": "Sam Spencer",
+			"screen_name": "choosesam",
+			"location": "North Carolina",
+			"description": "Fan of @Cardinals, @Hornets, Coffee, and @BekahJaneW. Electoral College & @DavidsonCollege alum. Born in St. Louis, raised in Charlotte, connecting in Atlanta.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 2848,
 			"friends_count": 2209,
 			"listed_count": 116,
