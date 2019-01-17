@@ -1,6 +1,587 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 17 05:06:16 +0000 2019",
+		"id": 1085765223120818200,
+		"id_str": "1085765223120818176",
+		"full_text": "Using a hole punch to make a single-sided floppy disk doubled-sided. https://t.co/RkBgyNidgU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RkBgyNidgU",
+					"expanded_url": "https://twitter.com/AaronMSanchez/status/1085061827980079104",
+					"display_url": "twitter.com/AaronMSanchez/…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8860,
+			"friends_count": 1152,
+			"listed_count": 517,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1206,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41550,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1085061827980079100,
+		"quoted_status_id_str": "1085061827980079104",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RkBgyNidgU",
+			"expanded": "https://twitter.com/AaronMSanchez/status/1085061827980079104",
+			"display": "twitter.com/AaronMSanchez/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 15 06:31:13 +0000 2019",
+			"id": 1085061827980079100,
+			"id_str": "1085061827980079104",
+			"full_text": "Without saying how old you are, name one thing from your childhood someone younger wouldn’t understand.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				103
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16547087,
+				"id_str": "16547087",
+				"name": "Aaron M. Sanchez",
+				"screen_name": "AaronMSanchez",
+				"location": "Los Angeles, CA",
+				"description": "ABC News Radio KMET1490AM #Radio #Television #Personality #Host #Entrepreneur https://t.co/1Wpj5mP8Ua",
+				"url": "http://t.co/8lGiLHX3XQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/8lGiLHX3XQ",
+								"expanded_url": "http://www.facebook.com/aaron.m.sanchez",
+								"display_url": "facebook.com/aaron.m.sanchez",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/1Wpj5mP8Ua",
+								"expanded_url": "http://www.imdb.com/name/nm3497578/",
+								"display_url": "imdb.com/name/nm3497578/",
+								"indices": [
+									78,
+									101
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 149466,
+				"friends_count": 92087,
+				"listed_count": 1042,
+				"created_at": "Wed Oct 01 17:39:55 +0000 2008",
+				"favourites_count": 21115,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 63759,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/549223609454305280/F8F3bVE5_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/549223609454305280/F8F3bVE5_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16547087/1432783271",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1788,
+			"favorite_count": 8257,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Using a hole punch to make a single-sided floppy disk doubled-sided. https://t.co/RkBgyNidgU"
+	},
+	{
+		"created_at": "Wed Jan 16 19:20:54 +0000 2019",
+		"id": 1085617912830931000,
+		"id_str": "1085617912830930945",
+		"full_text": "please remove me from this group text",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8860,
+			"friends_count": 1152,
+			"listed_count": 517,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1206,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41550,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "please remove me from this group text"
+	},
+	{
+		"created_at": "Tue Jan 15 02:22:50 +0000 2019",
+		"id": 1084999320099799000,
+		"id_str": "1084999320099799040",
+		"full_text": "Republicans: “Steve King got worse recently”\n\nPre-2017 Steve King: “Hold my beer” https://t.co/0L5II6JULr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1084999315439972400,
+					"id_str": "1084999315439972352",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw6xIPpXcAAqs6_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw6xIPpXcAAqs6_.jpg",
+					"url": "https://t.co/0L5II6JULr",
+					"display_url": "pic.twitter.com/0L5II6JULr",
+					"expanded_url": "https://twitter.com/choosesam/status/1084999320099799040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 642,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 708,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 708,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1084999315439972400,
+					"id_str": "1084999315439972352",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw6xIPpXcAAqs6_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw6xIPpXcAAqs6_.jpg",
+					"url": "https://t.co/0L5II6JULr",
+					"display_url": "pic.twitter.com/0L5II6JULr",
+					"expanded_url": "https://twitter.com/choosesam/status/1084999320099799040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 642,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 708,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 708,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1084999315444166700,
+					"id_str": "1084999315444166656",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw6xIPqXcAAw7xo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw6xIPqXcAAw7xo.jpg",
+					"url": "https://t.co/0L5II6JULr",
+					"display_url": "pic.twitter.com/0L5II6JULr",
+					"expanded_url": "https://twitter.com/choosesam/status/1084999320099799040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 728,
+							"h": 357,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 728,
+							"h": 357,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 333,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1084999315452579800,
+					"id_str": "1084999315452579841",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw6xIPsX0AEsld0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw6xIPsX0AEsld0.jpg",
+					"url": "https://t.co/0L5II6JULr",
+					"display_url": "pic.twitter.com/0L5II6JULr",
+					"expanded_url": "https://twitter.com/choosesam/status/1084999320099799040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 727,
+							"h": 333,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 727,
+							"h": 333,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 311,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1084999315431542800,
+					"id_str": "1084999315431542785",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw6xIPnW0AEiadS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw6xIPnW0AEiadS.jpg",
+					"url": "https://t.co/0L5II6JULr",
+					"display_url": "pic.twitter.com/0L5II6JULr",
+					"expanded_url": "https://twitter.com/choosesam/status/1084999320099799040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 1140,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 447,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1140,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14554601,
+			"id_str": "14554601",
+			"name": "Sam Spencer",
+			"screen_name": "choosesam",
+			"location": "North Carolina",
+			"description": "Fan of @Cardinals, @Hornets, Coffee, and @BekahJaneW. Electoral College & @DavidsonCollege alum. Born in St. Louis, raised in Charlotte, connecting in Atlanta.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2847,
+			"friends_count": 2212,
+			"listed_count": 116,
+			"created_at": "Sun Apr 27 02:58:47 +0000 2008",
+			"favourites_count": 2650,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25820,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/946813071829487616/cVxSooxa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/946813071829487616/cVxSooxa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14554601/1534167656",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Republicans: “Steve King got worse recently”\n\nPre-2017 Steve King: “Hold my beer” https://t.co/0L5II6JULr"
+	},
+	{
 		"created_at": "Tue Jan 15 02:22:50 +0000 2019",
 		"id": 1084999320099799000,
 		"id_str": "1084999320099799040",
