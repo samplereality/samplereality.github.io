@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sun Jan 20 16:18:37 +0000 2019",
+		"id": 1087021589147848700,
+		"id_str": "1087021589147848704",
+		"full_text": "Threads about coyotes on NextDoor are peak NextDoor https://t.co/f7S0HUQK8f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1087021578511138800,
+					"id_str": "1087021578511138817",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/DxXgXcpXQAEh2AB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxXgXcpXQAEh2AB.jpg",
+					"url": "https://t.co/f7S0HUQK8f",
+					"display_url": "pic.twitter.com/f7S0HUQK8f",
+					"expanded_url": "https://twitter.com/samplereality/status/1087021589147848704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 612,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 633,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 347,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1087021578511138800,
+					"id_str": "1087021578511138817",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/DxXgXcpXQAEh2AB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxXgXcpXQAEh2AB.jpg",
+					"url": "https://t.co/f7S0HUQK8f",
+					"display_url": "pic.twitter.com/f7S0HUQK8f",
+					"expanded_url": "https://twitter.com/samplereality/status/1087021589147848704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 612,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 633,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 347,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8875,
+			"friends_count": 1152,
+			"listed_count": 520,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1206,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41554,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Threads about coyotes on NextDoor are peak NextDoor https://t.co/f7S0HUQK8f"
+	},
+	{
 		"created_at": "Sat Jan 19 15:54:38 +0000 2019",
 		"id": 1086653167327158300,
 		"id_str": "1086653167327158274",
