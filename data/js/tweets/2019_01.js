@@ -1,6 +1,764 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 24 04:24:22 +0000 2019",
+		"id": 1088291395956342800,
+		"id_str": "1088291395956342784",
+		"full_text": "Biased algorithms are such a fundamental fact of contemporary culture that we also teach this in DIG 210,  DIG 215, DIG 220, DIG 270, DIG 340, and DIG 401.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+		"in_reply_to_status_id": 1088290683088265200,
+		"in_reply_to_status_id_str": "1088290683088265219",
+		"in_reply_to_user_id": 8497292,
+		"in_reply_to_user_id_str": "8497292",
+		"in_reply_to_screen_name": "samplereality",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8876,
+			"friends_count": 1151,
+			"listed_count": 520,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1208,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41559,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Biased algorithms are such a fundamental fact of contemporary culture that we also teach this in DIG 210,  DIG 215, DIG 220, DIG 270, DIG 340, and DIG 401."
+	},
+	{
+		"created_at": "Thu Jan 24 04:21:32 +0000 2019",
+		"id": 1088290683088265200,
+		"id_str": "1088290683088265219",
+		"full_text": "This is not a claim. It’s demonstrably true. And it’s literally something my students learn in Digital Studies 101. https://t.co/tFJGDjLnSc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tFJGDjLnSc",
+					"expanded_url": "https://twitter.com/RealSaavedra/status/1087627739861897216",
+					"display_url": "twitter.com/RealSaavedra/s…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8876,
+			"friends_count": 1151,
+			"listed_count": 520,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1208,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41559,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1087627739861897200,
+		"quoted_status_id_str": "1087627739861897216",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tFJGDjLnSc",
+			"expanded": "https://twitter.com/RealSaavedra/status/1087627739861897216",
+			"display": "twitter.com/RealSaavedra/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 22 08:27:14 +0000 2019",
+			"id": 1087627739861897200,
+			"id_str": "1087627739861897216",
+			"full_text": "Socialist Rep. Alexandria Ocasio-Cortez (D-NY) claims that algorithms, which are driven by math, are racist https://t.co/X2veVvAU1H",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				107
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1087627573704634400,
+						"id_str": "1087627573704634368",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1087627573704634368/pu/img/LNPZ2hWX0jSP3D0H.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1087627573704634368/pu/img/LNPZ2hWX0jSP3D0H.jpg",
+						"url": "https://t.co/X2veVvAU1H",
+						"display_url": "pic.twitter.com/X2veVvAU1H",
+						"expanded_url": "https://twitter.com/RealSaavedra/status/1087627739861897216/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1087627573704634400,
+						"id_str": "1087627573704634368",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1087627573704634368/pu/img/LNPZ2hWX0jSP3D0H.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1087627573704634368/pu/img/LNPZ2hWX0jSP3D0H.jpg",
+						"url": "https://t.co/X2veVvAU1H",
+						"display_url": "pic.twitter.com/X2veVvAU1H",
+						"expanded_url": "https://twitter.com/RealSaavedra/status/1087627739861897216/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 35167,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1087627573704634368/pu/vid/1280x720/sWr06YB-n5QAGlWO.mp4?tag=6"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1087627573704634368/pu/pl/TSwt1bjrA5UfoStG.m3u8?tag=6"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1087627573704634368/pu/vid/640x360/0F6K-6rSnTqHRDOl.mp4?tag=6"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1087627573704634368/pu/vid/320x180/zY1uNxTppoPzoO-8.mp4?tag=6"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 812135885328236500,
+				"id_str": "812135885328236551",
+				"name": "Ryan Saavedra",
+				"screen_name": "RealSaavedra",
+				"location": "USA",
+				"description": "Reporter at @realDailyWire. Retweets ≠ endorsement. rsaavedra@dailywire.com",
+				"url": "https://t.co/OeFiLruANp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OeFiLruANp",
+								"expanded_url": "http://www.dailywire.com/authors/ryan-saavedra",
+								"display_url": "dailywire.com/authors/ryan-s…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 162765,
+				"friends_count": 247,
+				"listed_count": 1291,
+				"created_at": "Fri Dec 23 03:20:58 +0000 2016",
+				"favourites_count": 5710,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 27316,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1073821172905603072/0KzMnw9m_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1073821172905603072/0KzMnw9m_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/812135885328236551/1516447063",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2227,
+			"favorite_count": 7760,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 15,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is not a claim. It’s demonstrably true. And it’s literally something my students learn in Digital Studies 101. https://t.co/tFJGDjLnSc"
+	},
+	{
+		"created_at": "Thu Jan 24 03:58:36 +0000 2019",
+		"id": 1088284908403990500,
+		"id_str": "1088284908403990529",
+		"full_text": "🙋‍♀️Hi, @RealSaavedra.  PhD Computer scientist, professor, artificial intelligence expert, builder of algorithms here. \n\nShe's right. \n\nNeed some recommended reading? https://t.co/A7QnPFeSVL\nMaybe start with a TED talk instead? https://t.co/0ogt0SRWtp https://t.co/utNHzIpNqS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RealSaavedra",
+					"name": "Ryan Saavedra",
+					"id": 812135885328236500,
+					"id_str": "812135885328236551",
+					"indices": [
+						8,
+						21
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/A7QnPFeSVL",
+					"expanded_url": "https://www.amazon.com/exec/obidos/ASIN/B01JPAE44S/j16t3i5j15-20",
+					"display_url": "amazon.com/exec/obidos/AS…",
+					"indices": [
+						167,
+						190
+					]
+				},
+				{
+					"url": "https://t.co/0ogt0SRWtp",
+					"expanded_url": "https://www.ted.com/talks/cathy_o_neil_the_era_of_blind_faith_in_big_data_must_end",
+					"display_url": "ted.com/talks/cathy_o_…",
+					"indices": [
+						228,
+						251
+					]
+				},
+				{
+					"url": "https://t.co/utNHzIpNqS",
+					"expanded_url": "https://twitter.com/RealSaavedra/status/1087627739861897216",
+					"display_url": "twitter.com/RealSaavedra/s…",
+					"indices": [
+						252,
+						275
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 117539435,
+			"id_str": "117539435",
+			"name": "Dr. Jen Golbeck",
+			"screen_name": "jengolbeck",
+			"location": "College Park, MD",
+			"description": "Prof @ UMD, Computer Scientist. Social media, research, science, truth, justice, the American way. I also run @theGoldenRatio4",
+			"url": "https://t.co/yHChUtfoXs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yHChUtfoXs",
+							"expanded_url": "http://jengolbeck.com/",
+							"display_url": "jengolbeck.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13293,
+			"friends_count": 369,
+			"listed_count": 328,
+			"created_at": "Thu Feb 25 21:41:03 +0000 2010",
+			"favourites_count": 10082,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4658,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/825496895002800128/rcOg5vfg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/825496895002800128/rcOg5vfg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/117539435/1397263367",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1087627739861897200,
+		"quoted_status_id_str": "1087627739861897216",
+		"quoted_status_permalink": {
+			"url": "https://t.co/utNHzIpNqS",
+			"expanded": "https://twitter.com/RealSaavedra/status/1087627739861897216",
+			"display": "twitter.com/RealSaavedra/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 22 08:27:14 +0000 2019",
+			"id": 1087627739861897200,
+			"id_str": "1087627739861897216",
+			"full_text": "Socialist Rep. Alexandria Ocasio-Cortez (D-NY) claims that algorithms, which are driven by math, are racist https://t.co/X2veVvAU1H",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				107
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1087627573704634400,
+						"id_str": "1087627573704634368",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1087627573704634368/pu/img/LNPZ2hWX0jSP3D0H.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1087627573704634368/pu/img/LNPZ2hWX0jSP3D0H.jpg",
+						"url": "https://t.co/X2veVvAU1H",
+						"display_url": "pic.twitter.com/X2veVvAU1H",
+						"expanded_url": "https://twitter.com/RealSaavedra/status/1087627739861897216/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1087627573704634400,
+						"id_str": "1087627573704634368",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1087627573704634368/pu/img/LNPZ2hWX0jSP3D0H.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1087627573704634368/pu/img/LNPZ2hWX0jSP3D0H.jpg",
+						"url": "https://t.co/X2veVvAU1H",
+						"display_url": "pic.twitter.com/X2veVvAU1H",
+						"expanded_url": "https://twitter.com/RealSaavedra/status/1087627739861897216/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 35167,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1087627573704634368/pu/vid/1280x720/sWr06YB-n5QAGlWO.mp4?tag=6"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1087627573704634368/pu/pl/TSwt1bjrA5UfoStG.m3u8?tag=6"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1087627573704634368/pu/vid/640x360/0F6K-6rSnTqHRDOl.mp4?tag=6"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1087627573704634368/pu/vid/320x180/zY1uNxTppoPzoO-8.mp4?tag=6"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 812135885328236500,
+				"id_str": "812135885328236551",
+				"name": "Ryan Saavedra",
+				"screen_name": "RealSaavedra",
+				"location": "USA",
+				"description": "Reporter at @realDailyWire. Retweets ≠ endorsement. rsaavedra@dailywire.com",
+				"url": "https://t.co/OeFiLruANp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OeFiLruANp",
+								"expanded_url": "http://www.dailywire.com/authors/ryan-saavedra",
+								"display_url": "dailywire.com/authors/ryan-s…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 162765,
+				"friends_count": 247,
+				"listed_count": 1291,
+				"created_at": "Fri Dec 23 03:20:58 +0000 2016",
+				"favourites_count": 5710,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 27316,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1073821172905603072/0KzMnw9m_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1073821172905603072/0KzMnw9m_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/812135885328236551/1516447063",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2227,
+			"favorite_count": 7760,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 40,
+		"favorite_count": 144,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🙋‍♀️Hi, @RealSaavedra.  PhD Computer scientist, professor, artificial intelligence expert, builder of algorithms here. \n\nShe's right. \n\nNeed some recommended reading? https://t.co/A7QnPFeSVL\nMaybe start with a TED talk instead? https://t.co/0ogt0SRWtp https://t.co/utNHzIpNqS"
+	},
+	{
 		"created_at": "Tue Jan 22 13:22:59 +0000 2019",
 		"id": 1087702163835490300,
 		"id_str": "1087702163835490308",
