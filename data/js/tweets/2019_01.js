@@ -1,6 +1,803 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 25 03:52:03 +0000 2019",
+		"id": 1088645650340896800,
+		"id_str": "1088645650340896768",
+		"full_text": "same https://t.co/1QKjkvWJzY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1QKjkvWJzY",
+					"expanded_url": "https://twitter.com/MobyDickatSea/status/1088645404114251776",
+					"display_url": "twitter.com/MobyDickatSea/…",
+					"indices": [
+						5,
+						28
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8885,
+			"friends_count": 1151,
+			"listed_count": 520,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1208,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41562,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1088645404114251800,
+		"quoted_status_id_str": "1088645404114251776",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1QKjkvWJzY",
+			"expanded": "https://twitter.com/MobyDickatSea/status/1088645404114251776",
+			"display": "twitter.com/MobyDickatSea/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 25 03:51:05 +0000 2019",
+			"id": 1088645404114251800,
+			"id_str": "1088645404114251776",
+			"full_text": "the chambers of my soul are all in crookedness!",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				47
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://twitter.com/MobyDickatSea\" rel=\"nofollow\">Moby Dick at Sea</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1482779976,
+				"id_str": "1482779976",
+				"name": "Moby Dick",
+				"screen_name": "MobyDickatSea",
+				"location": "The South Seas",
+				"description": "Moby-Dick, by Herman Melville. Loose fish and fast fish, tweeting on the same line.  A random bot by @samplereality.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 46159,
+				"friends_count": 1,
+				"listed_count": 570,
+				"created_at": "Tue Jun 04 17:23:46 +0000 2013",
+				"favourites_count": 1,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 17991,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "3289B5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3755781902/9b47b7e223799bb523c7628e00b411c4_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3755781902/9b47b7e223799bb523c7628e00b411c4_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1482779976/1439810275",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 50,
+			"favorite_count": 160,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "same https://t.co/1QKjkvWJzY"
+	},
+	{
+		"created_at": "Fri Jan 25 02:18:42 +0000 2019",
+		"id": 1088622158996213800,
+		"id_str": "1088622158996213760",
+		"full_text": "This is the M.C. Escher of clip art. \nhttps://t.co/Cd4whucaxz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Cd4whucaxz",
+					"expanded_url": "https://twitter.com/Clipart1994bot/status/1088484348712677376",
+					"display_url": "twitter.com/Clipart1994bot…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8885,
+			"friends_count": 1151,
+			"listed_count": 520,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1208,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41562,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1088484348712677400,
+		"quoted_status_id_str": "1088484348712677376",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Cd4whucaxz",
+			"expanded": "https://twitter.com/Clipart1994bot/status/1088484348712677376",
+			"display": "twitter.com/Clipart1994bot…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 24 17:11:06 +0000 2019",
+			"id": 1088484348712677400,
+			"id_str": "1088484348712677376",
+			"full_text": "PULCR.BMF https://t.co/yhfamSE0XD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				9
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1088484347039096800,
+						"id_str": "1088484347039096839",
+						"indices": [
+							10,
+							33
+						],
+						"media_url": "http://pbs.twimg.com/media/DxsSvyDWoAcVBQS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DxsSvyDWoAcVBQS.jpg",
+						"url": "https://t.co/yhfamSE0XD",
+						"display_url": "pic.twitter.com/yhfamSE0XD",
+						"expanded_url": "https://twitter.com/Clipart1994bot/status/1088484348712677376/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 551,
+								"h": 419,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 551,
+								"h": 419,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 551,
+								"h": 419,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1088484347039096800,
+						"id_str": "1088484347039096839",
+						"indices": [
+							10,
+							33
+						],
+						"media_url": "http://pbs.twimg.com/media/DxsSvyDWoAcVBQS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DxsSvyDWoAcVBQS.jpg",
+						"url": "https://t.co/yhfamSE0XD",
+						"display_url": "pic.twitter.com/yhfamSE0XD",
+						"expanded_url": "https://twitter.com/Clipart1994bot/status/1088484348712677376/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 551,
+								"h": 419,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 551,
+								"h": 419,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 551,
+								"h": 419,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.samplereality.com\" rel=\"nofollow\">1994 Clipart Bot</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 895426242345873400,
+				"id_str": "895426242345873408",
+				"name": "Corel Gallery 1994",
+				"screen_name": "Clipart1994bot",
+				"location": "On a CD-ROM",
+				"description": "Power up your Windows 95 and enjoy these 10,000 clipart images from 1994! Content warning: may contain offensive stereotypes. A bot by @samplereality.",
+				"url": "https://t.co/jzW78xvpbC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jzW78xvpbC",
+								"expanded_url": "http://www.samplereality.com",
+								"display_url": "samplereality.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10671,
+				"friends_count": 0,
+				"listed_count": 138,
+				"created_at": "Wed Aug 09 23:27:07 +0000 2017",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11593,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/895428157284786177/_GyD72-__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/895428157284786177/_GyD72-__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/895426242345873408/1502333534",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is the M.C. Escher of clip art. \nhttps://t.co/Cd4whucaxz"
+	},
+	{
+		"created_at": "Wed Jan 23 17:31:56 +0000 2019",
+		"id": 1088127203420692500,
+		"id_str": "1088127203420692480",
+		"full_text": "Ryan, I'd be happy to explain why this underlying idea, even though it seems counterintuitive, is correct. Also I'm psyched to see there are *lots* of other people on Twitter that already understand this to be true. https://t.co/UKV6aoB3JA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UKV6aoB3JA",
+					"expanded_url": "https://twitter.com/RealSaavedra/status/1087627739861897216",
+					"display_url": "twitter.com/RealSaavedra/s…",
+					"indices": [
+						216,
+						239
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 365145609,
+			"id_str": "365145609",
+			"name": "Cathy O'Neil",
+			"screen_name": "mathbabedotorg",
+			"location": "New York",
+			"description": "I'm interested in algorithmic accountability, civil disagreement, and the social mechanism of shame.",
+			"url": "https://t.co/tb49ourX4t",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tb49ourX4t",
+							"expanded_url": "http://mathbabe.org",
+							"display_url": "mathbabe.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32072,
+			"friends_count": 1202,
+			"listed_count": 1161,
+			"created_at": "Tue Aug 30 23:02:08 +0000 2011",
+			"favourites_count": 9735,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8731,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/699918785772285952/3prh47FM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/699918785772285952/3prh47FM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/365145609/1415649207",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1087627739861897200,
+		"quoted_status_id_str": "1087627739861897216",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UKV6aoB3JA",
+			"expanded": "https://twitter.com/RealSaavedra/status/1087627739861897216",
+			"display": "twitter.com/RealSaavedra/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 22 08:27:14 +0000 2019",
+			"id": 1087627739861897200,
+			"id_str": "1087627739861897216",
+			"full_text": "Socialist Rep. Alexandria Ocasio-Cortez (D-NY) claims that algorithms, which are driven by math, are racist https://t.co/X2veVvAU1H",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				107
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1087627573704634400,
+						"id_str": "1087627573704634368",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1087627573704634368/pu/img/LNPZ2hWX0jSP3D0H.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1087627573704634368/pu/img/LNPZ2hWX0jSP3D0H.jpg",
+						"url": "https://t.co/X2veVvAU1H",
+						"display_url": "pic.twitter.com/X2veVvAU1H",
+						"expanded_url": "https://twitter.com/RealSaavedra/status/1087627739861897216/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1087627573704634400,
+						"id_str": "1087627573704634368",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1087627573704634368/pu/img/LNPZ2hWX0jSP3D0H.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1087627573704634368/pu/img/LNPZ2hWX0jSP3D0H.jpg",
+						"url": "https://t.co/X2veVvAU1H",
+						"display_url": "pic.twitter.com/X2veVvAU1H",
+						"expanded_url": "https://twitter.com/RealSaavedra/status/1087627739861897216/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 35167,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1087627573704634368/pu/vid/1280x720/sWr06YB-n5QAGlWO.mp4?tag=6"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1087627573704634368/pu/pl/TSwt1bjrA5UfoStG.m3u8?tag=6"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1087627573704634368/pu/vid/640x360/0F6K-6rSnTqHRDOl.mp4?tag=6"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1087627573704634368/pu/vid/320x180/zY1uNxTppoPzoO-8.mp4?tag=6"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 812135885328236500,
+				"id_str": "812135885328236551",
+				"name": "Ryan Saavedra",
+				"screen_name": "RealSaavedra",
+				"location": "USA",
+				"description": "Reporter at @realDailyWire. Retweets ≠ endorsement. rsaavedra@dailywire.com",
+				"url": "https://t.co/OeFiLruANp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OeFiLruANp",
+								"expanded_url": "http://www.dailywire.com/authors/ryan-saavedra",
+								"display_url": "dailywire.com/authors/ryan-s…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 163408,
+				"friends_count": 247,
+				"listed_count": 1295,
+				"created_at": "Fri Dec 23 03:20:58 +0000 2016",
+				"favourites_count": 5716,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 27353,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1073821172905603072/0KzMnw9m_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1073821172905603072/0KzMnw9m_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/812135885328236551/1516447063",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2532,
+			"favorite_count": 8796,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 341,
+		"favorite_count": 1570,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ryan, I'd be happy to explain why this underlying idea, even though it seems counterintuitive, is correct. Also I'm psyched to see there are *lots* of other people on Twitter that already understand this to be true. https://t.co/UKV6aoB3JA"
+	},
+	{
 		"created_at": "Thu Jan 24 04:24:22 +0000 2019",
 		"id": 1088291395956342800,
 		"id_str": "1088291395956342784",
@@ -416,7 +1213,7 @@ Grailbird.data.tweets_2019_01 =
 		"created_at": "Thu Jan 24 03:58:36 +0000 2019",
 		"id": 1088284908403990500,
 		"id_str": "1088284908403990529",
-		"full_text": "🙋‍♀️Hi, @RealSaavedra.  PhD Computer scientist, professor, artificial intelligence expert, builder of algorithms here. \n\nShe's right. \n\nNeed some recommended reading? https://t.co/A7QnPFeSVL\nMaybe start with a TED talk instead? https://t.co/0ogt0SRWtp https://t.co/utNHzIpNqS",
+		"full_text": "🙋♀️Hi, @RealSaavedra.  PhD Computer scientist, professor, artificial intelligence expert, builder of algorithms here. \n\nShe's right. \n\nNeed some recommended reading? https://t.co/A7QnPFeSVL\nMaybe start with a TED talk instead? https://t.co/0ogt0SRWtp https://t.co/utNHzIpNqS",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -756,7 +1553,7 @@ Grailbird.data.tweets_2019_01 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "🙋‍♀️Hi, @RealSaavedra.  PhD Computer scientist, professor, artificial intelligence expert, builder of algorithms here. \n\nShe's right. \n\nNeed some recommended reading? https://t.co/A7QnPFeSVL\nMaybe start with a TED talk instead? https://t.co/0ogt0SRWtp https://t.co/utNHzIpNqS"
+		"text": "🙋♀️Hi, @RealSaavedra.  PhD Computer scientist, professor, artificial intelligence expert, builder of algorithms here. \n\nShe's right. \n\nNeed some recommended reading? https://t.co/A7QnPFeSVL\nMaybe start with a TED talk instead? https://t.co/0ogt0SRWtp https://t.co/utNHzIpNqS"
 	},
 	{
 		"created_at": "Tue Jan 22 13:22:59 +0000 2019",
