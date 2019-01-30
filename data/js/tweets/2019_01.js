@@ -1,6 +1,797 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 30 00:07:48 +0000 2019",
+		"id": 1090401153437892600,
+		"id_str": "1090401153437892610",
+		"full_text": "Deleting my Facebook account soon. And Instagram too. Looking for an alternative. 500px? VSCO?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8900,
+			"friends_count": 1152,
+			"listed_count": 521,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41586,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Deleting my Facebook account soon. And Instagram too. Looking for an alternative. 500px? VSCO?"
+	},
+	{
+		"created_at": "Tue Jan 29 21:52:31 +0000 2019",
+		"id": 1090367109442560000,
+		"id_str": "1090367109442560000",
+		"full_text": "@MathBrush @mattlaschneider The premise of the assignment was that they had to make a metagame -- a game that somehow commented upon other games. https://t.co/aJXPt1AEwZ",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MathBrush",
+					"name": "𝗕𝗿𝗶𝗮𝗻 𝗥𝘂𝘀𝗵𝘁𝗼𝗻",
+					"id": 953483778323767300,
+					"id_str": "953483778323767296",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "mattlaschneider",
+					"name": "Matt L.A. Schneider",
+					"id": 36128926,
+					"id_str": "36128926",
+					"indices": [
+						11,
+						27
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aJXPt1AEwZ",
+					"expanded_url": "https://courses.digitaldavidson.net/games18/metagame-project/",
+					"display_url": "courses.digitaldavidson.net/games18/metaga…",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": 1090364463880892400,
+		"in_reply_to_status_id_str": "1090364463880892417",
+		"in_reply_to_user_id": 953483778323767300,
+		"in_reply_to_user_id_str": "953483778323767296",
+		"in_reply_to_screen_name": "MathBrush",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8900,
+			"friends_count": 1152,
+			"listed_count": 521,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41586,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@MathBrush @mattlaschneider The premise of the assignment was that they had to make a metagame -- a game that somehow commented upon other games. https://t.co/aJXPt1AEwZ"
+	},
+	{
+		"created_at": "Tue Jan 29 21:38:46 +0000 2019",
+		"id": 1090363648739037200,
+		"id_str": "1090363648739037187",
+		"full_text": "@MathBrush @mattlaschneider Fairly complex for people who've never game-designed before. They had to use variables and I encouraged other game-like elements. Here's an example: https://t.co/ECEwvqrifl",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MathBrush",
+					"name": "𝗕𝗿𝗶𝗮𝗻 𝗥𝘂𝘀𝗵𝘁𝗼𝗻",
+					"id": 953483778323767300,
+					"id_str": "953483778323767296",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "mattlaschneider",
+					"name": "Matt L.A. Schneider",
+					"id": 36128926,
+					"id_str": "36128926",
+					"indices": [
+						11,
+						27
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ECEwvqrifl",
+					"expanded_url": "http://www.philome.la/men_love_advice/princess-violet-and-the-lizard-king/play",
+					"display_url": "philome.la/men_love_advic…",
+					"indices": [
+						177,
+						200
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": 1090360568773394400,
+		"in_reply_to_status_id_str": "1090360568773394432",
+		"in_reply_to_user_id": 953483778323767300,
+		"in_reply_to_user_id_str": "953483778323767296",
+		"in_reply_to_screen_name": "MathBrush",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8900,
+			"friends_count": 1152,
+			"listed_count": 521,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41586,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@MathBrush @mattlaschneider Fairly complex for people who've never game-designed before. They had to use variables and I encouraged other game-like elements. Here's an example: https://t.co/ECEwvqrifl"
+	},
+	{
+		"created_at": "Tue Jan 29 21:24:44 +0000 2019",
+		"id": 1090360116367577100,
+		"id_str": "1090360116367577090",
+		"full_text": "@mattlaschneider @MathBrush I haven't taught Inform 7 in the classroom, only Twine! Though I'm considering Inform for an upcoming class.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mattlaschneider",
+					"name": "Matt L.A. Schneider",
+					"id": 36128926,
+					"id_str": "36128926",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "MathBrush",
+					"name": "𝗕𝗿𝗶𝗮𝗻 𝗥𝘂𝘀𝗵𝘁𝗼𝗻",
+					"id": 953483778323767300,
+					"id_str": "953483778323767296",
+					"indices": [
+						17,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": 1090335679479918600,
+		"in_reply_to_status_id_str": "1090335679479918592",
+		"in_reply_to_user_id": 36128926,
+		"in_reply_to_user_id_str": "36128926",
+		"in_reply_to_screen_name": "mattlaschneider",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8900,
+			"friends_count": 1152,
+			"listed_count": 521,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41586,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mattlaschneider @MathBrush I haven't taught Inform 7 in the classroom, only Twine! Though I'm considering Inform for an upcoming class."
+	},
+	{
+		"created_at": "Tue Jan 29 16:05:56 +0000 2019",
+		"id": 1090279887989080000,
+		"id_str": "1090279887989080067",
+		"full_text": "1. Jack London, “To Build a Fire” (1908)\n\n2. Donald J. Trump, Twitter (2019) https://t.co/yzKsYNMm5c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1090279882142011400,
+					"id_str": "1090279882142011392",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/DyFzxrjUUAAKiQ8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyFzxrjUUAAKiQ8.jpg",
+					"url": "https://t.co/yzKsYNMm5c",
+					"display_url": "pic.twitter.com/yzKsYNMm5c",
+					"expanded_url": "https://twitter.com/mattthomas/status/1090279887989080067/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 665,
+							"h": 377,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 665,
+							"h": 377,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 665,
+							"h": 377,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1090279882142011400,
+					"id_str": "1090279882142011392",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/DyFzxrjUUAAKiQ8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyFzxrjUUAAKiQ8.jpg",
+					"url": "https://t.co/yzKsYNMm5c",
+					"display_url": "pic.twitter.com/yzKsYNMm5c",
+					"expanded_url": "https://twitter.com/mattthomas/status/1090279887989080067/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 665,
+							"h": 377,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 665,
+							"h": 377,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 665,
+							"h": 377,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1090279882154696700,
+					"id_str": "1090279882154696704",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/DyFzxrmV4AASDel.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyFzxrmV4AASDel.jpg",
+					"url": "https://t.co/yzKsYNMm5c",
+					"display_url": "pic.twitter.com/yzKsYNMm5c",
+					"expanded_url": "https://twitter.com/mattthomas/status/1090279887989080067/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 606,
+							"h": 336,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 606,
+							"h": 336,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 606,
+							"h": 336,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9439432,
+			"id_str": "9439432",
+			"name": "Mαtt Thomαs",
+			"screen_name": "mattthomas",
+			"location": "🌎",
+			"description": "Be cool at the equator; keep thy blood fluid at the Pole.",
+			"url": "https://t.co/ZJiT5Wxs2k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZJiT5Wxs2k",
+							"expanded_url": "http://mattthomas.info",
+							"display_url": "mattthomas.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4908,
+			"friends_count": 1366,
+			"listed_count": 288,
+			"created_at": "Sun Oct 14 16:21:01 +0000 2007",
+			"favourites_count": 26548,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 139557,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F7F7F7",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/423514996941651969/SYL4thlm_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/423514996941651969/SYL4thlm_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9439432/1545671744",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "073642",
+			"profile_text_color": "839496",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "1. Jack London, “To Build a Fire” (1908)\n\n2. Donald J. Trump, Twitter (2019) https://t.co/yzKsYNMm5c"
+	},
+	{
+		"created_at": "Tue Jan 29 03:33:45 +0000 2019",
+		"id": 1090090595786182700,
+		"id_str": "1090090595786182656",
+		"full_text": "To friends who haven't seen it already, there is a very bad security bug affecting iPhones and you should disable Facetime on your 📱 &amp; Mac til the next update: https://t.co/cxPbuEJgC1\n\nOn your phone:\n- Open the Settings app\n- Scroll down to FaceTime and tap\n- Toggle off",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cxPbuEJgC1",
+					"expanded_url": "https://9to5mac.com/2019/01/28/facetime-bug-hear-audio/",
+					"display_url": "9to5mac.com/2019/01/28/fac…",
+					"indices": [
+						164,
+						187
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1090082119164977200,
+		"in_reply_to_status_id_str": "1090082119164977153",
+		"in_reply_to_user_id": 6742522,
+		"in_reply_to_user_id_str": "6742522",
+		"in_reply_to_screen_name": "hypatiadotca",
+		"user": {
+			"id": 6742522,
+			"id_str": "6742522",
+			"name": "Leigh Honeywell",
+			"screen_name": "hypatiadotca",
+			"location": "San Francisco, CA",
+			"description": "Founder and CEO of @tallpoppyio. Alumna of @ACLU, @SlackHQ, @msftsecresponse. Canadian in Silly Valley. https://t.co/OCjE7dGBIy",
+			"url": "https://t.co/1ZMgDuI8t9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ZMgDuI8t9",
+							"expanded_url": "http://hypatia.ca/about",
+							"display_url": "hypatia.ca/about",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OCjE7dGBIy",
+							"expanded_url": "http://pronoun.is/she",
+							"display_url": "pronoun.is/she",
+							"indices": [
+								104,
+								127
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 23757,
+			"friends_count": 13462,
+			"listed_count": 1283,
+			"created_at": "Mon Jun 11 14:35:18 +0000 2007",
+			"favourites_count": 3609,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 77162,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085347500796461056/fbmVN3JS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085347500796461056/fbmVN3JS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6742522/1431240728",
+			"profile_link_color": "DE309F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 75,
+		"favorite_count": 46,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "To friends who haven't seen it already, there is a very bad security bug affecting iPhones and you should disable Facetime on your 📱 &amp; Mac til the next update: https://t.co/cxPbuEJgC1\n\nOn your phone:\n- Open the Settings app\n- Scroll down to FaceTime and tap\n- Toggle off"
+	},
+	{
 		"created_at": "Tue Jan 29 03:33:45 +0000 2019",
 		"id": 1090090595786182700,
 		"id_str": "1090090595786182656",
