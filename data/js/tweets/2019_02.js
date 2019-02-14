@@ -1,6 +1,194 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 12 12:40:35 +0000 2019",
+		"id": 1095301641975353300,
+		"id_str": "1095301641975353344",
+		"full_text": "So, if I understand correctly, the two biggest Christian sects in America are now both known to have created massive supply chains for systemic child assault, and nobody is asking every Christian member of Congress to denounce them and sever all ties to these churches? 🤔",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 36823,
+			"id_str": "36823",
+			"name": "Anil Dash 🥭",
+			"screen_name": "anildash",
+			"location": "NYC",
+			"description": "CEO of 🎏@Glitch, where everyone can create & share the coolest apps on the web. Host of @podcastfunction. I 💜 ethical tech, mangoes, funk, transit & justice.",
+			"url": "https://t.co/IYfhqu0kNE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IYfhqu0kNE",
+							"expanded_url": "http://anildash.com/about/",
+							"display_url": "anildash.com/about/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 592230,
+			"friends_count": 591,
+			"listed_count": 9049,
+			"created_at": "Sat Dec 02 09:15:15 +0000 2006",
+			"favourites_count": 614747,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 186998,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1040592282032984071/RC8We7BG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1040592282032984071/RC8We7BG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/36823/1530683410",
+			"profile_link_color": "800080",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4766,
+		"favorite_count": 14057,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "So, if I understand correctly, the two biggest Christian sects in America are now both known to have created massive supply chains for systemic child assault, and nobody is asking every Christian member of Congress to denounce them and sever all ties to these churches? 🤔"
+	},
+	{
+		"created_at": "Tue Feb 12 17:58:44 +0000 2019",
+		"id": 1095381704796078100,
+		"id_str": "1095381704796078080",
+		"full_text": "Wow. Obituaries for 1,200 children killed by gun violence in the year since Parkland, all reported by student journalists: https://t.co/OrcAOsnFx1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OrcAOsnFx1",
+					"expanded_url": "https://sinceparkland.org/",
+					"display_url": "sinceparkland.org",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 344477592,
+			"id_str": "344477592",
+			"name": "Claire Hansen",
+			"screen_name": "clairechansen",
+			"location": "Washington, DC",
+			"description": "Reporter @usnews. More words at @chronicle @MedillJustice @thedailynu @asheville. @MedillSchool grad. Always missing the mountains.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 771,
+			"friends_count": 882,
+			"listed_count": 20,
+			"created_at": "Fri Jul 29 03:38:45 +0000 2011",
+			"favourites_count": 2427,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5364,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061740004626575360/ocHHdeeD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061740004626575360/ocHHdeeD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/344477592/1547692005",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2090,
+		"favorite_count": 2467,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wow. Obituaries for 1,200 children killed by gun violence in the year since Parkland, all reported by student journalists: https://t.co/OrcAOsnFx1"
+	},
+	{
 		"created_at": "Wed Feb 13 00:30:44 +0000 2019",
 		"id": 1095480355405119500,
 		"id_str": "1095480355405119489",
