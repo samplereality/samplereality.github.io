@@ -1,6 +1,725 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sat Feb 23 01:00:30 +0000 2019",
+		"id": 1099111726803574800,
+		"id_str": "1099111726803574785",
+		"full_text": "This headline is a lie, Fox News. There was no “voter fraud.” It was *election fraud.* Voters were systematically defrauded by Republican operatives hired by Mark Harris. https://t.co/nX0vy8Bk8y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1099111722923839500,
+					"id_str": "1099111722923839493",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/D0DUSeVX0AUXlbd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0DUSeVX0AUXlbd.jpg",
+					"url": "https://t.co/nX0vy8Bk8y",
+					"display_url": "pic.twitter.com/nX0vy8Bk8y",
+					"expanded_url": "https://twitter.com/samplereality/status/1099111726803574785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 186,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 421,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 329,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1099111722923839500,
+					"id_str": "1099111722923839493",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/D0DUSeVX0AUXlbd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0DUSeVX0AUXlbd.jpg",
+					"url": "https://t.co/nX0vy8Bk8y",
+					"display_url": "pic.twitter.com/nX0vy8Bk8y",
+					"expanded_url": "https://twitter.com/samplereality/status/1099111726803574785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 186,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 421,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 329,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8932,
+			"friends_count": 1127,
+			"listed_count": 523,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1216,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41653,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This headline is a lie, Fox News. There was no “voter fraud.” It was *election fraud.* Voters were systematically defrauded by Republican operatives hired by Mark Harris. https://t.co/nX0vy8Bk8y"
+	},
+	{
+		"created_at": "Sat Feb 23 00:57:11 +0000 2019",
+		"id": 1099110889528217600,
+		"id_str": "1099110889528217600",
+		"full_text": "Whoa, more big news out of NC today. A superior court judge throws out the recent voter ID amendment, saying an “illegally constituted General Assembly” has no place proposing such amendments in the first place.  https://t.co/Rqko7PL2dF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Rqko7PL2dF",
+					"expanded_url": "https://www.newsobserver.com/news/politics-government/article226652589.html",
+					"display_url": "newsobserver.com/news/politics-…",
+					"indices": [
+						213,
+						236
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8932,
+			"friends_count": 1127,
+			"listed_count": 523,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1216,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41653,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Whoa, more big news out of NC today. A superior court judge throws out the recent voter ID amendment, saying an “illegally constituted General Assembly” has no place proposing such amendments in the first place.  https://t.co/Rqko7PL2dF"
+	},
+	{
+		"created_at": "Fri Feb 22 22:07:32 +0000 2019",
+		"id": 1099068195170865200,
+		"id_str": "1099068195170865153",
+		"full_text": "mine was being 8 yrs old and worrying about a future where i have to think about myself as a brand and then performing it before an audience of strangers  \nhttps://t.co/0xGPbgUMAT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0xGPbgUMAT",
+					"expanded_url": "https://twitter.com/KEBrightbill/status/1098106429628694528",
+					"display_url": "twitter.com/KEBrightbill/s…",
+					"indices": [
+						156,
+						179
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8932,
+			"friends_count": 1127,
+			"listed_count": 523,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1216,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41653,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1098106429628694500,
+		"quoted_status_id_str": "1098106429628694528",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0xGPbgUMAT",
+			"expanded": "https://twitter.com/KEBrightbill/status/1098106429628694528",
+			"display": "twitter.com/KEBrightbill/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 20 06:25:49 +0000 2019",
+			"id": 1098106429628694500,
+			"id_str": "1098106429628694528",
+			"full_text": "What is your most on brand story from your childhood?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				53
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14769495,
+				"id_str": "14769495",
+				"name": "Kathryn Brightbill",
+				"screen_name": "KEBrightbill",
+				"location": "Florida, USA",
+				"description": "Board member & Leg. Policy Analyst @ResponsibleHS | Sec. @DemocratManatee | @UFlaw & @CovenantCollege alum | Bylines in @LATimes & @RNS |https://t.co/2vGvAM3q8i",
+				"url": "https://t.co/8ctGetCDDm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8ctGetCDDm",
+								"expanded_url": "http://kathrynbrightbill.com",
+								"display_url": "kathrynbrightbill.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/2vGvAM3q8i",
+								"expanded_url": "http://cash.me/kebrightbill",
+								"display_url": "cash.me/kebrightbill",
+								"indices": [
+									137,
+									160
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 7365,
+				"friends_count": 2205,
+				"listed_count": 146,
+				"created_at": "Wed May 14 05:13:30 +0000 2008",
+				"favourites_count": 80266,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 130874,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0033FF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1030325113953181696/salxZjEy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1030325113953181696/salxZjEy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14769495/1458894514",
+				"profile_link_color": "130889",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "0C3E53",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 902,
+			"favorite_count": 10257,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "mine was being 8 yrs old and worrying about a future where i have to think about myself as a brand and then performing it before an audience of strangers  \nhttps://t.co/0xGPbgUMAT"
+	},
+	{
+		"created_at": "Fri Feb 22 16:31:40 +0000 2019",
+		"id": 1098983674123567100,
+		"id_str": "1098983674123567106",
+		"full_text": "@christianlamb @arithmatelle This is very cool! Giving me ideas for the next time I teach memes!",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "christianlamb",
+					"name": "Caitlin Christian-Lamb",
+					"id": 38471570,
+					"id_str": "38471570",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "arithmatelle",
+					"name": "Doug Guerra",
+					"id": 110777159,
+					"id_str": "110777159",
+					"indices": [
+						15,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": 1098761436300480500,
+		"in_reply_to_status_id_str": "1098761436300480514",
+		"in_reply_to_user_id": 38471570,
+		"in_reply_to_user_id_str": "38471570",
+		"in_reply_to_screen_name": "christianlamb",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8932,
+			"friends_count": 1127,
+			"listed_count": 523,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1216,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41653,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@christianlamb @arithmatelle This is very cool! Giving me ideas for the next time I teach memes!"
+	},
+	{
+		"created_at": "Fri Feb 22 16:30:29 +0000 2019",
+		"id": 1098983374235017200,
+		"id_str": "1098983374235017217",
+		"full_text": "@RoseStremlau I noticed that too.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RoseStremlau",
+					"name": "Dr. Rose Stremlau",
+					"id": 2533969802,
+					"id_str": "2533969802",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": 1098955472688820200,
+		"in_reply_to_status_id_str": "1098955472688820231",
+		"in_reply_to_user_id": 2533969802,
+		"in_reply_to_user_id_str": "2533969802",
+		"in_reply_to_screen_name": "RoseStremlau",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8932,
+			"friends_count": 1127,
+			"listed_count": 523,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1216,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41653,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RoseStremlau I noticed that too."
+	},
+	{
 		"created_at": "Fri Feb 22 00:48:18 +0000 2019",
 		"id": 1098746266358562800,
 		"id_str": "1098746266358562816",
