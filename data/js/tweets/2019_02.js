@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 22 15:08:24 +0000 2019",
+		"id": 1098962719007481900,
+		"id_str": "1098962719007481857",
+		"full_text": "Repeat after me: nothing, and no one, is unhackable. https://t.co/Slse04SMUH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Slse04SMUH",
+					"expanded_url": "https://twitter.com/techreview/status/1098744703552548864",
+					"display_url": "twitter.com/techreview/sta…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 26029878,
+			"id_str": "26029878",
+			"name": "Chuck Wendig",
+			"screen_name": "ChuckWendig",
+			"location": "Pennsyltucky, PA",
+			"description": "NYT-bestselling beehive. Miriam Black | Zer0es | Invasive | Star Wars | Damn Fine Story | Sundance Screenwriters Lab | Wanderers in 2019 | Insufferable | NSFW",
+			"url": "https://t.co/9rEGJ0fEe5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9rEGJ0fEe5",
+							"expanded_url": "http://www.terribleminds.com",
+							"display_url": "terribleminds.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 145667,
+			"friends_count": 3216,
+			"listed_count": 4058,
+			"created_at": "Mon Mar 23 16:10:29 +0000 2009",
+			"favourites_count": 61015,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 279759,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1058036142849826819/wXtKkdJ7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1058036142849826819/wXtKkdJ7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/26029878/1541091953",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1098744703552548900,
+		"quoted_status_id_str": "1098744703552548864",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Slse04SMUH",
+			"expanded": "https://twitter.com/techreview/status/1098744703552548864",
+			"display": "twitter.com/techreview/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 22 00:42:05 +0000 2019",
+			"id": 1098744703552548900,
+			"id_str": "1098744703552548864",
+			"full_text": "Once hailed as unhackable, blockchains are now getting hacked https://t.co/u9n1lo6lTQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				85
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/u9n1lo6lTQ",
+						"expanded_url": "https://trib.al/jqZmbsO",
+						"display_url": "trib.al/jqZmbsO",
+						"indices": [
+							62,
+							85
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15808647,
+				"id_str": "15808647",
+				"name": "MIT Technology Review",
+				"screen_name": "techreview",
+				"location": "Cambridge, MA",
+				"description": "Our mission is to make technology a greater force for good by bringing about better-informed, more conscious technology decisions through our journalism.",
+				"url": "http://t.co/JWwse7vGcG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/JWwse7vGcG",
+								"expanded_url": "http://www.technologyreview.com",
+								"display_url": "technologyreview.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 910822,
+				"friends_count": 3361,
+				"listed_count": 18504,
+				"created_at": "Mon Aug 11 14:31:16 +0000 2008",
+				"favourites_count": 6705,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 59936,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1072880528712495106/ahuQUlOb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072880528712495106/ahuQUlOb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15808647/1545244512",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0C0C0",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 119,
+			"favorite_count": 120,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 186,
+		"favorite_count": 913,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Repeat after me: nothing, and no one, is unhackable. https://t.co/Slse04SMUH"
+	},
+	{
 		"created_at": "Sat Feb 23 01:00:30 +0000 2019",
 		"id": 1099111726803574800,
 		"id_str": "1099111726803574785",
