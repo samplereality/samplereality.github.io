@@ -1,6 +1,381 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Mon Feb 25 23:51:40 +0000 2019",
+		"id": 1100181567647961100,
+		"id_str": "1100181567647961088",
+		"full_text": "Walt nails it. https://t.co/5VtSkYZZOo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5VtSkYZZOo",
+					"expanded_url": "https://twitter.com/WhitmanFML/status/1100150318778732544",
+					"display_url": "twitter.com/WhitmanFML/sta…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8939,
+			"friends_count": 1128,
+			"listed_count": 523,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1218,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41659,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1100150318778732500,
+		"quoted_status_id_str": "1100150318778732544",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5VtSkYZZOo",
+			"expanded": "https://twitter.com/WhitmanFML/status/1100150318778732544",
+			"display": "twitter.com/WhitmanFML/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 25 21:47:30 +0000 2019",
+			"id": 1100150318778732500,
+			"id_str": "1100150318778732544",
+			"full_text": "I swear I think there is nothing but immortality! and im already starting to have constant back pain. #fml",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				106
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "fml",
+						"indices": [
+							102,
+							106
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://www.twitter.com/WhitmanFML\" rel=\"nofollow\">WhitmanFML</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1114575554,
+				"id_str": "1114575554",
+				"name": "Walt FML Whitman",
+				"screen_name": "WhitmanFML",
+				"location": "O America!",
+				"description": "What is grass? #FML (A bot by @samplereality)",
+				"url": "http://t.co/kcJ7U5Oe6x",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/kcJ7U5Oe6x",
+								"expanded_url": "http://www.samplereality.com",
+								"display_url": "samplereality.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 604,
+				"friends_count": 24,
+				"listed_count": 65,
+				"created_at": "Wed Jan 23 14:58:53 +0000 2013",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11776,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3302504020/81aad066b79d6c611005a2e27927e99f_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3302504020/81aad066b79d6c611005a2e27927e99f_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Walt nails it. https://t.co/5VtSkYZZOo"
+	},
+	{
+		"created_at": "Mon Feb 25 19:43:12 +0000 2019",
+		"id": 1100119035931488300,
+		"id_str": "1100119035931488256",
+		"full_text": "THIS ZUNE KILLS FASCISTS https://t.co/AsjqV8ZV9t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1100119034471874600,
+					"id_str": "1100119034471874566",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/D0RobuRXgAYKkxR.png",
+					"media_url_https": "https://pbs.twimg.com/media/D0RobuRXgAYKkxR.png",
+					"url": "https://t.co/AsjqV8ZV9t",
+					"display_url": "pic.twitter.com/AsjqV8ZV9t",
+					"expanded_url": "https://twitter.com/fascists_exe/status/1100119035931488256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 500,
+							"h": 458,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 458,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 458,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1100119034471874600,
+					"id_str": "1100119034471874566",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/D0RobuRXgAYKkxR.png",
+					"media_url_https": "https://pbs.twimg.com/media/D0RobuRXgAYKkxR.png",
+					"url": "https://t.co/AsjqV8ZV9t",
+					"display_url": "pic.twitter.com/AsjqV8ZV9t",
+					"expanded_url": "https://twitter.com/fascists_exe/status/1100119035931488256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 500,
+							"h": 458,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 458,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 458,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">This Machine</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815366238037823500,
+			"id_str": "815366238037823488",
+			"name": "Kill Fascists",
+			"screen_name": "fascists_exe",
+			"location": "",
+			"description": "this bot kills fascists. inspired by woody guthrie. made by @samplereality.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4121,
+			"friends_count": 1,
+			"listed_count": 93,
+			"created_at": "Sun Jan 01 01:17:14 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8602,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/815368021158088704/aDlV3uCV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/815368021158088704/aDlV3uCV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815366238037823488/1484183176",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "THIS ZUNE KILLS FASCISTS https://t.co/AsjqV8ZV9t"
+	},
+	{
 		"created_at": "Sun Feb 24 22:05:44 +0000 2019",
 		"id": 1099792518621921300,
 		"id_str": "1099792518621921281",
