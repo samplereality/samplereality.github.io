@@ -1,6 +1,400 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 27 20:52:06 +0000 2019",
+		"id": 1100861154170155000,
+		"id_str": "1100861154170155013",
+		"full_text": "Great news for students and slavery scholars: The new version of the International Slave Trade Database is live now. #slaveryarchive #twitterstorians \nhttps://t.co/20hwmFfCb2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "slaveryarchive",
+					"indices": [
+						117,
+						132
+					]
+				},
+				{
+					"text": "twitterstorians",
+					"indices": [
+						133,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/20hwmFfCb2",
+					"expanded_url": "https://slavevoyages.org/?fbclid=IwAR37j9A1A2qQ8pyI6Uxnub9FBKef64F57C--m603d-l_fGZljQ6n1Hfi6d0",
+					"display_url": "slavevoyages.org/?fbclid=IwAR37…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 785537265057488900,
+			"id_str": "785537265057488896",
+			"name": "Brooke Newman",
+			"screen_name": "Jamaicanhist",
+			"location": "Richmond, VA",
+			"description": "Writer & Historian of the British Atlantic. Author of A Dark Inheritance: Blood, Race, & Sex in Colonial Jamaica (@yalepress 2018). All views, my own.",
+			"url": "https://t.co/NvnpgAS8n3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NvnpgAS8n3",
+							"expanded_url": "https://yalebooks.yale.edu/book/9780300225556/dark-inheritance",
+							"display_url": "yalebooks.yale.edu/book/978030022…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1539,
+			"friends_count": 1527,
+			"listed_count": 27,
+			"created_at": "Mon Oct 10 17:47:33 +0000 2016",
+			"favourites_count": 7106,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2018,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1054747340135784450/Nn0fGT8s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054747340135784450/Nn0fGT8s_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/785537265057488896/1527176803",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 154,
+		"favorite_count": 219,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great news for students and slavery scholars: The new version of the International Slave Trade Database is live now. #slaveryarchive #twitterstorians \nhttps://t.co/20hwmFfCb2"
+	},
+	{
+		"created_at": "Thu Feb 28 14:14:09 +0000 2019",
+		"id": 1101123393624125400,
+		"id_str": "1101123393624125441",
+		"full_text": "@hlfoltz For educational coding exercises, @nickmofo's Exploratory Programming https://t.co/2INJJRIi12",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hlfoltz",
+					"name": "Hannah Foltz",
+					"id": 286938702,
+					"id_str": "286938702",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "nickmofo",
+					"name": "Nick Montfort",
+					"id": 397429327,
+					"id_str": "397429327",
+					"indices": [
+						43,
+						52
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2INJJRIi12",
+					"expanded_url": "https://mitpress.mit.edu/books/exploratory-programming-arts-and-humanities",
+					"display_url": "mitpress.mit.edu/books/explorat…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": 1101123118553358300,
+		"in_reply_to_status_id_str": "1101123118553358336",
+		"in_reply_to_user_id": 8497292,
+		"in_reply_to_user_id_str": "8497292",
+		"in_reply_to_screen_name": "samplereality",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8949,
+			"friends_count": 1128,
+			"listed_count": 523,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1220,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41669,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@hlfoltz For educational coding exercises, @nickmofo's Exploratory Programming https://t.co/2INJJRIi12"
+	},
+	{
+		"created_at": "Thu Feb 28 14:13:03 +0000 2019",
+		"id": 1101123118553358300,
+		"id_str": "1101123118553358336",
+		"full_text": "@hlfoltz Check out @anetv's work! https://t.co/4xfmUm6RXm And also @jamesjbrownjr: https://t.co/hyKEU9cMjr",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hlfoltz",
+					"name": "Hannah Foltz",
+					"id": 286938702,
+					"id_str": "286938702",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "anetv",
+					"name": "Annette Vee",
+					"id": 14936894,
+					"id_str": "14936894",
+					"indices": [
+						19,
+						25
+					]
+				},
+				{
+					"screen_name": "jamesjbrownjr",
+					"name": "Jim Brown",
+					"id": 5048611,
+					"id_str": "5048611",
+					"indices": [
+						67,
+						81
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4xfmUm6RXm",
+					"expanded_url": "https://mitpress.mit.edu/books/coding-literacy",
+					"display_url": "mitpress.mit.edu/books/coding-l…",
+					"indices": [
+						34,
+						57
+					]
+				},
+				{
+					"url": "https://t.co/hyKEU9cMjr",
+					"expanded_url": "https://www.press.umich.edu/8305860/ethical_programs",
+					"display_url": "press.umich.edu/8305860/ethica…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": 1100967226293788700,
+		"in_reply_to_status_id_str": "1100967226293788674",
+		"in_reply_to_user_id": 286938702,
+		"in_reply_to_user_id_str": "286938702",
+		"in_reply_to_screen_name": "hlfoltz",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8949,
+			"friends_count": 1128,
+			"listed_count": 523,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1220,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41669,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@hlfoltz Check out @anetv's work! https://t.co/4xfmUm6RXm And also @jamesjbrownjr: https://t.co/hyKEU9cMjr"
+	},
+	{
 		"created_at": "Wed Feb 27 21:24:36 +0000 2019",
 		"id": 1100869330605084700,
 		"id_str": "1100869330605084679",
