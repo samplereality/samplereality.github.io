@@ -1,6 +1,1022 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 06 03:19:12 +0000 2019",
+		"id": 1102620896571863000,
+		"id_str": "1103132896146194433",
+		"full_text": "the GoFundMe CEO is flat-out saying \"we never intended our site to be a health-care provider, it's monstrous that it's been forced into being one, and federal/state/local governments must provide health-care for all.\"\n\nwow. https://t.co/Xh7j8yd7Hi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Xh7j8yd7Hi",
+					"expanded_url": "https://twitter.com/ryanlcooper/status/1102617669537284098",
+					"display_url": "twitter.com/ryanlcooper/st…",
+					"indices": [
+						224,
+						247
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 523855737,
+			"id_str": "523855737",
+			"name": "Justin Martin",
+			"screen_name": "jmartinwrites",
+			"location": "Kenyon College Class of 2019",
+			"description": "Thorn in your side, salve on your wound, one seed of a new and stronger tree. Writer. Soother. Agitator. Shithead. Disabled and queer. Let's talk comics",
+			"url": "http://t.co/P3WfgOIMaF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/P3WfgOIMaF",
+							"expanded_url": "http://justinmartinwrites.tumblr.com/",
+							"display_url": "justinmartinwrites.tumblr.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1816,
+			"friends_count": 1958,
+			"listed_count": 47,
+			"created_at": "Wed Mar 14 00:43:25 +0000 2012",
+			"favourites_count": 10812,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 47970,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1059322150388199425/uvUa4uZ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1059322150388199425/uvUa4uZ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/523855737/1426640027",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1102617669537284100,
+		"quoted_status_id_str": "1102617669537284098",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Xh7j8yd7Hi",
+			"expanded": "https://twitter.com/ryanlcooper/status/1102617669537284098",
+			"display": "twitter.com/ryanlcooper/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 04 17:11:52 +0000 2019",
+			"id": 1102617669537284100,
+			"id_str": "1102617669537284098",
+			"full_text": "interesting perspective from the GoFundMe CEO on medical fundraising https://t.co/TBzCva5mp8 https://t.co/6UcnUfY3xa",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				92
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/TBzCva5mp8",
+						"expanded_url": "https://khn.org/news/gofundme-ceo-gigantic-gaps-in-health-system-showing-up-in-crowdfunding/",
+						"display_url": "khn.org/news/gofundme-…",
+						"indices": [
+							69,
+							92
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1102617630911930400,
+						"id_str": "1102617630911930368",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/D01I5LWWoAA1aJ3.png",
+						"media_url_https": "https://pbs.twimg.com/media/D01I5LWWoAA1aJ3.png",
+						"url": "https://t.co/6UcnUfY3xa",
+						"display_url": "pic.twitter.com/6UcnUfY3xa",
+						"expanded_url": "https://twitter.com/ryanlcooper/status/1102617669537284098/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 991,
+								"h": 830,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 991,
+								"h": 830,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 570,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1102617630911930400,
+						"id_str": "1102617630911930368",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/D01I5LWWoAA1aJ3.png",
+						"media_url_https": "https://pbs.twimg.com/media/D01I5LWWoAA1aJ3.png",
+						"url": "https://t.co/6UcnUfY3xa",
+						"display_url": "pic.twitter.com/6UcnUfY3xa",
+						"expanded_url": "https://twitter.com/ryanlcooper/status/1102617669537284098/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 991,
+								"h": 830,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 991,
+								"h": 830,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 570,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 1102617643520020500,
+						"id_str": "1102617643520020481",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/D01I56UW0AE4i8Q.png",
+						"media_url_https": "https://pbs.twimg.com/media/D01I56UW0AE4i8Q.png",
+						"url": "https://t.co/6UcnUfY3xa",
+						"display_url": "pic.twitter.com/6UcnUfY3xa",
+						"expanded_url": "https://twitter.com/ryanlcooper/status/1102617669537284098/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1027,
+								"h": 608,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 403,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1027,
+								"h": 608,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 1102617654630797300,
+						"id_str": "1102617654630797316",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/D01I6jtX0AQa9v0.png",
+						"media_url_https": "https://pbs.twimg.com/media/D01I6jtX0AQa9v0.png",
+						"url": "https://t.co/6UcnUfY3xa",
+						"display_url": "pic.twitter.com/6UcnUfY3xa",
+						"expanded_url": "https://twitter.com/ryanlcooper/status/1102617669537284098/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 995,
+								"h": 549,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 375,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 995,
+								"h": 549,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 214120461,
+				"id_str": "214120461",
+				"name": "ryan cooper",
+				"screen_name": "ryanlcooper",
+				"location": "DC",
+				"description": "National Correspondent for @TheWeek. Cohost of @LeftAnchor podcast: https://t.co/sujPGM2EZg",
+				"url": "http://t.co/8ZFrs5s3Yt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/8ZFrs5s3Yt",
+								"expanded_url": "http://theweek.com/author/ryan-cooper",
+								"display_url": "theweek.com/author/ryan-co…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/sujPGM2EZg",
+								"expanded_url": "http://patreon.com/leftanchor",
+								"display_url": "patreon.com/leftanchor",
+								"indices": [
+									68,
+									91
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 41977,
+				"friends_count": 2044,
+				"listed_count": 953,
+				"created_at": "Wed Nov 10 16:28:54 +0000 2010",
+				"favourites_count": 41020,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 106416,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/865052666409484288/Tu8MZbg__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/865052666409484288/Tu8MZbg__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/214120461/1475981760",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "86A4A6",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1397,
+			"favorite_count": 3431,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 8259,
+		"favorite_count": 16666,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "the GoFundMe CEO is flat-out saying \"we never intended our site to be a health-care provider, it's monstrous that it's been forced into being one, and federal/state/local governments must provide health-care for all.\"\n\nwow. https://t.co/Xh7j8yd7Hi"
+	},
+	{
+		"created_at": "Wed Mar 06 01:46:48 +0000 2019",
+		"id": 1103109642119512000,
+		"id_str": "1103109642119512065",
+		"full_text": "@JoshAmbrose Wix? Oh, man, I’m sorry.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JoshAmbrose",
+					"name": "J Ambrose",
+					"id": 86353722,
+					"id_str": "86353722",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+		"in_reply_to_status_id": 1103083328540946400,
+		"in_reply_to_status_id_str": "1103083328540946432",
+		"in_reply_to_user_id": 86353722,
+		"in_reply_to_user_id_str": "86353722",
+		"in_reply_to_screen_name": "JoshAmbrose",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8962,
+			"friends_count": 1129,
+			"listed_count": 523,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1220,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41679,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JoshAmbrose Wix? Oh, man, I’m sorry."
+	},
+	{
+		"created_at": "Wed Mar 06 01:45:28 +0000 2019",
+		"id": 1103109307695018000,
+		"id_str": "1103109307695017984",
+		"full_text": "Coach Taylor laying down a life lesson. Heed it well: STAY AWAY FROM DUMB. https://t.co/A33dbk3iOs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1103109300489252900,
+					"id_str": "1103109300489252864",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/D08IEHQXcAAYR2-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D08IEHQXcAAYR2-.jpg",
+					"url": "https://t.co/A33dbk3iOs",
+					"display_url": "pic.twitter.com/A33dbk3iOs",
+					"expanded_url": "https://twitter.com/samplereality/status/1103109307695017984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 377,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 664,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1134,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1103109300489252900,
+					"id_str": "1103109300489252864",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/D08IEHQXcAAYR2-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D08IEHQXcAAYR2-.jpg",
+					"url": "https://t.co/A33dbk3iOs",
+					"display_url": "pic.twitter.com/A33dbk3iOs",
+					"expanded_url": "https://twitter.com/samplereality/status/1103109307695017984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 377,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 664,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1134,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8962,
+			"friends_count": 1129,
+			"listed_count": 523,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1220,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41679,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Coach Taylor laying down a life lesson. Heed it well: STAY AWAY FROM DUMB. https://t.co/A33dbk3iOs"
+	},
+	{
+		"created_at": "Tue Mar 05 20:29:51 +0000 2019",
+		"id": 1103029880197918700,
+		"id_str": "1103029880197918720",
+		"full_text": "Another #elit CFP for #MLA20:  MAKING, PRESERVING, AND CURATING BORN-DIGITAL LITERATURE \n\nDigital roundtable: seeking submissions that allow participants to engage with new and preserved works of born-digital literature, archives, and curated collections. https://t.co/sB6nxREBve",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "elit",
+					"indices": [
+						8,
+						13
+					]
+				},
+				{
+					"text": "MLA20",
+					"indices": [
+						22,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sB6nxREBve",
+					"expanded_url": "https://mla.confex.com/mla/2020/webprogrampreliminary/Paper9282.html",
+					"display_url": "mla.confex.com/mla/2020/webpr…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": 1103029232454848500,
+		"in_reply_to_status_id_str": "1103029232454848512",
+		"in_reply_to_user_id": 8497292,
+		"in_reply_to_user_id_str": "8497292",
+		"in_reply_to_screen_name": "samplereality",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8962,
+			"friends_count": 1129,
+			"listed_count": 523,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1220,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41679,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Another #elit CFP for #MLA20:  MAKING, PRESERVING, AND CURATING BORN-DIGITAL LITERATURE \n\nDigital roundtable: seeking submissions that allow participants to engage with new and preserved works of born-digital literature, archives, and curated collections. https://t.co/sB6nxREBve"
+	},
+	{
+		"created_at": "Tue Mar 05 20:27:16 +0000 2019",
+		"id": 1103029232454848500,
+		"id_str": "1103029232454848512",
+		"full_text": "Want #elit CFPs for #MLA20? Here's one: DIGITAL CULTURE AND STATELESSNESS\n\nWhat can recent video games, electronic literature, or other expressive digital works tell us about refugees, camps, migration, statelessness and citizenship in the 21st century?  https://t.co/vgGsb4dMX1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "elit",
+					"indices": [
+						5,
+						10
+					]
+				},
+				{
+					"text": "MLA20",
+					"indices": [
+						20,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vgGsb4dMX1",
+					"expanded_url": "https://mla.confex.com/mla/2020/webprogrampreliminary/Paper9292.html",
+					"display_url": "mla.confex.com/mla/2020/webpr…",
+					"indices": [
+						255,
+						278
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8962,
+			"friends_count": 1129,
+			"listed_count": 523,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1220,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41679,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Want #elit CFPs for #MLA20? Here's one: DIGITAL CULTURE AND STATELESSNESS\n\nWhat can recent video games, electronic literature, or other expressive digital works tell us about refugees, camps, migration, statelessness and citizenship in the 21st century?  https://t.co/vgGsb4dMX1"
+	},
+	{
+		"created_at": "Tue Mar 05 18:54:55 +0000 2019",
+		"id": 1103005987781390300,
+		"id_str": "1103005987781390336",
+		"full_text": "@econproph @timmmmyboy Have you found suitable alternatives?",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "econproph",
+					"name": "Jim Luke really needs a new longer name",
+					"id": 26559701,
+					"id_str": "26559701",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "timmmmyboy",
+					"name": "timmmmyboy",
+					"id": 1025923491495903200,
+					"id_str": "1025923491495903232",
+					"indices": [
+						11,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": 1102997592009404400,
+		"in_reply_to_status_id_str": "1102997592009404421",
+		"in_reply_to_user_id": 26559701,
+		"in_reply_to_user_id_str": "26559701",
+		"in_reply_to_screen_name": "econproph",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8962,
+			"friends_count": 1129,
+			"listed_count": 523,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1220,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41679,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@econproph @timmmmyboy Have you found suitable alternatives?"
+	},
+	{
 		"created_at": "Mon Mar 04 02:01:20 +0000 2019",
 		"id": 1102308044187287600,
 		"id_str": "1102388524706353152",
