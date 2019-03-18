@@ -1,6 +1,413 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 17 21:10:11 +0000 2019",
+		"id": 1107388685597720600,
+		"id_str": "1107388685597720581",
+		"full_text": "*DNA Friend* \"All it takes is a mouth and a phone\" - Brilliant parody of the DNA-testing industry https://t.co/GOCFaCQgcX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GOCFaCQgcX",
+					"expanded_url": "https://dnafriend.com/",
+					"display_url": "dnafriend.com",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8978,
+			"friends_count": 1133,
+			"listed_count": 523,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1223,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41710,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1551906457",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "*DNA Friend* \"All it takes is a mouth and a phone\" - Brilliant parody of the DNA-testing industry https://t.co/GOCFaCQgcX"
+	},
+	{
+		"created_at": "Sun Mar 17 20:17:39 +0000 2019",
+		"id": 1107297789501804500,
+		"id_str": "1107375464564342784",
+		"full_text": "Get to know your DNA. Brace yourself for the brutal truth. #DNA #DNAfriend #Genetics https://t.co/CwnPURt2Sa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DNA",
+					"indices": [
+						59,
+						63
+					]
+				},
+				{
+					"text": "DNAfriend",
+					"indices": [
+						64,
+						74
+					]
+				},
+				{
+					"text": "Genetics",
+					"indices": [
+						75,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1107111644755198000,
+					"id_str": "1107111644755197952",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/D11ALNhVAAALbeu.png",
+					"media_url_https": "https://pbs.twimg.com/media/D11ALNhVAAALbeu.png",
+					"url": "https://t.co/CwnPURt2Sa",
+					"display_url": "pic.twitter.com/CwnPURt2Sa",
+					"expanded_url": "https://twitter.com/DNAFriend/status/1107297789501804551/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1107111644755198000,
+					"id_str": "1107111644755197952",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/D11ALNhVAAALbeu.png",
+					"media_url_https": "https://pbs.twimg.com/media/D11ALNhVAAALbeu.png",
+					"url": "https://t.co/CwnPURt2Sa",
+					"display_url": "pic.twitter.com/CwnPURt2Sa",
+					"expanded_url": "https://twitter.com/DNAFriend/status/1107297789501804551/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 955466621686112300,
+			"id_str": "955466621686112258",
+			"name": "DNA Friend",
+			"screen_name": "DNAFriend",
+			"location": "",
+			"description": "The world's fastest and freest DNA testing service.",
+			"url": "https://t.co/gj4T8dp4ss",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gj4T8dp4ss",
+							"expanded_url": "http://dnafriend.com",
+							"display_url": "dnafriend.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 481,
+			"friends_count": 41,
+			"listed_count": 0,
+			"created_at": "Mon Jan 22 15:46:09 +0000 2018",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 110,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102284269492162560/yLvETFmi_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102284269492162560/yLvETFmi_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/955466621686112258/1551631040",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Get to know your DNA. Brace yourself for the brutal truth. #DNA #DNAfriend #Genetics https://t.co/CwnPURt2Sa"
+	},
+	{
+		"created_at": "Sun Mar 17 19:58:50 +0000 2019",
+		"id": 1107301538928574500,
+		"id_str": "1107370729782366210",
+		"full_text": "I wish all this reporting on the college admissions scandal was paired with stories about how vital community colleges and state universities are to the strength and fairness of our country.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 36711022,
+			"id_str": "36711022",
+			"name": "Dan Rather",
+			"screen_name": "DanRather",
+			"location": "New York, NY",
+			"description": "Journalist, storyteller, and lifelong reader. A Texan, by birth and by choice. Author of WHAT UNITES US.  https://t.co/uhwukT5WuM",
+			"url": "http://t.co/rn0RB8jTqt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/rn0RB8jTqt",
+							"expanded_url": "http://www.danrather.com/",
+							"display_url": "danrather.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uhwukT5WuM",
+							"expanded_url": "http://algonquin.com/whatunitesus",
+							"display_url": "algonquin.com/whatunitesus",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 631992,
+			"friends_count": 310,
+			"listed_count": 5088,
+			"created_at": "Thu Apr 30 16:56:13 +0000 2009",
+			"favourites_count": 2414,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13364,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/649334374278807552/sUX0LOaE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/649334374278807552/sUX0LOaE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/36711022/1446650131",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3299,
+		"favorite_count": 19651,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I wish all this reporting on the college admissions scandal was paired with stories about how vital community colleges and state universities are to the strength and fairness of our country."
+	},
+	{
 		"created_at": "Sat Mar 16 18:35:28 +0000 2019",
 		"id": 1106987362687610900,
 		"id_str": "1106987362687610880",
