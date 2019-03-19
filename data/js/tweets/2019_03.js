@@ -1,6 +1,740 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 19 01:50:05 +0000 2019",
+		"id": 1107821510662766600,
+		"id_str": "1107821510662766592",
+		"full_text": "Wake me up before you go-go \nhttps://t.co/J0MT59Xgzo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/J0MT59Xgzo",
+					"expanded_url": "https://twitter.com/Clipart1994bot/status/1107796605590257664",
+					"display_url": "twitter.com/Clipart1994bot…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8983,
+			"friends_count": 1133,
+			"listed_count": 523,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1223,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41714,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1551906457",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1107796605590257700,
+		"quoted_status_id_str": "1107796605590257664",
+		"quoted_status_permalink": {
+			"url": "https://t.co/J0MT59Xgzo",
+			"expanded": "https://twitter.com/Clipart1994bot/status/1107796605590257664",
+			"display": "twitter.com/Clipart1994bot…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 19 00:11:07 +0000 2019",
+			"id": 1107796605590257700,
+			"id_str": "1107796605590257664",
+			"full_text": "MICHAEL1.BMF https://t.co/PMSGSn8Nco",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				12
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1107796603866353700,
+						"id_str": "1107796603866353664",
+						"indices": [
+							13,
+							36
+						],
+						"media_url": "http://pbs.twimg.com/media/D1-vJFDWkAA52ft.png",
+						"media_url_https": "https://pbs.twimg.com/media/D1-vJFDWkAA52ft.png",
+						"url": "https://t.co/PMSGSn8Nco",
+						"display_url": "pic.twitter.com/PMSGSn8Nco",
+						"expanded_url": "https://twitter.com/Clipart1994bot/status/1107796605590257664/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 499,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 597,
+								"h": 813,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 597,
+								"h": 813,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1107796603866353700,
+						"id_str": "1107796603866353664",
+						"indices": [
+							13,
+							36
+						],
+						"media_url": "http://pbs.twimg.com/media/D1-vJFDWkAA52ft.png",
+						"media_url_https": "https://pbs.twimg.com/media/D1-vJFDWkAA52ft.png",
+						"url": "https://t.co/PMSGSn8Nco",
+						"display_url": "pic.twitter.com/PMSGSn8Nco",
+						"expanded_url": "https://twitter.com/Clipart1994bot/status/1107796605590257664/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 499,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 597,
+								"h": 813,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 597,
+								"h": 813,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.samplereality.com\" rel=\"nofollow\">1994 Clipart Bot</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 895426242345873400,
+				"id_str": "895426242345873408",
+				"name": "Corel Gallery 1994",
+				"screen_name": "Clipart1994bot",
+				"location": "On a CD-ROM",
+				"description": "Power up your Windows 95 and enjoy these 10,000 clipart images from 1994! Content warning: may contain offensive stereotypes. A bot by @samplereality.",
+				"url": "https://t.co/jzW78xvpbC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jzW78xvpbC",
+								"expanded_url": "http://www.samplereality.com",
+								"display_url": "samplereality.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11772,
+				"friends_count": 0,
+				"listed_count": 151,
+				"created_at": "Wed Aug 09 23:27:07 +0000 2017",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12861,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/895428157284786177/_GyD72-__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/895428157284786177/_GyD72-__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/895426242345873408/1502333534",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 56,
+			"favorite_count": 193,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wake me up before you go-go \nhttps://t.co/J0MT59Xgzo"
+	},
+	{
+		"created_at": "Tue Mar 19 01:39:33 +0000 2019",
+		"id": 1107765597574590500,
+		"id_str": "1107818861036998656",
+		"full_text": "Huge collage of board games being examined in @hopfka and @criticalplay’s forthcoming history + survey of colonialism in board games.#GDC2019 https://t.co/oiWM0dLDcG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GDC2019",
+					"indices": [
+						133,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hopfka",
+					"name": "Mikael Jakobsson",
+					"id": 154925449,
+					"id_str": "154925449",
+					"indices": [
+						46,
+						53
+					]
+				},
+				{
+					"screen_name": "criticalplay",
+					"name": "critical play",
+					"id": 375499570,
+					"id_str": "375499570",
+					"indices": [
+						58,
+						71
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1107765593866793000,
+					"id_str": "1107765593866792960",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/D1-S8DzUcAAB8eg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1-S8DzUcAAB8eg.jpg",
+					"url": "https://t.co/oiWM0dLDcG",
+					"display_url": "pic.twitter.com/oiWM0dLDcG",
+					"expanded_url": "https://twitter.com/metasynthie/status/1107765597574590464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 400,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 706,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1205,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1107765593866793000,
+					"id_str": "1107765593866792960",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/D1-S8DzUcAAB8eg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1-S8DzUcAAB8eg.jpg",
+					"url": "https://t.co/oiWM0dLDcG",
+					"display_url": "pic.twitter.com/oiWM0dLDcG",
+					"expanded_url": "https://twitter.com/metasynthie/status/1107765597574590464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 400,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 706,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1205,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 26110037,
+			"id_str": "26110037",
+			"name": "Naomi Clark [暗悪・直美]",
+			"screen_name": "metasynthie",
+			"location": "ÜT: 40.581589, -73.896411",
+			"description": "Prof & co-chair: https://t.co/B8GV0YzPX9 Collective: https://t.co/Y7FzQH6pR3 Designed: Consentacle QTWoC½AZN",
+			"url": "https://t.co/CdcCh9yL1o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CdcCh9yL1o",
+							"expanded_url": "http://deadpixel.co/about",
+							"display_url": "deadpixel.co/about",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/B8GV0YzPX9",
+							"expanded_url": "http://gamecenter.nyu.edu",
+							"display_url": "gamecenter.nyu.edu",
+							"indices": [
+								17,
+								40
+							]
+						},
+						{
+							"url": "https://t.co/Y7FzQH6pR3",
+							"expanded_url": "http://srlp.org",
+							"display_url": "srlp.org",
+							"indices": [
+								53,
+								76
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8525,
+			"friends_count": 815,
+			"listed_count": 250,
+			"created_at": "Mon Mar 23 22:41:44 +0000 2009",
+			"favourites_count": 15912,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14072,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2099700594/rota_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2099700594/rota_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/26110037/1513575222",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Huge collage of board games being examined in @hopfka and @criticalplay’s forthcoming history + survey of colonialism in board games.#GDC2019 https://t.co/oiWM0dLDcG"
+	},
+	{
+		"created_at": "Mon Mar 18 19:15:42 +0000 2019",
+		"id": 1107722260746551300,
+		"id_str": "1107722260746551297",
+		"full_text": "If you like ⁦@MobyDickatSea⁩, you’re going to want to see the new Moby Dick pop up book coming out in May. https://t.co/VX0wXGFoIU https://t.co/qwyABfWQAX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MobyDickatSea",
+					"name": "Moby Dick",
+					"id": 1482779976,
+					"id_str": "1482779976",
+					"indices": [
+						13,
+						27
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VX0wXGFoIU",
+					"expanded_url": "https://amzn.to/2HBPUD0",
+					"display_url": "amzn.to/2HBPUD0",
+					"indices": [
+						107,
+						130
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1107722237728247800,
+					"id_str": "1107722237728247814",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1107722237728247814/pu/img/vXZbOLusV8G8oPSy.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1107722237728247814/pu/img/vXZbOLusV8G8oPSy.jpg",
+					"url": "https://t.co/qwyABfWQAX",
+					"display_url": "pic.twitter.com/qwyABfWQAX",
+					"expanded_url": "https://twitter.com/samplereality/status/1107722260746551297/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1107722237728247800,
+					"id_str": "1107722237728247814",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1107722237728247814/pu/img/vXZbOLusV8G8oPSy.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1107722237728247814/pu/img/vXZbOLusV8G8oPSy.jpg",
+					"url": "https://t.co/qwyABfWQAX",
+					"display_url": "pic.twitter.com/qwyABfWQAX",
+					"expanded_url": "https://twitter.com/samplereality/status/1107722260746551297/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 3667,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1107722237728247814/pu/vid/960x720/Hoj_8rATAdRCFH98.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1107722237728247814/pu/pl/wUiJBgh21oCS5eGI.m3u8?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1107722237728247814/pu/vid/480x360/yAzfT2nXBNxmB1nB.mp4?tag=8"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1107722237728247814/pu/vid/240x180/WKbCLxyB8a6ikN0j.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8983,
+			"friends_count": 1133,
+			"listed_count": 523,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1223,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41714,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1551906457",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you like ⁦@MobyDickatSea⁩, you’re going to want to see the new Moby Dick pop up book coming out in May. https://t.co/VX0wXGFoIU https://t.co/qwyABfWQAX"
+	},
+	{
 		"created_at": "Sun Mar 17 21:10:11 +0000 2019",
 		"id": 1107388685597720600,
 		"id_str": "1107388685597720581",
