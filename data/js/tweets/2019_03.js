@@ -1,6 +1,246 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Thu Mar 21 01:53:52 +0000 2019",
+		"id": 1108543516227985400,
+		"id_str": "1108547239499182081",
+		"full_text": "just found out about Object Permanence... why didnt any one tell me about this shit",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16298441,
+			"id_str": "16298441",
+			"name": "wint",
+			"screen_name": "dril",
+			"location": "Los Angeles, CA",
+			"description": "- power meeting Grace - favs Unbound - abraham lincon of posts https://t.co/7s3kzPVS58 book: https://t.co/EEkj3HsC6h  pdf: https://t.co/exiXvbtJLz",
+			"url": "https://t.co/gFieIN1TkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gFieIN1TkS",
+							"expanded_url": "http://www.wint.co",
+							"display_url": "wint.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7s3kzPVS58",
+							"expanded_url": "http://patreon.com/dril",
+							"display_url": "patreon.com/dril",
+							"indices": [
+								63,
+								86
+							]
+						},
+						{
+							"url": "https://t.co/EEkj3HsC6h",
+							"expanded_url": "http://amzn.to/2PtWjS5",
+							"display_url": "amzn.to/2PtWjS5",
+							"indices": [
+								93,
+								116
+							]
+						},
+						{
+							"url": "https://t.co/exiXvbtJLz",
+							"expanded_url": "http://gum.co/drilbook",
+							"display_url": "gum.co/drilbook",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1307400,
+			"friends_count": 235,
+			"listed_count": 4428,
+			"created_at": "Mon Sep 15 17:21:54 +0000 2008",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8789,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BADFCD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847818629840228354/VXyQHfn0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847818629840228354/VXyQHfn0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16298441/1394248006",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "5B5BA8",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6278,
+		"favorite_count": 33800,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "just found out about Object Permanence... why didnt any one tell me about this shit"
+	},
+	{
+		"created_at": "Wed Mar 20 19:14:55 +0000 2019",
+		"id": 1108446840347902000,
+		"id_str": "1108446840347901952",
+		"full_text": "@pbenzon Check out the conspiracy theory section of my Intro to Digital Studies syllabus: https://t.co/CPbHU9waDz",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pbenzon",
+					"name": "Paul Benzon",
+					"id": 102702919,
+					"id_str": "102702919",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CPbHU9waDz",
+					"expanded_url": "https://courses.digitaldavidson.net/dig101-2018/portfolio/internet-conspiracies-weeks-10-11/",
+					"display_url": "courses.digitaldavidson.net/dig101-2018/po…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": 1108438017696514000,
+		"in_reply_to_status_id_str": "1108438017696514048",
+		"in_reply_to_user_id": 102702919,
+		"in_reply_to_user_id_str": "102702919",
+		"in_reply_to_screen_name": "pbenzon",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8994,
+			"friends_count": 1133,
+			"listed_count": 523,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1223,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41721,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1551906457",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@pbenzon Check out the conspiracy theory section of my Intro to Digital Studies syllabus: https://t.co/CPbHU9waDz"
+	},
+	{
 		"created_at": "Tue Mar 19 23:15:06 +0000 2019",
 		"id": 1108144899206066200,
 		"id_str": "1108144899206066177",
