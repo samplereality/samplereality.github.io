@@ -1,6 +1,172 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 27 12:05:26 +0000 2019",
+		"id": 1110875472970301400,
+		"id_str": "1110875472970301442",
+		"full_text": "@dancohen @heatherfro @matthewharrison @Exhaust_Fumes @scott_bot @nowviskie @melissaterras I have a Twitter list called something like “Twitter 2009” that only has my timeline circa 2009 on it.",
+		"truncated": false,
+		"display_text_range": [
+			91,
+			193
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dancohen",
+					"name": "Dan Cohen",
+					"id": 14181097,
+					"id_str": "14181097",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "heatherfro",
+					"name": "heather froehlich",
+					"id": 152051625,
+					"id_str": "152051625",
+					"indices": [
+						10,
+						21
+					]
+				},
+				{
+					"screen_name": "matthewharrison",
+					"name": "Matthew Harrison",
+					"id": 15462844,
+					"id_str": "15462844",
+					"indices": [
+						22,
+						38
+					]
+				},
+				{
+					"screen_name": "Exhaust_Fumes",
+					"name": "Vim, PhD",
+					"id": 479673005,
+					"id_str": "479673005",
+					"indices": [
+						39,
+						53
+					]
+				},
+				{
+					"screen_name": "scott_bot",
+					"name": "Scott B. Weingart 🤹",
+					"id": 15762276,
+					"id_str": "15762276",
+					"indices": [
+						54,
+						64
+					]
+				},
+				{
+					"screen_name": "nowviskie",
+					"name": "Bethany Nowviskie",
+					"id": 14221013,
+					"id_str": "14221013",
+					"indices": [
+						65,
+						75
+					]
+				},
+				{
+					"screen_name": "melissaterras",
+					"name": "melissa terras",
+					"id": 50122046,
+					"id_str": "50122046",
+					"indices": [
+						76,
+						90
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+		"in_reply_to_status_id": 1110732535313645600,
+		"in_reply_to_status_id_str": "1110732535313645568",
+		"in_reply_to_user_id": 14181097,
+		"in_reply_to_user_id_str": "14181097",
+		"in_reply_to_screen_name": "dancohen",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8995,
+			"friends_count": 1133,
+			"listed_count": 524,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1226,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41740,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1551906457",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@dancohen @heatherfro @matthewharrison @Exhaust_Fumes @scott_bot @nowviskie @melissaterras I have a Twitter list called something like “Twitter 2009” that only has my timeline circa 2009 on it."
+	},
+	{
 		"created_at": "Wed Mar 27 01:45:26 +0000 2019",
 		"id": 1110719443091554300,
 		"id_str": "1110719443091554304",
