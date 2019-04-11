@@ -1,6 +1,2119 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 11 02:13:11 +0000 2019",
+		"id": 1116162244788805600,
+		"id_str": "1116162244788805632",
+		"full_text": "This is the look Pumpkin gives just before she scampers off to do something she knows she’ll need to ask forgiveness for. https://t.co/9zmPs6q2IL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1116162240951013400,
+					"id_str": "1116162240951013378",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/D31npPuW0AIrkSW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D31npPuW0AIrkSW.jpg",
+					"url": "https://t.co/9zmPs6q2IL",
+					"display_url": "pic.twitter.com/9zmPs6q2IL",
+					"expanded_url": "https://twitter.com/samplereality/status/1116162244788805632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1517,
+							"h": 1171,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 926,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 525,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116162240951013400,
+					"id_str": "1116162240951013378",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/D31npPuW0AIrkSW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D31npPuW0AIrkSW.jpg",
+					"url": "https://t.co/9zmPs6q2IL",
+					"display_url": "pic.twitter.com/9zmPs6q2IL",
+					"expanded_url": "https://twitter.com/samplereality/status/1116162244788805632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1517,
+							"h": 1171,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 926,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 525,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "",
+			"description": "You don't always feel this way.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8986,
+			"friends_count": 1136,
+			"listed_count": 525,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1236,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41941,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1554772822",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is the look Pumpkin gives just before she scampers off to do something she knows she’ll need to ask forgiveness for. https://t.co/9zmPs6q2IL"
+	},
+	{
+		"created_at": "Thu Apr 11 02:07:30 +0000 2019",
+		"id": 929939797707239400,
+		"id_str": "1116160815588085760",
+		"full_text": "Eh, the data's flawed but the waves are average today, at 5.2 ft. I to me, without dying for them. But, aside again!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.twitter.com/_lostbuoy_\" rel=\"nofollow\">Lost Buoy</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2154978907,
+			"id_str": "2154978907",
+			"name": "Station 51000",
+			"screen_name": "_LostBuoy_",
+			"location": "Pacific Ocean",
+			"description": "Station 51000 went adrift on 3/10/2013. Unmoored, the NOAA buoy now transmits observation data from an unknown location.",
+			"url": "http://t.co/ms9TAAqEY0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ms9TAAqEY0",
+							"expanded_url": "http://www.ndbc.noaa.gov/station_page.php?station=51000",
+							"display_url": "ndbc.noaa.gov/station_page.p…",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266,
+			"friends_count": 37,
+			"listed_count": 45,
+			"created_at": "Fri Oct 25 14:00:05 +0000 2013",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11822,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/440230255333097472/nO73elLb_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/440230255333097472/nO73elLb_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Eh, the data's flawed but the waves are average today, at 5.2 ft. I to me, without dying for them. But, aside again!"
+	},
+	{
+		"created_at": "Thu Apr 11 02:06:24 +0000 2019",
+		"id": 1116160540630487000,
+		"id_str": "1116160540630487041",
+		"full_text": "We’re talking about glitch art tomorrow in class. Makes me nostalgic for my now defunct @_lostbuoy_ bot, which tweeted mangled bits of @MobyDickatSea along with the data from an ocean buoy that had gone missing. https://t.co/n6LCI5JOjI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_LostBuoy_",
+					"name": "Station 51000",
+					"id": 2154978907,
+					"id_str": "2154978907",
+					"indices": [
+						88,
+						99
+					]
+				},
+				{
+					"screen_name": "MobyDickatSea",
+					"name": "Moby Dick",
+					"id": 1482779976,
+					"id_str": "1482779976",
+					"indices": [
+						135,
+						149
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/n6LCI5JOjI",
+					"expanded_url": "https://twitter.com/_LostBuoy_/status/604022407603580928",
+					"display_url": "twitter.com/_LostBuoy_/sta…",
+					"indices": [
+						212,
+						235
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "",
+			"description": "You don't always feel this way.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8986,
+			"friends_count": 1136,
+			"listed_count": 525,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1236,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41941,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1554772822",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 604022407603580900,
+		"quoted_status_id_str": "604022407603580928",
+		"quoted_status_permalink": {
+			"url": "https://t.co/n6LCI5JOjI",
+			"expanded": "https://twitter.com/_LostBuoy_/status/604022407603580928",
+			"display": "twitter.com/_LostBuoy_/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 28 20:32:18 +0000 2015",
+			"id": 604022407603580900,
+			"id_str": "604022407603580928",
+			"full_text": "Transmission Error: We will go, gigantic ghostliness over in the look-outs at the imagination no doubt. http://t.co/lHa2lYMTli",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				126
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 604022407549063200,
+						"id_str": "604022407549063168",
+						"indices": [
+							104,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/CGHrLe5WkAADzo2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CGHrLe5WkAADzo2.jpg",
+						"url": "http://t.co/lHa2lYMTli",
+						"display_url": "pic.twitter.com/lHa2lYMTli",
+						"expanded_url": "https://twitter.com/_LostBuoy_/status/604022407603580928/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 230,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 270,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 270,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 604022407549063200,
+						"id_str": "604022407549063168",
+						"indices": [
+							104,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/CGHrLe5WkAADzo2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CGHrLe5WkAADzo2.jpg",
+						"url": "http://t.co/lHa2lYMTli",
+						"display_url": "pic.twitter.com/lHa2lYMTli",
+						"expanded_url": "https://twitter.com/_LostBuoy_/status/604022407603580928/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 230,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 270,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 270,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.twitter.com/_lostbuoy_\" rel=\"nofollow\">Lost Buoy</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2154978907,
+				"id_str": "2154978907",
+				"name": "Station 51000",
+				"screen_name": "_LostBuoy_",
+				"location": "Pacific Ocean",
+				"description": "Station 51000 went adrift on 3/10/2013. Unmoored, the NOAA buoy now transmits observation data from an unknown location.",
+				"url": "http://t.co/ms9TAAqEY0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ms9TAAqEY0",
+								"expanded_url": "http://www.ndbc.noaa.gov/station_page.php?station=51000",
+								"display_url": "ndbc.noaa.gov/station_page.p…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 266,
+				"friends_count": 37,
+				"listed_count": 45,
+				"created_at": "Fri Oct 25 14:00:05 +0000 2013",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11822,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/440230255333097472/nO73elLb_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/440230255333097472/nO73elLb_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We’re talking about glitch art tomorrow in class. Makes me nostalgic for my now defunct @_lostbuoy_ bot, which tweeted mangled bits of @MobyDickatSea along with the data from an ocean buoy that had gone missing. https://t.co/n6LCI5JOjI"
+	},
+	{
+		"created_at": "Thu Apr 11 02:00:46 +0000 2019",
+		"id": 1116159119667474400,
+		"id_str": "1116159119667474434",
+		"full_text": "Let it never be said I denied the world of a toddler-eating-paint-chips clipart. https://t.co/CqkPjWOTBr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CqkPjWOTBr",
+					"expanded_url": "https://twitter.com/Clipart1994bot/status/1116146621916512256",
+					"display_url": "twitter.com/Clipart1994bot…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "",
+			"description": "You don't always feel this way.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8986,
+			"friends_count": 1136,
+			"listed_count": 525,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1236,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41941,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1554772822",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1116146621916512300,
+		"quoted_status_id_str": "1116146621916512256",
+		"quoted_status_permalink": {
+			"url": "https://t.co/CqkPjWOTBr",
+			"expanded": "https://twitter.com/Clipart1994bot/status/1116146621916512256",
+			"display": "twitter.com/Clipart1994bot…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 11 01:11:06 +0000 2019",
+			"id": 1116146621916512300,
+			"id_str": "1116146621916512256",
+			"full_text": "LEAD.BMF https://t.co/eF4tdl5m0T",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				8
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1116146620150763500,
+						"id_str": "1116146620150763521",
+						"indices": [
+							9,
+							32
+						],
+						"media_url": "http://pbs.twimg.com/media/D31Zb_tW0AEuKDy.png",
+						"media_url_https": "https://pbs.twimg.com/media/D31Zb_tW0AEuKDy.png",
+						"url": "https://t.co/eF4tdl5m0T",
+						"display_url": "pic.twitter.com/eF4tdl5m0T",
+						"expanded_url": "https://twitter.com/Clipart1994bot/status/1116146621916512256/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 579,
+								"h": 474,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 579,
+								"h": 474,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 579,
+								"h": 474,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1116146620150763500,
+						"id_str": "1116146620150763521",
+						"indices": [
+							9,
+							32
+						],
+						"media_url": "http://pbs.twimg.com/media/D31Zb_tW0AEuKDy.png",
+						"media_url_https": "https://pbs.twimg.com/media/D31Zb_tW0AEuKDy.png",
+						"url": "https://t.co/eF4tdl5m0T",
+						"display_url": "pic.twitter.com/eF4tdl5m0T",
+						"expanded_url": "https://twitter.com/Clipart1994bot/status/1116146621916512256/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 579,
+								"h": 474,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 579,
+								"h": 474,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 579,
+								"h": 474,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.samplereality.com\" rel=\"nofollow\">1994 Clipart Bot</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 895426242345873400,
+				"id_str": "895426242345873408",
+				"name": "Corel Gallery 1994",
+				"screen_name": "Clipart1994bot",
+				"location": "On a CD-ROM",
+				"description": "Power up your Windows 95 and enjoy these 10,000 clipart images from 1994! Content warning: may contain offensive stereotypes. A bot by @samplereality.",
+				"url": "https://t.co/jzW78xvpbC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jzW78xvpbC",
+								"expanded_url": "http://www.samplereality.com",
+								"display_url": "samplereality.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12389,
+				"friends_count": 0,
+				"listed_count": 156,
+				"created_at": "Wed Aug 09 23:27:07 +0000 2017",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13409,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/895428157284786177/_GyD72-__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/895428157284786177/_GyD72-__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/895426242345873408/1502333534",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 94,
+			"favorite_count": 270,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Let it never be said I denied the world of a toddler-eating-paint-chips clipart. https://t.co/CqkPjWOTBr"
+	},
+	{
+		"created_at": "Thu Apr 11 01:48:22 +0000 2019",
+		"id": 1116156002246828000,
+		"id_str": "1116156002246828033",
+		"full_text": "Phil Collins, doing his best Peter Gabriel impression in Genesis’ “Follow You, Follow Me” (1978) ▶️ https://t.co/RYktycpADy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RYktycpADy",
+					"expanded_url": "https://youtu.be/h9zj11gf9Qk",
+					"display_url": "youtu.be/h9zj11gf9Qk",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "",
+			"description": "You don't always feel this way.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8986,
+			"friends_count": 1136,
+			"listed_count": 525,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1236,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41941,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1554772822",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Phil Collins, doing his best Peter Gabriel impression in Genesis’ “Follow You, Follow Me” (1978) ▶️ https://t.co/RYktycpADy"
+	},
+	{
+		"created_at": "Thu Apr 11 01:42:07 +0000 2019",
+		"id": 1116154427327549400,
+		"id_str": "1116154427327549440",
+		"full_text": "One of my favorite chip tunes from the early aughts, complete with a Matrix homage: Golden Shower’s “Video Computer System” (2000) https://t.co/b8l9f6x0oB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/b8l9f6x0oB",
+					"expanded_url": "https://youtu.be/2rKkpHLl1Ew",
+					"display_url": "youtu.be/2rKkpHLl1Ew",
+					"indices": [
+						131,
+						154
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "",
+			"description": "You don't always feel this way.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8986,
+			"friends_count": 1136,
+			"listed_count": 525,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1236,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41941,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1554772822",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "One of my favorite chip tunes from the early aughts, complete with a Matrix homage: Golden Shower’s “Video Computer System” (2000) https://t.co/b8l9f6x0oB"
+	},
+	{
+		"created_at": "Wed Apr 10 23:08:06 +0000 2019",
+		"id": 1116115669886689300,
+		"id_str": "1116115669886689285",
+		"full_text": "April 10, 2019 7:01pm\n\nEven inside the house, the pollen is writeable. https://t.co/cPyThD6T0B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1116115662097850400,
+					"id_str": "1116115662097850368",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/D309R_-XoAAvkKZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D309R_-XoAAvkKZ.jpg",
+					"url": "https://t.co/cPyThD6T0B",
+					"display_url": "pic.twitter.com/cPyThD6T0B",
+					"expanded_url": "https://twitter.com/samplereality/status/1116115669886689285/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 772,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 438,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1318,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116115662097850400,
+					"id_str": "1116115662097850368",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/D309R_-XoAAvkKZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D309R_-XoAAvkKZ.jpg",
+					"url": "https://t.co/cPyThD6T0B",
+					"display_url": "pic.twitter.com/cPyThD6T0B",
+					"expanded_url": "https://twitter.com/samplereality/status/1116115669886689285/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 772,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 438,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1318,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1116115013591339000,
+		"in_reply_to_status_id_str": "1116115013591339008",
+		"in_reply_to_user_id": 8497292,
+		"in_reply_to_user_id_str": "8497292",
+		"in_reply_to_screen_name": "samplereality",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "",
+			"description": "You don't always feel this way.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8986,
+			"friends_count": 1136,
+			"listed_count": 525,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1236,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41941,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1554772822",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "April 10, 2019 7:01pm\n\nEven inside the house, the pollen is writeable. https://t.co/cPyThD6T0B"
+	},
+	{
+		"created_at": "Wed Apr 10 23:05:30 +0000 2019",
+		"id": 1116115013591339000,
+		"id_str": "1116115013591339008",
+		"full_text": "April 10, 2019 7pm\n\nPollen so thick you can write in it. https://t.co/auVGMJAvol",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1116115001884934100,
+					"id_str": "1116115001884934144",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/D308rkfWAAA2ILw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D308rkfWAAA2ILw.jpg",
+					"url": "https://t.co/auVGMJAvol",
+					"display_url": "pic.twitter.com/auVGMJAvol",
+					"expanded_url": "https://twitter.com/samplereality/status/1116115013591339008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116115001884934100,
+					"id_str": "1116115001884934144",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/D308rkfWAAA2ILw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D308rkfWAAA2ILw.jpg",
+					"url": "https://t.co/auVGMJAvol",
+					"display_url": "pic.twitter.com/auVGMJAvol",
+					"expanded_url": "https://twitter.com/samplereality/status/1116115013591339008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "",
+			"description": "You don't always feel this way.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8986,
+			"friends_count": 1136,
+			"listed_count": 525,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1236,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41941,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1554772822",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "April 10, 2019 7pm\n\nPollen so thick you can write in it. https://t.co/auVGMJAvol"
+	},
+	{
+		"created_at": "Wed Apr 10 19:25:38 +0000 2019",
+		"id": 1116059685189234700,
+		"id_str": "1116059685189234689",
+		"full_text": "April 10, 2019, 9:30am\n\npuddle of mud https://t.co/bTQff4apLY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1116059679120076800,
+					"id_str": "1116059679120076800",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/D30KXXIWsAAmGus.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D30KXXIWsAAmGus.jpg",
+					"url": "https://t.co/bTQff4apLY",
+					"display_url": "pic.twitter.com/bTQff4apLY",
+					"expanded_url": "https://twitter.com/samplereality/status/1116059685189234689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116059679120076800,
+					"id_str": "1116059679120076800",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/D30KXXIWsAAmGus.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D30KXXIWsAAmGus.jpg",
+					"url": "https://t.co/bTQff4apLY",
+					"display_url": "pic.twitter.com/bTQff4apLY",
+					"expanded_url": "https://twitter.com/samplereality/status/1116059685189234689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "",
+			"description": "You don't always feel this way.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8986,
+			"friends_count": 1136,
+			"listed_count": 525,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1236,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41941,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1554772822",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "April 10, 2019, 9:30am\n\npuddle of mud https://t.co/bTQff4apLY"
+	},
+	{
+		"created_at": "Wed Apr 10 16:49:56 +0000 2019",
+		"id": 1116020499723767800,
+		"id_str": "1116020499723767809",
+		"full_text": "@CoreySparks Yep",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CoreySparks",
+					"name": "Corey Sparks",
+					"id": 383373613,
+					"id_str": "383373613",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+		"in_reply_to_status_id": 1116020163759894500,
+		"in_reply_to_status_id_str": "1116020163759894528",
+		"in_reply_to_user_id": 383373613,
+		"in_reply_to_user_id_str": "383373613",
+		"in_reply_to_screen_name": "CoreySparks",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "",
+			"description": "You don't always feel this way.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8986,
+			"friends_count": 1136,
+			"listed_count": 525,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1236,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41941,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1554772822",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@CoreySparks Yep"
+	},
+	{
+		"created_at": "Wed Apr 10 16:44:11 +0000 2019",
+		"id": 1116019051329880000,
+		"id_str": "1116019051329880064",
+		"full_text": "Pete Townshend, quoting the English mystic Juliana Norwich, “All shall be well, and all shall be well, and all manner of thing shall be well” https://t.co/sq9d31Zglv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sq9d31Zglv",
+					"expanded_url": "https://youtu.be/l3utVnkKVHM",
+					"display_url": "youtu.be/l3utVnkKVHM",
+					"indices": [
+						142,
+						165
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "",
+			"description": "You don't always feel this way.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8986,
+			"friends_count": 1136,
+			"listed_count": 525,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1236,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41941,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1554772822",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Pete Townshend, quoting the English mystic Juliana Norwich, “All shall be well, and all shall be well, and all manner of thing shall be well” https://t.co/sq9d31Zglv"
+	},
+	{
+		"created_at": "Wed Apr 10 14:12:34 +0000 2019",
+		"id": 1115980898720206800,
+		"id_str": "1115980898720206848",
+		"full_text": "They recorded little gems with bird songs in the background, like the traditional \"Sally Goodin\" https://t.co/CFGemuSFMC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CFGemuSFMC",
+					"expanded_url": "https://youtu.be/sJtu1rDvhSg",
+					"display_url": "youtu.be/sJtu1rDvhSg",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1115980567194030100,
+		"in_reply_to_status_id_str": "1115980567194030080",
+		"in_reply_to_user_id": 8497292,
+		"in_reply_to_user_id_str": "8497292",
+		"in_reply_to_screen_name": "samplereality",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "",
+			"description": "You don't always feel this way.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8986,
+			"friends_count": 1136,
+			"listed_count": 525,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1236,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41941,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1554772822",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "They recorded little gems with bird songs in the background, like the traditional \"Sally Goodin\" https://t.co/CFGemuSFMC"
+	},
+	{
+		"created_at": "Wed Apr 10 14:11:15 +0000 2019",
+		"id": 1115980567194030100,
+		"id_str": "1115980567194030080",
+		"full_text": "Heron recorded \"River of Fortune\" in a studio in 1970. They so hated the confines of the recording studio that they recorded their next album in a field behind a farmhouse in the countryside of Berkshire.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1115976181197738000,
+		"in_reply_to_status_id_str": "1115976181197737984",
+		"in_reply_to_user_id": 8497292,
+		"in_reply_to_user_id_str": "8497292",
+		"in_reply_to_screen_name": "samplereality",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "",
+			"description": "You don't always feel this way.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8986,
+			"friends_count": 1136,
+			"listed_count": 525,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1236,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41941,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1554772822",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Heron recorded \"River of Fortune\" in a studio in 1970. They so hated the confines of the recording studio that they recorded their next album in a field behind a farmhouse in the countryside of Berkshire."
+	},
+	{
+		"created_at": "Wed Apr 10 13:53:50 +0000 2019",
+		"id": 1115976181197738000,
+		"id_str": "1115976181197737984",
+		"full_text": "Okay, so Joni Mitchell's \"River\" is a bit heavy. Here's Heron's \"River of Fortune\" \n\n🎵I'm doing very little \nand I don't work very hard \nbut I'll get you very far 🎵 \n\nhttps://t.co/E4RFem31Cj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/E4RFem31Cj",
+					"expanded_url": "https://youtu.be/cy-Gfs-KlvU",
+					"display_url": "youtu.be/cy-Gfs-KlvU",
+					"indices": [
+						167,
+						190
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1115804439217147900,
+		"in_reply_to_status_id_str": "1115804439217147904",
+		"in_reply_to_user_id": 8497292,
+		"in_reply_to_user_id_str": "8497292",
+		"in_reply_to_screen_name": "samplereality",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "",
+			"description": "You don't always feel this way.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8986,
+			"friends_count": 1136,
+			"listed_count": 525,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1236,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41941,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1554772822",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Okay, so Joni Mitchell's \"River\" is a bit heavy. Here's Heron's \"River of Fortune\" \n\n🎵I'm doing very little \nand I don't work very hard \nbut I'll get you very far 🎵 \n\nhttps://t.co/E4RFem31Cj"
+	},
+	{
 		"created_at": "Wed Apr 10 02:31:23 +0000 2019",
 		"id": 1115804439217147900,
 		"id_str": "1115804439217147904",
