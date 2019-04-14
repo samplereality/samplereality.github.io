@@ -1,6 +1,705 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sun Apr 14 01:29:07 +0000 2019",
+		"id": 1117238318331256800,
+		"id_str": "1117238318331256832",
+		"full_text": "Oh, Phil Collins was the drummer on this track. https://t.co/bUQpxMh7xm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1117238303814750200,
+					"id_str": "1117238303814750208",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D4E6UWRWkAArOKW.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D4E6UWRWkAArOKW.jpg",
+					"url": "https://t.co/bUQpxMh7xm",
+					"display_url": "pic.twitter.com/bUQpxMh7xm",
+					"expanded_url": "https://twitter.com/samplereality/status/1117238318331256832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 378,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 378,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 378,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1117238303814750200,
+					"id_str": "1117238303814750208",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D4E6UWRWkAArOKW.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D4E6UWRWkAArOKW.jpg",
+					"url": "https://t.co/bUQpxMh7xm",
+					"display_url": "pic.twitter.com/bUQpxMh7xm",
+					"expanded_url": "https://twitter.com/samplereality/status/1117238318331256832/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 378,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 378,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 378,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							83,
+							63
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D4E6UWRWkAArOKW.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1117234705710108700,
+		"in_reply_to_status_id_str": "1117234705710108673",
+		"in_reply_to_user_id": 8497292,
+		"in_reply_to_user_id_str": "8497292",
+		"in_reply_to_screen_name": "samplereality",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "",
+			"description": "🏡",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8982,
+			"friends_count": 1136,
+			"listed_count": 525,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1239,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41975,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1554772822",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Oh, Phil Collins was the drummer on this track. https://t.co/bUQpxMh7xm"
+	},
+	{
+		"created_at": "Sun Apr 14 01:14:45 +0000 2019",
+		"id": 1117234705710108700,
+		"id_str": "1117234705710108673",
+		"full_text": "Eric Clapton’s Just Like A Prisoner is uncharacteristically dissonant. Set aside the drum track and you could almost imagine the last 60 seconds were Pink Floyd. ▶️ https://t.co/LldW0I0awb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LldW0I0awb",
+					"expanded_url": "https://youtu.be/9X6qu8SxW5A",
+					"display_url": "youtu.be/9X6qu8SxW5A",
+					"indices": [
+						165,
+						188
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "",
+			"description": "🏡",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8982,
+			"friends_count": 1136,
+			"listed_count": 525,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1239,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41975,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1554772822",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Eric Clapton’s Just Like A Prisoner is uncharacteristically dissonant. Set aside the drum track and you could almost imagine the last 60 seconds were Pink Floyd. ▶️ https://t.co/LldW0I0awb"
+	},
+	{
+		"created_at": "Sat Apr 13 21:36:42 +0000 2019",
+		"id": 1117179830699737100,
+		"id_str": "1117179830699737089",
+		"full_text": "Buckets of Rain \n\n🌧 😭 \n🖐🌙🤚 \n\nhttps://t.co/XnTL0HXM43",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XnTL0HXM43",
+					"expanded_url": "https://vimeo.com/216989930?ref=em-share",
+					"display_url": "vimeo.com/216989930?ref=…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1117178455521673200,
+		"in_reply_to_status_id_str": "1117178455521673217",
+		"in_reply_to_user_id": 8497292,
+		"in_reply_to_user_id_str": "8497292",
+		"in_reply_to_screen_name": "samplereality",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "",
+			"description": "🏡",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8982,
+			"friends_count": 1136,
+			"listed_count": 525,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1239,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41975,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1554772822",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Buckets of Rain \n\n🌧 😭 \n🖐🌙🤚 \n\nhttps://t.co/XnTL0HXM43"
+	},
+	{
+		"created_at": "Sat Apr 13 21:32:26 +0000 2019",
+		"id": 1117178758413398000,
+		"id_str": "1117178758413398016",
+		"full_text": "Gonna need a bigger 🛳",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1117178455521673200,
+		"in_reply_to_status_id_str": "1117178455521673217",
+		"in_reply_to_user_id": 8497292,
+		"in_reply_to_user_id_str": "8497292",
+		"in_reply_to_screen_name": "samplereality",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "",
+			"description": "🏡",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8982,
+			"friends_count": 1136,
+			"listed_count": 525,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1239,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41975,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1554772822",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Gonna need a bigger 🛳"
+	},
+	{
+		"created_at": "Sat Apr 13 21:31:14 +0000 2019",
+		"id": 1117178455521673200,
+		"id_str": "1117178455521673217",
+		"full_text": "Saturday, April 13, 8:45am https://t.co/D7eAVdC2Xv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1117178365218259000,
+					"id_str": "1117178365218258945",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1117178365218258945/pu/img/nHAnASHGbJlW7zK9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1117178365218258945/pu/img/nHAnASHGbJlW7zK9.jpg",
+					"url": "https://t.co/D7eAVdC2Xv",
+					"display_url": "pic.twitter.com/D7eAVdC2Xv",
+					"expanded_url": "https://twitter.com/samplereality/status/1117178455521673217/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1117178365218259000,
+					"id_str": "1117178365218258945",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1117178365218258945/pu/img/nHAnASHGbJlW7zK9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1117178365218258945/pu/img/nHAnASHGbJlW7zK9.jpg",
+					"url": "https://t.co/D7eAVdC2Xv",
+					"display_url": "pic.twitter.com/D7eAVdC2Xv",
+					"expanded_url": "https://twitter.com/samplereality/status/1117178455521673217/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 12773,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1117178365218258945/pu/vid/320x180/CrCKq9XKM4Ga7k_K.mp4?tag=8"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1117178365218258945/pu/vid/1280x720/FpMAWwebuqf7GSFW.mp4?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1117178365218258945/pu/vid/640x360/LNbaYIOZdy7_NxKg.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1117178365218258945/pu/pl/o3EDH18IQUhjXKwu.m3u8?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "",
+			"description": "🏡",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8982,
+			"friends_count": 1136,
+			"listed_count": 525,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1239,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41975,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1554772822",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Saturday, April 13, 8:45am https://t.co/D7eAVdC2Xv"
+	},
+	{
 		"created_at": "Sat Apr 13 01:40:30 +0000 2019",
 		"id": 1116878798824333300,
 		"id_str": "1116878798824333318",
@@ -504,7 +1203,7 @@ Grailbird.data.tweets_2019_04 =
 		"created_at": "Sat Apr 13 00:45:23 +0000 2019",
 		"id": 1116864928667795500,
 		"id_str": "1116864928667795459",
-		"full_text": "🚑👩‍⚕️👨‍⚕️ Emergency @WildcatTech team\n\n🚒👩‍🚒👨‍🚒 Comes to the rescue\n\n🌟✨🐱‍🏍And makes W2 server available\n\n⌛⚡⏳ ASAP\n\n🙎‍♂️💭🤦‍♂️ Which means I still...\n\n😱😱😱 have to do taxes",
+		"full_text": "🚑👩⚕️👨⚕️ Emergency @WildcatTech team\n\n🚒👩🚒👨🚒 Comes to the rescue\n\n🌟✨🐱🏍And makes W2 server available\n\n⌛⚡⏳ ASAP\n\n🙎♂️💭🤦♂️ Which means I still...\n\n😱😱😱 have to do taxes",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -604,7 +1303,7 @@ Grailbird.data.tweets_2019_04 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "🚑👩‍⚕️👨‍⚕️ Emergency @WildcatTech team\n\n🚒👩‍🚒👨‍🚒 Comes to the rescue\n\n🌟✨🐱‍🏍And makes W2 server available\n\n⌛⚡⏳ ASAP\n\n🙎‍♂️💭🤦‍♂️ Which means I still...\n\n😱😱😱 have to do taxes"
+		"text": "🚑👩⚕️👨⚕️ Emergency @WildcatTech team\n\n🚒👩🚒👨🚒 Comes to the rescue\n\n🌟✨🐱🏍And makes W2 server available\n\n⌛⚡⏳ ASAP\n\n🙎♂️💭🤦♂️ Which means I still...\n\n😱😱😱 have to do taxes"
 	},
 	{
 		"created_at": "Sat Apr 13 00:30:07 +0000 2019",
@@ -726,7 +1425,7 @@ Grailbird.data.tweets_2019_04 =
 		"created_at": "Fri Apr 12 23:35:02 +0000 2019",
 		"id": 1116847224506519600,
 		"id_str": "1116847224506519552",
-		"full_text": "🏠🙎‍♂️💻📝 Sits down at home\n🚀🤘🔥📝 ✾ ᖴIᖇᙓᗪ ᙀᑭ ✾ to do 👏taxes 👏\n💻⚠🤔 Site at work that houses W2s doesn’t load\n🚧👷‍♂️👷‍♀️🚧 Discovers site is down for upgrades…\n⌚⌛⏲⏳…all weekend until\n🐓🌅📆 Monday morning, April 15\n\n😱😱😱😱😱😱😱😱😱😱",
+		"full_text": "🏠🙎♂️💻📝 Sits down at home\n🚀🤘🔥📝 ✾ ᖴIᖇᙓᗪ ᙀᑭ ✾ to do 👏taxes 👏\n💻⚠🤔 Site at work that houses W2s doesn’t load\n🚧👷♂️👷♀️🚧 Discovers site is down for upgrades…\n⌚⌛⏲⏳…all weekend until\n🐓🌅📆 Monday morning, April 15\n\n😱😱😱😱😱😱😱😱😱😱",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -815,7 +1514,7 @@ Grailbird.data.tweets_2019_04 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "🏠🙎‍♂️💻📝 Sits down at home\n🚀🤘🔥📝 ✾ ᖴIᖇᙓᗪ ᙀᑭ ✾ to do 👏taxes 👏\n💻⚠🤔 Site at work that houses W2s doesn’t load\n🚧👷‍♂️👷‍♀️🚧 Discovers site is down for upgrades…\n⌚⌛⏲⏳…all weekend until\n🐓🌅📆 Monday morning, April 15\n\n😱😱😱😱😱😱😱😱😱😱"
+		"text": "🏠🙎♂️💻📝 Sits down at home\n🚀🤘🔥📝 ✾ ᖴIᖇᙓᗪ ᙀᑭ ✾ to do 👏taxes 👏\n💻⚠🤔 Site at work that houses W2s doesn’t load\n🚧👷♂️👷♀️🚧 Discovers site is down for upgrades…\n⌚⌛⏲⏳…all weekend until\n🐓🌅📆 Monday morning, April 15\n\n😱😱😱😱😱😱😱😱😱😱"
 	},
 	{
 		"created_at": "Fri Apr 12 21:10:57 +0000 2019",
@@ -938,7 +1637,7 @@ Grailbird.data.tweets_2019_04 =
 		"created_at": "Fri Apr 12 21:10:29 +0000 2019",
 		"id": 1116810846859071500,
 		"id_str": "1116810846859071488",
-		"full_text": "🙎‍♂️💭💇‍♂️🏃‍♂️ I thought I had a haircut today \n🤦‍♂️📅💇‍♂️😣 But turns out it's ⁿᵉˣᵗ Friday",
+		"full_text": "🙎♂️💭💇♂️🏃♂️ I thought I had a haircut today \n🤦♂️📅💇♂️😣 But turns out it's ⁿᵉˣᵗ Friday",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1027,7 +1726,7 @@ Grailbird.data.tweets_2019_04 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "🙎‍♂️💭💇‍♂️🏃‍♂️ I thought I had a haircut today \n🤦‍♂️📅💇‍♂️😣 But turns out it's ⁿᵉˣᵗ Friday"
+		"text": "🙎♂️💭💇♂️🏃♂️ I thought I had a haircut today \n🤦♂️📅💇♂️😣 But turns out it's ⁿᵉˣᵗ Friday"
 	},
 	{
 		"created_at": "Fri Apr 12 20:52:40 +0000 2019",
