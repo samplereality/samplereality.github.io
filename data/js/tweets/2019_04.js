@@ -1,6 +1,1337 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 27 03:24:25 +0000 2019",
+		"id": 1121978378750517200,
+		"id_str": "1121978378750517250",
+		"full_text": "@PatricioBoyer https://t.co/V0SQ6JHqPu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PatricioBoyer",
+					"name": "Patricio Boyer",
+					"id": 940585166661210100,
+					"id_str": "940585166661210112",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/V0SQ6JHqPu",
+					"expanded_url": "https://twitter.com/Clipart1994bot/status/1121959924592992259",
+					"display_url": "twitter.com/Clipart1994bot…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 940585166661210100,
+		"in_reply_to_user_id_str": "940585166661210112",
+		"in_reply_to_screen_name": "PatricioBoyer",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "",
+			"description": "I find myself growing grim about the mouth. It's high time to get to sea.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8977,
+			"friends_count": 1136,
+			"listed_count": 0,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41980,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1121953602849976320/5v44c5mh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1121953602849976320/5v44c5mh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1556292238",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1121959924592992300,
+		"quoted_status_id_str": "1121959924592992259",
+		"quoted_status_permalink": {
+			"url": "https://t.co/V0SQ6JHqPu",
+			"expanded": "https://twitter.com/Clipart1994bot/status/1121959924592992259",
+			"display": "twitter.com/Clipart1994bot…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 27 02:11:05 +0000 2019",
+			"id": 1121959924592992300,
+			"id_str": "1121959924592992259",
+			"full_text": "MADONI1.BMF https://t.co/czeq1jANQ0",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				11
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1121959923640881200,
+						"id_str": "1121959923640881152",
+						"indices": [
+							12,
+							35
+						],
+						"media_url": "http://pbs.twimg.com/media/D5IAmyzW0AAYICi.png",
+						"media_url_https": "https://pbs.twimg.com/media/D5IAmyzW0AAYICi.png",
+						"url": "https://t.co/czeq1jANQ0",
+						"display_url": "pic.twitter.com/czeq1jANQ0",
+						"expanded_url": "https://twitter.com/Clipart1994bot/status/1121959924592992259/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 138,
+								"h": 309,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 138,
+								"h": 309,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 138,
+								"h": 138,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 138,
+								"h": 309,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1121959923640881200,
+						"id_str": "1121959923640881152",
+						"indices": [
+							12,
+							35
+						],
+						"media_url": "http://pbs.twimg.com/media/D5IAmyzW0AAYICi.png",
+						"media_url_https": "https://pbs.twimg.com/media/D5IAmyzW0AAYICi.png",
+						"url": "https://t.co/czeq1jANQ0",
+						"display_url": "pic.twitter.com/czeq1jANQ0",
+						"expanded_url": "https://twitter.com/Clipart1994bot/status/1121959924592992259/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 138,
+								"h": 309,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 138,
+								"h": 309,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 138,
+								"h": 138,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 138,
+								"h": 309,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.samplereality.com\" rel=\"nofollow\">1994 Clipart Bot</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 895426242345873400,
+				"id_str": "895426242345873408",
+				"name": "Corel Gallery 1994",
+				"screen_name": "Clipart1994bot",
+				"location": "On a CD-ROM",
+				"description": "Power up your Windows 95 and enjoy these 10,000 clipart images from 1994! Content warning: may contain offensive stereotypes. A bot by @samplereality.",
+				"url": "https://t.co/jzW78xvpbC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jzW78xvpbC",
+								"expanded_url": "http://www.samplereality.com",
+								"display_url": "samplereality.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12689,
+				"friends_count": 0,
+				"listed_count": 156,
+				"created_at": "Wed Aug 09 23:27:07 +0000 2017",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13792,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/895428157284786177/_GyD72-__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/895428157284786177/_GyD72-__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/895426242345873408/1502333534",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "tl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@PatricioBoyer https://t.co/V0SQ6JHqPu"
+	},
+	{
+		"created_at": "Sat Apr 27 03:22:47 +0000 2019",
+		"id": 1121977967981334500,
+		"id_str": "1121977967981334529",
+		"full_text": "Proto-emoji https://t.co/k2dkzC3QSc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/k2dkzC3QSc",
+					"expanded_url": "https://twitter.com/Clipart1994bot/status/1121975031121072128",
+					"display_url": "twitter.com/Clipart1994bot…",
+					"indices": [
+						12,
+						35
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "",
+			"description": "I find myself growing grim about the mouth. It's high time to get to sea.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8977,
+			"friends_count": 1136,
+			"listed_count": 0,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41980,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1121953602849976320/5v44c5mh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1121953602849976320/5v44c5mh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1556292238",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1121975031121072100,
+		"quoted_status_id_str": "1121975031121072128",
+		"quoted_status_permalink": {
+			"url": "https://t.co/k2dkzC3QSc",
+			"expanded": "https://twitter.com/Clipart1994bot/status/1121975031121072128",
+			"display": "twitter.com/Clipart1994bot…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 27 03:11:07 +0000 2019",
+			"id": 1121975031121072100,
+			"id_str": "1121975031121072128",
+			"full_text": "GOODPEAC.BMF https://t.co/65GOpdzqwN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				12
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1121975029715980300,
+						"id_str": "1121975029715980288",
+						"indices": [
+							13,
+							36
+						],
+						"media_url": "http://pbs.twimg.com/media/D5IOWFUUUAAv5sx.png",
+						"media_url_https": "https://pbs.twimg.com/media/D5IOWFUUUAAv5sx.png",
+						"url": "https://t.co/65GOpdzqwN",
+						"display_url": "pic.twitter.com/65GOpdzqwN",
+						"expanded_url": "https://twitter.com/Clipart1994bot/status/1121975031121072128/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 565,
+								"h": 673,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 565,
+								"h": 673,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 565,
+								"h": 673,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1121975029715980300,
+						"id_str": "1121975029715980288",
+						"indices": [
+							13,
+							36
+						],
+						"media_url": "http://pbs.twimg.com/media/D5IOWFUUUAAv5sx.png",
+						"media_url_https": "https://pbs.twimg.com/media/D5IOWFUUUAAv5sx.png",
+						"url": "https://t.co/65GOpdzqwN",
+						"display_url": "pic.twitter.com/65GOpdzqwN",
+						"expanded_url": "https://twitter.com/Clipart1994bot/status/1121975031121072128/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 565,
+								"h": 673,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 565,
+								"h": 673,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 565,
+								"h": 673,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.samplereality.com\" rel=\"nofollow\">1994 Clipart Bot</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 895426242345873400,
+				"id_str": "895426242345873408",
+				"name": "Corel Gallery 1994",
+				"screen_name": "Clipart1994bot",
+				"location": "On a CD-ROM",
+				"description": "Power up your Windows 95 and enjoy these 10,000 clipart images from 1994! Content warning: may contain offensive stereotypes. A bot by @samplereality.",
+				"url": "https://t.co/jzW78xvpbC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jzW78xvpbC",
+								"expanded_url": "http://www.samplereality.com",
+								"display_url": "samplereality.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12689,
+				"friends_count": 0,
+				"listed_count": 156,
+				"created_at": "Wed Aug 09 23:27:07 +0000 2017",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13792,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/895428157284786177/_GyD72-__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/895428157284786177/_GyD72-__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/895426242345873408/1502333534",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 28,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "es",
+		"text": "Proto-emoji https://t.co/k2dkzC3QSc"
+	},
+	{
+		"created_at": "Sat Apr 27 02:25:36 +0000 2019",
+		"id": 1121963575793410000,
+		"id_str": "1121963575793410048",
+		"full_text": "I was dictating some notes about curricular pathways for DH, and Siri understood “digitally inflected” as “digitally inflicted.”",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "",
+			"description": "I find myself growing grim about the mouth. It's high time to get to sea.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8977,
+			"friends_count": 1136,
+			"listed_count": 0,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41980,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1121953602849976320/5v44c5mh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1121953602849976320/5v44c5mh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1556292238",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I was dictating some notes about curricular pathways for DH, and Siri understood “digitally inflected” as “digitally inflicted.”"
+	},
+	{
+		"created_at": "Fri Apr 26 19:30:18 +0000 2019",
+		"id": 1121859063518724100,
+		"id_str": "1121859063518724096",
+		"full_text": "Puppies aren’t just for kids. My parents are in their late 70s and just got this new puppy, and they are positively giddy. https://t.co/LEE65AT5NZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1121859059987157000,
+					"id_str": "1121859059987156994",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/D5Gk3waWkAIMNpL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5Gk3waWkAIMNpL.jpg",
+					"url": "https://t.co/LEE65AT5NZ",
+					"display_url": "pic.twitter.com/LEE65AT5NZ",
+					"expanded_url": "https://twitter.com/samplereality/status/1121859063518724096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 947,
+							"h": 1034,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 947,
+							"h": 1034,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 623,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1121859059987157000,
+					"id_str": "1121859059987156994",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/D5Gk3waWkAIMNpL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5Gk3waWkAIMNpL.jpg",
+					"url": "https://t.co/LEE65AT5NZ",
+					"display_url": "pic.twitter.com/LEE65AT5NZ",
+					"expanded_url": "https://twitter.com/samplereality/status/1121859063518724096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 947,
+							"h": 1034,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 947,
+							"h": 1034,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 623,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "",
+			"description": "I find myself growing grim about the mouth. It's high time to get to sea.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8977,
+			"friends_count": 1136,
+			"listed_count": 0,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41980,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1121953602849976320/5v44c5mh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1121953602849976320/5v44c5mh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1556292238",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Puppies aren’t just for kids. My parents are in their late 70s and just got this new puppy, and they are positively giddy. https://t.co/LEE65AT5NZ"
+	},
+	{
+		"created_at": "Fri Apr 26 17:37:58 +0000 2019",
+		"id": 1121830795080077300,
+		"id_str": "1121830795080077325",
+		"full_text": "When you ✋ quit 🤚 Instagram, your account becomes an endsta.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "",
+			"description": "I find myself growing grim about the mouth. It's high time to get to sea.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8977,
+			"friends_count": 1136,
+			"listed_count": 0,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41980,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1121953602849976320/5v44c5mh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1121953602849976320/5v44c5mh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1556292238",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "When you ✋ quit 🤚 Instagram, your account becomes an endsta."
+	},
+	{
+		"created_at": "Fri Apr 26 17:35:27 +0000 2019",
+		"id": 1121830160939069400,
+		"id_str": "1121830160939069440",
+		"full_text": "Wearing my lucky shirt, which has appeared in every online course I've been a part of. This course is more like a short workshop. It is notably *not* a w̢̧͇̩͇͈̯̫̮̗̞̽ͮ͌ͦͧ̈̓ͣ͠e͍̥̝͋ͪͪͤ̓̎̈̎͘b̴̤̥̥̼̤̭̘͕͉̾̂ͭ͆̅͠i͔̮̩̳̬̬̼ͧ̓̎̕͜ň̖͔̗͕͇̮̾ͧ͠a̩͓͛̓̌ͦ͐̓̅̚͡r̟͉̩͍̱̠͚̺̊ͧ̌̌ https://t.co/DyIXsv5Xon",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DyIXsv5Xon",
+					"expanded_url": "https://twitter.com/daniellynds/status/1120791561720217604",
+					"display_url": "twitter.com/daniellynds/st…",
+					"indices": [
+						252,
+						275
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "",
+			"description": "I find myself growing grim about the mouth. It's high time to get to sea.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8977,
+			"friends_count": 1136,
+			"listed_count": 0,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41980,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1121953602849976320/5v44c5mh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1121953602849976320/5v44c5mh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1556292238",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1120791561720217600,
+		"quoted_status_id_str": "1120791561720217604",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DyIXsv5Xon",
+			"expanded": "https://twitter.com/daniellynds/status/1120791561720217604",
+			"display": "twitter.com/daniellynds/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 23 20:48:26 +0000 2019",
+			"id": 1120791561720217600,
+			"id_str": "1120791561720217604",
+			"full_text": "Teaser image from ⁦@samplereality⁩ promo video for next week’s awesome #mememooc mini course from ⁦@DavidsonNow⁩ ⁦@DavidsonCollege⁩ - go register now my lovely tweeps\n\nhttps://t.co/pnzCUCaCmt \n\n#highered #MOOC #Memes #meme #liberalarts #memeapalooza #mememaking https://t.co/SQuTo8ePOb",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				261
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "mememooc",
+						"indices": [
+							71,
+							80
+						]
+					},
+					{
+						"text": "highered",
+						"indices": [
+							194,
+							203
+						]
+					},
+					{
+						"text": "MOOC",
+						"indices": [
+							204,
+							209
+						]
+					},
+					{
+						"text": "Memes",
+						"indices": [
+							210,
+							216
+						]
+					},
+					{
+						"text": "meme",
+						"indices": [
+							217,
+							222
+						]
+					},
+					{
+						"text": "liberalarts",
+						"indices": [
+							223,
+							235
+						]
+					},
+					{
+						"text": "memeapalooza",
+						"indices": [
+							236,
+							249
+						]
+					},
+					{
+						"text": "mememaking",
+						"indices": [
+							250,
+							261
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "samplereality",
+						"name": "Mark Sample",
+						"id": 8497292,
+						"id_str": "8497292",
+						"indices": [
+							19,
+							33
+						]
+					},
+					{
+						"screen_name": "DavidsonNow",
+						"name": "Davidson Now",
+						"id": 791012262999887900,
+						"id_str": "791012262999887873",
+						"indices": [
+							99,
+							111
+						]
+					},
+					{
+						"screen_name": "DavidsonCollege",
+						"name": "Davidson College",
+						"id": 353477625,
+						"id_str": "353477625",
+						"indices": [
+							114,
+							130
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/pnzCUCaCmt",
+						"expanded_url": "http://davidsonnow.davidson.edu",
+						"display_url": "davidsonnow.davidson.edu",
+						"indices": [
+							168,
+							191
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1120791557735616500,
+						"id_str": "1120791557735616512",
+						"indices": [
+							262,
+							285
+						],
+						"media_url": "http://pbs.twimg.com/media/D43Z-8oWkAAJxk6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D43Z-8oWkAAJxk6.jpg",
+						"url": "https://t.co/SQuTo8ePOb",
+						"display_url": "pic.twitter.com/SQuTo8ePOb",
+						"expanded_url": "https://twitter.com/daniellynds/status/1120791561720217604/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1152,
+								"h": 654,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 386,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1152,
+								"h": 654,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1120791557735616500,
+						"id_str": "1120791557735616512",
+						"indices": [
+							262,
+							285
+						],
+						"media_url": "http://pbs.twimg.com/media/D43Z-8oWkAAJxk6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D43Z-8oWkAAJxk6.jpg",
+						"url": "https://t.co/SQuTo8ePOb",
+						"display_url": "pic.twitter.com/SQuTo8ePOb",
+						"expanded_url": "https://twitter.com/daniellynds/status/1120791561720217604/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1152,
+								"h": 654,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 386,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1152,
+								"h": 654,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12069412,
+				"id_str": "12069412",
+				"name": "Daniel Lynds",
+				"screen_name": "daniellynds",
+				"location": "Davidson, NC",
+				"description": "Critical Instructional Design ⊙ Collagist ⊙ Editor @hybridped ⊙ Aesthete ⊙ CDN ⊙ #tiedayfriday ⊙ Node of misbehaviour ⊙ opinions = mine ⊙ this isnt normal ⊙ ftw",
+				"url": "https://t.co/N5wJKhfuW1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/N5wJKhfuW1",
+								"expanded_url": "http://instagram.com/lyndscollage",
+								"display_url": "instagram.com/lyndscollage",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1554,
+				"friends_count": 962,
+				"listed_count": 134,
+				"created_at": "Thu Jan 10 13:27:07 +0000 2008",
+				"favourites_count": 5307,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 19506,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1033792840814481408/Qij9AEYV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1033792840814481408/Qij9AEYV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12069412/1534046564",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FAE0AD",
+				"profile_text_color": "126BB8",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Wearing my lucky shirt, which has appeared in every online course I've been a part of. This course is more like a short workshop. It is notably *not* a w̢̧͇̩͇͈̯̫̮̗̞̽ͮ͌ͦͧ̈̓ͣ͠e͍̥̝͋ͪͪͤ̓̎̈̎͘b̴̤̥̥̼̤̭̘͕͉̾̂ͭ͆̅͠i͔̮̩̳̬̬̼ͧ̓̎̕͜ň̖͔̗͕͇̮̾ͧ͠a̩͓͛̓̌ͦ͐̓̅̚͡r̟͉̩͍̱̠͚̺̊ͧ̌̌ https://t.co/DyIXsv5Xon"
+	},
+	{
 		"created_at": "Sun Apr 14 01:29:07 +0000 2019",
 		"id": 1117238318331256800,
 		"id_str": "1117238318331256832",
