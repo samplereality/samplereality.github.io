@@ -1,6 +1,692 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 27 19:49:01 +0000 2019",
+		"id": 1113071142917541900,
+		"id_str": "1122226161730367490",
+		"full_text": "cw: suicidal ideation \n\nit's unsurprisingly hard to talk about wanting to die, but it's even more difficult to express that it both is and isn't as heavy as it sounds. i and so many live with and manage this every day and we should talk about it more. \n\nhttps://t.co/q9fi8Uu5ju",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/q9fi8Uu5ju",
+					"expanded_url": "https://theoutline.com/post/7267/living-with-passive-suicidal-ideation",
+					"display_url": "theoutline.com/post/7267/livi…",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 234837526,
+			"id_str": "234837526",
+			"name": "anna borges",
+			"screen_name": "annabroges",
+			"location": "new york, new york",
+			"description": "writer and editor. mental health. YA nerd. formerly @buzzfeed. book on self-care available for preorder now: https://t.co/mkT83Hxy04 #StillTreading",
+			"url": "https://t.co/vnrPhRGpqi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vnrPhRGpqi",
+							"expanded_url": "http://annaborgeswrites.com",
+							"display_url": "annaborgeswrites.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mkT83Hxy04",
+							"expanded_url": "https://bit.ly/2I0VRKC",
+							"display_url": "bit.ly/2I0VRKC",
+							"indices": [
+								109,
+								132
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 15652,
+			"friends_count": 981,
+			"listed_count": 200,
+			"created_at": "Thu Jan 06 18:01:36 +0000 2011",
+			"favourites_count": 20251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9068,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1097708235224690688/YWUSMe8P_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1097708235224690688/YWUSMe8P_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/234837526/1550549484",
+			"profile_link_color": "B38A80",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16871,
+		"favorite_count": 57595,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "cw: suicidal ideation \n\nit's unsurprisingly hard to talk about wanting to die, but it's even more difficult to express that it both is and isn't as heavy as it sounds. i and so many live with and manage this every day and we should talk about it more. \n\nhttps://t.co/q9fi8Uu5ju"
+	},
+	{
+		"created_at": "Sat Apr 27 19:13:34 +0000 2019",
+		"id": 1122217239531479000,
+		"id_str": "1122217239531479040",
+		"full_text": "Great news, everyone! I'm gonna get my website on the 1st page of G ͦ ͦgl ͤ. 🎆💯🥇 https://t.co/ohGDeMyzMX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1122217237421666300,
+					"id_str": "1122217237421666304",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/D5LqobVWsAA6AbM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5LqobVWsAA6AbM.jpg",
+					"url": "https://t.co/ohGDeMyzMX",
+					"display_url": "pic.twitter.com/ohGDeMyzMX",
+					"expanded_url": "https://twitter.com/samplereality/status/1122217239531479040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 155,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 233,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 233,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1122217237421666300,
+					"id_str": "1122217237421666304",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/D5LqobVWsAA6AbM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5LqobVWsAA6AbM.jpg",
+					"url": "https://t.co/ohGDeMyzMX",
+					"display_url": "pic.twitter.com/ohGDeMyzMX",
+					"expanded_url": "https://twitter.com/samplereality/status/1122217239531479040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 155,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 233,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 233,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "",
+			"description": "I find myself growing grim about the mouth. It's high time to get to sea.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8982,
+			"friends_count": 1137,
+			"listed_count": 525,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41986,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1121953602849976320/5v44c5mh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1121953602849976320/5v44c5mh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1556292238",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great news, everyone! I'm gonna get my website on the 1st page of G ͦ ͦgl ͤ. 🎆💯🥇 https://t.co/ohGDeMyzMX"
+	},
+	{
+		"created_at": "Sat Apr 27 17:00:24 +0000 2019",
+		"id": 1121505736129941500,
+		"id_str": "1122183727734513665",
+		"full_text": "Friends! I made a game! A game about Mina Loy’s Feminist Manifesto! It will go live at its home digital humanities project soon, but in the meantime, play it and let me know if you find any bugs? https://t.co/AeWdPttGkc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AeWdPttGkc",
+					"expanded_url": "https://nonmodernist.github.io/next-lunar-baedeker/",
+					"display_url": "nonmodernist.github.io/next-lunar-bae…",
+					"indices": [
+						196,
+						219
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10258252,
+			"id_str": "10258252",
+			"name": "Alexandra Edwards, PhD",
+			"screen_name": "nonmodernist",
+			"location": "Atlanta, GA",
+			"description": "English professor with 2 Emmys & 2 many feelings. Brittain Postdoc Fellow @GeorgiaTech. Book projects: 'Fanaticism, Yes!' & ‘Hollywood Regionalism.’ she/they.",
+			"url": "https://t.co/EWBlSfrkEo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWBlSfrkEo",
+							"expanded_url": "http://nonmodernist.com/portfolio",
+							"display_url": "nonmodernist.com/portfolio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2490,
+			"friends_count": 667,
+			"listed_count": 138,
+			"created_at": "Wed Nov 14 20:29:00 +0000 2007",
+			"favourites_count": 65753,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49203,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E0A443",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1007721054285033472/GmBBBoMt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1007721054285033472/GmBBBoMt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10258252/1505921853",
+			"profile_link_color": "D4193F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "242248",
+			"profile_text_color": "C9D479",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Friends! I made a game! A game about Mina Loy’s Feminist Manifesto! It will go live at its home digital humanities project soon, but in the meantime, play it and let me know if you find any bugs? https://t.co/AeWdPttGkc"
+	},
+	{
+		"created_at": "Sat Apr 27 16:34:26 +0000 2019",
+		"id": 1122177192472002600,
+		"id_str": "1122177192472002560",
+		"full_text": "@nonmodernist @ErikTheSimpson 🔥🎯🔥",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nonmodernist",
+					"name": "Alexandra Edwards, PhD",
+					"id": 10258252,
+					"id_str": "10258252",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "ErikTheSimpson",
+					"name": "Erik Simpson",
+					"id": 276676907,
+					"id_str": "276676907",
+					"indices": [
+						14,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1122176046877614100,
+		"in_reply_to_status_id_str": "1122176046877614082",
+		"in_reply_to_user_id": 10258252,
+		"in_reply_to_user_id_str": "10258252",
+		"in_reply_to_screen_name": "nonmodernist",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "",
+			"description": "I find myself growing grim about the mouth. It's high time to get to sea.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8982,
+			"friends_count": 1137,
+			"listed_count": 525,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41986,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1121953602849976320/5v44c5mh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1121953602849976320/5v44c5mh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1556292238",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@nonmodernist @ErikTheSimpson 🔥🎯🔥"
+	},
+	{
+		"created_at": "Sat Apr 27 15:14:56 +0000 2019",
+		"id": 1122157185583190000,
+		"id_str": "1122157185583190017",
+		"full_text": "I relate. https://t.co/opHXpuFSqc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1122157178167746600,
+					"id_str": "1122157178167746560",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/D5K0AhLX4AAlf98.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5K0AhLX4AAlf98.jpg",
+					"url": "https://t.co/opHXpuFSqc",
+					"display_url": "pic.twitter.com/opHXpuFSqc",
+					"expanded_url": "https://twitter.com/samplereality/status/1122157185583190017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1122157178167746600,
+					"id_str": "1122157178167746560",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/D5K0AhLX4AAlf98.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5K0AhLX4AAlf98.jpg",
+					"url": "https://t.co/opHXpuFSqc",
+					"display_url": "pic.twitter.com/opHXpuFSqc",
+					"expanded_url": "https://twitter.com/samplereality/status/1122157185583190017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+		"in_reply_to_status_id": 1122156215365177300,
+		"in_reply_to_status_id_str": "1122156215365177344",
+		"in_reply_to_user_id": 8497292,
+		"in_reply_to_user_id_str": "8497292",
+		"in_reply_to_screen_name": "samplereality",
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "",
+			"description": "I find myself growing grim about the mouth. It's high time to get to sea.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8982,
+			"friends_count": 1137,
+			"listed_count": 525,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41986,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1121953602849976320/5v44c5mh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1121953602849976320/5v44c5mh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1556292238",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I relate. https://t.co/opHXpuFSqc"
+	},
+	{
 		"created_at": "Sat Apr 27 03:24:25 +0000 2019",
 		"id": 1121978378750517200,
 		"id_str": "1121978378750517250",
